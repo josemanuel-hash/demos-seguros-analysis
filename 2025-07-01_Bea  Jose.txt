@@ -1,0 +1,919 @@
+================================================================================
+DEMO/REUNIÓN: Bea <> Jose
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 01/07/2025 a las 11:30
+⏱️ Duración: 16.290000915527344 segundos (0.3 minutos)
+👥 Participantes: josemanuel@zoasuite.com,marketing@velezortiz.es, marketing@velezortiz.es
+
+🔑 PALABRAS CLAVE:
+--------------------
+plantillas, WhatsApp, LOPD, presupuestos, PDF, configuración
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. J
+5. o
+6. s
+7. é
+8.  
+9. M
+10. a
+11. n
+12. u
+13. e
+14. l
+15. *
+16. *
+17. 
+
+18. I
+19. n
+20. v
+21. e
+22. s
+23. t
+24. i
+25. g
+26. a
+27. r
+28.  
+29. f
+30. u
+31. n
+32. c
+33. i
+34. o
+35. n
+36. a
+37. l
+38. i
+39. d
+40. a
+41. d
+42.  
+43. p
+44. a
+45. r
+46. a
+47.  
+48. a
+49. d
+50. j
+51. u
+52. n
+53. t
+54. a
+55. r
+56.  
+57. m
+58. ú
+59. l
+60. t
+61. i
+62. p
+63. l
+64. e
+65. s
+66.  
+67. a
+68. r
+69. c
+70. h
+71. i
+72. v
+73. o
+74. s
+75.  
+76. P
+77. D
+78. F
+79.  
+80. e
+81. n
+82.  
+83. p
+84. l
+85. a
+86. n
+87. t
+88. i
+89. l
+90. l
+91. a
+92. s
+93.  
+94. d
+95. e
+96.  
+97. M
+98. e
+99. t
+100. a
+101.  
+102. y
+103.  
+104. e
+105. n
+106. v
+107. i
+108. a
+109. r
+110.  
+111. i
+112. n
+113. f
+114. o
+115. r
+116. m
+117. a
+118. c
+119. i
+120. ó
+121. n
+122.  
+123. p
+124. o
+125. r
+126.  
+127. c
+128. o
+129. r
+130. r
+131. e
+132. o
+133.  
+134. (
+135. 1
+136. 1
+137. :
+138. 4
+139. 4
+140. )
+141. 
+
+142. V
+143. e
+144. r
+145. i
+146. f
+147. i
+148. c
+149. a
+150. r
+151.  
+152. e
+153. l
+154.  
+155. c
+156. a
+157. s
+158. o
+159.  
+160. e
+161. s
+162. p
+163. e
+164. c
+165. í
+166. f
+167. i
+168. c
+169. o
+170.  
+171. d
+172. e
+173.  
+174. G
+175. i
+176. n
+177. é
+178. s
+179.  
+180. M
+181. a
+182. y
+183. o
+184. r
+185.  
+186. j
+187. u
+188. n
+189. t
+190. o
+191.  
+192. c
+193. o
+194. n
+195.  
+196. A
+197. l
+198. e
+199. j
+200. a
+201. n
+202. d
+203. r
+204. o
+205.  
+206. (
+207. 0
+208. 5
+209. :
+210. 2
+211. 9
+212. )
+213. 
+
+214. D
+215. e
+216. s
+217. a
+218. r
+219. r
+220. o
+221. l
+222. l
+223. a
+224. r
+225.  
+226. f
+227. u
+228. n
+229. c
+230. i
+231. o
+232. n
+233. a
+234. l
+235. i
+236. d
+237. a
+238. d
+239.  
+240. p
+241. a
+242. r
+243. a
+244.  
+245. m
+246. o
+247. s
+248. t
+249. r
+250. a
+251. r
+252.  
+253. d
+254. o
+255. c
+256. u
+257. m
+258. e
+259. n
+260. t
+261. o
+262. s
+263.  
+264. g
+265. u
+266. a
+267. r
+268. d
+269. a
+270. d
+271. o
+272. s
+273.  
+274. a
+275. u
+276. t
+277. o
+278. m
+279. á
+280. t
+281. i
+282. c
+283. a
+284. m
+285. e
+286. n
+287. t
+288. e
+289.  
+290. e
+291. n
+292.  
+293. f
+294. i
+295. c
+296. h
+297. a
+298.  
+299. d
+300. e
+301. l
+302.  
+303. c
+304. l
+305. i
+306. e
+307. n
+308. t
+309. e
+310.  
+311. (
+312. 0
+313. 9
+314. :
+315. 5
+316. 5
+317. )
+318. 
+
+319. I
+320. m
+321. p
+322. l
+323. e
+324. m
+325. e
+326. n
+327. t
+328. a
+329. r
+330.  
+331. p
+332. l
+333. a
+334. n
+335. t
+336. i
+337. l
+338. l
+339. a
+340.  
+341. d
+342. e
+343.  
+344. p
+345. r
+346. o
+347. t
+348. e
+349. c
+350. c
+351. i
+352. ó
+353. n
+354.  
+355. a
+356. n
+357. u
+358. l
+359. a
+360. c
+361. i
+362. ó
+363. n
+364.  
+365. L
+366. O
+367. P
+368. D
+369.  
+370. (
+371. 1
+372. 0
+373. :
+374. 0
+375. 8
+376. )
+377. 
+
+378. O
+379. r
+380. g
+381. a
+382. n
+383. i
+384. z
+385. a
+386. r
+387.  
+388. t
+389. a
+390. l
+391. l
+392. e
+393. r
+394.  
+395. d
+396. e
+397.  
+398. p
+399. l
+400. a
+401. n
+402. t
+403. i
+404. l
+405. l
+406. a
+407. s
+408.  
+409. a
+410. v
+411. a
+412. n
+413. z
+414. a
+415. d
+416. a
+417. s
+418.  
+419. p
+420. a
+421. r
+422. a
+423.  
+424. s
+425. e
+426. p
+427. t
+428. i
+429. e
+430. m
+431. b
+432. r
+433. e
+434.  
+435. (
+436. 1
+437. 0
+438. :
+439. 2
+440. 4
+441. )
+442. 
+
+443. 
+
+444. *
+445. *
+446. B
+447. e
+448. a
+449. t
+450. r
+451. i
+452. z
+453. *
+454. *
+455. 
+
+456. I
+457. n
+458. f
+459. o
+460. r
+461. m
+462. a
+463. r
+464.  
+465. a
+466.  
+467. M
+468. a
+469. r
+470. í
+471. a
+472.  
+473. J
+474. e
+475. s
+476. ú
+477. s
+478.  
+479. s
+480. o
+481. b
+482. r
+483. e
+484.  
+485. l
+486. a
+487.  
+488. s
+489. o
+490. l
+491. u
+492. c
+493. i
+494. ó
+495. n
+496.  
+497. d
+498. e
+499. l
+500.  
+501. p
+502. r
+503. o
+504. b
+505. l
+506. e
+507. m
+508. a
+509.  
+510. d
+511. e
+512.  
+513. U
+514. R
+515. L
+516. s
+517.  
+518. c
+519. o
+520. n
+521.  
+522. e
+523. l
+524.  
+525. p
+526. r
+527. o
+528. t
+529. o
+530. c
+531. o
+532. l
+533. o
+534.  
+535. d
+536. e
+537.  
+538. b
+539. a
+540. r
+541. r
+542. a
+543. s
+544.  
+545. (
+546. 0
+547. 4
+548. :
+549. 5
+550. 2
+551. )
+552. 
+
+553. C
+554. o
+555. m
+556. u
+557. n
+558. i
+559. c
+560. a
+561. r
+562.  
+563. a
+564.  
+565. M
+566. a
+567. r
+568. í
+569. a
+570.  
+571. J
+572. e
+573. s
+574. ú
+575. s
+576.  
+577. q
+578. u
+579. e
+580.  
+581. F
+582. r
+583. a
+584. n
+585. c
+586. i
+587. s
+588. c
+589. o
+590.  
+591. M
+592. u
+593. ñ
+594. o
+595. z
+596.  
+597. n
+598. o
+599.  
+600. t
+601. i
+602. e
+603. n
+604. e
+605.  
+606. W
+607. h
+608. a
+609. t
+610. s
+611. A
+612. p
+613. p
+614.  
+615. d
+616. i
+617. s
+618. p
+619. o
+620. n
+621. i
+622. b
+623. l
+624. e
+625.  
+626. (
+627. 0
+628. 9
+629. :
+630. 0
+631. 7
+632. )
+633. 
+
+634. P
+635. e
+636. n
+637. s
+638. a
+639. r
+640.  
+641. e
+642. n
+643.  
+644. n
+645. e
+646. c
+647. e
+648. s
+649. i
+650. d
+651. a
+652. d
+653. e
+654. s
+655.  
+656. d
+657. e
+658.  
+659. m
+660. a
+661. r
+662. k
+663. e
+664. t
+665. i
+666. n
+667. g
+668.  
+669. p
+670. a
+671. r
+672. a
+673.  
+674. e
+675. l
+676.  
+677. p
+678. r
+679. ó
+680. x
+681. i
+682. m
+683. o
+684.  
+685. t
+686. a
+687. l
+688. l
+689. e
+690. r
+691.  
+692. d
+693. e
+694.  
+695. p
+696. l
+697. a
+698. n
+699. t
+700. i
+701. l
+702. l
+703. a
+704. s
+705.  
+706. (
+707. 1
+708. 0
+709. :
+710. 4
+711. 5
+712. )
+713. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[00:01] 0: No, no, no, no. Tú ayer fue claro y empezó a ver cosas. Digo, más cajas, más ropa, más cajas, la cocina, lo otro. Hice ayer tres viajes. Ya no fui. Eso normal que no con el camión, tío. No, no, gracias. Estoy intentando sobrevivir. Me he comido dos plátanos y tirado deja una casa mucho dos entrega que me ha quitado la alarma desde las 6:00 a.m. hasta las 12 y pico que llegué a casa, hice la cama y me levanto a las seis. Y tío, se me bloqueó el iPhone. ¿Eso de no puedes llamar, no sé qué, se reincerá en 1 h. Os ha pasado alguna vez? Tío, pues ayer, digo, como que he dormido, no sé por qué. Se volvió loco, tío. No sé, fue muy raro. No me ha importado.
+
+[01:07] 1: Hola, hola, buenos días. Hola, hola.
+
+[01:10] 0: ¿Qué tal? ¿Cómo estás?
+
+[01:12] 1: Bien, bien. Aquí a ver si podemos resolver cositas.
+
+[01:19] 0: Venga, vamos a darle cositas. ¿Me oyes y me ves bien? Me va un poco lenta el Internet. Vale, vale, muy bien. Pues cositas. Empezamos por el tema de la plantilla.
+
+[01:32] 1: Voy a abrir.
+
+[01:35] 0: Comparte tú. Vale, vale. Yo te voy diciendo cositas.
+
+[01:40] 1: Vale, la ventana está partir. Vale, a ver, se ha roto pestaña. Sí. Mira que si.
+
+[02:13] 0: Esto lo hackeado ya.
+
+[02:19] 1: Madre mía.
+
+[02:20] 0: Ya le meteremos caña un poco a cositas luego ya de botones y cosas así. Pero bueno.
+
+[02:27] 1: Aquí tenemos la plantilla, pero voy a hacer una prueba.
+
+[02:31] 0: ¿Una prueba o a mí? Exacto.
+
+[02:40] 1: Con esa plantilla. ¿Bueno, lo que sea, no? Para firmar. Y aquí, claro, necesito un parámetro.
+
+[02:58] 0: Vale, abre. ¿Esta es la de la lopdr anulación.
+
+[03:04] 1: O cuál es, María Jesús? Este que me envió, que le daba fallo.
+
+[03:11] 0: Vale.
+
+[03:18] 1: Vale, aquí copiar. A ver, voy a abrirlo aquí a ver si no da fallo. Vale, aquí no da fallo.
+
+[03:28] 0: ¿Ves? Ahí no ha fallado. Escucha. Vale, dime ahí. Acuérdate que tienes que pegar en base. Vuelve a la plantilla, porfa.
+
+[03:39] 1: Estoy a la plantilla.
+
+[03:41] 0: No, no, para Plantilla en Business meta. Vale. Plantilla dinámica. Vale, Senda, vete a la URL del sitio web donde pones al lado de dinámica. Eso es. Vete para la derecha firmar. Vale. Justo en la esta. ¿Vale, pues mira, ves? Desde esa barra coge la interrogante token y toda la numeración después es sin el palito. Si el palito está, es sin el palito.
+
+[04:13] 1: Yo les dije palito incluido.
+
+[04:16] 0: Claro, si pones el palito incluido hay doble palito y palito.
+
+[04:21] 1: En la plantilla. Aquí tenemos la plantilla tipo. Vale, pero yo voy a coger el enlace real que era el que estaba haciendo, que es este. Vale. Si no.
+
+[04:32] 0: Lo que te quiero decir es exacto. Muy bien. Eso es, eso es. Perfecto.
+
+[04:38] 1: Vale, a ver si me llega, porque lo estábamos haciendo con el palito Vale, a ver ahora, ahora sí me llega. Vale, voy a decirle a María Jesús.
+
+[04:52] 0: Que acuérdate de que siempre, porque esto lo vamos a poner más veces, necesitamos la raíz, que la raíz es justo la URL, que es la madre que llega hasta un punto y luego cada uno de los clientes tendrá un tipo de numeración. Entonces, en base a esa raíz es copiar, pegar y solamente desde el palito, sin el palito interrogante y para adelante.
+
+[05:12] 1: ¿Vale? Vale, pues entonces eso Vale, eso, check. Voy a abrir más cosas que tenía por aquí. Vale, lo de las el chat este, por ejemplo, que.
+
+[05:29] 0: A lo de Ginés, eso lo estaba mirando Alejandro también para ver.
+
+[05:34] 1: Llegan con un check. Voy a ver si porque María Jesús me ha dicho que le pasaba más a ella. María Jesús, a ver si hay alguno por aquí.
+
+[05:48] 0: ¿Era Ginés Mayor, verdad?
+
+[05:49] 1: Sí, pero a ver, es que me dice me ha pasado con alguno más.
+
+[05:54] 0: Vale.
+
+[05:57] 1: Pero yo aquí no encuentro ninguno más. Bueno, tenemos la referencia de ese contacto porque le escriben por el móvil y sí que llegan. ¿Mira, y esto era que no llegaba.
+
+[06:09] 0: Tampoco nos lo hemos apuntado para.
+
+[06:18] 1: Voy dónde?
+
+[06:19] 0: Vete a donde pone arriba Francisco Muñoz. Clica. ¿Veis el teléfono? Le sobra uno, creo.
+
+[06:35] 1: ¿No, no, le sobra 39.
+
+[06:38] 0: Celofer, le has mandado tú un WhatsApp?
+
+[06:50] 1: Yo no, ha sido María Jesús. Pero ven, no les.
+
+[06:58] 0: Vale, no te preocupes. Ponme otra vez el número, porfa. Sí, sí. Ponme el número otra vez, por favor. El de Francisco. Vuelve a clicar donde acabamos de clicar. Quita el cursor por falta no veo ahí. Soy yo, soy yo. Este lo tenía. Sí, lo tenía aquí. Este ya lo había mirado yo.
+
+[07:48] 1: 1 s voy a abrir un momento.
+
+[07:51] 0: Sí, sí, tranqui, tranqui, no te preocupes. ¿No ves? Este no tiene WhatsApp. Sí, gracias, tío. Voy a hacer el Tinder. Me gusta, me gusta, me gusta. Bambel también funciona bien. Es la de Claro, la mujer del de Tinder se divorció de él y montó otra, que es donde empodera a las mujeres. Yo me iré soltero y funcionó bien.
+
+[08:53] 1: Vale, perdona.
+
+[08:54] 0: Sí, vale, he comprobado el teléfono y no tiene WhatsApp.
+
+[09:00] 1: No tiene WhatsApp.
+
+[09:01] 0: Vale, compruébalo tú si quieres, pero yo he intentado mandar a un WhatsApp y pone invitar.
+
+[09:07] 1: ¿Vale, entonces esto se lo voy diciendo, vale?
+
+[09:13] 0: Por eso ya te digo que hay cosas que, por ejemplo, Ginés, lo vamos a verificar, pero los demás que yo ya he comprobado, varios de estos que te daban warning, es porque no tienen WhatsApp. Entonces lo que hacemos a nivel de protocolo es Oye, le llamamos por teléfono porque es una persona mayor que no tiene WhatsApp, verificamos que utiliza WhatsApp o cuál es lo que prefiere y ya está.
+
+[09:38] 1: Vale, y Temazoa, tenemos la plantilla, el caso de Ginés mayor, que ya lo veremos, configuración, ficha del cliente. Bueno, dijiste que lo ibas a desarrollar para que aparecieran todos los documentos, como hemos visto aquí. Mira, por ejemplo.
+
+[09:55] 0: Eso es que esos documentos se vayan guardando luego.
+
+[09:58] 1: Exacto, que se vayan guardando ahí y ya está. Lo que nos quedó pendiente era la plantilla de protección anulación, que era la que más usan ella.
+
+[10:08] 0: ¿Vale? Y les va bien. ¿Ahora cuando lo vayan utilizando, alguna otra de LOPD, alguna otra plantilla que veáis?
+
+[10:17] 1: Las plantillas que creamos todas les funciona.
+
+[10:24] 0: Por ejemplo, si quieres luego haremos un taller, yo creo que igual ya casi en septiembre, de otras plantillas con diferentes botones para que también podamos hacer otras opciones, cuestionarios. Si quieres tú a nivel de marketing, ve pensando también algunas necesidades que tengas y le vamos dando otra vueltita de tuerca.
+
+[10:45] 1: Vale, le creé porque había una que decía para envío de presupuestos, que por ejemplo, si lo creas con el Merlín, el presupuesto es un PDF por compañía. Si lo creas por el broker, te lo pone todo en un mismo PDF. Claro, enviar diferentes plantillas con hola, hola, te envío. Entonces les creé una plantilla nueva con por aquí te envío el documento y ya pueden adjuntar. Pero claro, tienen que enviar tres plantillas o dos plantillas para enviar un PDF. Lo suyo sería una plantilla que pueda juntar diferentes PDF, documentos. Sí, pero bueno, esto como es de meta, no sé si eso es posible.
+
+[11:32] 0: Búscalo, plantillas para juntar varios PDF. ¿Te lo puedo mirar, pero creo que.
+
+[11:41] 1: Sí, que se podía, que no se podía, no?
+
+[11:44] 0: En añadir. Déjame mirarte, me lo apunto para mirártelo y te mando un correo luego.
+
+[11:51] 1: Porque mira, por ejemplo, cuando lo estoy creando pone Arrastra, suelta un archivo para subirlo o elige archivos de tu dispositivo. Dice Elige archivos. Es que debe ser.
+
+[12:06] 0: Claro, tú puedes elegir diferentes archivos. Haz una pruebita tú a ver cómo te va.
+
+[12:16] 1: No me deja más la vista previa sigue.
+
+[12:25] 0: No, pero luego aparece la vista previa. Pero luego aparece en este, creo. Vete a muestra de contenido multimedia, por favor.
+
+[12:32] 1: ¿Ay, dónde me voy? Ahí. ¿Dónde está eso?
+
+[12:36] 0: A la derecha, derecha, derecha, donde le acabas de dar. Donde acabas de dar documento, tipo de contenido. Vale, documento. Vale, déjame echarle un vistazo y te digo. La idea es que des tu plantilla con diferentes pdfs.
+
+[12:54] 1: Sí.
+
+[12:58] 0: Una plantilla con esos PDF. ¿Porque son siempre los mismos PDF.
+
+[13:03] 1: No?
+
+[13:04] 0: ¿O son diferentes por cada usuario?
+
+[13:06] 1: Son diferentes porque son presupuestos diferentes para cada cliente.
+
+[13:12] 0: Vale, porque cada uno de broker es un tipo y de merlin es otro tipo.
+
+[13:20] 1: Claro, son PDF igual, vale, archivo PDF, solo que ebroker te une todos los presupuestos en un único PDF y merlin saca un presupuesto por compañía.
+
+[13:34] 0: Por compañía. ¿Y cuál soléis utilizar más, broker o merlín para mandar esos presupuestos? Usa los dos, los dos me refiero, pero a la hora que te adjunta un presupuesto te hace los tres diferentes. Estaba pensando la forma y adjuntarlos desde la propio WhatsApp, con el móvil o con la plataforma.
+
+[14:10] 1: ¿A ver, una vez que me ha contestado, sabes? Para evitar también un poco.
+
+[14:23] 0: Vete a tu perfil, contéstate a ti para que se desbloque.
+
+[14:40] 1: Vale, y ahora.
+
+[14:52] 0: Tendrá que llegar a ti ya si tú has contestado.
+
+[15:02] 1: Sí, he contestado, pero es que esto a veces no llega, lo que no, no llega, no llega. Voy a actualizar esto a veces también.
+
+[15:35] 0: Ok, no, esto lo hemos reducido bastante para verlo. Entonces ya lo tengas reducido, verás. Vale, pues déjame si quieres mirar los múltiples archivos y te digo.
+
+[15:48] 1: Vale, vale, vale, venga.
+
+[15:53] 0: Y repaso esto que te llegue, lo miro también.
+
+[15:56] 1: Vale, vale, venga, gracias a ti.
+
+[16:00] 0: Ve a cualquier cosita, me mandas un correo.
+
+[16:02] 1: Vale, gracias, chao, chao.
+
+[16:04] 0: Venga, buen día. Adiós.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:55
+================================================================================

@@ -1,0 +1,420 @@
+================================================================================
+DEMO/REUNIÓN: Entrevista con Joan - Zoa Suite tech
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 05/09/2025 a las 16:30
+⏱️ Duración: 28.760000228881836 segundos (0.5 minutos)
+👥 Participantes: josemanuel@zoasuite.com,joanbeltranperis@gmail.com,alejandro@zoasuite.com, joanbeltranperis@gmail.com, alejandro@zoasuite.com
+
+🔑 PALABRAS CLAVE:
+--------------------
+Inteligencia artificial, APIs terceros, LangChain, corredurías seguros, microservicios, Lanzadera
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. J
+5. o
+6. s
+7. é
+8.  
+9. M
+10. a
+11. n
+12. u
+13. e
+14. l
+15.  
+16. A
+17. u
+18. s
+19. i
+20. n
+21. *
+22. *
+23. 
+
+24. C
+25. o
+26. m
+27. u
+28. n
+29. i
+30. c
+31. a
+32. r
+33.  
+34. f
+35. e
+36. e
+37. d
+38. b
+39. a
+40. c
+41. k
+42.  
+43. y
+44.  
+45. d
+46. e
+47. c
+48. i
+49. s
+50. i
+51. ó
+52. n
+53.  
+54. s
+55. o
+56. b
+57. r
+58. e
+59.  
+60. l
+61. a
+62.  
+63. c
+64. a
+65. n
+66. d
+67. i
+68. d
+69. a
+70. t
+71. u
+72. r
+73. a
+74.  
+75. d
+76. e
+77.  
+78. J
+79. o
+80. a
+81. n
+82.  
+83. l
+84. a
+85.  
+86. p
+87. r
+88. ó
+89. x
+90. i
+91. m
+92. a
+93.  
+94. s
+95. e
+96. m
+97. a
+98. n
+99. a
+100.  
+101. (
+102. a
+103.  
+104. m
+105. e
+106. d
+107. i
+108. a
+109. d
+110. o
+111. s
+112.  
+113. d
+114. e
+115.  
+116. s
+117. e
+118. m
+119. a
+120. n
+121. a
+122. )
+123.  
+124. v
+125. í
+126. a
+127.  
+128. L
+129. i
+130. n
+131. k
+132. e
+133. d
+134. I
+135. n
+136.  
+137. o
+138.  
+139. c
+140. o
+141. r
+142. r
+143. e
+144. o
+145.  
+146. e
+147. l
+148. e
+149. c
+150. t
+151. r
+152. ó
+153. n
+154. i
+155. c
+156. o
+157.  
+158. (
+159. 2
+160. 7
+161. :
+162. 3
+163. 4
+164. )
+165. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[00:01] 0: El otro no sé quién era.
+
+[00:03] 1: Pues tres minutos tarde. Pues el otro es.
+
+[00:13] 0: Buenas. Hola Joan, ¿Qué tal?
+
+[00:17] 1: Buenas tardes. Buenas tardes. ¿Me escucháis bien? Sí, perfectamente. Perfecto. Genial.
+
+[00:23] 0: Nada, oye, primero de todo, muchas gracias también por la rapidez y la incorporación.
+
+[00:30] 1: Que has tenido porque sí que es.
+
+[00:32] 0: De verdad que estamos ahora toda la.
+
+[00:33] 1: Tarde haciendo entrevistas, agradecerte eso.
+
+[00:37] 0: Y luego pues nada, la idea un poco es conocernos ahora un poquito, no sé si has podido ver un poquito.
+
+[00:44] 1: Nuestro perfil de ZOA. Sí, he estado viendo el perfil de LinkedIn, la web, un poco todo lo que hacéis, le he echado un buen ojo.
+
+[00:54] 0: Alfredo no dice que la hago esta caída.
+
+[00:56] 1: No, no.
+
+[00:58] 0: Y Joan, coméntanos tú qué has entendido.
+
+[01:01] 1: De qué hacemos, o sea, lo que he entendido, si estoy equivocado corregirme, pero sois una especie de CRM, una especie de plataforma que lo que hacéis es intentar integrar las bandejas de entrada.
+
+[01:21] 0: De.
+
+[01:21] 1: Distintas redes sociales o medios de comunicación para hacer a las empresas la gestión de correduría más fácil y más llevadera.
+
+[01:36] 0: Más o menos. Ya estaba diciendo, tenemos que cambiar la web. Está muy bien, muy bien, genial, correcto, más o menos indicado. Ahora te comentamos un poco más en particular lo que hacemos, sobre todo presentarte.
+
+[01:47] 1: Bueno, yo soy José Manuel y él.
+
+[01:49] 0: Es Alejandro, los dos somos socios y fundadores de ZOA y yo llevo más la parte de marketing y de ventas, lleva más también la parte técnica.
+
+[02:00] 1: Entonces, sobre todo esta entrevista es para encontrar la mano derecha de Alejandro y.
+
+[02:07] 0: Que también nos comentes un poco tú.
+
+[02:09] 1: Si quieres, tu experiencia, historial y cosas que estén relacionadas con lo que has.
+
+[02:14] 0: Visto, la página web y sobre todo de cosas que hayas hecho o de cosas que te gustaría hacer, un poco también que nos cuentes qué es lo que te motiva, qué es lo que te encantaría, sobre qué te gustaría trabajar.
+
+[02:27] 1: ¿Vale? Claro. Pues si queréis os cuento un poco más de background. Yo el año pasado Lanzadera lo conozco muy bien, he estado todo el año en. No sé si os suena, Ruiz, Luis Grau, no sé si sabes quién es.
+
+[02:40] 0: Es.
+
+[02:44] 1: Una herramienta para ayudar a revendedores de segunda mano para centralizar toda la gestión de publicación de anuncios en plataformas de venta de segunda mano.
+
+[02:57] 0: De cualquier cosa.
+
+[02:58] 1: De cualquier cosa.
+
+[02:59] 0: Ah, pues no sé quién es el dueño.
+
+[03:03] 1: Luis Grau.
+
+[03:04] 0: No, no sé cuál es.
+
+[03:07] 1: Bueno, yo creo que me suena porque hicieron algo. Vale, creo que simplemente por comentaros que lanzaera, lo conozco bien y eso. Y básicamente pues lo que hacía y lo que más experiencia tengo, pues era tema de integración con APIs de terceros, pues con Wallapop, Vinted, Mil Anuncios, todo eso lo tengo muy muy masticado. Y en cuanto a lo que me habéis preguntado de en qué me gustaría trabajar, lo que más me ha destacado del anuncio y lo que más me gusta es sobre todo temas de IA e integración con IA. Hace nada he estado trabajando, bueno, terminando el TFG el año pasado, en un sistema RAG de Retrieval Augmented Generation, y el intentar aplicar eso, la IA, a distintos ámbitos, en ese caso era a preguntas de inmunización pediátrica, pero también al tema empresarial, es algo que me llama bastante la atención y me interesa, creo que es algo de futuro que hay que ponerse con ello.
+
+[04:16] 0: Lo que comentas es que así que has hecho temas de agentes y el agente que has hecho era tema pediátrico ¿Y qué hacía exactamente ese agente?
+
+[04:26] 1: Era un QIA, o sea, responder preguntas basándose en el manual de vacunación de la EP, simplemente para tener una fuente de conocimiento cerrada y poder.
+
+[04:41] 0: Montaste más o menos un poco, si me puedes describir el stack.
+
+[04:46] 1: Sí, era básicamente. Al final acabé gastando un framework LangChain y básicamente era más. El trabajo era más por investigar la estructura y la arquitectura de implementación. Tampoco tenía mucha chicha en sí, más que montar los distintos componentes, elegir los modelos de embedding que toca, conectarlo, hacer pruebas con distintos modelos generadores, pero básicamente era un pipeline de lanchain y ya está.
+
+[05:21] 0: ¿Hiciste código directamente en lanchain o utilizaste algo tipo Flow o alguna plataforma que ya facilita el uso de lanchain?
+
+[05:28] 1: No, directamente en Lens y en Python. Sí, todo Python.
+
+[05:42] 0: Y luego parte de agentes, temas de programación, entiendo que sabes programar Python, ¿No? Qué es un poco lo que a ti más te gusta. Lo que más te gustaría, por lo que me acabas de decir ahora, sería como hacer agentes y trabajar en hacer agentes. Eso es lo que más te motivaría, Entiendo.
+
+[06:00] 1: Sí, o también, por ejemplo, me gusta lo que he estado haciendo todo este año, que es integrar cosas, integrarse con APIs de terceros, todo ese tema lo tengo muy mascado y también es algo que me gusta.
+
+[06:17] 0: ¿Y temas de servidores, Azure AWS, Google Cloud, ¿Has utilizado algo o no de servidores?
+
+[06:25] 1: Es lo que diría mi punto más flojo de AWS y de Google Cloud, de eso no he tocado prácticamente nada porque lo que teníamos era un VPS y hacíamos ahí todo el deploy manual y tal.
+
+[06:40] 0: ¿Informarte y tener conocimiento de la arquitectura y poder llevar a saber hacer, poder gestionar arquitectura o no, o es una parte que te gustaría menos?
+
+[06:51] 1: No, yo eso es algo que me vería capaz y que sí que es algo que precisamente por. Porque es de las cosas que peor llevo y que menos metido estoy, sí que es algo que me gustaría meterle caña y aprender, no tendría ningún problema.
+
+[07:09] 0: Porque tú también lo tengas en cuenta. También es mi punto débil, pero nosotros lo bueno de estar en Lanzadera es que tenemos apoyo de Google, tenemos mucha formación accesible, fácil, Lo malo mío es que no tengo tiempo y por eso necesitar contratar gente es uno de los puntos, es el punto más débil que tengo. El resto voy bastante bien, pero también por ejemplo tenemos aquí ayuda y por eso el hecho de que yo sí que necesito y voy a hacer cosas. Si tú también es una parte que. Porque sí que es verdad que a lo mejor muchos programadores que dicen no, yo me dedico a programar y toda la parte de arquitectura está ahí, de arquitectura y que se encarguen, no sé si ahí esa parte a ti te motivaría también un poco aprender y poder llevar a saber hacer arquitectura y gestionarla o no. Dices, yo prefiero temas de programación.
+
+[08:08] 1: No, no, a mí sí que me gustaría, me gusta también picar códigos, algo pues que lo hago porque me gusta, pero también temas de arquitectura y de cloud es algo que quiero ponerme en algún momento y vamos, si es algo que es necesario, por mí ideal no tendría ningún problema.
+
+[08:30] 0: Tema cloud, tema de agentes y luego tema de. Por ejemplo, nosotros tenemos un programa que vendemos que eso, tenemos un equipo de programación que en su totalidad prácticamente está externalizado y un poco también la idea que llevamos es empezar a. Porque digamos que hemos ido durante estos dos años construyendo el MVP, el mínimo producto viable con un equipo externo y ya ha llegado el momento en que ya hemos definido, ya sabemos qué problemas resolvemos, ya sabemos quiénes son nuestros clientes, ya sabemos qué es lo que necesitan y digamos que ese producto mínimo viable nos queda dos meses más o menos para alcanzar hasta esto es lo que finalmente se necesita y con lo que podemos empezar a pillar a muchos clientes en paralelo, este equipo va a seguir manteniendo esa versión antigua, pero de cara al año siguiente tenemos que empezar a crear el producto ya final con todo el conocimiento que hemos adquirido del primero. Y ahí ya con temas de, no sé si has utilizado Cursor, con una metodología más de hacernos nuestros propios agentes para que vayan haciendo código y nosotros seamos más supervisores, más orquestadores y poder incluso hacer agentes que se encarguen de deployar, de buscar bugs y demás. Porque una de las cosas también importantes, no sé si has hecho algo así, es tener un producto y que te digan el cliente oye, que esto no me va, oye, necesitaría esto. Y entonces ahí llega un problema y hay que decir, vale, primero si es un problema que ya existe, ponerse a pelearse con el programa para intentar encontrar por dónde viene el problema un poco más de debuguear y ya mirar a dar alguna solución o si es incluso alguna mejora, pues ponerse mucho en la cabeza de cómo va a ser nuestro cliente final, cómo lo va a usar para intentar sacar una solución que a él en su día a día le resulte fácil. Nosotros, la obsesión de nuestro producto es que siempre tiene que ser súper fácil y es una de las cosas que en todas las reuniones de venta nos lo dicen, están acostumbrados a programas farragosos que no se entienden y nuestro les parece bastante sencillo. Entonces siempre hay que ir desde ese punto. No sé si ahí en cuanto un poco esto que te comento, ¿Has tenido una experiencia previa de buscar problemas y resolverlos o de pensar mejoras del programa y llevarlas a cabo?
+
+[11:07] 1: Sí, eso de hecho era una cosa bastante constante y a mí me parece de lo más difícil y algo que hasta que no estás metido ahí no lo ves. Eso clientes o usuarios que te reportan ciertos problemas o te sugieren algunas mejoras y que tienes que pensar mucho, gastar mucho la cabeza para ver si realmente lo que te están pidiendo es algo que va a tener utilidad futura, si es algo que quieres incorporar en tu producto final. Y precisamente también el hacer que la experiencia de usuario sea lo más sencilla posible y que no sea complicada ni farragosa, porque sí que había muchas veces que para desarrollar, por ejemplo, lo último que acabé desarrollando cuando estaba en Ruiz, era el proceso de importar productos de varias plataformas de segunda mano y que no es algo sencillo a priori. Entonces sí que en eso estoy completamente de acuerdo, en que hay que sentarse a pensar y ver la manera de hacerlo lo más sencillo posible, porque si no es que se va de las manos muy fácil.
+
+[12:26] 0: Nosotros ahora la forma de trabajar que tenemos es que esa fase de intentar al cliente y buscar posibles soluciones la hacemos, en este caso lo hago yo, pero en este caso también lo harías tú, y un poco luego especificamos para que luego el equipo de desarrollo lo haga, pero dependiendo de la velocidad que se necesite. Muchas veces no podemos esperar a que el equipo de desarrollo del producto lo haga y buscamos alternativas tipo microservicios, tipo automatizaciones. Mm. Que no, Si te suena MN M.
+
+[13:03] 1: No.
+
+[13:06] 0: Make, Zapier, alguna de estas ¿Te suena o no?
+
+[13:08] 1: Sí, ahora sí.
+
+[13:09] 0: Sí, puede ser tipo Make, pero en opensocks, que allí realmente al final tienes que hacer la lógica que has pensado rápida, es en plan, vale, esto, este problema que hay que resolverle se puede resolver en el propio producto, pero necesitamos que esté. Al final somos una startup, necesitamos velocidad, todo el rato necesitamos velocidad. No sé, también el hecho de trabajar sobre presión, no sé en Tweet, la presión con la que trabajabas, pero aquí.
+
+[13:36] 1: Vamos muy rápido, no sé si bastante alta.
+
+[13:40] 0: ¿Te motiva, no te motiva? No sé si esa parte es como no, yo prefiero ir más tranquilo, me gusta el ir rápido, me gusta la dirilla.
+
+[13:49] 1: Sí que es verdad que a veces se hace pesado, necesitas, o sea, hay momentos de agobio, pero el hecho de desarrollar rápido y ver cómo va creciendo y vas creando, vas iterando muy muy rápido también es bueno porque vas viendo resultados inmediatos de los cambios que vas haciendo y eso es algo que siempre sienta bien y que sí que es como que tienes una recompensa, no inmediata, pero casi no te quedas estancado en hacer algo muchas semanas. Sí que es algo que me parece bien y es algo que es necesario también.
+
+[14:26] 0: Nuestra parte un poco más esa en la que vemos los problemas, nos ponemos a jugar con el programa, a ver qué es lo que ha visto el cliente, intentar replicar qué es lo que ha visto el cliente y entender el ver qué es el problema le surge a él, ver de qué manera la solucionaríamos. Y entonces ahí ya nos planteamos dos soluciones, es ¿Se tiene que arreglar en producto o podemos nosotros montar un microservicio en una cloud function de Google o podemos montar un NN? Porque lo que premia es que la solución lo tengas y puede ser ese mismo día o al día siguiente o a la semana siguiente. Entonces siempre al final nosotros un poco somos el orquestador y ya en función de la velocidad que se necesite y si es posible nosotros mismos ya aplicamos la solución o especificar lo necesario, incluso con ya código hecho por Claudi o por nosotros mismos mismos, donde ya podamos un poco facilitar al equipo de programación para que lo lleve a cabo lo más rápido posible. Y luego por otro lado, como nosotros al final somos una plataforma de comunicación, tenemos metido inteligencia artificial. Nosotros tenemos inteligencia artificial metida por llamada, metida por WhatsApp, pero actualmente muy básica y aún no es del todo fiable, en plan de hay clientes que nos lo aceptan porque tenemos confianza, pero en otros no me atrevamos ni de coña a metérselo. Entonces al final tenemos que trabajar mucho también ahí en empezar a hacer ya gentes mucho más sólidos, donde tengamos nosotros mucha más capacidad de control sobre ellos y poder de verdad estar seguros de que metemos esa gente en cualquier cliente y no la va a liar.
+
+[16:05] 1: Sí, claro, es que es un tema muy delicado. Entiendo que como empresa, cualquier compañía es algo que van con pies de plomo.
+
+[16:15] 0: Entonces un poco esa sería la dinámica, muy rápido todo y un poco estar recibiendo inputs de los clientes, te van a llegar problemas todo el rato y al final es un poco de no paran de llegar problemas, bueno, vale, ser más proactivos, buscar esa solución y no un poco agobiarse con la cantidad porque puede haber semanas que llegan una barbaridad de problemas.
+
+[16:42] 1: Sí, no, no entiendo, o sea, vengo de una dinámica muy parecida de todas las semanas tener una lista interminable de.
+
+[16:50] 0: Tareas y que siempre está más lento de lo que se quiere.
+
+[16:53] 1: Siempre, sí, siempre, o sea, nunca lo terminas.
+
+[16:58] 0: Vale, Lobo, tema de ¿Tú estás aquí en Valencia? Sí, bueno, si, estamos trabajando en Lanzadero.
+
+[17:03] 1: Sí, estoy en Valencia. Ahora mismo no, pero sobre el 15 de septiembre vuelvo ya.
+
+[17:11] 0: Y tema de presencialidad, ¿Querrías trabajar aquí en Lanzadera o preferirías remoto?
+
+[17:20] 1: A mí lo que más me gustaría sería algo más híbrido, pero de presencialidad no tengo problema, me gusta ir a la oficina, estar ahí, creo que en persona se resuelven mucho mejor los problemas y es más sencillo trabajar, hay menos fricción, pero claro, si también hay la opción de hacer un poco más, hacerlo un poco más híbrido, pues mejor. Pero en el caso de que también sea presencial es algo que me gusta y que lo prefiero en la mayoría de ocasiones, así que no tendría problema.
+
+[17:52] 0: Más que nada porque el tema de presencial es para al final nos tenemos que conocer, tenemos que generar confianza y sobre todo que esté seguro que te digo hoy a y cuando se haya establecido el objetivo, mañana, pasado, la semana siguiente, hasta ahora hecho. Incluso mejor hecho que si lo hubiese hecho yo. Esa confianza se genera más fácil en presencial que en remoto. Y efectivamente, pues ya has suelto por ahí el viernes estoy en mi casa, pues tampoco hay problema. Al final es un poco el generar ese. Básicamente lo que buscamos mucho es José y yo, al final es todo nuestro hijo, estamos muy motivados también queremos que el equipo que vayamos formando alrededor nuestro le guste el proyecto, le guste lo que hace y le motive igual que nos motiva a nosotros y podamos crecer juntos.
+
+[18:48] 1: Sí, completamente de acuerdo. Esa confianza personalmente es como mejor se gana. Y claro, para un proyecto así yo creo que es 100% necesario involucrarse y tener ilusión.
+
+[19:05] 0: Porque al final no a todo el mundo nos tiene que gustar lo mismo.
+
+[19:08] 1: No, no, claro, claro. Hay que buscar gente más afín a.
+
+[19:11] 0: Lo que nos conozcamos, que lo pasamos bien, que trabajemos juntos, que haya una cultura de empresa y que se vaya creciendo y como bien decía Alejandro, que.
+
+[19:18] 1: Vayamos todos creciendo en unas proporciones.
+
+[19:22] 0: Y luego aparte ya sabes cómo es Lanzadera, que aquí al final tienes una vidilla, un ecosistema que nos hace crecer a todos, que aprendemos a generar nueva. Y siempre al final también es que esa motivación, pues hay días que hay que estar en el barro con cosas que no te gustan y otros días que hacer lo que te encanta y hay todo muy rápido, pero hay días que también estás ahí en el barro, que dices no salgo de aquí, no hay manera, pero.
+
+[19:47] 1: Hay de todo. Es eso, el echarle ganas. Pero al final lo que habéis dicho, si tienes ilusión en el proyecto, pues esos días siempre se te hacen un poco menos duros.
+
+[19:58] 0: Al final también pues tienes a otro lado que también está remando.
+
+[20:04] 1: No voy a hacer menos. Genial, totalmente.
+
+[20:09] 0: ¿Tienes alguna duda?
+
+[20:10] 1: ¿Tú dudas? Pues más que nada, pues si me podéis contar muy resumidamente como el roadmap que tenéis o estos futuros meses. Me habéis dicho que estos dos próximos meses lo que queréis es acabar el producto para ya tenerlo finalizado. Pero bueno, si pudierais decirme un poco más a largo plazo la visión que tenéis, por curiosidad y por interesarme un poco más.
+
+[20:42] 0: Nuestra visión al final es, nosotros queremos ser un socio tecnológico de todas las corredurías de España y con idea de dentro de no mucho empezar a internacionalizar hacia Portugal, México y Brasil, bueno, Latinoamérica ya veremos un poco cuáles acaban siendo, pero México y Portugal bastante seguros. Entonces al final queremos ser ese partner tecnológico a nivel de comunicaciones, porque al final en una correduría hay dos cosas importantes que es el trato con los clientes y saber mucho de riesgos. La parte de saber mucho de riesgos ya ellos son expertos, pero la parte de comunicaciones pues tienen mucho por mejorar porque siguen con su propio teléfono, con el WhatsApp, con su mail, los tienen todo dispersado sin ningún tipo de control ni de metodología muchas veces a la hora de trabajar. Entonces nuestro objetivo en el proyecto es poder ofrecer ese tipo de soluciones a las corredorías de seguros y al final que acabemos siendo el estándar de una correduría de seguros y se monta ya, diga vale, tengo que contratar a ZOA para el tema de comunicación y tengo que contratar del ERP, tengo estas tres opciones para la parte de gestión. Nosotros acaba siendo el estándar, el primero de la parte de comunicación. Entonces con ese objetivo, actualmente tenemos el MVP en el que ya prácticamente nos queda un poco ya para acabarlo y en cuanto acabamos el primer MVP hacer el producto nuevo con todo lo aprendido. Y a nivel de clientes tenemos objetivos bastante ambiciosos de estar metiendo todos los meses mínimo entre siete, diez por ahora de corredurías y de cara al año que viene entre diez, quince corredurías al mes para ir creciendo. Lo malo de meter tantas de golpe, pues que hace falta equipo y todo.
+
+[22:43] 1: Va más problemas que te van a llegar de golpe.
+
+[22:46] 0: También hay que hacer onboarding, donde hay que instalar su. Por eso un poco te preguntaba por tema de cloud, porque hay que montar sus servidores, hay que limpiar sus bases de datos, hay una serie de actividades que hay que hacer para arrancar con un cliente, montar sus flujos y cosas así, montar sus agentes, personalizar los agentes a lo que ellos necesitan. Y luego ya hay más trabajos rutinarios, pues un poco de ver el estado de salud de toda la infra que tenemos no paran de haber reuniones constantes todas las semanas con los clientes de cómo van. Recogemos feedback de mejoras, recogemos feedback de problemas. Todo eso hay que evaluarlo, hay que ver qué soluciones, intentar meterlo en el roadmap lo antes posible para que lo más rápido que pueda lo tengan ya resuelto. Tampoco es crecimiento, no queremos ser una pyme, básicamente.
+
+[23:42] 1: ¿Una que?
+
+[23:43] 0: No queremos ser una empresa pequeña. Vamos a tener que ser metodologías ágiles, crecimiento, tecnología, siempre mucho talento, gente con ganas, ambición y nada, ilusión. Es lo que nos mueve.
+
+[23:57] 1: Entonces es lo que buscamos, gente que.
+
+[23:59] 0: Esté alineada con nuestros principios y con la misión, visión de la empresa. Y esa es la idea más.
+
+[24:05] 1: Si tú has estado aquí ya ves un poco lanzadera cómo somos y lo que buscamos.
+
+[24:11] 0: La idea es ir a por todo con todas la ley y con lo.
+
+[24:16] 1: Mismo que he dicho antes, la idea.
+
+[24:17] 0: Es que crezcamos todos en conjunto y que vayamos a fuego. Entonces, bueno, dentro de lo que se.
+
+[24:25] 1: Pueda, la idea es eso.
+
+[24:28] 0: Es la idea. Y lo que estamos viendo es que tenemos muchas luces verdes en el mercado.
+
+[24:33] 1: Muy buen feedback entre grandes y más grandes del mundo asegurador.
+
+[24:39] 0: Es un mundo muy interesante, la verdad. Y necesitamos, como dice Alejandro, tracción, velocidad.
+
+[24:45] 1: Y es un poco la idea, preparar.
+
+[24:47] 0: El equipo para llegar a primera y jugar a Champions.
+
+[24:51] 1: Pues me parece perfecto, la verdad. Mucho el rollo de lanzadera, la actitud. Bueno, me parece que es lo correcto, el ir con esas ganas e ir a por todas, porque si no vamos. Sí, exacto. Si ya haciendo las cosas bien salen.
+
+[25:08] 0: Mal, imagínate si no tienes las ganas, ¿No?
+
+[25:10] 1: Sí, sí, si ya de primeras vas de bajona, no consigues nada.
+
+[25:14] 0: Siempre todo mal. Entonces nosotros tenemos que conseguir que todo bien, pero siempre todo mal.
+
+[25:20] 1: Totalmente, todo mal.
+
+[25:21] 0: Pero haces todo, Tienes que hacer todo para que sea bien, pero siempre todo mal.
+
+[25:25] 1: Algo saldrá bien en algún momento. Además digo que tenemos bastante experiencia a.
+
+[25:30] 0: Nivel del mundo startup, investigación, tecnologías, a nivel de equipo, somos gente que tú puedes aprender, puedes crecer también mucho con nosotros y aprender mucho de toda la experiencia que llevamos.
+
+[25:41] 1: Claro, sí, sí, es algo que me interesa también. Por supuesto. Perfecto.
+
+[25:48] 0: No sé si tienes alguna duda más.
+
+[25:51] 1: No, básicamente, pues ya sería más dudas del equipo en sí, si solo estáis vosotros, aparte de los desarrolladores externos, más dudas de ese estilo, pero que tampoco creo que sean tan importantes así de.
+
+[26:08] 0: Primeras el motor tractor somos nosotros, lo que pasa es que sí que es verdad que alrededor nuestro tenemos mucha gente de la que acabamos tirando por el hecho de que al final es una startup y hemos ido arrancando y todo lo hemos ido pagando, somos bootstrap y no tenemos. Pero porque tampoco hemos querido, porque ya hemos tenido bastantes veces ofertas de que nos dan dinero, pero ya llevamos bastantes años en el mundo emprendedor, sabemos lo que son el tema de las inversiones y al final la gente se idealiza el tema de la inversión, pero el problema resuelve un problema, consigue clientes y luego ya el dinero viene solo. Entonces nada, hicimos el motor tractor, tenemos mucha gente alrededor, pero la idea es empezar a crear un equipo y crecer. Pero bueno, actualmente tenemos ya bastantes clientes y lo que nos obliga a estar muy bien acompañados alrededor nuestro, aunque no estén a lo mejor en nómina, pero la cuestión es ya empezar a crecer y rápido porque puede que seas de los primeros pero que enseguida tienen que venir más que si no nos quedamos atrás ya.
+
+[27:12] 1: Sí, sí, me imagino. Pues por mí ninguna duda más, ya más o menos me ha quedado todo claro y ya está. Pues la idea, nada, los siguientes próxima semana te diríamos feedback de principio, mediados. Luego lo que te he preguntado a.
+
+[27:34] 0: Nivel de incorporación, ¿Tú estás ahora mismo.
+
+[27:40] 1: Estás trabajando? No, ahora mismo no. Entonces pues podría ser prácticamente inmediato. Vale, perfecto, genial.
+
+[27:49] 0: Pues nada, eso te lo diríamos, seguramente te comunicaré si quieres por LinkedIn o por tu correo y que tienes el teléfono también está en tu currículum. Entonces nada, pues nosotros darte las gracias, la verdad, un placer conocerte y nada, estamos en contacto.
+
+[28:08] 1: Perfecto, Pues nada, yo también daros las gracias a vosotros por el tiempo y la oportunidad y espero saber de vosotros quede como quede. Y eso, gracias por el tiempo y espero que nos veamos pronto.
+
+[28:22] 0: Genial. Y a ti por la mediatez.
+
+[28:25] 1: Muchísimas gracias. Chao.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

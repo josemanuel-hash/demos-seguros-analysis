@@ -1,0 +1,1841 @@
+================================================================================
+DEMO/REUNIÓN: Onaboarding
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 08/08/2025 a las 08:55
+⏱️ Duración: 59.16999816894531 segundos (1.0 minutos)
+👥 Participantes: 
+
+🔑 PALABRAS CLAVE:
+--------------------
+Onboarding, Automatización, WhatsApp, Centralita, Plantillas, Verificaciones
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. A
+5. l
+6. e
+7. j
+8. a
+9. n
+10. d
+11. r
+12. o
+13.  
+14. M
+15. a
+16. r
+17. t
+18. i
+19. n
+20. e
+21. z
+22. *
+23. *
+24. 
+
+25. S
+26. i
+27. m
+28. p
+29. l
+30. i
+31. f
+32. i
+33. c
+34. a
+35. r
+36.  
+37. s
+38. i
+39. s
+40. t
+41. e
+42. m
+43. a
+44.  
+45. a
+46. c
+47. t
+48. u
+49. a
+50. l
+51.  
+52. d
+53. e
+54.  
+55. c
+56. o
+57. n
+58. f
+59. i
+60. g
+61. u
+62. r
+63. a
+64. c
+65. i
+66. ó
+67. n
+68.  
+69. y
+70.  
+71. p
+72. r
+73. o
+74. b
+75. a
+76. r
+77.  
+78. i
+79. m
+80. p
+81. l
+82. e
+83. m
+84. e
+85. n
+86. t
+87. a
+88. c
+89. i
+90. ó
+91. n
+92.  
+93. c
+94. o
+95. n
+96.  
+97. I
+98. A
+99.  
+100. (
+101. 2
+102. 3
+103. :
+104. 4
+105. 3
+106. )
+107. 
+
+108. C
+109. r
+110. e
+111. a
+112. r
+113.  
+114. d
+115. o
+116. c
+117. u
+118. m
+119. e
+120. n
+121. t
+122. o
+123.  
+124. d
+125. e
+126.  
+127. p
+128. r
+129. o
+130. c
+131. e
+132. s
+133. o
+134.  
+135. p
+136. a
+137. r
+138. a
+139.  
+140. c
+141. o
+142. n
+143. e
+144. x
+145. i
+146. ó
+147. n
+148.  
+149. W
+150. h
+151. a
+152. t
+153. s
+154. A
+155. p
+156. p
+157.  
+158. d
+159. e
+160. s
+161. d
+162. e
+163.  
+164. N
+165. o
+166. t
+167. i
+168. o
+169. n
+170.  
+171. (
+172. 3
+173. 0
+174. :
+175. 5
+176. 6
+177. )
+178. 
+
+179. D
+180. e
+181. s
+182. a
+183. r
+184. r
+185. o
+186. l
+187. l
+188. a
+189. r
+190.  
+191. c
+192. ó
+193. d
+194. i
+195. g
+196. o
+197.  
+198. p
+199. a
+200. r
+201. a
+202.  
+203. l
+204. i
+205. m
+206. p
+207. i
+208. a
+209. r
+210.  
+211. y
+212.  
+213. e
+214. s
+215. t
+216. r
+217. u
+218. c
+219. t
+220. u
+221. r
+222. a
+223. r
+224.  
+225. b
+226. a
+227. s
+228. e
+229.  
+230. d
+231. e
+232.  
+233. d
+234. a
+235. t
+236. o
+237. s
+238.  
+239. d
+240. e
+241.  
+242. c
+243. l
+244. i
+245. e
+246. n
+247. t
+248. e
+249. s
+250.  
+251. (
+252. 3
+253. 0
+254. :
+255. 1
+256. 3
+257. )
+258. 
+
+259. C
+260. r
+261. e
+262. a
+263. r
+264.  
+265. c
+266. ó
+267. d
+268. i
+269. g
+270. o
+271.  
+272. p
+273. a
+274. r
+275. a
+276.  
+277. g
+278. e
+279. n
+280. e
+281. r
+282. a
+283. r
+284.  
+285. u
+286. s
+287. u
+288. a
+289. r
+290. i
+291. o
+292. s
+293.  
+294. a
+295. u
+296. t
+297. o
+298. m
+299. á
+300. t
+301. i
+302. c
+303. a
+304. m
+305. e
+306. n
+307. t
+308. e
+309.  
+310. c
+311. o
+312. n
+313.  
+314. p
+315. e
+316. r
+317. m
+318. i
+319. s
+320. o
+321. s
+322.  
+323. y
+324.  
+325. c
+326. l
+327. a
+328. v
+329. e
+330. s
+331.  
+332. F
+333. r
+334. e
+335. e
+336. P
+337. B
+338. X
+339.  
+340. (
+341. 4
+342. 7
+343. :
+344. 1
+345. 3
+346. )
+347. 
+
+348. D
+349. o
+350. c
+351. u
+352. m
+353. e
+354. n
+355. t
+356. a
+357. r
+358.  
+359. p
+360. r
+361. o
+362. c
+363. e
+364. s
+365. o
+366.  
+367. d
+368. e
+369.  
+370. c
+371. r
+372. e
+373. a
+374. c
+375. i
+376. ó
+377. n
+378.  
+379. d
+380. e
+381.  
+382. f
+383. l
+384. u
+385. j
+386. o
+387.  
+388. e
+389. n
+390.  
+391. N
+392. 8
+393. N
+394.  
+395. p
+396. a
+397. r
+398. a
+399.  
+400. W
+401. h
+402. a
+403. t
+404. s
+405. A
+406. p
+407. p
+408.  
+409. (
+410. 4
+411. 3
+412. :
+413. 0
+414. 8
+415. )
+416. 
+
+417. C
+418. r
+419. e
+420. a
+421. r
+422.  
+423. d
+424. o
+425. c
+426. u
+427. m
+428. e
+429. n
+430. t
+431. o
+432.  
+433. d
+434. e
+435.  
+436. v
+437. e
+438. r
+439. i
+440. f
+441. i
+442. c
+443. a
+444. c
+445. i
+446. o
+447. n
+448. e
+449. s
+450.  
+451. t
+452. é
+453. c
+454. n
+455. i
+456. c
+457. a
+458. s
+459.  
+460. (
+461. 5
+462. 2
+463. :
+464. 0
+465. 3
+466. )
+467. 
+
+468. I
+469. d
+470. e
+471. n
+472. t
+473. i
+474. f
+475. i
+476. c
+477. a
+478. r
+479.  
+480. ú
+481. l
+482. t
+483. i
+484. m
+485. a
+486.  
+487. i
+488. m
+489. a
+490. g
+491. e
+492. n
+493.  
+494. b
+495. a
+496. s
+497. e
+498.  
+499. p
+500. a
+501. r
+502. a
+503.  
+504. c
+505. r
+506. e
+507. a
+508. c
+509. i
+510. ó
+511. n
+512.  
+513. d
+514. e
+515.  
+516. s
+517. e
+518. r
+519. v
+520. i
+521. d
+522. o
+523. r
+524. e
+525. s
+526.  
+527. (
+528. 2
+529. 8
+530. :
+531. 1
+532. 9
+533. )
+534. 
+
+535. 
+
+536. *
+537. *
+538. J
+539. o
+540. s
+541. e
+542.  
+543. M
+544. a
+545. n
+546. u
+547. e
+548. l
+549.  
+550. A
+551. u
+552. s
+553. i
+554. n
+555. *
+556. *
+557. 
+
+558. C
+559. r
+560. e
+561. a
+562. r
+563.  
+564. c
+565. a
+566. r
+567. p
+568. e
+569. t
+570. a
+571.  
+572. t
+573. e
+574. m
+575. p
+576. l
+577. a
+578. t
+579. e
+580.  
+581. c
+582. o
+583. n
+584.  
+585. d
+586. o
+587. c
+588. u
+589. m
+590. e
+591. n
+592. t
+593. o
+594. s
+595.  
+596. e
+597. s
+598. t
+599. á
+600. n
+601. d
+602. a
+603. r
+604.  
+605. p
+606. a
+607. r
+608. a
+609.  
+610. c
+611. l
+612. i
+613. e
+614. n
+615. t
+616. e
+617. s
+618.  
+619. (
+620. 0
+621. 6
+622. :
+623. 1
+624. 1
+625. )
+626. 
+
+627. D
+628. e
+629. s
+630. a
+631. r
+632. r
+633. o
+634. l
+635. l
+636. a
+637. r
+638.  
+639. t
+640. e
+641. m
+642. p
+643. l
+644. a
+645. t
+646. e
+647. s
+648.  
+649. d
+650. e
+651.  
+652. e
+653. m
+654. a
+655. i
+656. l
+657.  
+658. p
+659. a
+660. r
+661. a
+662.  
+663. s
+664. o
+665. l
+666. i
+667. c
+668. i
+669. t
+670. a
+671. r
+672.  
+673. i
+674. n
+675. f
+676. o
+677. r
+678. m
+679. a
+680. c
+681. i
+682. ó
+683. n
+684.  
+685. b
+686. á
+687. s
+688. i
+689. c
+690. a
+691.  
+692. (
+693. 1
+694. 0
+695. :
+696. 3
+697. 8
+698. )
+699. 
+
+700. S
+701. i
+702. m
+703. p
+704. l
+705. i
+706. f
+707. i
+708. c
+709. a
+710. r
+711.  
+712. p
+713. l
+714. a
+715. n
+716. t
+717. i
+718. l
+719. l
+720. a
+721. s
+722.  
+723. W
+724. h
+725. a
+726. t
+727. s
+728. A
+729. p
+730. p
+731.  
+732. y
+733.  
+734. g
+735. e
+736. n
+737. e
+738. r
+739. a
+740. r
+741.  
+742. d
+743. o
+744. c
+745. u
+746. m
+747. e
+748. n
+749. t
+750. o
+751.  
+752. d
+753. e
+754.  
+755. b
+756. u
+757. e
+758. n
+759. a
+760. s
+761.  
+762. p
+763. r
+764. á
+765. c
+766. t
+767. i
+768. c
+769. a
+770. s
+771.  
+772. (
+773. 4
+774. 1
+775. :
+776. 0
+777. 3
+778. )
+779. 
+
+780. C
+781. r
+782. e
+783. a
+784. r
+785.  
+786. c
+787. a
+788. r
+789. p
+790. e
+791. t
+792. a
+793.  
+794. d
+795. e
+796.  
+797. d
+798. o
+799. c
+800. u
+801. m
+802. e
+803. n
+804. t
+805. o
+806. s
+807.  
+808. c
+809. o
+810. m
+811. p
+812. a
+813. r
+814. t
+815. i
+816. d
+817. o
+818. s
+819.  
+820. c
+821. o
+822. n
+823.  
+824. c
+825. l
+826. i
+827. e
+828. n
+829. t
+830. e
+831. s
+832.  
+833. (
+834. 4
+835. 1
+836. :
+837. 5
+838. 4
+839. )
+840. 
+
+841. D
+842. e
+843. s
+844. a
+845. r
+846. r
+847. o
+848. l
+849. l
+850. a
+851. r
+852.  
+853. g
+854. u
+855. i
+856. ó
+857. n
+858.  
+859. d
+860. e
+861.  
+862. f
+863. o
+864. r
+865. m
+866. a
+867. c
+868. i
+869. ó
+870. n
+871.  
+872. p
+873. a
+874. r
+875. a
+876.  
+877. u
+878. s
+879. u
+880. a
+881. r
+882. i
+883. o
+884. s
+885.  
+886. (
+887. 5
+888. 2
+889. :
+890. 3
+891. 8
+892. )
+893. 
+
+894. R
+895. e
+896. a
+897. l
+898. i
+899. z
+900. a
+901. r
+902.  
+903. p
+904. r
+905. u
+906. e
+907. b
+908. a
+909.  
+910. c
+911. o
+912. m
+913. p
+914. l
+915. e
+916. t
+917. a
+918.  
+919. d
+920. e
+921. l
+922.  
+923. p
+924. r
+925. o
+926. c
+927. e
+928. s
+929. o
+930.  
+931. d
+932. o
+933. c
+934. u
+935. m
+936. e
+937. n
+938. t
+939. a
+940. d
+941. o
+942.  
+943. e
+944. n
+945.  
+946. a
+947. g
+948. o
+949. s
+950. t
+951. o
+952.  
+953. (
+954. 5
+955. 8
+956. :
+957. 0
+958. 3
+959. )
+960. 
+
+961. 
+
+962. *
+963. *
+964. J
+965. o
+966. s
+967. é
+968.  
+969. L
+970. u
+971. i
+972. s
+973. *
+974. *
+975. 
+
+976. D
+977. a
+978. r
+979.  
+980. d
+981. e
+982.  
+983. a
+984. l
+985. t
+986. a
+987.  
+988. c
+989. e
+990. n
+991. t
+992. r
+993. a
+994. l
+995. i
+996. t
+997. a
+998.  
+999. y
+1000.  
+1001. p
+1002. r
+1003. o
+1004. c
+1005. e
+1006. s
+1007. a
+1008. r
+1009.  
+1010. p
+1011. o
+1012. r
+1013. t
+1014. a
+1015. b
+1016. i
+1017. l
+1018. i
+1019. d
+1020. a
+1021. d
+1022. e
+1023. s
+1024.  
+1025. u
+1026. n
+1027. a
+1028.  
+1029. v
+1030. e
+1031. z
+1032.  
+1033. r
+1034. e
+1035. c
+1036. i
+1037. b
+1038. i
+1039. d
+1040. a
+1041.  
+1042. i
+1043. n
+1044. f
+1045. o
+1046. r
+1047. m
+1048. a
+1049. c
+1050. i
+1051. ó
+1052. n
+1053.  
+1054. c
+1055. o
+1056. m
+1057. p
+1058. l
+1059. e
+1060. t
+1061. a
+1062.  
+1063. (
+1064. 1
+1065. 2
+1066. :
+1067. 5
+1068. 1
+1069. )
+1070. 
+
+1071. C
+1072. o
+1073. n
+1074. f
+1075. i
+1076. g
+1077. u
+1078. r
+1079. a
+1080. r
+1081.  
+1082. a
+1083. l
+1084. a
+1085. r
+1086. m
+1087. a
+1088. s
+1089.  
+1090. d
+1091. e
+1092.  
+1093. s
+1094. e
+1095. g
+1096. u
+1097. i
+1098. m
+1099. i
+1100. e
+1101. n
+1102. t
+1103. o
+1104.  
+1105. s
+1106. e
+1107. m
+1108. a
+1109. n
+1110. a
+1111. l
+1112.  
+1113. p
+1114. a
+1115. r
+1116. a
+1117.  
+1118. p
+1119. o
+1120. r
+1121. t
+1122. a
+1123. b
+1124. i
+1125. l
+1126. i
+1127. d
+1128. a
+1129. d
+1130. e
+1131. s
+1132.  
+1133. (
+1134. 1
+1135. 7
+1136. :
+1137. 0
+1138. 4
+1139. )
+1140. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[00:01] 0: Estoy subiendo toda la factura de todo de compras porque tiene un escáner y lo que me puse yo a hacer con el luego dije esto lo tiene ya hecho. Hol, que por cierto lo medio acabé y eso a tu mujer le gustaría sé cómo se hace lo que hacerlo por si lo quieren se lo explico un día.
+
+[00:30] 1: Identificar problemas, canales de entrada, entender un poco todo esto. Empresa de telefonía, definir flujo de llamadas, WhatsApp en miro esto ya entra un poco el. Esto es relativamente fácil. Definir el flujo de llamadas también cómo trabajan ellos. Secretaria te lo definen ellos. Si, esto no hay problema. Enviar cuando tengan pausa económica. OK, Primer pago.
+
+[00:56] 2: OK.
+
+[00:59] 0: Uno de los trabajos gordos es definir flujo de llamada y WhatsApp actualmente uno de los trabajos así más tediosos es trasladarlo, lo de llamada a las mierda. Controles de wildlist, que eso se me ocurre una manera de simplificarlo si quieres ponerte a la derecha, bueno y vas a hacerlo en n, pero si esto lo conseguimos llevar allá hacia una IA, básicamente lo único que habría que hacer sería el prom, readaptar el prom para cada cliente.
+
+[01:38] 1: Pongo mejoras aquí en comentarios.
+
+[01:40] 0: Sí, algo por ahí.
+
+[01:42] 1: Intentar solucionarlo con IA.
+
+[01:47] 0: Aquí hay dos vertientes que es simplificar lo que tenemos actualmente, que en WhatsApp ya lo tenemos simplificado y es más simple que lo que tenemos, no se me ocurre ya. Y en llamada sí que se puede simplificar. Hay una vertiente de simplificar como lo tenemos y otra vertiente de directamente celoconía y sólo tener que modificar los prompts.
+
+[02:21] 2: Y esto qué lo pongo para ti.
+
+[02:26] 0: Sí tengo que ver.
+
+[02:31] 1: Y esto yo.
+
+[02:35] 0: Contelo con que se tire para abajo. Arriba, selecciona la columna y arriba donde sale lo de dejar comentario centrado, donde hacer ahí más a derecha, derecha, dos posiciones derechas. El siguiente ahí es dale. Y el del medio.
+
+[03:21] 1: Porque lo de WhatsApp ya exacto, como tal cual está.
+
+[03:25] 2: En lo que hay.
+
+[03:27] 0: Sí, más simplificado la parte de WhatsApp sería mejorarlo con IA, es la única manera, lo que hay ya está bastante simplificado.
+
+[03:37] 1: Enviar el contrato, esto está también con Holed bastante bien y primer pago con Holed también.
+
+[03:43] 2: ¿Cambiarías algo más de esto?
+
+[03:48] 0: Lo de enviar el contrato ahora se los hemos enviado creo, ¿No?
+
+[03:53] 1: Sí.
+
+[03:58] 0: Pues habría que preparar una carpeta donde están todos esos documentos. Enviar.
+
+[04:03] 2: Estaba pensando en la carpeta.
+
+[04:07] 1: Porque Luis no sé si nos lo hizo crear carpeta, incluso verificar el tema de la página web.
+
+[04:13] 0: Es más, lo primero que deberíamos esto llevarlo como más arriba.
+
+[04:38] 2: ¿No? In project user can drag and drop tasks sometimes if they want to give some task priority, but if we will add something by default, then it will make no sense. That's why I want to know remove or.
+
+[05:21] 0: Deberíamos ir más arriba. Llega un cliente, deberíamos de crear la carpeta al cliente. Tenemos que definir a ese nivel.
+
+[05:41] 2: Crear.
+
+[05:41] 0: Carpeta de un cliente y desde ahí sería como. Tendríamos que tener una carpeta cliente template, digamos, y sería como copiar y pegar y ponerle su nombre. Entonces hay que crear esa carpeta template, crear carpeta desde carpeta template.
+
+[06:11] 1: Y los.
+
+[06:11] 0: Documentos estarían ya dentro de la carpeta template. Así sí vamos haciendo mejoras en la carpeta template, vamos haciendo las mejoras en la carpeta template, cada vez que entre uno nuevo sabemos qué tal. Entonces es crear carpeta desde carpeta template. Entonces ahí tenemos que hacer crear carpeta.
+
+[06:28] 2: Template.
+
+[06:34] 0: Y abajo en lo que has puesto crear carpeta para reunir todos los contratos, sería meter los contratos en la carpeta template.
+
+[07:01] 2: En qué dices la de abajo.
+
+[07:04] 0: Ahí ya no sería crear, sino sería meter en la carpeta template todos los contratos.
+
+[07:30] 1: Petra, le metemos toda la info, identificamos qué usuarios tiene para ver qué tipo de cliente. Será que esto más o menos el pain de entradas para prepararle las Esta el CRM demás empresa telefónica para ver los presupuestos que también tendría que entrar dentro. Bueno no, porque aquí ahora se empieza a pedir un poco de enviar el contrato de propuesta económica, que la firme y una vez un pago implante. Aquí habría que hacer algo en Holdet o así.
+
+[08:12] 0: Las otras personas no van a poder entrar al Holdet, tendrían que hacernos un aviso a nosotros o alguna manera, digamos que a su supervisor. En este caso serías tú, decir oye, ya está hecho, tú le harías el check, OK, OK, OK. Emitirías pago. No vamos a emitir pago si no hemos verificado que la faena se ha hecho.
+
+[08:35] 1: Verifica que se haya pagado y ya está.
+
+[08:39] 2: Y con el pago.
+
+[08:43] 0: Que los pasos anteriores. Tú verificarías que los pasos anteriores los ha realizado y por tanto puedes emitir factura.
+
+[08:55] 1: Emitir factura.
+
+[08:58] 0: Es revisar la realización de los pasos anteriores y emitir factura. Vale, aún así.
+
+[09:25] 1: Con el siguiente clic.
+
+[09:26] 0: Sobre todo lo que más que los. Bueno, sí, son los checks anteriores, pero sobre todo es el anterior, que es que el contrato no lo haya firmado.
+
+[09:32] 2: Si no, sí, pero que esté todo.
+
+[09:34] 1: Bien hecho anterior, porque así haces un repaso de que todo esté bien, ¿Sabes? Está la carpeta, Sí, está el documento. Vale, ha simplificado.
+
+[09:41] 0: Bueno, esto básicamente es que tú te tendrías que ir a buscar el contrato y para buscar el contrato tendrías que haber encontrado la carpeta bien, la carpeta y que dentro está el contrato y que está firmado. Entonces realmente buscando el contrato tú mismo te das cuenta de si está bien todo lo de arriba o no.
+
+[10:01] 2: Pero.
+
+[10:01] 1: Bueno, que esto es como el último.
+
+[10:03] 2: Primer check, sí, aquí no hay fallos.
+
+[10:07] 1: Vale, Datos y documentos accesibles para Wildix.
+
+[10:11] 0: Que esto habría que hacer también un documento donde se le pide el cif NIF escritura, que eso debería estar arriba ya se debería crear un documento para enviar a Jose y estos datos con el cliente solo se tienen que pedir una vez para hacer contrato, esa información ya la debería de saber. Cif, NIF escritura, crear una carpeta no.
+
+[10:38] 1: Porque tú creas la carpeta, le dices, yo que sé, Élite, Élite, perfecto, élite tiene 5, quiere más de venta, tiene Meta, tienen Vodafone, le va a interesar que haya teléfonos en WhatsApp que haga esta automatización y está en llamadas, pero también quiere esta de siniestros, vale, entendido, son 4690, perfecto, dinerito se le envía, perfecto, empieza la rueda. Para empezar necesitamos que nos pases documento o template de email que se le.
+
+[11:12] 0: Envía, Correcto, template de email.
+
+[11:19] 2: Y todo.
+
+[11:19] 0: Luego una carpetita sobre telefonía al cliente sobre.
+
+[11:27] 1: Es que aparte igual hasta a nosotros nos puede interesar de alguna forma esto o solo para la telefonía lo tenemos y punto, y pues acá esto.
+
+[11:55] 2: Y.
+
+[11:55] 0: Guardar en carpeta telefonía, no, template no sería, sería.
+
+[12:02] 1: Por eso, pero dentro de la carpeta template cliente estaría telefonía y.
+
+[12:06] 0: Subir a la carpeta telefonía, que ahora cuando creemos el template pues tenemos que saber que tiene que haber una carpeta de contratos, una carpeta de telefonía, vale.
+
+[12:20] 1: Pedís factura de teléfono, lo mismo, instalará.
+
+[12:24] 0: Todo en el template, en el email.
+
+[12:29] 2: Email y carpeta.
+
+[12:34] 0: Estará en el email cuando lo reciban a la carpeta.
+
+[12:39] 1: Portabilidad, lo mismo, número de cabecera, esto pone José Luis.
+
+[12:45] 0: Porque le ha pedido la.
+
+[12:46] 1: Modalidad, será él entonces pero nosotros y.
+
+[12:51] 0: Me de verificar, pero ponte todo lo de José Luis al final no sé por qué está lo dejo Luis en medio. José Luis es una vez recogemos toda la información, se la pasamos a Luis para que pueda dar de alta la centralita y pueda pedir la portabilidad.
+
+[13:29] 1: Pedir los números de teléfono. Esto es un email también, esto habrá que hacer un email tipo.
+
+[13:43] 0: Realmente eso que has puesto de verano y fechas de festivos autonómicos, eso sería más de arriba.
+
+[13:50] 1: Pero bueno, esto lo he puesto aquí porque es una cosa que nosotros no cumplimos y que José siempre lo he visto como un conflicto, porque he visto como repasando el otro día, porque José.
+
+[14:00] 0: Está acostumbrado a montar las centralitas de una manera tanto que aboga por la IA, sigue montando las centralitas como lo hemos montado toda la vida. Cuando ahora si empiezas a hacer automatizaciones no te hace falta tanta mierda como lo hacía él, porque al final él tenía que montar las fechas no sé qué, no sé cuántos, porque las locuciones así salían unas u otras. Ahora ponemos una IA que da igual ya el horario.
+
+[14:29] 1: Sí, sí, pero que lo que me refiero es que él es muy pesado con eso.
+
+[14:35] 0: Entonces, leítimos, usuarios y números de extensiones, el único que me sobra es el. ¿Lo de festivos que sería más arriba.
+
+[14:46] 1: Lo ponemos o no lo ponemos?
+
+[14:48] 0: No, sí, pero ponlo, copia eso. No, pero solo la descripción y luego.
+
+[14:55] 2: Lo borras y arriba sube, sube, sube.
+
+[15:01] 0: En definir flujo de llamadas, ahí es donde va eso. Ponte si quieres la columna también que lo pueda llevar y se lo puedes, no se lo quitas esa línea.
+
+[15:33] 2: Aquí empieza José Luis, que él pide.
+
+[15:36] 1: Pero para pedir, como nos ha pasado mucho de que el tío es un puto desastre, no sabemos en qué estamos en black Box, ahí no sabemos qué está pasando. Cómo podemos hacer que.
+
+[15:50] 0: Lo que dijimos.
+
+[15:50] 1: De un ZOA, un Trello.
+
+[15:54] 0: Pero es que no le va a hacer una mierda de seguimiento. A ver, ahí el que hace seguimiento es Jorge realmente si lo dejamos todo muy de ABC para que lo haga Jorge, ese sí que hace seguimiento, ese sí que es metódico.
+
+[16:15] 1: Vale, vamos a pensar que tampoco va a hacer mucho seguimiento. Nos ponemos una alarma desde que se le envía hasta que hay un tiempo.
+
+[16:24] 0: Tendríamos que hacer nosotros, ya sea porque tenemos que mirar en su buzoa, en su vodo, cómo está lo nuestro o llamar o mandar un mail. Pero si nosotros, no sé si eran dos semanas lo que. Bueno, pero eso tendría que ser una semana.
+
+[16:44] 1: Ponemos crear email y alarma. Alarma en calendario de una semana de seguimiento.
+
+[17:04] 0: No, pero es. Tendría que haber dos avisos, o sea, dos alarmas. Es una a mitad y otra a los tres días y otra a los siete. Pero bueno, para un momento. ¿Es que.
+
+[17:42] 1: Va todo junto.
+
+[17:46] 2: No?
+
+[17:46] 0: Porque la portabilidad tarda más. Entonces, creación de centralita y dar de alta a los usuarios. Eso de crear email y alarma es para la parte de creación de la centralita y dar de alta a los usuarios. La portabilidad tarda un mes. Dale arriba, sale combinar lo que no.
+
+[18:04] 2: Sé dónde.
+
+[18:16] 0: Se pide la portabilidad y ahí se va haciendo seguimiento semanal durante un mes.
+
+[18:23] 1: ¿Por qué tú seguimiento? ¿Pero cuánto tardas?
+
+[18:26] 2: Dicho un mes.
+
+[18:33] 1: Y esto es un mes y punto.
+
+[18:36] 0: Son las de telefonía, por eso también. Bueno, lo de enganchar cada mes con 5 y hacerle seguimiento durante un mes, ese mes no nos lo va a quitar nadie porque a ver, no nos va a quitar nadie. Por ejemplo, en Elite ese mes no lo tendríamos. ¿Por qué? Porque es un número nuevo y me dice. Te dice, búscame un número bonito. No podemos buscar nada, pero bueno, entonces. Pero en aquellos que ya vienen de una centralita, de un sistema, verlo al nuestro lleva un mes.
+
+[19:28] 1: Todos los clientes que tenemos es fijo, No teléfono.
+
+[19:33] 0: Vimano.
+
+[19:35] 1: ¿Por qué vi mano?
+
+[19:37] 0: Porque no me ha dado por decirle una cosa.
+
+[19:46] 1: Es que eso te quiere decir. Yo la normativa actual es todo fijo, ¿No?
+
+[19:51] 0: En principio empezamos con móvil y es realmente mejor móvil porque a la hora de guardarlo y demás, lo que pasa es que con la filosofía de que solo tengan un número por correduría, pues entonces le empezamos a decir a feste colla que el mismo número fijo es el del WhatsApp. Y luego en Vélez me di cuenta de que si es el fijo el del WhatsApp, hay problemillas en que si no se guardan el fijo con el más 34, pues no funciona.
+
+[20:22] 1: Entonces, móvil también se puede hacer.
+
+[20:25] 0: A ver, lo fácil es hacerlo con móvil.
+
+[20:27] 1: Es que me dijo el de casa, pero.
+
+[20:33] 0: Que lo que quiere el cliente.
+
+[20:34] 2: Se le explica, ¿Vale?
+
+[20:36] 1: Porque me dijo, oye, el número de cabecera puede ser móvil, ¿No? Digo, a ver, depende del tipo de normativas que ahora mismo no, no, si no es móvil nada.
+
+[20:45] 0: Que sí mejor es móvil.
+
+[20:48] 1: ¿Que sí, sí, os lo dije bueno que móvil también vale, vale, vale, hay algunos clientes pero cómo lo tiene bueno.
+
+[20:53] 2: Bueno está así.
+
+[20:56] 0: También sube un momento en lo de definir flujo de llamada y WhatsApp en miro horario de atención a la telefónica y pon no en la tarea definir qué número quiere en el WhatsApp si un móvil o el fijo de la correduría o fijo de la carretería hasta ese punto tenemos que llegar de que la gente no tenga.
+
+[21:42] 2: Ni que pensar no hay duda y.
+
+[21:46] 1: Sobre todo ni que nosotros esto, esto, esto porque no está esto, esto está.
+
+[21:51] 2: Así sabes que esté clarísimo todo vale.
+
+[22:14] 1: Dar de alta a sus usuarios, vale, espera, dar de alta a los usuarios dónde? ¿En FreePBX que es lo que estamos haciendo nosotros o dar de alta.
+
+[22:26] 0: Ahí? Es que él nos da de alta en.
+
+[22:28] 2: Joder, en donde.
+
+[22:34] 0: Me está hablando.
+
+[22:55] 2: Que.
+
+[22:55] 0: Dar de alta a los usuarios en willix, por eso los que.
+
+[23:01] 1: Configuran layout.
+
+[23:02] 2: Plan.
+
+[23:04] 0: Locuciones, eso es lo que he dicho arriba de que ahora mismo lo tenemos como en diferentes secciones y eso se podría simplificar a una sola sección pero si vamos a ir acabar a IA no hace falta ni secciones básicamente es conforme entre la llamada va hacia una IA ya está, ahí se acaba la configuración del dial plan, la configuración del dia plan sería modificar el prompt de la IA, ahí tenemos dos opciones o simplificar lo que tenemos o trabajarlo.
+
+[23:40] 2: Directamente ya con IA vale, ¿Cuál crees.
+
+[23:43] 1: Que es lo más real, lo más inmediato y lo más? Porque a ver, me refiero, mañana te da un cliente porque se va a.
+
+[23:49] 2: Hacer.
+
+[23:52] 0: Tendríamos que hacer las dos cosas, tendríamos que simplificar lo que tenemos y preparar lo de la IA y en función de cómo veamos las necesidades puedas elegir o lo hacemos con locuciones y ya está simplificada o se hace directamente con IA.
+
+[24:11] 1: Entonces qué modificaciones tendríamos hacer de lo que no tengamos ahora que tengas que.
+
+[24:14] 0: Hacer tú en este caso simplificar todo realmente simplificar lo que hay y probarla para que la dejamos preparada para que sólo haya un pro que esto lo que quería haber hecho esta semana pero me quita un montón de kauri y de mierda por cierto en kauri yo creo un poco ya lo tengo pensado y luego pasaré presupuesto y más o menos como lo tengo pensado a final de año nos hemos quitado la deuda.
+
+[24:44] 2: Con ellos.
+
+[24:47] 0: Y nos quitaríamos a todo el mundo en diciembre ya no nos queda nadie. Los dos últimos que me quitarían serían Viviendea y Kauri.
+
+[24:57] 1: A ver, a ver tío, de todas formas eso si quieres la próxima semana podemos ver los números bien para ver las fechas y demás, porque es que si no se quedan en el WhatsApp o se quedan así y al final, a ver, realmente está en el financiero, pero es lo que tenemos que afectar. Un día de cash flow, todo es clave para objetivos, objetivos de venta y ver lo realistas que somos y los no realistas y si no recalcular. Venga. Vale, esto está. Te lo he puesto a ti. Simplificar lo que hay, probar el día de que solo hay un prop. Esto es lo de Willis, que tú tienes que meterte y promptear a ver cómo funcionas. Vale, esto está. Pam, pam, pam, pam, pam, pam. Esos prompt y eso demás también en la carpeta template, sí se debería de meter ahí. Cada uno va a tener guardar en.
+
+[26:05] 0: La carpeta template tanto el JSON.
+
+[26:12] 2: Porque.
+
+[26:12] 0: Al final la centralita se queda como un JSON cuando lo de eso que tengo que simplificar es un JSON realmente, tanto el JSON como el prom. El JSON es para locuciones, el prompt para IA.
+
+[26:31] 2: Y las locuciones, bueno, es.
+
+[26:33] 0: Que las locuciones es que cada uno quiere unas y eso hay que meterse en ilvelaplapse.
+
+[26:40] 2: Bueno, que se guarden aunque sea el link.
+
+[26:43] 0: Si, no, o sea, aquí en la parte de configurar un dial plan es la parte de modificar ese JSON y generar las. Qué tareas hay debajo de ese configurar el dial plan. Configurar el JSON conforme se haya definido en el Miro y crear locaciones en ElevenLabs acorde al miro y generar las locuciones en ElevenLabs, que eso es lo que hice mientras almorzábamos en el.
+
+[27:33] 1: Enfrente del.
+
+[27:40] 0: De las tapas, el que tenía un parking enorme.
+
+[27:46] 1: Que tiene un parking enorme.
+
+[27:48] 0: Sí, que tenía todas las.
+
+[27:55] 1: El moderno es el.
+
+[27:57] 0: El text Durban, algo así, ¿No?
+
+[28:00] 1: Sí.
+
+[28:02] 0: Creación de un servidor para el cliente.
+
+[28:05] 1: Vale, creación.
+
+[28:07] 2: Bastante rápido, esto está.
+
+[28:12] 0: Hay una imagen, pero se crea el.
+
+[28:15] 1: Servidor para el cliente.
+
+[28:19] 0: Es en verdad eso, un account executive. No lo podrá hacer él.
+
+[28:28] 1: Pero tu secuaz o tu subalterno.
+
+[28:32] 0: Claro, ese es el que. Estos tendrían que hacerle una petición a.
+
+[28:35] 1: Ese, pero ese tiene que saber lo que tiene que hacer, me refiero, lo.
+
+[28:40] 0: Que hay que hacer es muy fácil, es saber la imagen, la última imagen sobre la que estamos trabajando, das botón de. Hay un. ¿Es que en Google es muy fácil.
+
+[28:50] 2: Todo.
+
+[28:54] 0: Y duplicarlo y correcto, desde esa imagen es generar máquina virtual y guardarlo.
+
+[29:03] 1: En una carpeta también ahí o qué?
+
+[29:04] 0: No, eso se genera y lo único es ponerle el nombre del cliente, porque si no luego las máquinas nunca sé quién es quién.
+
+[29:16] 1: ¿Bueno, esto te lo pongo aquí, pero que se encargaría?
+
+[29:17] 0: El nombre de la máquina, el nombre.
+
+[29:19] 2: Del cliente, tú Pokémon.
+
+[29:32] 1: Vale, base de datos, limpiar base de datos.
+
+[29:37] 0: Esto tenemos que hacer un código porque.
+
+[29:39] 2: Es un cristo.
+
+[29:47] 0: Esto deberíamos de tener nosotros ya una estructura predefinida, en plan de así es como, o sea, tendríamos que tener un código que limpiara ese código necesita una estructura correcta. Entonces lo primero que tendría que hacer es pásame la base de datos, pum, te la pasa. El primer trabajo que tendríamos que hacer nosotros, coger esa base de datos y transformarlo al orden que necesita el código y luego pasarlo por el código y luego revisar.
+
+[30:13] 1: Yo creo que aquí lo otro más o menos lo hemos solventado, lo tenemos medio tal, aquí empieza un poco el barrillo, aquí donde empezamos.
+
+[30:22] 0: Pero espérate, déjate un poco para el final porque donde quería llegar yo es Conexión a WhatsApp, se puede hacer una videollamada.
+
+[30:39] 1: Conexión a WhatsApp con el cliente también Protocolizar en un documento.
+
+[30:51] 0: En verdad está hecho, sería copiarlo del Notion y ponerlo en un documento en la carpeta.
+
+[30:56] 1: De template el documento pongo x Notion.
+
+[31:01] 0: Da igual, esto lo aún así, por ejemplo, no lo pondría en la carpeta template porque si no el mismo documento lo vamos a multiplicar 800 veces y realmente siempre pone lo mismo.
+
+[31:12] 1: Esta no sería carpeta template, sería de procesos internos.
+
+[31:15] 0: Correcto, Entonces sería crear una carpeta de procesos internos.
+
+[31:19] 1: No, no, está ya, está ya.
+
+[31:20] 0: Ah, vale, pues mover lo que hay en Notion a procesos internos.
+
+[31:29] 1: Compartidas, zoa, procesos internos y aquí es donde está Seclist de tareas y procesos de implementación de cliente. Aquí sería la misma.
+
+[31:41] 0: Pues si entras en Notion, a ver, entrando en Notion, a ver si tienes acceso.
+
+[31:47] 1: Lo intenté desde. ¿Me tuve que comprar un cargador porque no encuentro el cargador del Mac, tío, tres semanas no sé ni inscribir ya tío.
+
+[32:04] 0: Me da que no está ahí, mira a ver qué espacio de trabajo.
+
+[32:07] 2: Estás.
+
+[32:11] 0: Arriba, arriba del todo.
+
+[32:14] 1: No? De todas formas, José Manuel, creo que en este sí que tengo este creo que teníamos. Que teníamos de inicio.
+
+[32:35] 0: Que hay un montón de documentación.
+
+[32:38] 1: Es el que hicimos con lo de. Espera un segundo. Aquí creo que sí que está.
+
+[32:47] 0: A ver. Dar arriba, arriba, arriba.
+
+[32:53] 2: No, solo está la tuya.
+
+[32:59] 0: Igual ya cogeré. Porque hay bastante documentación del email del WhatsApp.
+
+[33:12] 1: Podría ponerlo en la carpeta de procesos internos, conexión.
+
+[33:27] 0: Y ahora lo de. Se crean plantillas. Las tenemos que definir ya.
+
+[33:32] 1: Esto ya lo he hecho. He hecho un documento. Mira, este documento lo quiero hacer. Mira, he creado estas plantillas recomendadas por ZOA, que serán este documento. Vamos a tener también un documento de librería que nosotros.
+
+[33:52] 0: Espérate un momento. Dale. Antes de la e, añade una columna nueva que ponga. Después que ponga ahí textos, ejemplo arriba y pon un guión. Hola, buenos días. Le escribía para. Bueno, yo pondría solo lo del 1, pero lo que quieras. Le escribía para indicarle que su pedido ya está.
+
+[34:46] 1: Para recoger.
+
+[34:47] 2: Entiendo lo que quiere decir.
+
+[34:51] 0: Para recoger. Para indicarle que su pedido tiene que poner la palabra pedido, que si no, no lo pilla bien.
+
+[35:09] 1: Entiendo, pero vale. Texto de ejemplo.
+
+[35:14] 0: Y te pones ahí. Si tiene cuatro variables, pues pones 1, 2, 3, 4. Y yo por ahora no les incentivaría a hacer las de hola, qué tal, uno, tu, póliza, tal, Caduc. Esas no. Yo no les incentivaría. Esas que nos las.
+
+[35:29] 1: Yo voy a poner 5. Voy a poner buenos días, continuación de.
+
+[35:32] 0: Conversación, buenos días y buenas tardes.
+
+[35:35] 2: Explico.
+
+[35:36] 1: Esta plantilla es clave para insistir al cliente. El que tiene que, tiene que.
+
+[35:41] 0: Continuación es para ver por si se queda a mitad de conversación, poder continuar.
+
+[35:45] 1: Uso previsto, seguimiento de conversación, luego aviso de renovación de póliza.
+
+[35:49] 0: Debajo de hola, buenos días, tiene que crear la de hola, buenas tardes. Y yo crearía una de hola, qué tal, Pero no sé, para que no sea solo buenos días, buenas tardes, pero esa ya. Bueno, lo que quieras, me da igual.
+
+[36:09] 1: Sigue.
+
+[36:11] 0: A ver.
+
+[36:11] 1: De todas formas, lo primero que estoy haciendo es estudiar qué es lo que más está utilizando cada uno de ellos.
+
+[36:17] 2: Da igual.
+
+[36:21] 0: Esto se trata de que haya el menor número de palos en la rueda posibles.
+
+[36:26] 1: Correcto. Y que no enseñamos a trabajar de.
+
+[36:29] 0: La forma más eficiente. Luego ya una vez ellos se quieren hacer más plantillas, que hagan lo que les salga a los cojones. Pero es bajo su responsabilidad y no nos vienen dando por culo de oye, es que nos aclaran con las plantillas. Te he enseñado una manera de trabajar de forma sencilla con cinco plantillas y que no tengan problema las mujeres. Complicar es cosa tuya.
+
+[36:58] 1: Sí, a ver, yo pondría como lo más básico, da igual que tengas una corredura, que tengas una panadería. ¿Hola, qué tal? ¿Y como te sigue contando y cómo estás? Y tú le das tu.
+
+[37:09] 0: Aparte de esos cuatro pondría la de la firma de la LPD, porque sí que es verdad que esa no tiene tocristo. Ley orgánica sí, creo que sería.
+
+[37:24] 2: Y.
+
+[37:27] 0: Luego las cuatro que necesitamos de las automatizaciones, que es bienvenida, bienvenida, WhatsApp, cliente, las tenemos con barra bajas.
+
+[37:41] 1: Sí, sí, sí, si. Luego lo que voy a hacer es básicas, seguros y luego automatizaciones.
+
+[37:49] 0: Bienvenida, WhatsApp, no cliente, bienvenida, llamada, conforme, es que se necesita que esté bien escrito, porque las automatizaciones que es bienvenida con b minúscula.
+
+[38:08] 1: Esto luego lo voy.
+
+[38:09] 0: A poner yo bien, y a la barra baja, WhatsApp con w minúscula.
+
+[38:17] 2: Y.
+
+[38:17] 0: Sin el espacio, y ahí otra barra.
+
+[38:20] 2: Baja y sin los espacios ajena para.
+
+[38:23] 0: Que copien y peguen. Sabes que eso es importante, que ese nombre sea así, hay dos espacios delante y detrás de WhatsApp, ahí y al.
+
+[38:35] 2: Final así, así, eso es perfecto.
+
+[38:38] 0: Y lo mismo con no cliente, con un no minúsculo, o sea, minúscula todo y el último no es todo, no cliente, Fontón, así. Y haré lo mismo pero para quitando WhatsApp y poniendo llamada.
+
+[39:09] 2: Y la del cliente.
+
+[39:21] 0: Esos cuatro nos hacen falta para las automatizaciones.
+
+[39:26] 1: Que aparezcan así y ponga ideales.
+
+[39:31] 0: Y el nombre de la plantilla lo simplificaría un poco. Los de arriba de hola, buenos días, pondría buenos días, buenas tardes, hola.
+
+[39:39] 2: Pero bueno, será también.
+
+[39:42] 1: La idea es hacerlo, es hacerla como así. Y esto poner luego bonito, tal, que esté centrado y que la gente diga para automatizaciones estas, para introducción imprimida estas y para seguros estas, correcto. Y luego tal.
+
+[40:02] 0: Seguimiento de siniestros y aviso, renovación, póliza. Yo no se las diría ya, si esas las quieren hacer ellos, que las hagan, pero.
+
+[40:13] 1: Quizás son de seguros, como aquí te dejo unos ejemplos y tú luego ya haces la que quieres, pero que sepan que se pueden hacer.
+
+[40:19] 0: Pues eso ponlo como en otro lado, ¿No?
+
+[40:23] 1: Esto es lo que te he dicho antes, aquí pondría una encima y pongo aquí ejemplos seguros. Vale, perfecto, lo pongo en bonito, lo pongo en azulito, no sé qué, le doy un toque, ¿Sabes? Y luego puesto aquí buenas prácticas para cuando ellos quieran crear variables mínimas, mensajes directos, ejemplos que digan. Pues esta la parte para mejorar el onboarding de las plantillas, que veo que también, y es ir creando una biblioteca que puedo compartirla con ellas y que vea, en vez de preguntarnos, lean eso y la gente ya vaya, crean.
+
+[41:03] 0: Vale, pues ahí ponte simplificar plantillas y generar documento. ¿Y generar documento donde lo tendríamos? ¿En procesos internos o dónde?
+
+[41:17] 1: No, ese documento estaría compartido con todos los clientes. Yo creo que los clientes al final tendríamos que tener una intranet nuestra que ellos podrán entrar, que sea una biblioteca, pero mod sería un drive compartido con ellos, donde volcaríamos esta info y diga todo el mundo puede entrar a ver ejemplos. Pues toma, en la parte de onboarding te envío este link de drive donde tú podrás ir viendo cómo mejorar tus.
+
+[41:44] 0: Plantillas, crear carpeta nuestra de documentos compartidos con clientes o algo así.
+
+[41:54] 1: Pero eso sería incluso aquí ya no.
+
+[41:57] 0: Realmente solo compartimos eso, no compartimos nada más de momento.
+
+[42:01] 1: ¿Pero eso que sería?
+
+[42:03] 0: Simplificar plantillas y generar documento de plantillas y colocar en carpeta, en la carpeta de compartidos con clientes. Se le busca un nombre más.
+
+[42:20] 1: Sí, library, librería.
+
+[42:24] 0: Fuente de conocimiento.
+
+[42:30] 1: Matrix.
+
+[42:33] 0: Vale, vale. Se crea un flujo en n de WhatsApp. Sí, no sé por qué pone llamadas, pero sí, yo creo tenía reunión 10, que esto básicamente es copiar y pegar el ebima y adaptar conforme al miro. Si quieres escribirlo ahí bajo de secreción.
+
+[43:08] 1: Vale, pero este es otro punto de fricción. ¿Cómo podemos hacer esto que sea? Porque esto es lo que más problema nos da. Esto junto con la configuración del Dialpad y del Free PBX, dar de alta.
+
+[43:25] 0: A los usuarios, que eso no está ahí. Es que todo tiene que hacer alguien que sea un poco técnico.
+
+[43:38] 1: Aunque sea técnico, lo que hay que hacer es que el mínimo tiempo posible y que no nos pase lo de que al final no está el flujo, lo tengo que hacer por la mañana, o sea que esto. ¿Pero cómo se puede hacer de una forma automática?
+
+[43:52] 0: Más automática no se puede, ¿Sabes? Que alguien sepa hacer. A mí tampoco me cuesta mucho, si son 15 minutos, el problema es que son 15 minutos míos que no tengo tiempo. Lo que necesito es que me quitéis de FAEN a mí.
+
+[44:07] 1: ¿La pregunta es cómo se podría hacer más fácil? ¿Hay alguna forma de hacerlo más fácil o que tú no hagas que se haga más automático o que se haga más protocolario o que crees tú un documento donde expliques cómo hacerlo? La idea es esto es cómo podemos hacer esto más fácil.
+
+[44:27] 0: Para que otro lo hiciera sería yo crear un documento para que tú lo pudieras hacer.
+
+[44:36] 2: Que.
+
+[44:36] 0: Básicamente es copiar lo de Vima y adaptarlo.
+
+[44:41] 2: Más que nada es que no.
+
+[44:42] 0: Se puede hacer automático porque hay que adaptarlo a lo que se haya definido en el Miró, ¿Sabes? En el Miró el tipo ha decidido dar tres volteretas de campana. Pues es que no se puede automatizar, es que tiene que una persona parametrizar esas tres vueltas de campana.
+
+[45:00] 1: Pero si hay un documento en el.
+
+[45:01] 0: Que está descrito perfectamente cómo se puede llegar a hacer esas tres vueltas de campana, alguien más lo puede hacer.
+
+[45:08] 1: Pregunta ¿Cómo de viable tú ves de crear este documento?
+
+[45:13] 0: Sí, yo lo veo.
+
+[45:16] 1: Porque lo que vamos a hacer es, si quieres a principios de septiembre revisar todo este documento y nos ponemos la tarea para hacerlo este mes de agosto. Sí, mira, vamos a poner una fecha y así ya la tenemos puesta y hacemos repartid.
+
+[46:00] 0: Yeah, mejor yeah. ¿Me puedo mover mi agujerillo? Se me están quitando las. Ya me va mejor. Me tira todo, parece que estoy como roto por dentro.
+
+[46:26] 1: Claro tío, es el mínimo movimiento, porque eso si se te rompe, bro. Hay que meter mano.
+
+[46:34] 0: Cuando estornudo me sigue doliendo.
+
+[46:38] 1: Vale, serán de alta los usuarios, la plataforma con sus correos corporativos, cada uno se adelanta en su.
+
+[46:47] 0: Llegué a pensar de hacer un código en el que de alta todas las personas con los permisos que toca en Odoo. Crear código.
+
+[47:13] 1: Aquí se pide todos los nombres, emails de usuarios.
+
+[47:18] 0: Sí, entonces cogeríamos eso y habría que crearlos en el ZOA también.
+
+[47:23] 2: Vale.
+
+[47:27] 0: Ya sé por qué era crear un código, Ya me acuerdo por qué. Para generar los usuarios con sus permisos y sus claves y sus claves de FreePBX de forma automática. Entonces todo lo de Odoo sería. Y entonces lo que hay que poner ahí es lo que tendría que poner la persona sería el nombre, el correo y la extensión, la extensión que nos haya dado, o sea que se haya definido. Entonces que eso lo escriba en un sitio y le dé a un código y genere, porque así yo ya las contraseñas del FreePBX, que las tendré guardadas porque siempre son las mismas por cada extensión, yo ya creo al nombre y al correo, creo el usuario y en función de la extensión que se le haya configurado, busco cuál es su contraseña de firpbx y ya se la coloco también y entonces ya dejamos todo lo que viene siendo zoa conectado con FreePBX preparado.
+
+[48:53] 1: ¿Vale? De todas formas creo que tendría que, bueno, no, cuando una que se de altas, redactar un email bien, hacer el onboarding bien, tipo, hola, tu usuario se ha creado, redactar ese email también, porque tú cuando vas a pedir esta info, ¿Cómo se la pides?
+
+[49:09] 0: Ya la tienes de arriba.
+
+[49:10] 1: ¿Ya, ya, pero eso cómo lo hemos hecho?
+
+[49:13] 0: ¿La idea es a ver cómo lo hemos hecho?
+
+[49:19] 1: Se pide por un email, se pide.
+
+[49:21] 0: Por un email de template, ahí tú tienes que pedir que realmente las extensiones tampoco se saben ahí, las extensiones se saben arriba, cuando defines el flujo de llamadas es cuando te dicen las extensiones, pero bueno, mejor separarla ahí bajo, ¿No? Pero mejor ahí bajo. A ver, la sabes arriba, porque cuando estás definiendo los flujos pues te tienen que decir, bueno, por ahí en algún momento tienes que pedir número de extensiones asignadas. Correcto. No, pero a ver, redactar el hilo de los emails.
+
+[49:58] 1: No, no, pero eso es para mí, eso yo me entiendo, yo eso, crear.
+
+[50:04] 0: Template de email o la pendela debería estar en el mismo template arriba, es.
+
+[50:16] 1: El de todos, pero luego lo voy a meter yo, o sea, tú, desde que tú y yo, desde que, este es otro que no sé dónde meterlo, pero es desde que tú y yo firmamos este contrato, a ti se te va a ir generando y enviando un tipo de emails, hola, bienvenido primero, muchas gracias por no sé qué.
+
+[50:39] 2: En ese.
+
+[50:39] 0: Template tienes que pedir el CIF, el NIF, la escritura, las facturas de teléfono, los números de teléfono, certificado de cuenta bancaria, el nombre, los mails, los números de extensiones, todo.
+
+[50:48] 1: Tú me lo envías, luego te envío.
+
+[50:49] 2: Otro.
+
+[50:52] 1: Pero yo digo el general, el de todos, el que tenga que haber, un, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez y todos esos que estén en una secuencia.
+
+[51:09] 0: Y seguimos.
+
+[51:10] 2: ¿A ver.
+
+[51:12] 1: Vale, esto lo que tienes que hacer es lo del tema de crear un código que unas sociedades con permiso clave de flipdx de forma automática, nombre, correo, extensión, arreglo definido, lo harías tú? Y ahora empieza verificación de datos. Eso es, todo tuyo, que esto es donde también tenemos un poco tapón. Me gustaría prepararme la reunión ahora, 10.
+
+[51:35] 0: Minutitos, a ver en dónde. ¿Pero eso qué es?
+
+[51:40] 1: Verificación de datos entrantes directas en todas las extensiones salientes directas en todas las extensiones.
+
+[51:47] 0: Son las comprobaciones. Esto tiene que hacer alguien técnico por cojones.
+
+[51:55] 1: Bueno, pero que da igual que la. Pero que, como dice, como me has dicho tú aquí, que alguien que entienda, tú tienes que redactarlo para que alguien lo entienda cuando tú no estés.
+
+[52:03] 0: ¿Crear un documento de verificaciones.
+
+[52:10] 1: Cuando tú ya te liberes o venga la persona esa que hemos dicho es la que va a hacer que te haga eso.
+
+[52:22] 0: Vale? ¿Y qué más? Pues los grupos entrantes redirigen con formación de los usuarios. Bueno, la formación también hay que definirla.
+
+[52:36] 1: Sí esto lo puedo, o sea, esta.
+
+[52:38] 0: Parte, crear guión de formación, tú abajo.
+
+[52:48] 2: Madam, aquí, por eso es bueno, si.
+
+[52:55] 1: Quieres hacer una cosa, todo esto lo hago yo, no te preocupes, te digo.
+
+[53:03] 2: Ahí vamos entonces, a modo resumen, a.
+
+[53:12] 0: Ver, de arriba abajo, rápido, tareas que tenemos. Crear carpeta, José, crear un documento para seguimiento.
+
+[53:41] 1: En resumen, yo hago un poco la pulida para que vaya lo gordo y tú tienes que sobre todo intentar solucionar.
+
+[53:51] 0: Los auriculares y me está conectando, rompear todo el tema de la I, meter la carpeta tú, revisar los chest, tú el mail lo tienes que crear tú. Crear email de abajo también, simplificar, lo que hay que probar la guía, solo simplificar eso. ¿Identificar la última imagen, vale? Un documento para crear el servidor, el protocolo de WhatsApp, llamadas WhatsApp, crear la imagen baja, crear código para generar código y un documento de verificaciones. Entonces yo en mi caso son las verificaciones llamadas WhatsApp de generación y un documento arriba que no me acuerdo que era.
+
+[55:02] 1: Objetivo, por poner un objetivo, que de aquí, que de aquí a aquí está la putada del mes de.
+
+[55:15] 0: Bueno, y nos hemos dejado ahí en rojo el gran pastel. Es un pastel que eso hay que ver cómo solucionamos un código, ¿No hemos dicho, es una paliza increíble como lo estamos haciendo ahora actualmente?
+
+[55:28] 1: Por eso, tío, por eso tío.
+
+[55:30] 0: Energía y tiempo, tío, pero eso ya. Bueno, pónmelo ahí, lo de limpiar base de datos en el segundo, pónmelo como para mí. Y aún y ahora yo me simplifico las cosas.
+
+[55:41] 1: Vale, escucha. Entonces, objetivo, ¿Cómo podemos hacer que esto sean dos semanas?
+
+[55:49] 0: A ver, que la mayoría de cosas son rápidas.
+
+[55:53] 1: Pero tenemos que hacer que al final de este mes pongamos las fechas. Esto tardó un día, esto tardó dos días, esto tarda como una especie de campana, así que se vea claro que lo podemos. ¿Y qué objetivo vamos a poner aquí?
+
+[56:13] 2: Objetivo dos años, dos semanas.
+
+[56:24] 1: Yo lo veo posible, tío. Es que de esta forma es la única forma de que nosotros podamos conseguir los objetivos después. Porque yo puedo cerrar muchos, pero si atoramos, que digo que sí, que esto es clave, porque si no atoramos.
+
+[56:46] 0: Y es clave por el hecho de que esto el día de mañana no tiene que hacer otras personas, si no, no podemos crecer.
+
+[56:54] 1: Y nosotros tenemos que hacer como el fórmula 1, ponemos, quitamos las ruedas en cero coma y eso tiene que estar todo. Es clave, si no, no podemos crecer al chut.
+
+[57:05] 0: Aquí lo único malo es cómo le enseñas al tipo a que haga el miró, porque al final, quieras que no, el cliente sí es el cliente que te define, pero es que los clientes no tienen ni puta idea. Muchas veces más o menos le vamos guiando nosotros. Pero bueno, también es verdad que si hay unos miros ya por defecto, es decirle al tipo más o menos esto es lo que le tienes que decir. Entiéndelo y adáptalo, pero que no te lo modifique entero. Intenta que no te lo modifique entero. ¿Para qué? Porque sabemos que esto es como lo que funciona. Defiende la muerte.
+
+[57:37] 2: Eso es.
+
+[57:38] 1: Y el de Ublux lo hacía así, tengo aquí el mirador, te enseño tal punto. Pues el otro tío que lo haga, que lo haga igual.
+
+[57:46] 0: Pues esto lo tenemos ahora en agosto, lo terminamos y lo pones en marcha tú, para que tú solo, sin necesidad de nadie, puedas hacer todo el onboarding. Y a ver si eres capaz de poder hacer tú solo todo el onboarding y en cuánto tiempo eres capaz de hacerlo.
+
+[58:03] 1: Pero tiene que estar todo eso tan bien explicado que yo al final puedo hacer todas esas cosas.
+
+[58:07] 2: Correcto.
+
+[58:09] 0: Ahí es donde veremos las costuras.
+
+[58:11] 1: Exacto, exacto. Ahí va a petar un poco la esta. Pero si lo consigo hacer yo, lo puedo hacer cualquiera.
+
+[58:17] 0: La idea es conocimiento técnico, o sea, un conocimiento más de venta que el que tienes tú, que pueda llegar a.
+
+[58:25] 1: Hacerlo todo eso, que yo lea este documento y yo diga, vale, cojo, copio, pego, hago esto, doy al enter, funciona perfecto.
+
+[58:37] 2: Sí, esa es la opción.
+
+[58:39] 1: Vale, pues lo vamos viendo. ¿Si quieres, si quieres la próxima semana, si quieres a mediados o así, miércoles o martes, podemos hacer una reunión de seguimiento y vemos un poco cómo va todo, vale?
+
+[58:52] 0: Vale, pues señor, vamos hablando. Voy a ver lo de Vélez para que se queja.
+
+[58:55] 1: Venga.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

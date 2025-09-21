@@ -1,0 +1,1804 @@
+================================================================================
+DEMO/REUNIÓN: VIVIENDEA
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 22/08/2025 a las 09:30
+⏱️ Duración: 120.11000061035156 segundos (2.0 minutos)
+👥 Participantes: alejandro@zoasuite.com,josemanuel@zoasuite.com, alejandro@zoasuite.com
+
+🔑 PALABRAS CLAVE:
+--------------------
+onboarding, desarrolladores, WhatsApp, documentación, ScalyDraw, Asicor
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. A
+5. l
+6. e
+7. j
+8. a
+9. n
+10. d
+11. r
+12. o
+13.  
+14. M
+15. a
+16. r
+17. t
+18. i
+19. n
+20. e
+21. z
+22. *
+23. *
+24. 
+
+25. C
+26. r
+27. e
+28. a
+29. r
+30.  
+31. d
+32. o
+33. c
+34. u
+35. m
+36. e
+37. n
+38. t
+39. a
+40. c
+41. i
+42. ó
+43. n
+44.  
+45. c
+46. o
+47. m
+48. p
+49. l
+50. e
+51. t
+52. a
+53.  
+54. d
+55. e
+56.  
+57. o
+58. n
+59. b
+60. o
+61. a
+62. r
+63. d
+64. i
+65. n
+66. g
+67.  
+68. d
+69. u
+70. r
+71. a
+72. n
+73. t
+74. e
+75.  
+76. p
+77. r
+78. i
+79. m
+80. e
+81. r
+82. a
+83.  
+84. s
+85. e
+86. m
+87. a
+88. n
+89. a
+90.  
+91. d
+92. e
+93.  
+94. s
+95. e
+96. p
+97. t
+98. i
+99. e
+100. m
+101. b
+102. r
+103. e
+104.  
+105. (
+106. 0
+107. 1
+108. :
+109. 1
+110. 2
+111. :
+112. 1
+113. 1
+114. )
+115. 
+
+116. C
+117. o
+118. n
+119. t
+120. a
+121. c
+122. t
+123. a
+124. r
+125.  
+126. a
+127.  
+128. S
+129. e
+130. r
+131. g
+132. i
+133. o
+134.  
+135. d
+136. e
+137.  
+138. V
+139. i
+140. v
+141. e
+142. n
+143. d
+144. e
+145. a
+146.  
+147. p
+148. o
+149. r
+150.  
+151. l
+152. o
+153. s
+154.  
+155. 3
+156. ,
+157. 0
+158. 0
+159. 0
+160.  
+161. e
+162. u
+163. r
+164. o
+165. s
+166.  
+167. p
+168. e
+169. n
+170. d
+171. i
+172. e
+173. n
+174. t
+175. e
+176. s
+177.  
+178. (
+179. 0
+180. 1
+181. :
+182. 3
+183. 5
+184. :
+185. 5
+186. 0
+187. )
+188. 
+
+189. C
+190. o
+191. n
+192. f
+193. i
+194. r
+195. m
+196. a
+197. r
+198.  
+199. h
+200. o
+201. r
+202. a
+203.  
+204. e
+205. x
+206. a
+207. c
+208. t
+209. a
+210.  
+211. p
+212. a
+213. r
+214. a
+215.  
+216. d
+217. e
+218. m
+219. o
+220.  
+221. c
+222. o
+223. n
+224.  
+225. J
+226. u
+227. a
+228. n
+229.  
+230. J
+231. o
+232. s
+233. é
+234.  
+235. d
+236. e
+237.  
+238. A
+239. s
+240. i
+241. c
+242. o
+243. r
+244.  
+245. e
+246. l
+247.  
+248. j
+249. u
+250. e
+251. v
+252. e
+253. s
+254.  
+255. (
+256. 0
+257. 1
+258. :
+259. 2
+260. 6
+261. :
+262. 2
+263. 5
+264. )
+265. 
+
+266. R
+267. e
+268. l
+269. l
+270. e
+271. n
+272. a
+273. r
+274.  
+275. s
+276. e
+277. c
+278. c
+279. i
+280. o
+281. n
+282. e
+283. s
+284.  
+285. t
+286. é
+287. c
+288. n
+289. i
+290. c
+291. a
+292. s
+293.  
+294. m
+295. a
+296. r
+297. c
+298. a
+299. d
+300. a
+301. s
+302.  
+303. e
+304. n
+305.  
+306. r
+307. o
+308. j
+309. o
+310.  
+311. d
+312. e
+313. l
+314.  
+315. d
+316. o
+317. c
+318. u
+319. m
+320. e
+321. n
+322. t
+323. o
+324.  
+325. d
+326. e
+327.  
+328. o
+329. n
+330. b
+331. o
+332. a
+333. r
+334. d
+335. i
+336. n
+337. g
+338.  
+339. (
+340. 0
+341. 1
+342. :
+343. 4
+344. 1
+345. :
+346. 0
+347. 9
+348. )
+349. 
+
+350. 
+
+351. *
+352. *
+353. J
+354. o
+355. s
+356. é
+357.  
+358. M
+359. a
+360. n
+361. u
+362. e
+363. l
+364.  
+365. A
+366. u
+367. s
+368. i
+369. n
+370. *
+371. *
+372. 
+
+373. T
+374. r
+375. a
+376. s
+377. l
+378. a
+379. d
+380. a
+381. r
+382.  
+383. d
+384. i
+385. a
+386. g
+387. r
+388. a
+389. m
+390. a
+391. s
+392.  
+393. d
+394. e
+395.  
+396. V
+397. é
+398. l
+399. e
+400. z
+401. ,
+402.  
+403. B
+404. i
+405. m
+406. a
+407.  
+408. y
+409.  
+410. G
+411. t
+412. e
+413. c
+414. o
+415.  
+416. d
+417. e
+418.  
+419. M
+420. i
+421. r
+422. o
+423.  
+424. a
+425.  
+426. S
+427. c
+428. a
+429. l
+430. y
+431. D
+432. r
+433. a
+434. w
+435.  
+436. (
+437. 4
+438. 3
+439. :
+440. 1
+441. 3
+442. )
+443. 
+
+444. C
+445. o
+446. m
+447. p
+448. l
+449. e
+450. t
+451. a
+452. r
+453.  
+454. e
+455. n
+456. l
+457. a
+458. c
+459. e
+460. s
+461.  
+462. y
+463.  
+464. t
+465. e
+466. m
+467. p
+468. l
+469. a
+470. t
+471. e
+472. s
+473.  
+474. e
+475. n
+476.  
+477. d
+478. o
+479. c
+480. u
+481. m
+482. e
+483. n
+484. t
+485. o
+486.  
+487. d
+488. e
+489.  
+490. o
+491. n
+492. b
+493. o
+494. a
+495. r
+496. d
+497. i
+498. n
+499. g
+500.  
+501. (
+502. 0
+503. 1
+504. :
+505. 4
+506. 1
+507. :
+508. 0
+509. 7
+510. )
+511. 
+
+512. F
+513. i
+514. n
+515. a
+516. l
+517. i
+518. z
+519. a
+520. r
+521.  
+522. m
+523. a
+524. n
+525. u
+526. a
+527. l
+528.  
+529. d
+530. e
+531.  
+532. u
+533. s
+534. u
+535. a
+536. r
+537. i
+538. o
+539.  
+540. c
+541. o
+542. n
+543.  
+544. f
+545. o
+546. r
+547. m
+548. a
+549. t
+550. o
+551.  
+552. a
+553. c
+554. o
+555. r
+556. d
+557. a
+558. d
+559. o
+560.  
+561. y
+562.  
+563. c
+564. a
+565. s
+566. o
+567. s
+568.  
+569. d
+570. e
+571.  
+572. u
+573. s
+574. o
+575.  
+576. (
+577. 0
+578. 1
+579. :
+580. 5
+581. 3
+582. :
+583. 4
+584. 5
+585. )
+586. 
+
+587. A
+588. c
+589. t
+590. u
+591. a
+592. l
+593. i
+594. z
+595. a
+596. r
+597.  
+598. s
+599. c
+600. r
+601. e
+602. e
+603. n
+604. s
+605. h
+606. o
+607. t
+608. s
+609.  
+610. d
+611. e
+612. l
+613.  
+614. m
+615. a
+616. n
+617. u
+618. a
+619. l
+620.  
+621. d
+622. e
+623. s
+624. d
+625. e
+626.  
+627. p
+628. e
+629. r
+630. s
+631. p
+632. e
+633. c
+634. t
+635. i
+636. v
+637. a
+638.  
+639. d
+640. e
+641.  
+642. u
+643. s
+644. u
+645. a
+646. r
+647. i
+648. o
+649.  
+650. n
+651. o
+652. r
+653. m
+654. a
+655. l
+656.  
+657. (
+658. 0
+659. 1
+660. :
+661. 4
+662. 6
+663. :
+664. 2
+665. 7
+666. )
+667. 
+
+668. 
+
+669. *
+670. *
+671. A
+672. b
+673. b
+674. y
+675. *
+676. *
+677. 
+
+678. R
+679. e
+680. s
+681. o
+682. l
+683. v
+684. e
+685. r
+686.  
+687. p
+688. r
+689. o
+690. b
+691. l
+692. e
+693. m
+694. a
+695. s
+696.  
+697. c
+698. r
+699. í
+700. t
+701. i
+702. c
+703. o
+704. s
+705.  
+706. d
+707. e
+708.  
+709. p
+710. e
+711. r
+712. m
+713. i
+714. s
+715. o
+716. s
+717.  
+718. q
+719. u
+720. e
+721.  
+722. a
+723. f
+724. e
+725. c
+726. t
+727. a
+728. n
+729.  
+730. a
+731. c
+732. t
+733. i
+734. v
+735. i
+736. d
+737. a
+738. d
+739. e
+740. s
+741.  
+742. y
+743.  
+744. m
+745. u
+746. l
+747. t
+748. i
+749. b
+750. r
+751. o
+752. k
+753. e
+754. r
+755. s
+756.  
+757. (
+758. 0
+759. 7
+760. :
+761. 2
+762. 5
+763. )
+764. 
+
+765. B
+766. u
+767. s
+768. c
+769. a
+770. r
+771.  
+772. d
+773. e
+774. s
+775. a
+776. r
+777. r
+778. o
+779. l
+780. l
+781. a
+782. d
+783. o
+784. r
+785. e
+786. s
+787.  
+788. J
+789. a
+790. v
+791. a
+792. S
+793. c
+794. r
+795. i
+796. p
+797. t
+798.  
+799. d
+800. e
+801. n
+802. t
+803. r
+804. o
+805.  
+806. d
+807. e
+808. l
+809.  
+810. e
+811. q
+812. u
+813. i
+814. p
+815. o
+816.  
+817. p
+818. a
+819. r
+820. a
+821.  
+822. p
+823. r
+824. o
+825. y
+826. e
+827. c
+828. t
+829. o
+830.  
+831. (
+832. 0
+833. 6
+834. :
+835. 2
+836. 8
+837. )
+838. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[04:16] 0: Que dice ¿Cuando vuelves a la City?
+
+[04:24] 1: Pues en seis días.
+
+[04:27] 0: Yo creía que estabas por allí.
+
+[04:30] 1: No, el 28 tú ¿De qué hora.
+
+[04:35] 0: Se para el domingo?
+
+[04:36] 1: Voy para allá una semanita tío.
+
+[04:40] 0: Si, hoy voy a preparar todo lo de ya lo de Kaori y demás porque la semana que viene me toca. Era pringar aquello. El hecho de intentar esta semana adelantar todo lo que pudiera en ZOA era para eso, para que ahora ya septiembre poder no tener mierdas de SOA en plan de ir a remolque. Odiaba el mes de que empecemos a hacer un montón de onboardings, iba remolque, pero vamos a morir esta semana. Aprovecha toda la semana a hacer cosas de ZOA y así ya no voy a remolque y está todo preparado. He dejado especificado faena hasta octubre. Mónica su última semana es la semana que viene y entonces con Abby mañana gestionando, porque Abby es todo, yo lo haré, yo lo haré. Digo que no puedes hacer tú todos, tía, necesitamos más gente. No es tan bueno, no es tan bueno, no tiene aún tanta independencia. Pero es que no es que necesitemos uno sin necesitamos dos. Necesitamos uno porque faena y otro para sustituir a Mónica. Lo bueno de haber especificado todo lo que queda para hacer, para dejarlo todo bien, es que hay una cantidad de tareas que se puede leer y él puede pensar a ver a quién meter en el equipo, porque le estaba diciendo, vale, pues si estas las tienes que hacer tú, esta otra la puede hacer él, esta otra la puede hacer él, esta otra. Y entonces empezaba, no, porque esta no sé quién, esta no sé cuántos. Y entonces me ha dicho, pues voy a mirar si alguien en el equipo que sepa de JavaScript se quiere meter en el proyecto. Y digo, pues por eso necesitamos planificar, porque necesitamos saber quién coño va a hacer qué. Y me ha dicho que esa tarde que lo miraríamos. Mucha faena queda ya me entra ansiedad porque cuando ya lo tengo claro, el hecho de que no esté hecho me.
+
+[06:57] 1: Entra ansiedad, pero mucha faena de lo básico o de lo de lo robusto, que por ejemplo, que hemos dicho WhatsApp se va a quedar 100% robusto. De eso estará más o menos esta semana, no la que viene.
+
+[07:10] 0: En principio de WhatsApp está casi todo hecho, falta testeo. Yo le he puesto deadline mañana a subir en clientes, que mañana será el lunes, ya verás.
+
+[07:22] 1: Bueno, creo que sí, que ya es el lunes, que no es un mes.
+
+[07:25] 0: Si están con WhatsApp. Acá llevan dos semanas solo con WhatsApp los dos. Sí, pero no son temas de permisos. Hay mucho problema de permiso que tiene que arreglar Avi. Temas de. Porque, por ejemplo, el tema de las actividades no va bien del todo porque hay problemas con permisos. Lo de los multibrokers también se arregla con permisos, también lo tiene que hacer Abby. Lo de poder permitir agentes externos.
+
+[07:58] 1: Colaboradores.
+
+[07:59] 0: Colaboradores. A Abima ya le dijimos, te lo estará para septiembre. Temas del email hay que empezarlo y acabarlo. No sé. Entonces le estaba diciendo, bueno, pues por el nuevo desarrollador que se ponga con el mail. Pero bueno, es tratar de ver. Queda el WhatsApp y el WhatsApp lo divido en dos. Las cosas necesarias que tienen que estar para allá y luego cinco mejoras que pueden estar más adelante. Las llamadas se hizo también lo primordial y también dejé como 5 mejoras para más adelante, pero que antes o después hay que hacerlas. Y temas y dos arreglos que hay que hacer. Luego el tema web app. A la web app lo hacía todo Mónica y Mónica no está. A ver quién coño lo hace. La web app también habría que mejorarla, sobre todo la parte de WhatsApp y de llamadas, como tú dijiste, porque ese es otro. El audio que me mandó ayer Vélez. Oye, ¿Cuándo podremos utilizar la aplicación Winlich?
+
+[09:02] 1: Cuando tengamos la esta. Es que eso lo veo porque hay mucha gente que al final eso es una barrera de entrada que todo el mundo ah, vale, vale, me gusta. Pero una cosa. ¿Y desde el móvil? Porque hay mucha gente que cuando son pequeños son más vendedores. Bueno, cuando son grandes también.
+
+[09:21] 0: A ver, es que ahí la web app es una solución y dejarla limpia es una posible solución, pero ni de lejos es tan buena solución como una aplicación nativa. Una aplicación nativa. No nos podemos permitir una aplicación nativa hasta que no la hagamos de cero.
+
+[09:38] 1: Claro.
+
+[09:40] 0: Entonces. Y que la aplicación de Wildix funcione junto con la FreePBX no depende de nosotros y es una mierda porque no depende de nosotros y Wildix no va a hacer nada por mejorarlo. Entonces estamos ahí un poco en. Lo único que da la narrativa es mejorar la web app y cruzar los dedos.
+
+[10:05] 1: Claro, pero escucha, no me preocupa porque esta gente está acostumbrada a trabajar con MS ¿Sabes?
+
+[10:11] 0: Eso también es verdad.
+
+[10:12] 1: No son ningún astronauta ni ningún. Entonces no lo veo mal. La gente al final se va a hacer lo que le digamos, pero que cuando den al botón verde, que se haga llamada y rojo, que sería todo.
+
+[10:23] 0: El proceso de llamada, revisarlo de arriba a abajo y que sea fácil, intuitivo y funcione. Y el WhatsApp igual. Todo el proceso de WhatsApp de arriba abajo funciona bien, pero estamos fatal de personal. Así que a ver a V ahora esta tarde. Por eso me he puesto un poco serio con él, que anoche lo estaba pensando en plan de. Porque me estaba poniendo ya nervioso, en plan de vale, ya está todo especificado, ahora qué tiempos.
+
+[10:50] 1: Claro.
+
+[10:52] 0: Y es lo que es, en plan de, joder, pues no esperar, o sea, que meta más gente.
+
+[10:58] 1: El verano ha pasado. Es más que nada porque si vamos a dar el chutazo para adelante, las cosas vamos a empezar, las costuras van a empezar a tirar. Entonces veremos a ver.
+
+[11:09] 0: Es que lo que le estaba diciendo, digo, necesitamos a Cass que se quede con las comunicaciones, a uno nuevo que se quede con el resto, y a una Mónica o alternativa de Mónica que se quede con el dashboard, la web app, todo lo que es frontend, la web app, el dashboard y la tabla del call history y la user zone. Necesitamos a las tres personas y tú de supervisor y ayudando al equipo y solucionando mierdas urgentes. Pero no me sirve la respuesta de no te preocupes, yo lo haré, yo lo haré. No, es que lo haces tú todo, cabrón.
+
+[11:47] 1: Pero una pregunta, ¿Lo hace el todo? ¿Y puede hacer el todo? No, imposible.
+
+[11:52] 0: Si hay faena. IPad 4. Lo que pasa es que quedan las difíciles. Hemos ido tirando para adelante lo difícil, lo difícil, lo difícil. Y claro, pues queda lo difícil. Entonces todo es yo lo voy a hacer porque queda lo difícil. Fáciles no queda ninguna.
+
+[12:11] 1: Y si se le paga domingos.
+
+[12:14] 0: Pero si es que el problema es que lo vamos a petar.
+
+[12:17] 1: Bueno, pero cuatro meses, que aguante un poco el tirón.
+
+[12:21] 0: Si no, Abby, lo vamos a petar. Pero no, no, ese hombre tiene que estar para urgencias.
+
+[12:25] 1: Ya. Ya.
+
+[12:28] 0: Tiene que estar para urgencias.
+
+[12:32] 1: Estoy con un crítico.
+
+[12:33] 0: No, ahora mismo es que Abby debería estar tranquilo y solo estar para urgencias. Ya, es que eso sería lo ideal. Entonces necesitamos que el resto, aunque vaya más lento, pero que no lo haga él, que lo hagan otros y que él les vaya ayudando y de esa manera también va enseñando.
+
+[12:51] 1: Pero es que ahora necesitamos velocidad más que nada. Ya, velocidad y robustez.
+
+[12:59] 0: Ya, pero no, o sea, tú métele velocidad ahora y métele a lo loco y verás lo que te pasa el primer día.
+
+[13:06] 1: Sabiendo lo que queremos.
+
+[13:08] 0: ¿No? Si sabemos lo que queremos, pero lo principal que quiero es que las costuras no rompan. Entonces para que las costuras no rompan, vísteme despacio que tengo prisa.
+
+[13:19] 1: Pero por ejemplo, yo te dije, me dirás si empezamos en septiembre ya a vender y a escalar el producto ¿Está robusto para escalar?
+
+[13:31] 0: Bastantes. A ver, está bastante robusto.
+
+[13:35] 1: Bastante no es una respuesta.
+
+[13:37] 0: A ver, realmente la faena que hay entre Abi y AK durante el mes de septiembre se la comen. Pero quiero que vaya más rápido. Por eso el hecho de en plan Mónica se va. Mónica tiene ahí como cuatro actividades que las va a acabar la semana que viene y le quedan 7. 7 que las podría hacer Mónica y las podría hacer cualquier otro. Realmente no son muy vitales esas otras siete. Entonces esa parte. Bueno, y la faena que queda por el otro lado entre Akashi y Abby se la comen durante el mes de septiembre sin problema. Pero prefiero tener a uno más.
+
+[14:24] 1: Y.
+
+[14:24] 0: A Abby que esté no sacando código sino más de supervisor. Porque si empezamos a crear máquinas nuevas y empiezan a haber problemas y a Cas y a Abby los tenemos haciendo código, arreglando cosas y tal, lo tenemos digamos en producción, voy a tener que estar parándolo a Abby todo el rato para que me solucionen los problemas de los clientes nuevos. Entonces eso se retrasará. Entonces prefiero tener dos, al menos dos, y si pudieran ser tres, de puta madre, que vayan a su ritmo, que Abby les ayude cuando no tenga faena y también acelere. Pero si hay problemas, que Abby pueda dejarlo todo en los otros tres y que los otros tres vayan haciendo marcha y solucione los problemas. Pero que si no fuéramos a tener problemas durante el mes de septiembre entre Akashi y Abby, lo que tienen se lo acaban. Pero sé que ocurrirán cosas y es.
+
+[15:24] 1: Que yo también creo que van a ocurrir cosas.
+
+[15:30] 0: Septiembre vas a decir que si Ahora dejan el WhatsApp muy robusto y acá solo va a estar acaso yo solo quiero que esté con WhatsApp y con llamada que los tiene súper dominados y son los dos pilares principales. Entonces realmente si, eso está bien. Hemos estirado el chicle al resto de clientes tres meses fácilmente.
+
+[15:59] 1: Pero ya no podemos hacer la de antes. Se puede hacer, pero te va a.
+
+[16:04] 0: Tocar seguir haciéndolo hasta octubre.
+
+[16:06] 1: Han tenido una paciencia impresionante. Y luego aparte, no sé el tema del historial de archivos, de contactos, cómo.
+
+[16:14] 0: Va eso, pero está ya hecho, pero falta repasarlo porque no va todo bien en principio en VLC está. Y le digo, me dice, oye, pero no veo que tal. Y sí, sí, no te preocupes, ya estamos mirando, no te preocupes. Cuando las cosas son nuevas, pues nos cuesta un par de semanas dejarlo ya estabilizado, tal. Ah, vale, vale, vale.
+
+[16:38] 1: Ese hombre, mi nombre, nos ha tocado.
+
+[16:41] 0: El cocaína de su hermano, pero a ver, tampoco queda tanto para dejarlo. Muy bien, falta acabar de limarlo y estamos hablando septiembre octubre a lo mucho tirándolo por arriba.
+
+[16:55] 1: Ya estás tirando, te falta noviembre un poquito.
+
+[17:00] 0: Noviembre no, de septiembre seguro. Y te digo octubre por si acaso, o sea, el problema es lo que te estoy comentando, depende del número de marrones que haya en septiembre. Si no hay marrones en septiembre, en septiembre se acaba seguro. Si hay marrones en septiembre, paras a Abby, paras la producción, te digo porque.
+
+[17:23] 1: Hay dos o tres que pueden ser bastante gordos en septiembre y la impresión tiene que ser buena.
+
+[17:33] 0: La impresión sea que podamos y manejaremos esto como podamos, como siempre. Aún así, con unboarding, manejándonos todos los tiempos. A ver, lo bueno es que yo ahora mismo, ahora lo veremos, pero el onboarding lo tenemos ya mucho más trillado que antes, era como más a lo loco. Entonces sabiendo en qué estado tenemos el software y sabiendo y gobernando bien el onboarding, vamos manejando los tiempos y ya está.
+
+[18:08] 1: Eso sí, eso sí, nosotros lo que tenemos que mejorar, que lo que podemos.
+
+[18:14] 0: Básicamente lo que tenemos que conseguir es que nuestros puntos débiles no nos los encuentren en octubre, para así tu faena y la mía este mes de septiembre es ganar tiempo para Abby. Ya está, esa es tu faena y la mía, conseguir tiempo para AB para que acabe. Contra menos le molestemos con cosas nuevas, antes nos acabará lo viejo. Si le molestamos con mucha cosa nueva, haremos una bola impresionante.
+
+[18:48] 1: Ya imposible. Ya está todo el juguete hiper diseñado. Diseñado. Ya sabemos lo que hay. Entonces como tú dices, hay que hacer aquí de.
+
+[19:01] 0: Porque no tenemos programadores básicamente y dirías, contratas aquí que sí que es peor, te vas a gastar más pasta y tampoco vas a ver y tampoco te va a dar la velocidad.
+
+[19:15] 1: No, lo que está está con lo.
+
+[19:22] 0: Que está especificado y un mantenimiento. Con eso aguantamos. Con eso aguantamos, porque ya lo siguiente sería el tema de meterle más canales, temas de conectarnos con meta para formularios, campañas, email marketing y cosas de esas, pero eso ya veremos, si no haremos algún apaño, lo que sea ya más a final de año o lo que sea, pero lo que haya especificado es para dejar las cuatro comunicaciones de puta madre, todo el sistema de actividades de puta madre, la ficha de contacto con su histórico, generando histórico bien, todos los permisos en actividades, en zona de usuario, en el multibró, más de un broker y demás, todo eso funcionando y ya está. Y luego toda la parte de gestionar tanto en ventas como tareas, oportunidades como tareas, o sea, todo lo que hay especificado es para dejar el producto que queremos estable, es decir, tendríamos ya una primera versión estable del MVP conforme lo queremos. Y eso son las tareas que están haciendo actualmente, que son siete, que eso tiene que estar acabado toda la semana que viene más 21. 21 25. Si cuenta las de infra también, eso.
+
+[20:55] 1: Tienes todo en el roadmap, ¿No? Para verlo.
+
+[21:08] 0: Aquí en el de Product. Estas siete son las que están haciendo ahora. Bueno, que la séptima es. Le llamo 4.0 a la metodología, habría que buscar un nombre mejor. Cero emails, cero WhatsApp, cero llamadas, cero actividades, cuatro ceros.
+
+[21:31] 1: Vale, bueno, esta no la he pillado. 4.0.
+
+[21:40] 0: Estas cuatro son de Mónica que las tiene que finiquitar ya, o sea, están prácticamente hechas todas. Esta es la de WhatsApp, que ya va 22 de 36. En principio hoy las tiene que dejar acabadas y entre hoy y mañana. Y el histórico de. Del contacto que lo tenía que revisar porque eso no va bien. Entonces tenemos 7 en danza, 7 más que hay de frontend y 13 que hay de backend, esto suman 20. Y de aquí importante, solo es la primera, 21. Estas 4 son importantes, infraestructura, pero esto puede estar por octubre, no hace falta que esté ya. Entonces tenemos estas 21 y las 7 que tenemos ahora ya prácticamente acabando. Vale, pues bueno, queda todo perfecto, está todo lo de SMS, aguardar, audio sentiment, modificar el código de llamadas perdidas, que ya lo rehíce para que fuera más completo, los problemas que hay con las llamadas con Teams y Google Meet, lo de poder permitir que las llamadas que el ring salga en los altavoces y el resto lo puede hacer en los headphones. 5 mejoras que se quedaron por hacer pero que no eran vitales de la transferencia de llamada. Mejoras en WhatsApp que están lo importante que es lo que están haciendo ahora y dejé las 5 que eran mejoras para más adelante, pero tal arreglar el email.
+
+[23:13] 1: Chequear todos, nivel de email. Cuánto crees que desde que empiece hasta que termine lo podrán dos semanas.
+
+[23:24] 0: Entonces mi idea era que empezaran el lunes que viene, pero hay una serie de cosas aquí de permisos que la verdad que sí, que esto más o menos se lo pueden ventilar en una semana y que nos quitan de repente, mira todo 1, 2, 3, 4. 5. Hay 5 actividades aquí que en una semana se las podrían ventilar. Entonces no sé si la semana que viene. Lo que he pensado es meto la semana que viene estas 5 así se ventilan 5 de golpe y ya empezamos septiembre con el mail y son las dos primeras semanas de septiembre con el mail y luego ya sólo. Y eso por un lado. Y por otro lado en paralelo temas de llamadas. Bueno que necesitamos gente, porque esto tendría que estar como máximo tercera semana de septiembre.
+
+[24:15] 1: ¿Vale? Y por ejemplo eso, necesitamos gente. Pues eso, acá la Mónica se va, el nuevo está aprendiendo. Necesitaríamos a otro más para que esto, para pasar el bache del último trimestre.
+
+[24:27] 0: Necesitamos al nuevo que sea igual de bueno al menos que a Cas, que me da a mí que no está ni cerca. Y alguien que sustituya a Mónica que sea igual de bueno en JavaScript.
+
+[24:44] 1: He pensado yo el planteamiento que hice anoche fue este. Es un poco lo que no te va a gustar a ti, pero es un poco el de cogemos a alguien español o exterior o argentino y que lo gestione. Hábito.
+
+[25:01] 0: Pero es que el problema es la organización.
+
+[25:05] 1: ¿Pero Avis el que? La cabeza. Ya, organización. Pero hombre, Avis tendrá metodologías ágiles para poder trabajar en remoto con alguien. Curry con queso no se llama. Ojalá.
+
+[25:18] 0: Esa es mi guerra de los últimos.
+
+[25:20] 1: Cuatro años con él igual la forma de aprender me refiero. Si no hay indios, que tú que estás en entorno do tengas alguien que podamos meter.
+
+[25:32] 0: Sí que tengo, Tengo a este, pero el problema es que es mucho más caro y trabajan de otra manera.
+
+[25:41] 1: Iván Arriola Bueno, pero si nos salva la jugada es como. Tienes que hacer un equipo con lo que tenemos, tío.
+
+[25:50] 0: El problema con lo que tenemos es.
+
+[25:52] 1: Con los indios, pero igual hay que meter.
+
+[25:56] 0: Es más fácil que Abby ponga de su equipo y él haga de soporte a ellos. El que más histórico tiene es Abby. Abby se podría comer todo él solo, pero claro, vamos a un ritmo más lento. Entonces lo que necesito es que Abby se genere sus tentáculos para que sigan, que lo supervise él, porque al final se quema. Si es que además es que lo tengo ya demostrado, las cosas que no van por AVI, como no me toca luego estar discutiendo mucha porque no acaban de dejarlo como se necesita.
+
+[26:33] 1: Y este no es como un AV.
+
+[26:36] 0: Ese es como un AV pero le falta todo el contexto de AVI y aún así.
+
+[26:45] 1: Ya, pero no que a este le supervise Abby y.
+
+[26:51] 0: Pero eso va a ser imposible, o sea que Abby vaya que supervise a Iván. Iván es como un AVI. Iván prácticamente no programa, por debajo de Iván hay 10 programadores y esos 10 programadores son gobernados por Iván. Y que Abby se entienda con Iván.
+
+[27:13] 1: Lo veo meter los gallos.
+
+[27:20] 0: Totalmente imposible. Tendría que estar yo en medio y casi que perderíamos más tiempo. Si, lo que tenemos que hacer es que crezca.
+
+[27:30] 1: Y un Iván para la web app.
+
+[27:36] 0: Iván En el caso de la web app no sé cómo funcionaría porque ellos son más de de Python y XML y todas las veces que he intentado que me hicieran frontend me la han hecho como el culo. Hasta que llegó Mónica y hacía mejor frontend que gente que me cobraba tres veces lo de Mónica, porque Mónica viene de hacer mucho frontend de React y demás y entonces no viene de un perfil de backend de Python y demás, sino que viene de hacer frontend de siempre y hacía mejor el frontend que nadie. Básicamente esta es la estructura que le dije ayer. Akash que se encargue de mantener el WhatsApp, las llamadas, el email, lo que.
+
+[28:25] 1: Son las comunicaciones que has dicho, el.
+
+[28:29] 0: Nuevo developer que se quede con el tema de las actividades, el CRM, proyectos, contactos y el global Search, que también habría que darle una vuelta. Y Mónica o su sustituto, Web app, Dashboard, general, tabla de todo lo que es el histórico de llamadas y la user zone. Necesitamos estos tres. Con estos tres cubrimos toda la faena y avi que se quede solo de supervisor, de solucionar problemas urgentes, de ayudar al equipo y de temas de permissions. Lo que necesitamos al final es hacer grande este equipo.
+
+[29:08] 1: Independiente. Independiente no, me refiero que sí que lo entiendo y estoy buscando soluciones porque si no hay recursos. Pero ahora mismo necesitamos recursos y velocidad. ¿Para que hacer que la gente acabe?
+
+[29:27] 0: Recursos tiene, pero por ejemplo, el new.
+
+[29:33] 1: DEP y el sustituto de Mónica. Allá cae uno porque new Depp vale la mitad que Akas y Mónica no va a estar solo. Queda Abby y Akas. Abby y Akas y medio. Claro, ahí no hay recursos.
+
+[29:52] 0: Lo que tenemos que hacer es que lo que le estabais diciendo es busca quien coño te dé la gana. Pero necesito este equipo. Más que nada porque él es el que más contexto tiene y el que más rápido va a poder conseguir que alguien esté a la altura de Akas o de Abby.
+
+[30:11] 1: Pero es que nos va a tardar bastante. Eso no va a ser.
+
+[30:15] 0: Pero con el argentino lo mismo. Y externo aún peor. Porque no está hablando con Nabi todos los días en toda hora y puede preguntarle. Aún va a costar más incluso generarle contextos. El problema de la programación. Hay una curva de aprendizaje que es una.
+
+[30:36] 1: Fíjate que esto lo hablamos tú y yo en julio. Junio julio.
+
+[30:39] 0: Lo de contratar a este. Pero mira, una actividad, un trabajo en agosto. Este Ya. Y lo hizo. Bueno, regulera. Esto ya lo hablamos un momento. Ya se contrató. Pero es que la curva de aprendizaje es una.
+
+[31:00] 1: Claro, es que yo aquí quitaría supervisor, Abby, supervisor y Mónica. ¿Mónica que haga que? Seguramente que no lo hará igual de bien Mónica.
+
+[31:09] 0: Pero Mónica ya no está, no cuenta con ella.
+
+[31:12] 1: Ya, por eso. ¿Pero quién tendrá que hacerlo de Mónica?
+
+[31:15] 0: Otro programador de JavaScript que sí que tiene más como Mónica. Esta tarde hemos dicho de verlo. Necesitamos este equipo. Con este equipo eso iría rápido. Y lo más fácil es no desmembrarlo, sino que lo genere. A mí para asegurarnos una calidad, tienen que estar por debajo de AV. Y poner a un argentino a que se comunique con AVI. Lo veo complicado. Yo cuando he hecho esto con diferentes equipos, es que al otro equipo le das una tarea totalmente distinta. Pero es que ahora mismo. Pero es que ahora mismo. Es que no tenemos actividades distintas. Ya es limar todo lo que tenemos. La web app. Los argentinos no creo que lo hicieran bien. Temas del email y cosas así que son backend. Sí pero el tema del frontend, yo en su momento trabajé con muchos y ninguno. Normalmente en Odoo nadie modifica el frontend, solo se dedican a modificar funcionalidades, añadir funcionalidades. Casi nadie se dedica a modificar el frontend.
+
+[32:43] 1: Pues nada, nada, vale, eso lo controlas tú un poquito más, pero pues nada, habrá que seguir toreando niño, qué le vamos a hacer.
+
+[32:51] 0: Entonces nuestra tarea es conseguirle tiempo y a la vez apretarle para que nos genere este equipo y vaya más rápido. Tenemos que apretar por un lado y por otro lado de cara al cliente, conseguir tiempo.
+
+[33:09] 1: Lo que me da miedo es que al final nuestros. Estamos tolando a Vélez, estamos a tal, pero ya se va cerrando el círculo de ¿Y con que está? ¿Con quién estás de broker, ¿Con quién estás? Con Vélez. Vale. Y hablan a Vélez y le dice oye, yo estoy bien pero no te puedo todavía. Claro, no te puedo sugerir. Entonces ahí hace uno.
+
+[33:34] 0: ¿Estamos hablando de un mes? Tampoco estamos hablando de tres meses.
+
+[33:37] 1: Es que a mí con el de broker, bueno, con el Doctor Seguros me pasó algo parecido. Digo, no te puedo decir, Lo único que te puedo decir es este. Porque ya he hablado con el broker para el tema de la API. Ah, vale, pues déjame su contilos. Bueno, lo que dices tú, que habrá que torear, que no pasa nada y.
+
+[33:57] 0: Que hay que conseguir 5. Con 5 ya llegamos a final de año, vamos a conseguir 5 con cabeza, pero escúchame, vamos a conseGUIR 5 INICIALES CON CABEZA. Esto es lo mismo de la otra última vez, en plan de no podemos ir a lo bruto al primero que llegue. Vamos, ahora sabemos que tenemos unas debilidades que nos quedan un mes, mes y medio de que se conviertan en fortalezas. No seamos kamikazes, no nos vayamos con el primero que pase, Vamos a intentar hacerlo con cabeza, coger gente que sepamos que podemos manejar y que no nos van a hacer un cristo y en el momento estamos hablando de un mes, ya nos vamos al resto.
+
+[34:47] 1: Lo tengo en cuenta.
+
+[34:52] 0: Al final el hecho de. Claro, es más fácil ir al primero que pase, pero es que nadie dijo que esto fuera fácil, si no ya estaría hecho todo.
+
+[35:04] 1: Sé que pintos y flautas no hay que tocar, porque si es uno que tenga más de 25, uno que esté lejos, otro que tenga una especificación de la web app y queda no sé qué otro una especie de Vélez, una.
+
+[35:15] 0: PC Gteco, gente que muy pro, muy pro a hacer cosas nuevas.
+
+[35:24] 1: Tecnológicos y.
+
+[35:26] 0: Que sepan un poco del mercado y decir, sí, sí, es que todo el resto que hay es una puta mierda. Vd. Es lo mejor que hay, ya está.
+
+[35:34] 1: Sí, al de Jorge de Cáceres no le he tocado mucho porque no me ha dicho nada, pero tampoco quiero decir nada porque él necesitaba un RP CRM.
+
+[35:41] 0: Entonces he dicho, mira, vamos a dejarlo ahí, pero bueno.
+
+[35:45] 1: Vale, vamos a darle al Conforme yo.
+
+[35:50] 0: Lo veo, conforme yo lo.
+
+[35:53] 1: Vamos a ordenar un poco la reunión y así vamos a tiro. Estaría bien que viésemos toda la parte del onboarding y luego me gustaría enseñarte el manual para que me des tu punto de vista, porque hay dos cosas que me estoy como. ¿No sé cómo se vería mejor, cómo se explicaría mejor, cómo se vería mejor? ¿Y tú quieres ver algo más?
+
+[36:14] 0: No quiero simplificar esto porque yo realmente hasta la primera semana de septiembre no le voy a poder dar más cariño, pero sí que es verdad que más o menos lo tengo ya claro de la paliza que me pega esta semana, lo tengo bastante claro de cómo tendría que ser todo y al menos dejarlo todo bien estructurado con los huecos que falten y ya se van rellenando.
+
+[36:36] 1: Vale, eso te quería decir. No sé si has podido avanzar en algo como. Estaría bien que tú dejases unas instrucciones claras y concisas.
+
+[36:44] 0: Vale, eso es.
+
+[36:47] 1: Para que yo lo pueda hacer con los ojos cerrados.
+
+[36:50] 0: Entonces por eso es. Yo lo que haría sería un documento, esto luego a modo checklist con los títulos, pero lo que haría sería un documento donde está, donde tú vas leyéndote ese documento y vas ejecutando y lo puedes hacer todo en la carpeta de aquí que empezaste tú, pero no sé si es este o este. A mí que lo empezaste cuando empezaste también el checklist y lo hiciste el checklist o no sé.
+
+[37:18] 1: No, no, este sí, este es el que tú y yo empezamos el onboarding inicial.
+
+[37:23] 0: Vale, pero entonces lo hacemos aquí.
+
+[37:27] 1: ¿Vale, dices, sería ese?
+
+[37:32] 0: No, pero yo veo que tendríamos que hacer un documento tipo esto, donde se va explicando uno, dos y luego el checklist lo podemos tener a modo de los títulos. Uno no sé qué, dos no sé qué, tres no sé qué, cuatro no sé qué, y aquí pam, pam, pam, pAM, pam, a modo che, pero un texto, o sea, un documento bien descriptivo.
+
+[37:57] 1: De todo este documento, imagínate, viene Alfredo.
+
+[38:03] 0: Léetelo, correcto, no hace falta ni que te lo aprendas, póntelo al lado y ves haciendo. Eso es, vale, entonces para ello pues necesitamos darle orden a este documento, que.
+
+[38:21] 1: Cada uno su parte lo redacte como explicándoselo a un tercero ¿No?
+
+[38:26] 0: Pero lo que quiero hacer contigo sobre todo son los títulos y luego ya rellenamos cada uno lo suyo, que es lo que quiero hacer rápido contigo.
+
+[38:40] 1: Betaclientes.
+
+[38:43] 0: Vale, entra un cliente, entonces punto 1, aquí yo entiendo que sería punto 1, crear carpeta, crear carpeta cliente.
+
+[38:58] 1: Y.
+
+[38:58] 0: Aquí yo especificaría ir a no sé dónde, dónde está la carpeta template esta.
+
+[39:04] 1: Que has creado, vete a clientes, se puede copiar hasta directamente la dirección raid, vete al drive, documentos compartidos, clientes, carpeta ejemplo.
+
+[39:32] 0: Ir a clientes, copiar, cambiar, copiar.
+
+[39:49] 1: Esta carpeta, copiar la estructura de esta carpeta.
+
+[39:57] 0: Estructura de esta carpeta y cambiar el nombre por el del cliente, correcto, correcto 2. Y entonces yo aquí lo que haría sería en el checklist pondría nada de esto, pondría pum, 1, crear carpeta cliente entonces para ya hacer el check, conforme esto lo haga ya puedo hacer check, lo he hecho.
+
+[40:25] 1: Vale, que ponga uno y ponga el título y el check.
+
+[40:29] 0: Correcto, aquí pongo medio y si quieres ponemos también el 1, entonces ya el resto, bueno lo de responsable y demás lo podemos poner tal y las fechas límites pues también y luego habría que contabilizar eso, cuánto tiempo nos cuesta hacer cada cosa, si esto lo puedo hacer en una hora, dos horas, cinco horas, seis horas, lo que. Y entonces él ya va haciendo, se viene aquí, crea cápeta, vale, check 1 y hecho, yo lo veo así.
+
+[40:59] 1: 2. Esto dijimos que dentro de la reunión identificar número de usuarios, mayor pain, gestión de ventas, identificar ganas de entrada, bla, bla, pero más que nada.
+
+[41:16] 0: Reunión con.
+
+[41:17] 1: El cliente, esto es la reunión con el cliente nuestra y de ahí se hace una entrevista o un documento en el cual se detalla un poco.
+
+[41:28] 0: Las.
+
+[41:28] 1: Necesidades del cliente.
+
+[41:33] 0: Está en el baño.
+
+[41:34] 1: Creo.
+
+[41:38] 0: Entonces yo aquí ya puse cosas en plan que sea parte de lo que tenía que hacer yo, pedir al cliente y definir en Scaly Draw, que esto habría que hacer un ejemplo en el Scaly Draw, o sea que eso si pudieras tú esta semana que viene cogerte uno de los miros, el de Vélez, o sea habría que pasar al menos el de Vima, el de Vélez y el eje esteco, yo ya las he creado aquí las carpetas, pero no.
+
+[42:05] 1: Me ha dado tiempo a pasarlo del Miro al escalidrado.
+
+[42:10] 0: Sí, a ver, ya creé escalidrado.
+
+[42:12] 1: Vale.
+
+[42:12] 0: Y pagamos 7 euros al mes. Correcto, Escalidrado. Y nos vamos a quitar Miro porque Milo no nos deja hacer muchos de estos. Entonces aquí además deja. Y esto en un futuro es open source y lo podríamos meter en ZOA si quisiéramos. Entonces todo lo que avancemos aquí no va en saco roto, sino que si algún día esto acaba en ZOA, ya será copiar y pegar en cada cliente el suyo, y lo tendrán dentro del propio ZOA. Entonces aquí permite crear carpet como colecciones. Entonces he hecho uno de Main, que es donde tenemos lo de cero coms, cero actividades, pero luego he creado otro de Segur y otro de Inmobiliaria, que aquí es donde tendríamos lo de Biendea. En el de seguros he creado ya el bimasegur y el Vélez Ortiz, pero tendríamos que irnos a Miró y trasvasarlos aquí, que no se puede copiar y pegar porque no son compatibles, hay que crearlo de cero.
+
+[43:13] 1: Pues ya lo pasaría hoy así. ¿Pero esto lo has hecho para que lo podamos meter en el futuro? Porque es mejor y más, No, porque.
+
+[43:22] 0: En Vima, en Miro no podíamos compartir con el cliente porque sólo podemos tener tres mierdas de estas. Entonces este podemos tener tantas queramos. Entonces al meternos en Vélez Ortiz, y entonces ya cualquiera puede entrar. Entonces tenemos un espacio con cada cliente para poder. Para que ellos puedan acceder a su flujo, ellos puedan modificar.
+
+[43:53] 1: Continúa si quieres.
+
+[43:57] 0: Entonces habría que hacer estos para que así nos sirvieran de cara a los nuevos clientes, como hemos hecho siempre que hemos cogido el BIMA y nos hemos puesto a trabajar desde ahí.
+
+[44:11] 1: ¿Pero esto que es? La tarea check dis, la número 8 que pones tú. Definir con el cliente listado de actividades posibles flujo activas de la correduría, actividades en el orden y cuáles activan otras. Reglas de asignación de actividad para llamadas y WhatsApp, y reglas de prioridad de cada actividad. Esto es la reunión con el cliente, ¿No? ¿Que dijimos de poder simplificarlo con la IA?
+
+[44:38] 0: Sí, con el cliente. Hay que pedirle al cliente canales de entrada de comunicación. Todo eso lo tenemos que simplificar. Empresa de telefonía actual. Y luego esto.
+
+[45:07] 1: Número de. Bueno, se habrá pidido antes. Número de usuarios que se ha pedido para saber cuándo se pide.
+
+[45:14] 0: Aquí no se ha pedido antes.
+
+[45:17] 1: Se piden el número.
+
+[45:21] 0: Únelo todo.
+
+[45:22] 1: Únelo todo.
+
+[45:23] 0: Vale, sí eso no lo he puesto. Número de usuarios.
+
+[45:29] 1: O únelo todo. Yo creo que tiene más sentido.
+
+[45:31] 0: Sí es que esto hay que unirlo porque no tiene sentido tenerlo tan separado. Al final es la misma reunión.
+
+[45:35] 1: Exacto.
+
+[45:37] 0: Canal de entrada de comunicación. Empresa de telefonía actual por telefónica. Número que quiere conectar con web o imagen donde tiene los números de asistencia de las aseguradoras, que esto por cierto me lo ha pasado ahora Vima, que lo mismo que le hicimos a Vélez lo quiere Vima. Entonces ya que se quede como.
+
+[45:52] 1: Claro, tienes para lo de urgencias sí.
+
+[45:58] 0: Quiere que por WhatsApp se envíen las llamadas de asistencia. Aquí sería más que identificar, sería listado directamente, que nos den un tutoristado.
+
+[46:10] 1: Listado de usuarios, Usuarios barra extensiones barra.
+
+[46:18] 0: Extensiones.
+
+[46:20] 1: Como lo tenía. Como lo tenía Vélez.
+
+[46:23] 0: Y lo del Mayor Pain. ¿Esto para que lo querías?
+
+[46:26] 1: Esto era para que nosotros. ¿Te acuerdas que si era más de venta, le interesaba más venta o era más gestor y en base a eso nosotros le metíamos un poco más del CRM de ventas para enchufarle o si era más gestor?
+
+[46:36] 0: Pues voy a poner aquí para encarar mejor el onboarding, la formación, todo. Entonces tenemos que pedir al cliente eso y definir en scalydraw esto. Entonces esto deberíamos de tener un escalidrado ya de base para que esto fuera rápido 1 y 2. Entonces yo todo esto me lo ventilaría, todo esto de aquí abajo me lo ventilaría y esto yo se lo pondría un título que sería dos reunión con.
+
+[47:35] 1: El cliente, que si te fijas es el título general de todo, la carpeta que hay en el, pero bueno. Totalmente. Reunión con el cliente que es saber todo esto.
+
+[47:47] 0: Correcto.
+
+[47:48] 1: Que esto está ya puesto en el drive con la carpeta, cada uno de los clientes.
+
+[47:57] 0: Luego enviar con el contrato con la propuesta económica, que esto está. Este contrato está en algún. ¿Dónde está exactamente?
+
+[48:08] 1: El único que está es el de Vélez.
+
+[48:10] 0: Ya, pero entiendo yo que el contrato tipo debería estar en esta carpeta. Ejemplo en algún sitio.
+
+[48:18] 1: Sí, está en legal Luis, creo estaba, pero aquí. Correcto. Entiendo que tiene que haber como una especie de template.
+
+[48:29] 0: Sí, aquí debería haber un documento, un cuarto legal y dentro de ese legal debería estar el contrato template para rellenar y enviar.
+
+[48:52] 1: Copias. Copias.
+
+[49:04] 0: Ir a legal y esta el contrato template. Por cierto, ¿Cómo vamos a enviar un contrato si aún no nos ha pasado el CIF? Mierdas. De estas que nos lo pasa después, todo eso debería de pasárnoslo antes.
+
+[49:38] 1: Sí.
+
+[49:41] 0: Realmente debería haber aquí un 3 que es todo lo que viene después, que es aquí es reunión con el cliente donde. Vale, ya está plataforma, aquí sería solicitud, solicitud de documentación legal y toda esta documentación legal de Willy, o sea, bueno, ponemos documentación legal o.
+
+[50:31] 1: Yo puedo esto Wildix, porque es lo que sí que es lo que dices tú, que nos vale para nosotros, pero sabemos que está en Wilix, no sé, me es raro.
+
+[50:40] 0: El título también, luego si no eso lo simplificamos, la carpeta, datos legales del cliente, contratos, escrituras bancarios, algo así yo.
+
+[50:57] 1: Creo lo que pasa como para simplificarlo es en plan mira nuestro reunión wild y luego zoa.
+
+[51:09] 0: Ya, pero al final tenemos que verlo desde un punto más de arriba.
+
+[51:14] 1: Porque.
+
+[51:14] 0: Se usa para más cosas, es como esto que lo hemos separado aquí en Wildix, pero no, es que nos está haciendo falta ya aquí arriba para poder enviar el contrato.
+
+[51:27] 1: Y si lo metemos detrás, el de enviar el contrato justo debajo de certificado de cuenta bancaria.
+
+[51:38] 0: Tiene que ir debajo por cojones, joder, solicitud uno pilla, me cago en diez.
+
+[52:03] 1: Cambiar nombre de licencia de uso, anda que Luis también, Luis y Juan José, cuanto más que Juan José, confianza, bien, que chaval bien, por cierto, como él tiene. Es muy pesado, pero bueno, le va a generar tensión de tesorería que nos tiene que enviar los. Los 14.000 euros y nosotros lo tenemos que devolver, entonces lo quiere hacer cuanto.
+
+[52:44] 0: Antes, pero que José Luis, cerebro, Juan.
+
+[52:47] 1: José, Juan José, ¿Quién es Juan José? En la sicor.
+
+[52:52] 0: Ah, ya venéis, ¿Tú qué quieres?
+
+[52:55] 1: No, pero a ver, simplemente una cosita, digo que dinero y decís dinero, Bueno, entonces ¿Cómo podemos hacerlo? Porque yo necesito el dinero cuanto antes, porque a último yo, a ver, digo sí lo podemos hacer, no te preocupes, digo, tú nos envíes el dinero y lo intentaremos girarlo de alguna forma, hay que pensar de qué forma, con una.
+
+[53:15] 0: Factura, con una rectificativa, es que la.
+
+[53:19] 1: Rectificativa no podemos hacer nosotros como que lo hemos hecho un servicio, algo que.
+
+[53:23] 0: No nos penalice tanto realmente la rectificativa nadie tiene que saber de ella.
+
+[53:33] 1: A ver, yo te digo otra cosa, yo soy muy amigo de José Luis, la fractura, pero imagino que la llevaríais vosotros, ¿No? Bueno, esto se lo comentaréis, que sois muy. Digo, está de vacaciones, entonces no se lo voy a comentar digo bueno que sí, digo sí, sí, sí, tranquilo, no te preocupes digo que esto además con Alejandro tienes confianza y demás. Sí, sí, sí, sí, tal no, bueno, yo te lo diciendo porque ahora está Jorge, no está José Luis. Ah vale pues nada, nada, nada, nada, ya, ya lo veremos. Digo, esto lo estamos gestionando nosotros. Claro, te quiero decir, digo, y varios clientes funciona así, digo, es una cosa que luego ya se comentará, pero facturarlo en un principio hacemos nosotros como todo incluido. ¿Bueno, llevo como tres días, envíame esto, envíame esto, envíame esto, envíame esto, quiero leerlo ya Juan José, digo, has tenido dos semanas para leerlo yo este tío de dónde ha salido? ¿Y me dice, bueno, aparte lo que está aquí escrito bien, bien, bien, pero luego cuando empecemos que me va a hacer una demo Alejandro este próximo jueves.
+
+[54:40] 0: Sí que me acordaba y digo mierda.
+
+[54:43] 1: Digo, digo, se va a recordar Alejandro porque tiene pinta de que no dice dentro de eso luego sí, ya veremos los precios y demás me va a poder venir tú dice porque este precio no es el definitivo no? ¿El viernes que? El jueves que viene ¿A qué hora es?
+
+[54:58] 0: ¿Si tú no estás hostia pronto por la mañana, pero le puedo decir otra.
+
+[55:03] 1: Hora sí yo llego a las 10 y media, si quedas a las 12 nos vemos.
+
+[55:13] 0: Pues si no, pues entonces le llamo el lunes y le digo cambiar, mira esto ya lo hemos pedido entonces no hay que pedirlo aquí.
+
+[55:36] 1: Y Luis que es el último que puto paga tío, a Luis le he dicho que la pague la ayuda, dice, la de ley, dice Leinet, lo paga él? Digo sí, sí lo paga él lo paga por culo lano y le digo Luis paga, digo venga Luis que eres el último tío, o sea, es que el hermano de su mujer creía que.
+
+[56:03] 0: A él y no me hizo nada.
+
+[56:04] 1: No, no, al hermano de su mujer y estuve también detrás Luis, digo, digo tío, te llamo porque me da pena de que tengamos la confianza, estamos dando cosas y seas el último en enviarme las cosas ya tal, pero le ha dado un digo y ahí no tiene secretaria, está de vacaciones, digo, pues vaya secretaria, digo Luis, por favor envíame esto y paga esto Dios que esto va por orden de entrega. Además lo de Luis le he puesto un zoa a tomar por culo, ¿Sabes? Porque Si aumenta de 30.000 euros, tenemos que tener tres distribuidores, tiene que pedir tres presupuestos. Entonces, y si aparte huelen que nosotros hacemos otra cosa diferente a lo que todo el mundo está haciendo, es como.
+
+[56:46] 0: Tío tira.
+
+[56:51] 1: Vaya cristo con la china. No es mala la Ana de Cleo, pero anota que en agosto tampoco le gusta trabajar mucho.
+
+[57:01] 0: Entonces sería solicitud de documentación legal, que es que realmente aquí hay una parte que es que la tenemos que solicitar, pero luego hay otras movidas que tienen que hacer. Entonces eso sería como un quinto punto. Yo haría un quinto punto aquí, que sería ya la.
+
+[57:17] 1: Dato de Wildix, ¿No? Ese es el agujero negro.
+
+[57:24] 0: Sí, aquí sería el seguimiento. ¿No, o sea, solicitud o cómo lo pondríamos? Solicitud central.
+
+[57:40] 1: Solicitar documentación y no, centralita, número, usuarios.
+
+[57:55] 0: Centrando un momento es reunión con el cliente y entonces lo hemos pedido ya los canales de entrada, la empresa de telefonía actual, el horario de atención telefónica, invierno y fechas de festiva automática, número que quiere conectar con WhatsApp, web o imagen donde tiene los números, asistencia de aseguradoras, listado de usuarios, nombres, emails, extensiones. Entonces eso ya lo tenemos. Y también tenemos el CIF, el NIF, la escritura, las facturas de teléfono, número de teléfono, el certificado de cuenta bancario. Entonces aquí sería hacer una solicitud a nuestro proveedor de Wildix socias, entregando la siguiente documentación. Esto deberíamos hacer como un correo, template, lo que sea, y nos debe entregar lo siguiente. Y aquí donde pondría centralita de wildlist, Centralita de wildlist, los usuarios creados.
+
+[59:17] 1: Estaría bien que ahí también pongas los links a la carpeta de ejemplo para como has puesto arriba.
+
+[59:25] 0: Sí, si, no, luego esto va a acabar de rellenar tú, que esa parte es la que más quiero hacer ahora rápido y en 10 minutos intentar acabarlo, lo que es la estructura y luego la vamos acabando cada uno lo suyo.
+
+[59:39] 1: Esto estaba ya más o menos, pero bueno.
+
+[59:40] 0: Sí, sí, pero por no enredarnos más que nada el plazo que vamos ahora es.
+
+[59:47] 1: No, no, que da igual, que luego pongo yo los links, pero a mí lo que más me interesaba es, sobre todo en la parte de aquí, yo pensaba que íbamos a ver el tema de configurar un día el plan, que ibas a lo tenías escrito, pero eso.
+
+[59:58] 0: Para un momento, vale, es un gran cuello de botella. Correcto, ese sería el siguiente punto.
+
+[60:08] 1: Yo lo demás lo tengo hecho más.
+
+[60:09] 0: O menos Sí, pero eso por ahora lo voy a hacer yo.
+
+[60:16] 1: Pero Alejandro, pero eso es lo que hemos hablado de que esto tienes que.
+
+[60:19] 0: Pero es algo que no se hace en 10 minutos José, o sea, llevo todo, estoy haciendo como 14 horas diarias y no me da tiempo y eso no es algo que haga en 10 minutos. Ojalá si lo hiciera en 10 minutos pero ya estaría hecho. Es lo que te puse ayer en plan de ya me he establecido las tareas que tengo que hacer que son 10, pero es que estas dos las tengo ya hechas, esta también. Estas que es crear una máquina pequeña, pues lleva un rato de tiempo pero no es mucho. Crear este código me puede llevar tres horas fácilmente crear un código que limpie la base de datos, esto fácilmente es un día, porque el código que has de los indios será una puta mierda. Crear este documento no es rápido porque no es fácil explicar cómo se generan los flujos en Wildly, yo he ido aprendiendo a base de hostias crear un documento donde se explique todo lo que yo he aprendido de NN no es algo que se hagan 10 minutos, porque yo también llevo meses aprendiendo a base de hostias crear un documento de cómo crear un servidor en ZOA, yo también he ido aprendiendo sobre la marcha más o menos aquí he puesto los puntos.
+
+[61:22] 1: Para yo tenerlo claro un segundo para yo eso lo entiendo, me parece normal, pero lo que sí que sobre todo creo que es clave lo demás yo creo que es muy. Pero esta parte del día, el plan y la parte de la base de datos es el mayor pain que tenemos ahora.
+
+[61:41] 0: Entonces en los primeros que vengan lo seguiré haciendo yo y lo iré escribiendo a la vez. Entonces.
+
+[61:50] 1: La idea original que dijimos es el siguiente onboarding, que será el de Asicor, era ya tener, o sea, dijimos que nuestro principal pain ahora para poder avanzar y llegar a los números que hicimos la previsión de ventas es tener.
+
+[62:05] 0: El onboarding, eso ya lo sé, pero que no va a ser, no es posible materialmente tiempo posible yo no tengo o dejo de dormir o no soy capaz de hacer eso, y si dejo de dormir también te digo que tampoco.
+
+[62:17] 1: Soy capaz de hacerlo, pero a mí yo entiendo las movidas, pero sí que me preocupa que hagamos una previsión de hace dos semanas y de repente estas dos semanas. Yo sé que tienes tus millones de cosas, pero que no millones de cosas.
+
+[62:29] 0: He estado toda la semana con Zoa, La cuestión es que también especifico yo.
+
+[62:33] 1: Ya, pero entonces yo prefiero que tengamos una previsión real de las cosas que diga José no me va a dar tiempo, pero no me digas dos semanas atrás lo voy a tener y ahora me dices no va a estar porque pasa varias veces y no, si hago.
+
+[62:49] 0: Esto no específico para los indios, vale.
+
+[62:51] 1: Pero que no pasa nada Alejandro, pero es que ya ha pasado varias veces, entonces me dices una cosa pero luego dentro de semanas nunca es. Y así ha pasado varias veces. Entonces prefiero que me digas José, estos son dos meses y yo digo son, pero que sea real.
+
+[63:06] 0: Y luego cuando te digo estos son dos meses me dices pero a ver entonces qué podemos hacer para que no sean dos meses en plan de no.
+
+[63:14] 1: Hay recursos, no hay tal. Pues yo me mentalizo y hago una cosa, pero yo hoy una reunión creo que era para una cosa y digo porque me han pasado varias veces y lo prefiero que me digas José tío voy de culo con esto de los.
+
+[63:26] 0: Indios, esto no lo voy a tiempo a hacer el onboarding. Ya vale, pero es que no pasa.
+
+[63:33] 1: Nada, que yo lo entiendo que es así y es finito y no se.
+
+[63:38] 0: Puede, pero aún así vengo a la reunión con una solución que es ya tengo claro lo que tengo que hacer, las primeras las voy a hacer yo, porque las voy a hacer yo, porque aún no hay nadie que sea capaz de hacer lo que estoy haciendo yo, porque yo llevo meses aprendiendo esto y trasladar ese conocimiento a otra persona es primero hacer un orden para podérselo explicar a alguien y luego ya que era.
+
+[64:04] 1: La tarea que íbamos a hacer hoy, que yo pensaba que yo sé que.
+
+[64:07] 0: Lo tienes que hacer en el momento, me he puesto a describir todo lo que tengo que hacer. Es que es básicamente mi conocimiento de los últimos seis meses.
+
+[64:15] 1: No, no, pero para solamente tienes que hacer lo del dial pan, que creo que es lo que yo podría.
+
+[64:24] 0: La otra opción es sacar el flujo y decirle a Miguel Taberala Móntalo.
+
+[64:35] 1: Mi idea era simplemente que en base a la predicción de ventas y de.
+
+[64:41] 0: El n también hay que arreglarlo.
+
+[64:45] 1: Pero eso no está en la parte de datos. Documentos necesarios para Wildix, configura el real plan, Locuciones, modifica la prom.
+
+[64:53] 0: Estos son los real plan. Pero es que luego aquí bajo, pero.
+
+[64:55] 1: Poco a poco yo digo el paso ese de longboard que teníamos que hacer para eso.
+
+[65:00] 0: ¿Eso también es parte del onboarding o no?
+
+[65:05] 1: ¿Pero por partes, para no hacerlo todo al momento para que? Es que si no lo hacemos todo al final no hacemos nada y ya me veo en noviembre con los onboardings de esperar problemas. La idea era optimizar esto e intentar a ti quitarte carga, Sé que tienes que documentarlo, pero es una vez y.
+
+[65:29] 0: Te olvidas esto realmente en dos días a saco me lo puedo ventilar. Entonces en la primera semana de septiembre.
+
+[65:43] 1: Sea realista, piensa de verdad si vas a poder la primera de septiembre, porque no quiero decir Alejandro, la primera de septiemre dijimos esto. Dime José, esto está a final de septiembre y estará.
+
+[65:54] 0: A ver José, yo en principio todos los días no debería dedicarle más de una hora a revisar lo que hacen los indios y hay días que me tiro seis horas, ¿Como lo planifico yo?
+
+[66:09] 1: Pues como ya llevas un año, dos, tres con ellos, sabes que de media.
+
+[66:14] 0: Hay días que no dedico ni una hora y hay días que de repente me toca dedicarle o el día entero. Si fuera fácil, claro, estaría clavado mi trabajo sería clavado, o sea, es en plan de tú te levantas y haces todo esto y a dormir, pero es que no es así.
+
+[66:35] 1: Eso lo digo.
+
+[66:36] 0: Para Kauri y Bonabola, para podermelo quitar ni una hora la he dedicado, es más, hoy por la mañana no he ido a otra movida y clara estáis diciendo para poder adelantar buena abuela y estoy aquí aún con temas de ZO, no he hecho nada esta semana, la semana que viene voy a ir allí con un palillo por delante y a ver cómo toreo aquello porque no preparo nada. Toda la semana sacando faena de ZOA para poder septiembre que si vienen onboarding, si vienen clientes, poderse dedicar el tiempo a clientes y no tener que estar pendiente de no especificado esto, los indios no tienen faena, no pueden avanzar, no podemos llegar a lo que hemos establecido.
+
+[67:16] 1: Que sí, que sí, yo estoy comprendiendo todo, pero lo que no quiero es que simplemente vamos cacho a cacho Alejandro, no vamos a comernos todo el bocata, vamos a mejorar el onboarding pero poquito a poco. En esta parte solamente dialpats, primera semana, si quieres Miguel o hablo yo con Miguel y que me lo explique como un niño pequeño, pero esto para ir rápido es clave, Es clave porque ¿Sabes lo que pasa? Sabes que llegamos y no está queremos meter a tres o cinco. Tenemos ya un onboarding este jueves. Doctor Seguro. Será semana que viene. Empieza la bola a rodar. Y este verano.
+
+[67:58] 0: Por eso me he quitado esta semana, le he estado quitándome toda la faena para poder. Para que. Porque sé que luego en septiembre va a pasar eso.
+
+[68:04] 1: Alejandro. Si, la idea es que yo pueda hacerlo o que esté en un documento para que tú te olvides. Si es que la idea es quitarte a ti peso.
+
+[68:12] 0: Pero luego, por ejemplo, estas cosas que también hay que especificar o cosas que ahora sí que tengo más claro de, por ejemplo, temas de las actividades que también está por ahí, que no sé dónde lo tengo ahora. No, creo que está aquí arriba. Eso es básicamente de que como esta semana he estado describiendo todo el producto de cómo lo queremos acabar y haciendo los esquemas y todo, entonces sé de verdad lo que tenemos que preparar para el onboarding. Porque en el onboarding este, por eso te dije ayer, en plan tenemos que darle una vuelta a esto, le faltan un cojón de cosas que yo iba haciendo y que en ningún momento se apuntó y que yo iba haciendo porque íbamos sobre la marcha. Ahora que él le da un repaso a la plataforma entera, ya me he ido dando cuenta de mierda. Esto por ejemplo, esto de los contactos, subir no sé qué, el email. No estamos haciendo ni puto caso al email. Pues hay que ponerlo, porque también habrá que revisar en su momento cuando vaya el email, hay que poner que hay que hacer las verificaciones con el email. Y eso, en esta parte de verificaciones que tenemos aquí, el email brilla por su ausencia. Aquí no hay nada del email. Si no me paro tampoco a pensar todo. Te voy a hacer un onboarding, vale, pues a mitad.
+
+[69:31] 1: Pero vuelvo un poco a lo de antes. Va a haber un momento que es dialpad, una semana sin tal. Vale, tiempo perdido. El email no está ni creado ni construido. ¿Por qué nos tenemos que preocupar por él ahora? No lo sé. Es como lo importante ahora para mí y lo importante de esta semana y el objetivo esta semana para mí una de las cosas era el onboarding en base.
+
+[69:57] 0: Oye, para ti, por lo que me estás diciendo, es el onboarding hasta Wildix. Lo que pase después te da igual.
+
+[70:04] 1: No, no, poco a poco.
+
+[70:05] 0: Las verificaciones te dan igual. A ti te da igual. Es que es todo. No se acaba la vida.
+
+[70:12] 1: Claro que es todo. Pero habrá que empezar por. Me refiero, habrá que. ¿Yo pensaba que íbamos a ver esa parte, por ejemplo Dialpad y a lo.
+
+[70:21] 0: Que voy es, te estoy enseñando hasta dónde he llegado de todo ese proceso Me está diciendo que tú esperabas llegar a Wildlist Pues no, he llegado justo al paso anterior de Wildlist Y si hubiésemos llegado a Wildlist me habrías dicho esperaba haber llegado ya también a que.
+
+[70:34] 1: Me explicaras No, porque yo llego, yo sí que me he hecho mis checks y he ido uno a uno mirando todas las mierdas más o menos para.
+
+[70:41] 0: Tenerlo ordenado José, es que los documentos estos ni de coña son crear un puto mail correcto de estarte 5 horas solo haciendo ese puto documento pero por.
+
+[70:52] 1: Eso pensaba quitarte a ti ese peso para poder hacerlo y decir oye vale.
+
+[70:56] 0: Pero de crear el documento, no de crear luego la tarea solo de crear la documentación necesaria porque es mi conocimiento de los últimos seis meses de pegarme hostias hacer estos documentos no es algo que tarda 10 minutos que se tarda en hacer un mail, un template de.
+
+[71:08] 1: Mail, media hora, una hora, lo posponemos para cuando?
+
+[71:16] 0: Pues según las mierdas, es que tampoco te sé decir por si quieres octubre.
+
+[71:20] 1: Según las mierdas para que esto como.
+
+[71:24] 0: Clara cuando le PETA el hecho de que le diga una fecha y luego no se cumpla te digo tres semanas más tarde así seguro que se cumple.
+
+[71:32] 1: Pues ya está, Qué ponemos octubre, primera semana de octubre, venga primera semana de octubbre primera semana de octubre, piensa que hasta semana de octubre la idea es que entre según la previsión que hicimos de venta casi 5 clientes pues entonces.
+
+[71:49] 0: Esa mierda la seguir haciendo yo como la hecho hasta ahora pero que no.
+
+[71:52] 1: Haya cuello me refiero que se puedan ir creando yo si se situabas haciendo y no va a haber ningún cuello de botella y vamos a llegar a tiempo te lo compro si crees que un sábado o un domingo nos tenemos que poner tú y yo a que esto esté hecho para que eso luego no pase y que quedemos bien con.
+
+[72:11] 0: Cinco clientes Esto lo voy a tener la primera semana de septiembre va a estar hecho Yo he puesto octubre porque no te digo octubre porque luego si hay mierdas hay mierda pero esto yo me quedo toda la primera semana de septiembre en lanzadera hasta las 10 de la noche y desde las 7 a las 10 5 horas, 5 días pues te lo consigo acabar pero ahora mismo no porque era mucho más importante que los indios tuvieran todo a especificar y planificar con ellos quién coño iba a hacer qué y cuándo, porque me preocupan.
+
+[72:45] 1: Pero es que entonces Alejandro, no entiendo de verdad la reunión esta. Yo lo tengo claro, más o menos lo tengo claro. Hay que cambiar unas cosas, pero prefiero que esta hora tú la utilices, avanzar en esto y tenerlo acabado que hacer el listado, repasar esto, porque más o menos esto yo lo tengo claro.
+
+[73:01] 0: No, pero lo que quiero es. Pero es que no tiene nada que ver lo que estoy diciendo aquí con lo que hay aquí. Sí que necesito. Por eso te estaba diciendo de hacer.
+
+[73:11] 1: La estructura un poco ordenado, pero poco más, no es como sí, porque al.
+
+[73:16] 0: Final es ahora que tengo claro realmente todo lo que hay que hacer aquí tiene lagunas en las que. Pues eso, Bueno, si no lo hago yo, Si es que al final no.
+
+[73:30] 1: Yo pensaba que cada uno tenía como su parte y aquí vamos a juntarlas.
+
+[73:34] 0: Ya, pero por eso. Si es que la parte de juntarlo. Pero es que es tan fácil como poner el título y decir falta rellenar, ya está, siete. Eso es lo que lleva idea, porque aquí es en uno de los últimos era verificaciones, en verdad verificaciones sí que lo tengo hecho porque más o menos las tenía bastante claras. Aún así esto habrá que hacer como un documento más extenso, habría que hacerlo como más extenso, pero bueno, están todas solicitadas, entradita de Wildix y nos debe entregar. Vale, y entonces aquí ya es donde empieza lo de crear, enviar contrato. Hemos hecho crear la carpeta reunión con el cliente, solicitar la información legal, enviar contrato con la propuesta económica, solicitar la centralita Wildix. Y aquí es donde empezaría ya la parte de esta.
+
+[74:53] 1: Dar de alta a los usuarios, ¿No?
+
+[74:57] 0: Sí.
+
+[75:03] 1: Sí.
+
+[75:14] 0: Dar de alta usuarios en SOA, crear.
+
+[75:29] 1: Una pregunta, si se ha creado la centralita con los usuarios para los usuarios creados en Willis.
+
+[75:34] 0: Eso los crea José, los usuarios de la centralita, o sea, con los usuarios creados en la centralita. Jose nos devuelve una centralita de Wildlist con los usuarios creados y con los cuatro dial plans básicos, que son users, kite, class, sound, no me acuerdo, el número fijo provisional y creo que ya el número fijo, los usuarios, el número fijo, los dial plans y la centralita de Wilks. Y él también nos quiere, realmente él quiere montar los diel plan, lo que pasa es que como yo quiero tener más no depender tanto de él. Es la guerra eterna en la que le digo que no, que me cree los cuatro y yo me crearé los demás. Pero nos los puede crear él. Él está deseoso porque así se ve que aporta valor, pero nos tenemos que quitar la mayor cantidad de faena del posible para no ser tan dependiente.
+
+[77:01] 1: Tenemos eso, se genera el número fijo provisional, lo conectamos con la parte de ZOA, le damos de alta y habría que hacer como una especie de pruebas también ahí, ¿No?
+
+[77:15] 0: Sí, luego están todas las. Aquí en verificaciones están todo.
+
+[77:26] 1: De todas formas tío, el tema de automatizaciones creo que lo vemos al revés. Es como primero no te las pongo y luego sí, en las de WhatsApp sobre todo. ¿Cómo ves tú eso?
+
+[77:37] 0: A ver, no te las pongo porque las hacemos mal, básicamente. Si estuvieran bien hechas, algo bien hecho, nadie te dice que no las tenemos hechas una mierda. Saltan cuando les salen los cojones.
+
+[77:56] 1: Vocabulario es diferente, hace un poco lo.
+
+[77:58] 0: Que sale a los cojones, porque lo hacemos todo como aprisa y corriendo. Entonces claro, luego la impresión que se llevan es como esto va mal, quítamelo. Pero si funcionaran bien desde el inicio, pues no se llevarían esa impresión. Luego esto, crear un código, pues es que la verdad es bastante faena. Dar de alta a usuarios en ZOA, Solicitar la centralita. Dar de alta a usuarios en ZOA. Crear automatizaciones. Wildleaks. Crear automatizaciones Y luego todo esto. Tengo la explica, a lo mejor nos vamos a ir todo a la IA, pero no veo de más que en el documento especificativo también se explique cómo se estaba haciendo hasta ahora, por si acaso tenemos que hacer en algún momento alguna automatización de WhatsApp de cómo se estaba haciendo hasta ahora con los botones y que si pulsa un botón vaya no sé dónde, ta ta, queremos ir todo hacia la IA, pero no viene de mal tener eso ahí guardado por si acaso.
+
+[79:35] 1: Es igual con el miro al Scaly Draw, hacer unos. Hacernos pantallazos o hacer algo ahí igual.
+
+[79:42] 0: Una documentación, pero no me refiero en el n tenemos todo con nuestras automatizaciones de weas. Actualmente son con botones, en plan de te salen tres botones, tú pulsas el botón, te sale otro. No, eso, si lo pasamos a IA desaparecen los botones, todo fluido, es toda una conversación normal. Pero yo sí que documentaría toda esa parte de cómo se ha hecho hasta ahora, lo de los botones, por si acaso en algún cliente necesitamos hacerlo con botones, que se sepa cómo se hace, pero aquí he puesto WhatsApp simple, que es como lo de los botones, pero también ya tengo puesto aquí el cómo explicar cómo hacerlo con IA, que anoche ya pensé cómo simplificarlo, los typeforms, de cómo son los flujos de los typeforms y cómo son los flujos, porque los voicebots usan herramientas de n, ¿Cómo se montan esas herramientas de nariz? Es que hay un montón de la.
+
+[80:50] 1: Mente, si, lo sé, pero prefiero ir de lo más básico a lo más complicado. Es como que acaba de llegar y me parece bien que lo tengamos avanzado.
+
+[80:57] 0: Y demás, pero realmente a nivel de montar de onboarding es más fácil montarlo con IA que sin IA. Es más laborioso porque todo lo que hace la IA lo tienes que ir haciendo tú con conexiones, entonces contra antes lleguemos a la IA mejor a nivel de onboarding, porque la guía va hablando sola y tiene inteligencia, como esa inteligencia en el simple no la tenemos, la tienes que ir haciendo tú, uniendo cosas y ese unir cosas es más laborioso y más difícil y más fácil de que te equivoques.
+
+[81:32] 1: Por eso cuando me dijiste lo de la IA de Wildlife, dije coño, pues eso, pones un prompt, se hace así, pero primero tenemos que conectar las líneas, que eso es lo que somos, cuatro pilares de comunicaciones, una de ellas las llamadas, y por eso creo que es importante eso, que es lo más complejo, lo dices tú, que lo quiere hacer Jose, que es una blackbox, pero nos interesa tenerlo súper, tan fácil como meter el WhatsApp o el Meta Business Manager. Cuando tengamos eso vamos con un tiro, que por cierto, lo de la IA, luego me pondré también a hacer pruebas. ¿Tú has podido avanzar con eso algo.
+
+[82:07] 0: De que realmente ahí te ha puesto ya en el grupo cosas? Yo sí que sé lo que más nos ha dicho, si te atascas, pues ya lo vemos.
+
+[82:18] 1: Yo tengo eso en el listado, pero primero quiero una cosa, sobre todo el manual, que es un coñazo y no sé si lo estoy poniendo muy visual, poco visual, y eso lo quiero dejar también claro, porque eso van primer cliente, aprendizaje, quitar tiempo de support, avanzar.
+
+[82:40] 0: Antes de este punto es otro más, dar de alta al servidor.
+
+[82:47] 1: Le quiero dar bastante cariño. Dejarlo ya para el lunes. Primera versión bien. Y luego se lo pasaré al departamento de diseño.
+
+[83:00] 0: Tú mismo.
+
+[83:01] 1: Yo mismo. Por eso te digo, me gusta cómo pensar que somos departamentos dentro de todo.
+
+[83:12] 0: Y esto está bastante explicado también. Falta por definirlo más una cosa, ¿Cuando pedimos la base de datos? Aquí, ya en la primera reunión.
+
+[83:25] 1: Esta ahí, Está justo.
+
+[83:30] 0: Aquí.
+
+[83:32] 1: En la telefonía que haya. Que haya contratado, igual sí que se podría pedir incluso antes.
+
+[83:38] 0: Correcto. Pedirlo ya aquí. ¿Yo cuando? En la primera reunión, pedir todo.
+
+[83:44] 1: Y aquí, tío, Vale, aquí. Esto es otro cuello de botella. Base de datos.
+
+[83:52] 0: Ahora también las arreglaré yo hasta que vea de alguna manera de programar algo para que no tenga que hacerla yo. A mí tampoco me gusta. Es un puto coñazo.
+
+[84:03] 1: Ya, tío, yo te veo ahí haciendo la que me da hasta pena, pero pienso que hay una cosa que no estamos haciendo que podríamos hacer, que está guapísima, que es dame tu base de datos de TOL RP, pero dame también toda la base de datos de todos tus móviles.
+
+[84:22] 0: Ya, pero a ver, solo arreglar la del ERP tediosa primero, vamos, esto. Estás diciendo otra vez lo mismo. Vamos primero a arreglar la de que automaticemos primero la ERP y luego ya vamos automatizando.
+
+[84:34] 1: Yo solo digo aprendizajes y mejoras y.
+
+[84:39] 0: Que en octubre cuando lo tengamos todo acabado, no se acaba el mundo, ya nos ponemos los dos a vivir, o sea que saldrán cosas nuevas. Pero es que a ver, que a mí también me entra la ansia porque también lo tengo ya en la cabeza y es en plan de lo quiero para allá, pero es que físicamente es imposible. Anoche a mí me estaba ya, porque ya ayer ya cuadré todo, mi cabeza era como lo quiero ya.
+
+[85:05] 1: Lo quiero ya.
+
+[85:07] 0: Y es como mi cabeza no para de pensar todas las cosas que hay que hacer y es como no hay tiempo físico y todas las cosas las sé hacer, pero no soy capaz de llegar a todo, entonces hay que empezar a delegar. Pero no puedo delegar si no enseño. También soy consciente de ello.
+
+[85:27] 1: Mira tu novio. Hola Juan José, buenos días. Muy Bien, muy bien.
+
+[85:35] 0: ¿Qué tal?
+
+[85:38] 1: ¿Te acuerdas? Facturas proforma. Claro, lo tendría que mirar. Sí, claro, eso es. Vale.
+
+[86:25] 0: Vale.
+
+[86:26] 1: Y si no, pues eso, podemos hacer incluso una rectificativa luego lo que sea, ¿Sabes? Y ya está. Sí ha sido escopetado, ha sido un poco todo muy rápido, estas ayudas que salen así rollo Zenith. Sí, por supuesto. Y confianza, que es lo bueno que dices tú, es que en agosto a todo el mundo la ha pasado lo mismo, la ha pillado aquí, allá, gente de vacaciones a todo el mundo. He hablado con Formentera, he hablado con Ibiza, he estado con gente de Mallorca, todo es vacaciones y el certificado digital ninguno lo tiene encima. Entonces hemos tenido que hacer malabares para eso. Tú dejad con el. Bien, eso me gusta. Perfecto, perfecto. Por supuesto, porque lo que te comenté, que esto es vista tres años, por eso la cuantía es tan. Es tal, pero si no sale por lo que fuese, que yo quiero que entramos dentro del periodo, pero bueno, si no, este jueves mismo mamá estaba hablando con Alejandro de que el jueves estaré yo también con él y lo único que sería sobre las 12 porque yo llego directamente, no tenéis problema. Vale. Y así nos conocemos también y lo vemos los tres juntos.
+
+[88:48] 0: Vale.
+
+[88:54] 1: Genial. Correcto.
+
+[89:32] 0: Claro. Total, total.
+
+[89:36] 1: Sí, sí. Y la idea es eso, que os hagamos ayudar a crecer y que todas las nuevas aplicaciones que hagáis pues se puedan luego extrapolar y que también veas el valor, o sea que lo vas a ver en corto.
+
+[89:45] 0: PL.
+
+[90:04] 1: Correcto. Pero está limitado. Claro que está más limitado igual, sobre todo con este tipo de cosas. Lo bueno es que somos especialistas en tema de comunicación, por ejemplo. Si está haciendo esa. Claro, y hay muchos CRM por igual lo que está haciendo asociación y demás, que hay cosas y detalles que no tienen en cuenta y por eso nosotros somos buenos en eso, es lo que no sabemos, no lo sabemos. Bien, bien, eso me gusta. Sí. Folium, claro, sí, sí, sí, sí. Reconocemos verificador que hay. Sí, sí, sí, sí, sí. Venta cruzada, sí, Meliáde, sí, sí, también conocemos. Perfecto. Vale, genial. Sí, loco, lo verifico con Alejandro y te digo la hora exacta, si quieres por WhatsApp te mando una convocatoria y nos presentamos ahí Alejandro y yo y ya te hacemos la de. Vale, maravilloso. Vale, pasamos justificante y con eso lo tenemos. Vale, muchas gracias. Adiós. Chao. Chao.
+
+[92:13] 0: Juan José, ¿Qué dice de Folimen?
+
+[92:17] 1: Dice. A ver, es que también habla un poco como los monaguillos, que hablan así. Vale. Te digo, tiene una pinta de curillo y dice que están haciendo un CRM los de la asociación y estos van fuerte van fuerte porque me han dicho volumen ¿Te suena? Pues están como viendo con volumen y con otras y claro, ellos van a extinguir esta confidence y van a hacerla como quieren meterse dentro de otra y están haciendo el CRM, entonces no saben muy bien o no nos quiere decir, pero todos dicen que Levia es un repositorio de documentos, poco más le llaman, es un drive. Entonces todos están haciendo cosas. Entonces yo creo que todos quieren hacer, pero si lo tienen hecho, ¿Para qué se van a poner?
+
+[93:12] 0: La cuestión es, hay que evidenciarles en plan de que esto es mejor. Eso es, eso es.
+
+[93:17] 1: No inventes la esta porque está inventado y somos buenos. Entonces por eso digo, esto es un poco el buscaminas, donde demos un golpe, pum, pum, pum, cinco bien dados, a tomar por culo. Levantamos aquí un montón de clientes. Entonces me contaba eso, que estaban viendo volumen, que estaban integrando y demás y que como todavía no sabe muy bien lo que es lo que hacemos o cómo lo hacemos, porque totalmente va más a ciegas que nada, sobre todo nos va a girar los 14.000 euros o 13.000 y pico y luego se lo tenemos que macho, si hacíamos pro forma para hacerle luego el presupuesto y demás, entonces qué hacemos rectificativo y tomamos por culo.
+
+[94:04] 0: Sí, entiendo que sí. También se puede hablar con los de la ayuda a ver cómo. Si normal investigar luego o algo, yo que sé, no creo, pero.
+
+[94:16] 1: Si lo comento luego. Bueno, a la del jueves a las 12.
+
+[94:20] 0: Vale, vale. Crear plantillas WhatsApp.
+
+[94:30] 1: ¿Dónde tiene la opción.
+
+[94:31] 0: Este por el centro creo? Y aquí.
+
+[94:54] 1: Es que tuve que meditarlo ayer toda la noche estaba pensando, porque envíalo, llevamos dos semanas tío, es que este y Luis me han mareado cuando sube en ganita dinero, tío, Si nos sale esto, va a haber buena mortajada en diciembre.
+
+[95:20] 0: Sí, sí, los números y te digo que nos faltan para. Según tenemos todo lo que hemos confirmado, nos faltan. No llega a 20.000 euros, a 17.000 o algo así, que eso son 5 clientes. Todo lo que sea por encima de 5 son para crecer. Ahora mismo vamos pelados, pero en septiembre, finales de septiembre empezará ya a fluir.
+
+[95:46] 1: La cosa, ya empieza a entrar. ¿Hablaste con Sergio al final de Vivendea?
+
+[95:50] 0: No, voy a llamarle. Ahora sí que está. Te juro que he estado toda la semana con tema de los indios, que.
+
+[95:57] 1: Meter un telefonazo que son 3000 y.
+
+[96:01] 0: El miedo también tenía yo lo mismo, dijo tengo que llamarle porque al final va a pensar que esta semana tampoco he hecho nada y ahora tampoco le puedo decir oye que es que he estado todo el día de la semana tal liado.
+
+[96:11] 1: Le escribí por el chat, le dije esto, digo voy a alinearme con Alejandro, que sepa lo que yo estoy toda la semana haciendo entrevistas con. Todos los días tres entrevistas con parejitas y gente que está dispuesto a pagar 3 habitaciones, 2 baños, máximo 350 380.
+
+[96:37] 0: Vale, rápido. Crear carpeta cliente, correcto, Yo voy poniendo links de las carpetas, sí esto ya se va rellenando y se quita lo de abajo. Reunión con el cliente y se hace bonito. ¿Reunión con el cliente para definir plataforma, le pedimos todo esto y definimos en escala hidra todo eso, correcto? Sí solicitamos luego un mail, que entiendo yo que esto ya tienes tú un correo template que lo tengas guardado de.
+
+[97:00] 1: No sé dónde en la carpeta, Sí.
+
+[97:03] 0: Vale, tú ya pones ahí los links. Solicitar documentación, se solicita todo eso, acto seguido en la carpeta del cliente irá al celular, ahí estará el contrato template a rellenar con los datos y enviar al cliente para firmar. Se firma el contrato. Conforme el contrato se ha firmado, se solicita la centralita a Willis, hacer una solicitud a nuestro proveedor de Wildlist entregando la siguiente documentación, que aquí pones lo que siempre te pide él y haces link a documento que se tiene que enviar relleno, documento a rellenar y nos debe entregar lo siguiente. Centralita de Wildis con los usuarios, entiendo yo que es factura, teléfono, escritura, escritura ya que no estamos, número de teléfono a pedir. Bueno, esto ya lo acaba de. Y esto tiene que ser súper claro porque es que este anda que me insistió veces de nos tenemos que poner de acuerdo de cómo gestionamos la comunicación, yo no sé dónde ven los problemas, pero bueno, ahora en septiembre nos tenemos que sentar con él para ver cómo la comunicación entre él y nosotros es fluida, pero primero tenemos que tener nosotros claro para que luego.
+
+[98:52] 1: Por eso.
+
+[98:56] 0: Entonces enviamos el contrato de propuesta económica, solicitamos la centralita Willis y nos entrega una centralita con los usuarios creados con listado de usuarios. Bueno, dar de alta al servidor ZOA y FreePBX, tenemos que dar de alta, ZOA y FreePBX. Una vez está creado el ZOA, creamos las actividades y los eventos en ZOA, que eso sí que está descrito ya como se hace aquí. Tipo de actividad y luego ajustes técnicos, que esto tú tendrías que probar hacerlo a ver si te aclaras y si no te aclaras deberíamos de completar esta información. Esto en vez de poner Odoo, podríamos poner Zoom. Luego dar de alta a los usuarios, quiero hacer un código para que se puedan crear rápido, conectar WhatsApp, crear un documento de cómo se conecta esto ya tenemos un documento realmente hecho en Notion, sería hacerlo bien. Por ejemplo, esta tarea y esta del mail son rápidas, ¿Por qué? Porque la documentación ya está, solo hay que darle forma y yo le daría forma aquí en este propio documento, escogerme lo que tengo en Notion y pegármelo aquí. Luego el tema de crear las plantillas, ahí tú también tienes cosas ya hechas, ¿No?
+
+[100:25] 1: Sí, Sí.
+
+[100:27] 0: Entonces conectamos WhatsApp, creamos plantillas de WhatsApp, conectamos email, crear automatizaciones de wildlist, crear automatizaciones de n, limpiar y subir base de datos. Y por último las verificaciones. ¿Quince pasos.
+
+[100:46] 1: Y una pregunta y cuando? Bueno, ya hemos dicho las fechas, la idea es ir desarrollando cada uno esta parte y que quede claro para que cuando un tercero venga ya sepa hacerlo correcto.
+
+[100:55] 0: He puesto en rojo todo lo que por lo menos a mí me falta por hacer, todo lo de principio está falta que tú rellenes tus cosas con las que tienes hechas, que lo vayan.
+
+[101:07] 1: Metiendo por aquí, lo linkeo todas las.
+
+[101:09] 0: Carpetas, linkeas todo y entonces se queda todo hecho a falta de lo rojo. Y conforme yo vaya pudiendo, que lo más seguro que sea la primera semana de septiembre, lo rojo lo convierto en información real, que es dos, tres, cuatro, cinco, seis, siete puntos a la mitad.
+
+[101:31] 1: Tampoco está la mitad, de todas formas iré yo viendo a ver si puedo avanzar algo, hablarlo con esta gente por ir limpiando.
+
+[101:43] 0: Y entonces lo que haría ahora es todo esto que vino bien en su momento, pues haría como esto que estamos aquí haciendo. Aquí pondría solo los títulos de estos 15 títulos, check, check, check, check, Check.
+
+[102:00] 1: Linkado esos títulos con esa parte y.
+
+[102:02] 0: Que vaya la gente, porque esto será un documento genérico. Y aquí sí que sería un checklist por cliente, donde en la carpeta template debería estar este checklist para que cuando genera un cliente, ya genera ese checklist de ese cliente y hace check, check.
+
+[102:20] 1: Check, check, que tú y yo si lo está llevando un account y vamos viendo cómo está ese cliente, aquí tiene que estar reflejado.
+
+[102:29] 0: Y ver si va en tiempo, si no esto tendría que estar en tal fecha, o sea que en plan de arriba tendríamos que tener un campo aquí, insertar, insertar, aquí deberíamos de tener un campo fecha inicio y que todas las fechas fueran correlativas a esa fecha. Correcto, aquí pondríamos fecha inicio, entonces aquí tendría que poner vale, empiezo el día 22 del. Del 2025, vale, perfecto, entonces aquí debería de poner esto el mismo día, esto el mismo día más uno porque tiene que sabemos que tal y entonces conforme ponga aquí sabemos todas las fechas cuando tienen que ser y entonces vamos viendo si va en tiempo o no va en tiempo total y luego lo comentar. Esto lo podemos quitar porque ya es un poco bueno que habría que mejorar este de checklist acorde a este documento.
+
+[103:36] 1: Para hacer seguimiento a esta pongo segunda semana de septiembre, finales, en principio primera semana de octubre, voy a poner la segunda.
+
+[103:45] 0: ¿Has dicho primera semana de octubbre?
+
+[103:48] 1: ¿Pongo octubre o septiembre?
+
+[103:49] 0: Va a estar en septiembre, pero para que luego no me digas que no hemos llegado a tiempo, primera semana de.
+
+[103:53] 1: Octubre, vale, pongo la segunda septiembre y si no por preguntar cómo va octubre.
+
+[104:00] 0: Correcto, para que no te octubre realmente estará la segunda semana de septiembre, pongo.
+
+[104:06] 1: Ahí onboarding, seguimiento y ya está. Vale, nada, necesito 10 minutos para que me des tu opinión del manual y me dices tú a ver qué piensas. Es que tengo esto ya lo voy acabando, es muy.
+
+[104:38] 0: Hay un punto 16 que la formación.
+
+[104:43] 1: Y había estado pensando yo otro antes pero se me ha ido la formación.
+
+[104:49] 0: Ya.
+
+[104:51] 1: Eso lo estoy haciendo yo ahora con esto del manual. Es manual y luego quiero hacer centro de conocimiento que es donde irán los vídeos.
+
+[105:04] 0: Si, eso tenemos que hacerlo, que eso sí que lo podemos hacer en Notion.
+
+[105:10] 1: No, eso es un drive.
+
+[105:13] 0: Pero es que en tema de drive es una. Porque nuestros clientes tienen todos Outlook, deberíamos de tener un One Drive, no me gusta nada eso o un Notion que es agnóstico a todo, tampoco me gusta para el Notion.
+
+[105:33] 1: Vamos a dar la vuelta. Bueno y luego aquí la idea es un manual en base a lo que tú hayas puesto, pero un poquito más visual o de la esta. Aquí empecé la presentación de la aplicación que todavía no he puesto nada, pero un poco de qué trata, que hacemos el core, bla bla bla, iniciar sesión, cómo funcionaría un poco desde que te llega el correo a lo que tú indicas y de bienvenida. La interfaz explicada muy rápidamente en plan barra lateral, todo lo que hay, tú si ves pequeño, ves mucha info, no entiendes algo me lo dices.
+
+[106:07] 0: Las fotos las deberíamos de cambiar porque esas por ejemplo ahí estás desde una visión, yo siempre intento hacer las formaciones desde un usuario usuario, tú estás haciendo las fotos desde un usuario del de info suite que se lo ve todo, hay muchas cosas que luego el usuario.
+
+[106:27] 1: A toda la barra lateral, que no.
+
+[106:28] 0: Haya cosas, la barra lateral sobran cosas y para no marear yo las formaciones siempre las hago desde un usuario usuario. Las fotos deberían estar hechas desde un.
+
+[106:37] 1: Usuario usuiario, no esté todo esto interfaz entre barra lateral, buscadores y mi perfil.
+
+[106:45] 0: Que es un inténtalo llamar ya siempre calendario barra actividades que vayamos.
+
+[106:53] 1: Más adelante. Le he llamado así.
+
+[106:57] 0: También hay calendario actividades y vamos metiendo la semilla.
+
+[107:02] 1: Sí, sí, le llama autoridades incluso. Vale, esta es una parte y luego he ido explicando un poco barra lateral 1 2 3 4 5 6 que aquí como dices tú voy a quitar esto que se entienda que uno calendar actividades a gestionar y planificar, comunicación, contactos, ventas y gestión estas cinco ¿Qué te gusta más está así o esta así? Y aquí viene explicado cada cosa.
+
+[107:32] 0: Así me gusta más en verdad así no, lo único que bajaría sería la imagen, pero la imagen es que tampoco te rayes mucho porque cuando más o menos veamos una que lo tenemos estable, pues la semana que viene podrías sacar ya imágenes mejores.
+
+[107:46] 1: Si intento sacar con cloud mejorarla, que hará un contraste, pero bueno de momento esto es la versión 1. Vale, vale, pues está perfecto. Entonces ahora empezamos. Calendario de actividades y se explican así 1 calendario de actividades 1. El número 1 asuntos 2 buscador buscador y 2. Como este también es buscador, doble buscador 3 vista actividades 4 actividades explican ya lo que es y 5. ¿Dentro de actividades.
+
+[108:15] 0: Bueno lo mismo, insisto, las actividades, todas las fotos van a.
+
+[108:19] 1: Cambiar ya, ya, pero que la idea general que se entienda, o sea que venga un tío, te parece mucha información, te parece poca información, te parece sucio, te parece limpio?
+
+[108:33] 0: A ver, lo único que le daría un poco más es intentar que tenga algo de storytelling, no, pero me refiero.
+
+[108:43] 1: Tengo una que a ver qué te.
+
+[108:46] 0: Parece en plan de forma de trabajar sería aquí no sé qué, luego no sé qué, pero es difícil hacer eso.
+
+[108:56] 1: Sería un caso de uso.
+
+[108:58] 0: Sí, un caso de uso o algo.
+
+[108:59] 1: Así, pero eso es que la tía le mande esto y un asunto de la reunión 1 el asunto entiende que hay correos, llamadas, reuniones, envía documentos, todos los botones son para crear o filtrar por el asunto de las actividades en.
+
+[109:09] 0: El calendario lo que podríamos hacer pues es esa explicación aquí donde explica los cinco puntos y la siguiente slide un caso de uso de eso. Entonces siempre estás explicando el menú, las cinco cosas del menú y un caso de uso. Las cinco cosas del menÚ y un caso de uso.-.
+
+[109:32] 1: Comunicación, llamadas, email, chat interno y WhatsApp.
+
+[109:38] 0: Aporta mucho valor porque es un poco realmente en las formaciones lo que hago mucho porque es en plan de la gente no entiende, le empieza a decir un montón de movidas, la gente no me entiende y entonces me toca explicar, bueno, mira, cuando tienes una llamada, bueno y en verdad cuando hemos hecho un montón de que tú me decías tendrías que hacerlo más de esta manera, siempre.
+
+[109:56] 1: Un poco poniendo ejemplos en un vídeo. Te da bien un vídeo, igual aquí no.
+
+[110:02] 0: Pero es que necesitan entender esa historia, necesitan conectar con esa historia, se tienen que ver ellos haciéndolo, haciendo eso.
+
+[110:13] 1: Vale, me gusta, me gusta la idea. Comunicación llamada Similchat interno Explica la interfaz de la llamada, que es la barra superior. Aquí se muestra origen, destino, tipo de llamada, estado de análisis de las llamadas pérdidas, recibidas y enviadas, Buscador, ayuda a encontrar las llamadas, entonces salientes para tener una mayor rapidez en la búsqueda de llamadas en algún cliente en particular. Filtros, teclado del teléfono, touchpad y gráficos, que éste también le quería meter aquí un siguiente. Esta me parece bien o esta un. Esta la cambio WhatsApp. Vale, Porque me parecía como más visual. Aquí se ve esto muy bien, esto muy bien y esta plantilla muy bien. ¿Qué te parece más? ¿Es que esto me parece a veces con mucha info, o esto es más info? Tengo la tercera versión.
+
+[111:08] 0: ¿Esta cuál es? No, esta no, esta no. No, esta no porque me desmembra y no entiendo. Esta sería la más visual.
+
+[111:19] 1: A mí incluso pensar poner algo azulito.
+
+[111:21] 0: Aquí arriba a nivel de que relacionó cosas con cosas, pero sí que es verdad que la anterior es como la.
+
+[111:29] 1: Información está más ordenada, más clara. Uno con uno es que he pensado.
+
+[111:36] 0: Este no lo veo mal, hago todas.
+
+[111:39] 1: Con esta.
+
+[111:42] 0: Sí, por el hecho de que está ordenada a la izquierda, en el otro lado como que la tengo que buscar. Sí que es verdad que me la ordena conforme a las zonas, pero ya tengo que leer aquí unas cosas, allá otras están más en pequeño, me cuesta más de leer. No sé.
+
+[112:07] 1: Ya que yo también tenía duda porque luego hice esta y ya es como mucha info me parece.
+
+[112:12] 0: Sí, aquí ya no sé dónde estoy.
+
+[112:14] 1: Y no se ve.
+
+[112:16] 0: Y más piensas que tienes que pensar desde el punto de vista que tú te sabes el frontend de memoria pero el cliente es la primera vez que lo ve.
+
+[112:22] 1: Es que es lo que yo estoy pensando, porque yo digo esta es claro y quiero que todo siga igual.
+
+[112:26] 0: Al final estoy viendo ahí el frontend. Vale, ya vale, veo eso y me estás diciendo punto por punto, lo que significa que la otra forma también hace lo mismo con las flechas. Pero sí que es verdad que la información como que está más repartida y me cuesta más hacer un seguimiento.
+
+[112:41] 1: He estado mirando hasta manuales de WhatsApp, manuales de cómo la gente lo explica en HubSpot de no sé qué opciones, no sé qué. Y claro, es que es un CRM, entonces que no es fácil.
+
+[112:53] 0: Botones que hacen mil cosas.
+
+[112:55] 1: Claro, entonces yo esta la veo intuitivo porque lo voy poniendo aquí, que antes estaba en negro, ahora está en esto y a ver la primera versión que luego si era muy más tal, pero que necesitamos una guía 100% que lo.
+
+[113:08] 0: Único que puedes hacer para un momento vuelve atrás. Yo lo que haría para mejorarlo si quieres es no hace falta que lo pongas todo en una slide, pueden ser dos slides donde aquí explicas tres puntos y los otros tres los explicas en otra slide. No hace falta que estén las 10 funcionalidades que tiene un frontend, las tenga todas en una slide, puedes hacer cuatro en una, tres en una y otras tres en otra. No hace falta que todo esté en la misma.
+
+[113:39] 1: Sí, eso lo empecé a implementar aquí en contactos, pero sí, vale, vale, me parece también.
+
+[113:45] 0: ¿Entonces de esa manera al final también me focaliza por ejemplo ahí que son 5, si me haces una slide con solo 3 cositas, joder, no hay que ser aquí Einstein, sabes? En plan de son tres cosas, en plan de vale, aquí hay un buscador, aquí hay una tabla y aquí unos filtros.
+
+[114:02] 1: Ya está, por eso.
+
+[114:04] 0: Y luego la siguiente, ah vale, y aquí es para llamar, que por cierto llamar también habría que explicar el que se puede llamar desde la ficha de contacto.
+
+[114:11] 1: Claro. Y luego transferencia. He pensado que hacer una parte total del touchpad y de manual de uso.
+
+[114:18] 0: A lo mejor una slide me explicas lo que es la tabla y en otra me explicas la funcionalidad de llamar, pulsar los de TMF, que es lo de pulsa el 1 para las IVR y las transferencias. Son tres cosas también.
+
+[114:34] 1: Sí, que luego ya iremos estirando el chicle. Vale, pero que está mejor esta y lo vamos explicando. La dividimos y la alargamos. Nada, esta es la del comunicat interno, contactos, historial de comunicación, que esta es, la he puesto así y estaba probando esta o esta, porque estas.
+
+[114:59] 0: Yo lo.
+
+[114:59] 1: Haría como lo de llamadas, uno el listado y a la derecha la imagen general y hacemos más estas, lo hacemos todo así ya.
+
+[115:08] 0: Y si hace falta se hacen dos slides de lo mismo, revisión de contacto.
+
+[115:12] 1: Detalles, ventas, gestión, que se explique bien. Vale, esto nada, venta. Y aquí pues eso, haciendo ya el ejemplo, me queda tipo esto todo vale.
+
+[115:22] 0: Esto, porque aquí por ejemplo en ventas habría que entrar también a la describir el menú dentro de la oportunidad, dentro.
+
+[115:31] 1: De la ficha y que sea todo.
+
+[115:32] 0: Eso, hay que explicar la ficha también. Entonces otra slide, vale, pues lo hago.
+
+[115:37] 1: Así y ya está. Entendido. Es con esto. Casos de éxito y vas a hacer.
+
+[115:47] 0: Te falta gestión, ¿No?
+
+[115:48] 1: Sí, sí, está aquí, está aquí. Vale, ni me meto. Ni me he metido.
+
+[115:54] 0: Vale. Y realmente habría que acabar también automatizaciones, no está ya, eso ya se meterá, pero lo que sí que deberías también meter es el de user zone, que aunque no es para los clientes, para todos, sí que es para el jefe y se lo explicamos.
+
+[116:14] 1: Zona de usuario, yo he puesto perfil de.
+
+[116:19] 0: A ver, zona usuario por el hecho de que ahí es donde se gestionan los usuarios, donde se edita la información de la empresa, donde se editan las etiquetas, un poco todo eso he puesto mi perfil, eso es otra movida. Identificar las etiquetas.
+
+[116:37] 1: ¿Tú dices esto, no?
+
+[116:38] 0: Mi perfil, un segundo, en el onboarding, identificar etiquetas.
+
+[116:45] 1: Sí, es verdad.
+
+[116:49] 0: Definir etiquetas de scoring para las actividades, tanto para. Y aquí donde puedo crear actividades, actividades, etiquetas y configurar eventos. En verdad hay una cantidad de movidas que yo esto si en un futuro tuviéramos que hacerlo todo automático, no tengo muy claro cómo sería.
+
+[117:59] 1: Por eso te digo, yo me estoy poniendo ahora poco a poco a tirar y automático no, pero los 900 euros.
+
+[118:07] 0: Los veo como súper importantes.
+
+[118:09] 1: Sí, sí, sí. Y el tiempo, el tiempo de estar.
+
+[118:13] 0: Con ellos, reducir ese tiempo al máximo, pero que es un cojón.
+
+[118:21] 1: Por eso me preocupa el hecho de hostia, creo que tenemos un montón de cosas, creo que la gente es lerda y les vamos a enseñar cómo conducir una nave espacial. ¿Como coño hacemos que sea un botón.
+
+[118:34] 0: Como un coño hacemos que se pudieran ellos registrar ellos solos desde la? Imposible, imposible. Porque realmente trabajan sin metodología y le tenemos que enseñar una forma de trabajar. Ese es el gran problema.
+
+[118:49] 1: Sólo pensando, la base de datos la tienen mal. Si ya tu casa tienes mal, ¿Cómo te voy a hacer una casa nueva? ¿Y te puedes hacer una casa nueva? Entrar sin sucesivamente. Imposible.
+
+[118:58] 0: Es imposible porque la base de datos está mal. Todo lo que viene siendo conexiones de telefonía, la conexión de telefonía casi que eso es como tirar cable, es muy, muy, muy físico.
+
+[119:11] 1: Muy manual.
+
+[119:12] 0: Manual. El tema del WhatsApp lo podrían hacer ellos, Sí, pero son lerdos, ninguno sabe su usuario de Facebook cuál es. Que por eso entiendo yo que los de BLEAP en su momento tienen su implementación. ¿Por qué? Porque estaban acostumbrados de que nadie sabe usar Facebook, entonces ya es que por cojones tienes que usarlo. Y luego explicarles un poco a trabajar con lo de las actividades, por ejemplo, en Vélez aún no han empezado a hacer nada de actividades y lo ven ya eso para final de año, enero, es como no, a mí ponme el teléfono y ponme el WhatsApp y que todo se quede en el histórico del contacto y yo ya feliz. Todo lo demás ya vendrá, no te preocupes.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

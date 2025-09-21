@@ -1,0 +1,810 @@
+================================================================================
+DEMO/REUNIÓN: ZOA WILDIZ
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 05/09/2025 a las 14:40
+⏱️ Duración: 12.989999771118164 segundos (0.2 minutos)
+👥 Participantes: josemanuel@zoasuite.com
+
+🔑 PALABRAS CLAVE:
+--------------------
+Centralitas, FreePBX, Dial plans, Numeración, Escalidraw, Transcripciones
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. J
+5. o
+6. s
+7. é
+8.  
+9. M
+10. a
+11. n
+12. u
+13. e
+14. l
+15. *
+16. *
+17. 
+
+18. C
+19. r
+20. e
+21. a
+22. r
+23.  
+24. d
+25. o
+26. c
+27. u
+28. m
+29. e
+30. n
+31. t
+32. o
+33.  
+34. f
+35. o
+36. r
+37. m
+38. a
+39. t
+40. i
+41. v
+42. o
+43.  
+44. p
+45. a
+46. r
+47. a
+48.  
+49. i
+50. n
+51. s
+52. t
+53. a
+54. l
+55. a
+56. c
+57. i
+58. ó
+59. n
+60.  
+61. d
+62. e
+63.  
+64. d
+65. i
+66. a
+67. l
+68.  
+69. p
+70. l
+71. a
+72. n
+73. s
+74.  
+75. (
+76. 0
+77. 5
+78. :
+79. 4
+80. 5
+81. )
+82. 
+
+83. G
+84. e
+85. n
+86. e
+87. r
+88. a
+89. r
+90.  
+91. d
+92. o
+93. c
+94. u
+95. m
+96. e
+97. n
+98. t
+99. a
+100. c
+101. i
+102. ó
+103. n
+104.  
+105. c
+106. o
+107. m
+108. p
+109. l
+110. e
+111. t
+112. a
+113.  
+114. d
+115. e
+116. l
+117.  
+118. p
+119. r
+120. o
+121. c
+122. e
+123. s
+124. o
+125.  
+126. d
+127. e
+128.  
+129. c
+130. e
+131. n
+132. t
+133. r
+134. a
+135. l
+136. i
+137. t
+138. a
+139. s
+140.  
+141. Z
+142. O
+143. A
+144.  
+145. (
+146. 0
+147. 5
+148. :
+149. 4
+150. 5
+151. )
+152. 
+
+153. V
+154. a
+155. l
+156. i
+157. d
+158. a
+159. r
+160.  
+161. f
+162. u
+163. n
+164. c
+165. i
+166. o
+167. n
+168. a
+169. m
+170. i
+171. e
+172. n
+173. t
+174. o
+175.  
+176. d
+177. e
+178. l
+179.  
+180. c
+181. ó
+182. d
+183. i
+184. g
+185. o
+186.  
+187. Q
+188. R
+189.  
+190. c
+191. o
+192. n
+193.  
+194. M
+195. i
+196. g
+197. u
+198. e
+199. l
+200.  
+201. (
+202. 0
+203. 2
+204. :
+205. 5
+206. 2
+207. )
+208. 
+
+209. D
+210. e
+211. s
+212. a
+213. r
+214. r
+215. o
+216. l
+217. l
+218. a
+219. r
+220.  
+221. a
+222. g
+223. e
+224. n
+225. t
+226. e
+227.  
+228. C
+229. h
+230. a
+231. t
+232. G
+233. P
+234. T
+235.  
+236. p
+237. a
+238. r
+239. a
+240.  
+241. c
+242. r
+243. e
+244. a
+245. c
+246. i
+247. ó
+248. n
+249.  
+250. d
+251. e
+252.  
+253. d
+254. i
+255. a
+256. l
+257.  
+258. p
+259. l
+260. a
+261. n
+262. s
+263.  
+264. (
+265. 0
+266. 6
+267. :
+268. 5
+269. 3
+270. )
+271. 
+
+272. C
+273. r
+274. e
+275. a
+276. r
+277.  
+278. s
+279. i
+280. s
+281. t
+282. e
+283. m
+284. a
+285.  
+286. d
+287. e
+288.  
+289. d
+290. o
+291. c
+292. u
+293. m
+294. e
+295. n
+296. t
+297. a
+298. c
+299. i
+300. ó
+301. n
+302.  
+303. d
+304. e
+305.  
+306. b
+307. u
+308. g
+309. s
+310.  
+311. y
+312.  
+313. r
+314. e
+315. s
+316. o
+317. l
+318. u
+319. c
+320. i
+321. o
+322. n
+323. e
+324. s
+325.  
+326. (
+327. 0
+328. 6
+329. :
+330. 5
+331. 3
+332. )
+333. 
+
+334. 
+
+335. *
+336. *
+337. M
+338. i
+339. g
+340. u
+341. e
+342. l
+343. *
+344. *
+345. 
+
+346. P
+347. r
+348. o
+349. p
+350. o
+351. r
+352. c
+353. i
+354. o
+355. n
+356. a
+357. r
+358.  
+359. c
+360. ó
+361. d
+362. i
+363. g
+364. o
+365. s
+366.  
+367. Q
+368. R
+369.  
+370. p
+371. a
+372. r
+373. a
+374.  
+375. a
+376. c
+377. c
+378. e
+379. s
+380. o
+381.  
+382. a
+383.  
+384. c
+385. e
+386. n
+387. t
+388. r
+389. a
+390. l
+391. i
+392. t
+393. a
+394. s
+395.  
+396. c
+397. u
+398. a
+399. n
+400. d
+401. o
+402.  
+403. s
+404. e
+405. a
+406.  
+407. r
+408. e
+409. q
+410. u
+411. e
+412. r
+413. i
+414. d
+415. o
+416.  
+417. (
+418. 0
+419. 2
+420. :
+421. 5
+422. 2
+423. )
+424. 
+
+425. D
+426. o
+427. c
+428. u
+429. m
+430. e
+431. n
+432. t
+433. a
+434. r
+435.  
+436. t
+437. o
+438. d
+439. o
+440. s
+441.  
+442. l
+443. o
+444. s
+445.  
+446. p
+447. r
+448. o
+449. c
+450. e
+451. s
+452. o
+453. s
+454.  
+455. y
+456.  
+457. p
+458. r
+459. o
+460. c
+461. e
+462. d
+463. i
+464. m
+465. i
+466. e
+467. n
+468. t
+469. o
+470. s
+471.  
+472. r
+473. e
+474. a
+475. l
+476. i
+477. z
+478. a
+479. d
+480. o
+481. s
+482.  
+483. (
+484. 0
+485. 6
+486. :
+487. 5
+488. 3
+489. )
+490. 
+
+491. 
+
+492. *
+493. *
+494. A
+495. l
+496. e
+497. j
+498. a
+499. n
+500. d
+501. r
+502. o
+503. *
+504. *
+505. 
+
+506. R
+507. e
+508. v
+509. i
+510. s
+511. a
+512. r
+513.  
+514. y
+515.  
+516. a
+517. p
+518. r
+519. o
+520. b
+521. a
+522. r
+523.  
+524. d
+525. o
+526. c
+527. u
+528. m
+529. e
+530. n
+531. t
+532. o
+533.  
+534. f
+535. o
+536. r
+537. m
+538. a
+539. t
+540. i
+541. v
+542. o
+543.  
+544. d
+545. e
+546.  
+547. d
+548. i
+549. a
+550. l
+551.  
+552. p
+553. l
+554. a
+555. n
+556. s
+557.  
+558. u
+559. n
+560. a
+561.  
+562. v
+563. e
+564. z
+565.  
+566. c
+567. r
+568. e
+569. a
+570. d
+571. o
+572.  
+573. (
+574. 0
+575. 5
+576. :
+577. 4
+578. 5
+579. )
+580. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[00:01] 0: Arranca.
+
+[00:03] 1: Hola, hola, hola, hola, hola. Grabando y me ha dicho. No se oye ningún sonido. Parece ser que ahora sí que se escucha.
+
+[00:11] 0: Vale, vamos a ver. Para hacer una petición de una centralita para ZOA, tenemos que saber lo primero la URL que le vamos a poner el nombre a la zandalita, por ejemplo, viviende o edilite insular. ¿Por qué? Porque yo tengo que crearla. Nombre del gerente, mail del gerente y número de teléfono del gerente. Documentación, me hace falta el CIF de la empresa, el NIF del gerente y la escritura. Tiene que coincidir el NIF del cliente con que se ha apoderado de la escritura. No me hace falta que estudie constitución, puede ser de apoderamiento que tiene poderes. Se acabó. El mismo documento escrito, se pone el número de extensiones que va a tener el ZOA y cuántos números provisionales quiere. Uno, dos, ninguno, lo que sea, o. Y si el número que después va a ser portado o los números portados, la factura, ¿Donde están esos números para yo mandarlos al operador y si no.
+
+[01:03] 1: Al provisional, será ya el de cabecera?
+
+[01:07] 0: Oye, será de cabecera, yo lo tengo claro.
+
+[01:09] 1: Y eso es importante porque. Eso es importante, porque en la columna de Office tiene que estar, inicialmente estará el provisional y después se cambiará al portado o portados. Y si finalmente el provisional es el definitivo, pues conforme se ponga es más que. Porque ese es el. ¿Por donde salen? Es que si no, no salen las llamadas.
+
+[01:33] 0: A mí me llega ese documento. Una vez nos llega ese documento, creamos la PBX, la pedimos, la sancionamos y creamos la PBX. La PBX nosotros creamos el mismo día.
+
+[01:44] 1: Que nosotros te enviamos, vosotros lo pedís el mismo día que nosotros damos los documentos, vosotros lo pedís antes de la.
+
+[01:51] 0: Semana, antes de las 5 de la.
+
+[01:54] 1: Tarde.
+
+[01:56] 0: Con 48 horas ha funcionado. Total, pedimos la PDM, la creamos y una vez creamos, creamos el idioma, con lo cual si queréis otro idioma me lo podéis decir. El idioma, la numeración, si es española o europea, y ya está. Yo contestaré con URL de acceso y password de acceso de admin. ¿Vale? ¿Qué pasa ahí? Necesitas el código QR para entrar. Hay un código QR cada vez que lo ves.
+
+[02:23] 1: Ya tengo ya todas mis centralitas las tengo ya con código QR.
+
+[02:26] 0: Entonces lo lógico es que ese código QR también te lo mande, te lo mande con todo esto, pero no vas.
+
+[02:34] 1: A poder entrar ahí. Lo que hemos hecho hasta ahora es que yo entro con vosotros, con Miguel en este caso y fotografías, ¿No? Miguel me dice el código, yo entro y entonces genero otro código, entonces ya me lo engancho yo. Es lo que estamos haciendo ahora.
+
+[02:52] 0: Pero bueno, eso lo vamos a tener que validar con Miguel, que siempre está en la oficina.
+
+[02:58] 1: Pero el QR, Pero sí, si mandáis un QR, lo que no sé si ese currículo es que tiene un periodo de validez, entonces no sirve. Entonces tiene que hacerlo como te digo, hay que llamar a Miguel, decirle dime el código, lo metes y una vez nosotros ya estamos dentro, podemos generar otro código.
+
+[03:11] 0: El código es un 29 correcto para la numeración. A mí una vez me llega la numeración, yo te la pondré dentro del dial plan, en classound te la pondré sin regla ninguna base y la pondré también en users para salida de llamadas.
+
+[03:28] 1: Nosotros la idea que llevamos, para que tú también lo tengas en cuenta, es lo antes posible, en cuanto nos fiemos de la IA, no hacer dial planch, sea todo por la IA, pero por ahora.
+
+[03:40] 0: Users, text, sound, te dejaré el número para que tú pongas las reglas de salida, las reglas de entrada y en users yo te pondré las reglas de salida, las habituales con 6 0 9 6 o 9 o 6 3 4 6 9. Ya está, eso tiene sus cosas.
+
+[03:57] 1: Y luego nosotros ya tenemos que.
+
+[03:59] 0: Ya tienes la PBX montada, tienes que centrarte para dar de alta a los usuarios, los passwords de los usuarios.
+
+[04:08] 1: Nosotros ya, nuestra parte en cuanto a buildies es dar de alta a los usuarios, generar las contraseñas para conectarlo con el FreePBX de cada usuario, generar los dial plans que sean necesarios, que nos hayan definido en los flujos de rescalidraw. Y falta una cosa más, hacer los dial plans, das de alta a los usuarios y en principio.
+
+[04:34] 0: Los que buscan utilizar móvil, enseñarles a utilizar.
+
+[04:38] 1: Ah no, y el timetable, y dar de alta el horario de invierno y verano, y dar de alta los grupos, en caso de que haya grupos.
+
+[04:46] 0: Tú no vas a utilizar locuciones, las locuciones va a ser la IA directamente.
+
+[04:49] 1: Nuestro objetivo es que acabe, pero por ahora no estamos a uno.
+
+[04:53] 0: Nosotros siempre normalmente generamos de 3 a 4 locuciones, que está locución de verano, locución de invierno, o sea fuera de horario, verano, fuera de invierno, locución de bienvenida, ocupados y festivos.
+
+[05:03] 1: Estamos usando Scalidrao para hacer los flujos, como el Miro, pero ahora Scalidrao que es mucho mejor. Y ahí definimos ya con el cliente los textos y entonces ahí hay elevenlabs, generamos el texto y ha funcionado, lo.
+
+[05:16] 0: Grabas, lo subes tú lo suyo.
+
+[05:19] 1: Y ahora tengo que generar un documento para. Y ahora tengo yo que generar un documento que tú no sé si tienes algo ya de formación de la plataforma, de cómo se montan los dateplanes, voy a generar un documento para que no sea solo yo quien lo pueda hacer.
+
+[05:36] 0: Yo lo sé, es un poco lo.
+
+[05:37] 1: Que te está intentando decir ahora, que ahora ya, que ya hemos hecho lo el principal, quedan 15 minutos, pues ya explicad lo que queráis, pero esto era lo más importante.
+
+[05:45] 0: Usamos el canal de comunicación, porque ese canal estamos siempre abiertos.
+
+[05:49] 1: A mí lo que me preocupa, la idea es entender bien cómo funciona la centralita para que Alejandro no sea también cuello botella y que las cosas que tú has explicado o que él ya.
+
+[05:57] 0: Sabe que yo las puedo entender, por.
+
+[05:59] 1: Si acaso, yo voy a hacer un documento la semana quiere llenar un documento explicando todo eso, que si quieres otro paso y si te le quieres dar tú y que lo tienes tú también para ti.
+
+[06:06] 0: Y si haces un agente de ChatGPT para hacer los layer plan, que es lo que deberías hacer cuando te la.
+
+[06:12] 1: Me lo pases, la persona que vamos a contratar va por ahí, es para que vaya empezando a hacer agentes de muchas cosas. Aún así, justo ayer viviendo a casa estaba pensando incluso porque queremos hacer un agente hasta para dudas de ZOA, para que el servicio técnico, para poder escalar, tengan todo el conocimiento que yo tengo.
+
+[06:29] 0: Yo tengo del Máster de IA, tengo un agente que hace agentes, le pides lo que quieres y te lo hace, pero es muy genérico, no es de formación.
+
+[06:39] 1: La idea que yo llevo es, por ejemplo con el software nuestro es yo voy poniendo en un documento todos los bugs que se van encontrando, que nos van diciendo los clientes y que lo podamos completar entre las diferentes personas que hablemos con clientes. Entonces se van rellenando los bugs y lo utilizaré también para ir especificando hacia los programadores y cuando una versión nueva resuelva los bugs, en ese mismo documento iré diciendo este bug se ha resuelto de esta manera, este bug se ha resuelto de esta manera y ese documento me va a servir de fuente de conocimiento de un agente. Entonces de cara a futuro de crecer, de más gente que tenga que hablar con el cliente es en plan de ni se te ocurra decir nada que primero no te haya dicho la IA, la gente que ha mirado eso.
+
+[07:20] 0: Eso llevo diciéndoselo a para la fripe de X señor Miguel, Miguel, apúntate todo lo que haces que luego no te acuerdas.
+
+[07:27] 1: No se apunta la miga, no se apunta nada, nada. Yo me pone nervioso y menos mal que yo tengo memoria que si no me pondría más nervioso.
+
+[07:35] 0: Vale, pues lo tenemos claro.
+
+[07:36] 1: Perfecto. Pero nosotros ahora sí que estamos en un proceso que estamos documentando muchísimo. Yo estoy mucho rato documentando. Sí, sí, me lo enseñaste.
+
+[07:46] 0: 95, ya lo probé. 96. 3, 14, 96.
+
+[07:48] 1: Pero que ya lo probé. Como no sea antes de. Después de tus vacaciones, la semana antes de tus vacaciones era probarlo tú que.
+
+[07:56] 0: Llamabas y te decía hola Alejandro, ya eres cliente, ¿Qué te pasa?
+
+[07:59] 1: Si no te tenemos uno. Funciona así también hemos hecho uno con Pima seguro. Se lo enseñamos y flipó. Vale, mira, si está José haciendo, pero.
+
+[08:07] 0: Pilas no puede tener con nosotros todavía porque no tiene conversión 7.
+
+[08:11] 1: Pero que le mira.
+
+[08:13] 0: Bueno, pero mira, escucha, vente para acá.
+
+[08:18] 1: Por cierto, otra cosa, ¿Has hablado con Juanjo?
+
+[08:23] 0: ¿Con Juanjo?
+
+[08:24] 1: ¿Y qué te ha dicho? Porque yo le dije, yo no quiero líos con Pepe, tú haz lo que tengas que querer porque tú eres el cliente de él, pero yo no quiero líos con él.
+
+[08:33] 0: Que yo le yo te facturo Wildy, no pasa nada, te subo lo que ellos necesitan para tú funcionar y ya está.
+
+[08:39] 1: Yo si finalmente le facturo yo todo lo que. Al precio que le estés facturando tú ahora.
+
+[08:44] 0: Claro, claro. Tú le facturas toa menos Wild y corres tus márgenes.
+
+[08:49] 1: Pero que como no sabíamos el precio, nosotros le hemos puesto un precio que son 39 por usuario.
+
+[08:56] 0: 11-20 por esencia.
+
+[08:59] 1: ¿Tú le cobras más a él.
+
+[09:04] 0: Y 20-90 no? De los primeros clientes yo ajusté precios, no me acuerdo, pero lo puedo sacar. Pero 11 20s y 19 no sé cuántos.
+
+[09:16] 1: Yo al final le dije tú vas a pagar.
+
+[09:25] 0: Bueno, ven a ver esto es una.
+
+[09:29] 1: Mujer, me dijo que te lo iba a decir, pero como que se quería quitar el resto de cosas que tenía contigo y bueno, eso ya lo habrás. Yo no quiero saber nada. Bueno, pues que lo sepas, que eso me dijo a mí. Entonces yo te pago a ti y digo, a ver, yo con otros clientes que tenemos es José, tú le pagas a él y a mí me pagas en la parte restante.
+
+[09:53] 0: Ya, pero es que quiero quitar.
+
+[09:55] 1: Bueno, eso hablas tú con José, pero.
+
+[09:57] 0: Es que él tiene conmigo fibras, ha.
+
+[10:00] 1: Estado pillando la contabilidad, se ha puesto nervioso y que se quería quitar cosas. Hemos hecho cambios.
+
+[10:06] 0: Lo que quitas es dinero.
+
+[10:08] 1: Si habrá para ti mejor, porque tú ese no es tu negocio. Y sí que es verdad que es un coñazo, porque con Gesteco me he dado cuenta que lo de las líneas y demás es un coñazo. Eso no da dinero. Pero si.
+
+[10:18] 0: ¿Por qué te crees que yo no lo ofrezco?
+
+[10:19] 1: Es un coñazo y además daña tu imagen a mal o a nada, porque.
+
+[10:27] 0: No gana dinero para ganar un euro con una dinero.
+
+[10:30] 1: Madre mía.
+
+[10:31] 0: Yo no lo hago yo la fibra sí. Con la fibra no genera problemas y generar no, situaciones como que esté que está un sitio complicado.
+
+[10:39] 1: Mira esto y la entrevista manate.
+
+[10:43] 0: No, ahora esto es el Void Boot, que esto ya lo ha sido. Y esto es una cosa nunca han sacado que son integraciones.
+
+[10:49] 1: Ah, eso lo intenté mirar, pero no lo entendí.
+
+[10:51] 0: No, ellos han llegado a un acuerdo con una empresa que se llama RedCaptus, que es integrado con CRM, sistemas de telefonía, punto. Entonces lo que haces aquí es conectarte con eso y puedes conectar cualquier CRM que tenga redcaptus y ya tienen toda esa parte hecha. Es decir, simplemente conectar hasta el desarrollo que tengan con ese CRM.
+
+[11:07] 1: Por cierto, tendríamos que haber espabilado y haber hecho algo para el concurso ese de los cojones y nos hubiésemos dado imagen.
+
+[11:12] 0: Estoy haciendo una cosa. Eso es una aplicación. Eso es una aplicación que se coge con Moing, Boeing. Es una aplicación que escucha y dice que tiene éxito, que no tiene éxito. La venta en el switch de Delta está integrado dentro de Colaboration. Se podría utilizar, Sí, pero lo que hace es conectarte con él ellos es. Y después, bueno, y ahora no, porque vuestro no es el colaboración 7, así.
+
+[11:41] 1: Que yo tengo uno con colaboración 7. Y el SMS es para mandar.
+
+[11:44] 0: Para mandar y recibir SMS. ¿Lo pasa en España? Todavía no se pueden percibir. Sí, que se manda pero no se recibe.
+
+[11:48] 1: Pero eso ya lo tenemos pero no lo usamos ese. Pero tengo el código para hacerlo. Ya te enseñas y te mandan SMS. Ya, pero he pensado en el flujo.
+
+[11:56] 0: De Kinetic o SMS. La gente que tiene móvil no tiene.
+
+[11:59] 1: WhatsApp, está metido en el flujo. Pero Pacture.
+
+[12:03] 0: Lo demás son el kite es la aplicación del kite, el Widget de Kite. ¿Qué pasa? Que tú ahora entras a una URL que la guardas siempre quieres comunicar con mi, Puedes llamar Microsoft. Ellos siempre crean un sistema de comunicación que no depende de la telefonía. Que es un WhatsApp al final es un WhatsApp y el kite es un WhatsApp, pero que tienes videoconferencia y tiene todas las funcionalidades de WhatsApp.
+
+[12:24] 1: Y con Webhoom. Nosotros estamos utilizando lo de las transcripciones.
+
+[12:28] 0: Eso es. Y ahora con la mesa las transcripciones te vienen de todas las conversaciones Si es business o premium te viene la transcripción a tu correo que igual como se va al correo se puede meter.
+
+[12:37] 1: En el CRM transcripción y anda que no me gustó. Y hablándolo con Juan hay que tirar el WU. No va bien lo de las transcripciones.
+
+[12:44] 0: Que no va los cojones.
+
+[12:45] 1: Pero porque tú tienes XBIZ en XBee.
+
+[12:47] 0: Sí.
+
+[12:47] 1: Que no, que no, que lo estuve haciendo con Juan y me dijo él que se venía por ahí.
+
+[12:51] 0: Quédate en la cabeza, tenías lo que era Willix antes, que No tienes un 7.
+
+[12:57] 1: Joder, SBS, te apuestas 100 padres.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

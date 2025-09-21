@@ -1,0 +1,871 @@
+================================================================================
+DEMO/REUNIÓN: Coverfincas <> Zoa seguros
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 16/09/2025 a las 15:30
+⏱️ Duración: 24.200000762939453 segundos (0.4 minutos)
+👥 Participantes: josemanuel@zoasuite.com,jcarrasco@coverfincas.com, jcarrasco@coverfincas.com
+
+🔑 PALABRAS CLAVE:
+--------------------
+automatización, WhatsApp, corredurías, siniestros, administradores, centralita
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. J
+5. o
+6. s
+7. é
+8.  
+9. M
+10. a
+11. n
+12. u
+13. e
+14. l
+15.  
+16. A
+17. u
+18. s
+19. í
+20. n
+21. *
+22. *
+23. 
+
+24. E
+25. n
+26. v
+27. i
+28. a
+29. r
+30.  
+31. p
+32. r
+33. e
+34. s
+35. u
+36. p
+37. u
+38. e
+39. s
+40. t
+41. o
+42.  
+43. e
+44. s
+45. p
+46. e
+47. c
+48. í
+49. f
+50. i
+51. c
+52. o
+53.  
+54. p
+55. a
+56. r
+57. a
+58.  
+59. e
+60. l
+61.  
+62. m
+63. ó
+64. d
+65. u
+66. l
+67. o
+68.  
+69. d
+70. e
+71.  
+72. W
+73. h
+74. a
+75. t
+76. s
+77. A
+78. p
+79. p
+80.  
+81. a
+82.  
+83. J
+84. a
+85. v
+86. i
+87. e
+88. r
+89.  
+90. (
+91. 2
+92. 2
+93. :
+94. 1
+95. 5
+96. )
+97. 
+
+98. R
+99. e
+100. m
+101. i
+102. t
+103. i
+104. r
+105.  
+106. p
+107. r
+108. e
+109. s
+110. e
+111. n
+112. t
+113. a
+114. c
+115. i
+116. ó
+117. n
+118.  
+119. c
+120. o
+121. m
+122. e
+123. r
+124. c
+125. i
+126. a
+127. l
+128.  
+129. y
+130.  
+131. p
+132. á
+133. g
+134. i
+135. n
+136. a
+137.  
+138. w
+139. e
+140. b
+141.  
+142. p
+143. a
+144. r
+145. a
+146.  
+147. f
+148. a
+149. c
+150. i
+151. l
+152. i
+153. t
+154. a
+155. r
+156.  
+157. i
+158. n
+159. t
+160. r
+161. o
+162. d
+163. u
+164. c
+165. c
+166. i
+167. ó
+168. n
+169.  
+170. c
+171. o
+172. n
+173.  
+174. d
+175. i
+176. r
+177. e
+178. c
+179. t
+180. o
+181. r
+182.  
+183. d
+184. e
+185.  
+186. a
+187. s
+188. o
+189. c
+190. i
+191. a
+192. c
+193. i
+194. ó
+195. n
+196.  
+197. (
+198. 2
+199. 2
+200. :
+201. 2
+202. 5
+203. )
+204. 
+
+205. P
+206. r
+207. e
+208. p
+209. a
+210. r
+211. a
+212. r
+213.  
+214. d
+215. e
+216. m
+217. o
+218.  
+219. o
+220.  
+221. v
+222. i
+223. d
+224. e
+225. o
+226.  
+227. g
+228. r
+229. a
+230. b
+231. a
+232. d
+233. o
+234.  
+235. p
+236. a
+237. r
+238. a
+239.  
+240. p
+241. r
+242. e
+243. s
+244. e
+245. n
+246. t
+247. a
+248. c
+249. i
+250. ó
+251. n
+252.  
+253. e
+254. n
+255.  
+256. a
+257. s
+258. o
+259. c
+260. i
+261. a
+262. c
+263. i
+264. ó
+265. n
+266.  
+267. d
+268. e
+269.  
+270. c
+271. o
+272. r
+273. r
+274. e
+275. d
+276. u
+277. r
+278. í
+279. a
+280. s
+281.  
+282. (
+283. 2
+284. 2
+285. :
+286. 3
+287. 0
+288. )
+289. 
+
+290. 
+
+291. *
+292. *
+293. J
+294. a
+295. v
+296. i
+297. e
+298. r
+299.  
+300. C
+301. a
+302. r
+303. r
+304. a
+305. s
+306. c
+307. o
+308. *
+309. *
+310. 
+
+311. C
+312. o
+313. o
+314. r
+315. d
+316. i
+317. n
+318. a
+319. r
+320.  
+321. r
+322. e
+323. u
+324. n
+325. i
+326. ó
+327. n
+328.  
+329. e
+330. s
+331. p
+332. e
+333. c
+334. í
+335. f
+336. i
+337. c
+338. a
+339.  
+340. p
+341. a
+342. r
+343. a
+344.  
+345. e
+346. v
+347. a
+348. l
+349. u
+350. a
+351. r
+352.  
+353. i
+354. m
+355. p
+356. l
+357. e
+358. m
+359. e
+360. n
+361. t
+362. a
+363. c
+364. i
+365. ó
+366. n
+367.  
+368. d
+369. e
+370. l
+371.  
+372. m
+373. ó
+374. d
+375. u
+376. l
+377. o
+378.  
+379. W
+380. h
+381. a
+382. t
+383. s
+384. A
+385. p
+386. p
+387.  
+388. e
+389. n
+390.  
+391. C
+392. o
+393. v
+394. e
+395. r
+396. f
+397. i
+398. n
+399. c
+400. a
+401. s
+402.  
+403. (
+404. 2
+405. 1
+406. :
+407. 2
+408. 6
+409. )
+410. 
+
+411. C
+412. o
+413. n
+414. t
+415. a
+416. c
+417. t
+418. a
+419. r
+420.  
+421. a
+422. l
+423.  
+424. d
+425. i
+426. r
+427. e
+428. c
+429. t
+430. o
+431. r
+432.  
+433. d
+434. e
+435.  
+436. l
+437. a
+438.  
+439. a
+440. s
+441. o
+442. c
+443. i
+444. a
+445. c
+446. i
+447. ó
+448. n
+449.  
+450. p
+451. a
+452. r
+453. a
+454.  
+455. i
+456. n
+457. t
+458. r
+459. o
+460. d
+461. u
+462. c
+463. i
+464. r
+465.  
+466. l
+467. a
+468.  
+469. p
+470. r
+471. o
+472. p
+473. u
+474. e
+475. s
+476. t
+477. a
+478.  
+479. d
+480. e
+481.  
+482. Z
+483. o
+484. a
+485.  
+486. (
+487. 2
+488. 2
+489. :
+490. 1
+491. 5
+492. )
+493. 
+
+494. P
+495. r
+496. o
+497. g
+498. r
+499. a
+500. m
+501. a
+502. r
+503.  
+504. p
+505. r
+506. e
+507. s
+508. e
+509. n
+510. t
+511. a
+512. c
+513. i
+514. ó
+515. n
+516.  
+517. e
+518. n
+519.  
+520. p
+521. r
+522. ó
+523. x
+524. i
+525. m
+526. a
+527.  
+528. r
+529. e
+530. u
+531. n
+532. i
+533. ó
+534. n
+535.  
+536. d
+537. e
+538.  
+539. a
+540. s
+541. o
+542. c
+543. i
+544. a
+545. c
+546. i
+547. ó
+548. n
+549.  
+550. p
+551. r
+552. e
+553. v
+554. i
+555. s
+556. t
+557. a
+558.  
+559. p
+560. a
+561. r
+562. a
+563.  
+564. o
+565. c
+566. t
+567. u
+568. b
+569. r
+570. e
+571. -
+572. n
+573. o
+574. v
+575. i
+576. e
+577. m
+578. b
+579. r
+580. e
+581.  
+582. (
+583. 2
+584. 2
+585. :
+586. 4
+587. 2
+588. )
+589. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[00:00] 0: Tenerlo, que tengamos toda la información unificada en un mismo canal. Ahora si quieres te enseñaré cómo funciona la plataforma para que vosotros, a nivel de corredoría de seguros, todos esos leads potenciales que tengáis, todos esos clientes, nos integramos con tu ERP. ¿Qué ERP tienes, Javier?
+
+[00:19] 1: Nosotros trabajamos con tesis.
+
+[00:21] 2: Con tesis, perfecto.
+
+[00:23] 0: Pues a nosotros está totalmente amplificado y lo que hacemos es que, oye, te mandan un WhatsApp, sepas que no está gestionando, sepas el estado de ese WhatsApp, que te han llamado por teléfono, Javier, ahora, y estabas en una comida, no has querido contestar, automáticamente se le manda un WhatsApp. Ese WhatsApp se va automatizando en base a un flujo de trabajo que nosotros diseñamos personalizado con vosotros. Nosotros siempre que trabajamos con una correduría, una empresa, vamos a vuestra casa, os ayudamos primero a limpiar la base de.
+
+[00:48] 2: Datos, porque es muy importante, pues en.
+
+[00:50] 0: Los ERP a veces están un poco sucias o el tomador es otra persona que no es el que de verdad tiene el seguro. Entonces ayudamos con eso, entendemos vuestros flujos de trabajo y una vez que conocemos cómo trabajáis, os ayudamos a hacer las automatizaciones que tengan más sentido. ¿Esta devolución entra por email? Pues que se mande en WhatsApp, si no que le llame esta. Si esta persona está ocupada, tenemos un grupo de trabajo, que pase a la siguiente, que le llame, que se quede esa actividad hecha. Lo que te he comentado siempre inicialmente.
+
+[01:21] 2: Que no haya ningún WhatsApp, llamadas ni actividad sin realizar.
+
+[01:26] 0: Es un poquito la idea. Si quieres Javier, coméntame un poquito, porfa, tu causística, ¿Cómo trabajáis?
+
+[01:33] 1: Somos una coladuría que solo trabajamos el ramo de comunidades. Es decir, no tenemos cliente, persona física.
+
+[01:41] 2: Correcto.
+
+[01:42] 1: Ninguno. Solo trabajamos con administradores de fincas que aseguramos sus comunidades de propietarios, pero que no son un cliente directo.
+
+[01:56] 2: Correcto.
+
+[01:57] 1: Nosotros tenemos una administración que les gestionamos los suministros y los seguros, porque esa administración lleva a 50 comunidades de propietarios. Es decir, los clientes no llaman a nosotros, nuestro cliente, entre comillas, es el administrador.
+
+[02:14] 0: El administrador es vuestro cliente final con el que os comunicáis para tener todo eso en la gestión.
+
+[02:20] 2: Entendido.
+
+[02:21] 1: Nosotros tenemos, por ejemplo, una base de datos particulares, tenemos que acoplarlo y sentido de todos estos trucos, hacerlo con un cliente, porque nosotros tenemos como grandes cuentas en el fondo.
+
+[02:39] 2: Correcto.
+
+[02:40] 1: Vale. Es decir, tenemos una gran cuenta que nos trae 100 pólizas. Entonces tenemos pocos interlocutores con muchas pólizas. De acuerdo. Y sí que mucho flujo de comunicaciones con los siniestros de los vecinos que tienen problemas y cosas.
+
+[03:05] 0: ¿Eso también lo gestionáis vosotros con los vecinos finales?
+
+[03:08] 1: Todo, todo, claro. Sí una persona que tiene 100 pólizas, entonces su vecino le llama. Se me ha mojado la pared. El administrador nos lo comunica a nosotros y nosotros resolvemos el expediente.
+
+[03:24] 2: Vale, perfecto.
+
+[03:26] 1: Y demás. Entonces tenemos ahí un poco de jaleo porque tenemos. Cada ejecutivo tiene su WhatsApp propio. Es como cada ejecutivo lleva una gran cuenta.
+
+[03:38] 2: Vale, entendido.
+
+[03:40] 0: Sí.
+
+[03:40] 1: Y luego, pues básicamente estamos en contacto con administradores de fincas y con vecinos, amistades.
+
+[03:48] 2: Genial.
+
+[03:48] 0: Pues ahora podemos ver cómo. Porque ¿Cuántos ejecutivos sois actualmente?
+
+[03:55] 1: Hay cuatro.
+
+[03:57] 2: Vale, perfecto.
+
+[03:59] 0: Y cada uno tiene su WhatsApp, su llamada.
+
+[04:02] 1: Sí, claro. Hemos decidido hacerlo así porque tener unos caos total. Entonces hemos organizado como cuatro milicorredurías en el cual su WhatsApp, email, evidentemente, teléfono no. Y tenemos aquí como los sistemas montados dentro de covercincas, pues hay como cuatro mini covercinca.
+
+[04:26] 0: ¿Y hace cuánto que tenéis así eso montado?
+
+[04:30] 1: De siempre.
+
+[04:31] 2: De siempre. Vale, entendido. ¿Y qué tal está funcionando?
+
+[04:40] 1: Muy bien, muy bien.
+
+[04:42] 2: Genial. Vale, perfecto.
+
+[04:44] 0: A nivel de canal de adquisición de leads, ¿Tenéis Meta, Google, formularios bien posicionados?
+
+[04:52] 1: Ahora mismo tenemos una agencia muy potente que nos está ayudando en todo eso. Tenemos un CRM que descarga todos esos leads. Y bueno, pues estamos trabajando. Primero hay una persona que cualifica, llama por teléfono, yo creo que para la venta. ¿Nosotros qué pasa? No tenemos una venta masiva, tenemos pocos leads. Muy poquito. Porque trabajamos con grandes cuentas, entre comillas.
+
+[05:17] 2: Claro, claro, claro, claro, claro.
+
+[05:19] 1: No es como una persona que le piden 300 euros de hogar al día y eso sí tienes que tener algo más, te vuelves loco.
+
+[05:28] 2: Muy bien.
+
+[05:28] 0: ¿Y qué CRM tenéis actualmente? ¿Cuál trabajáis aquí?
+
+[05:31] 2: Me habéis comentado.
+
+[05:32] 1: Bueno, es un CRM propio de las TIE Farina que han diseñado ellos, comprados conmigo.
+
+[05:38] 0: Vale, sí, eso es. Go High Level.
+
+[05:42] 1: No me acuerdo. Tengo por ahí.
+
+[05:44] 0: Sí, sí, sí, sí, sí.
+
+[05:48] 2: Sí, sí.
+
+[05:49] 0: Hacen la esta. Vale. ¿Y ellos os han hecho la automatización para que ese lead que llegue tenga ciertas automatizaciones.
+
+[06:06] 1: Hasta que cualificamos luego reuniones?
+
+[06:12] 2: Vale, vale, vale, vale, vale, genial.
+
+[06:16] 0: Lo digo porque eso creo que sí que puede ser algo parecido, pero bueno, yo aún así, si quieres yo te lo voy a enseñar Xavier, para que veas también un poco cómo trabajamos y tú valoras un poco la opción, porque como lo que tú me comentabas de eso de hacer mini 4 corredurías, depende un poco también como es predisposición tuya o lo que sea, pero sí que nosotros en ese aspecto cambiaría un poco la forma de trabajar y la que trabajamos ahora está bastante validada y funciona bien. Pero bueno, yo te explico. Aquí tienes la parte de ZOA. En la parte de ZOA esta sería la parte de calendario, que aquí puedes ver todas las actividades que tiene que hacer la gente, cómo trabajamos, que cada uno al final sepa qué actividad tiene que hacer, si tiene una reunión, tiene que hacer una llamada, tiene que mandar un WhatsApp. Tienes a los ejecutivos y tú como igual director o gerente, sabrías qué tiene que hacer en cada momento y la persona en sí, como sabes que las comunicaciones generan actividades y generan tareas. Nosotros lo hemos hecho de esta forma, es la parte de calendario, la parte de comunicaciones. En la parte de comunicaciones, si te fijas, automáticamente se pone ya el filtro, que sería mi filtro, mis llamadas, como yo soy soporte ZOA o la parte de ZOA no vería, si yo quiero ver todo, veríamos aquí el histórico de llamadas. En este histórico de llamadas nosotros lo que tenemos es desde la gente, el número de origen, a la extensión de nuestros gestores, qué comercial lo está gestionando, el tipo de llamada, si es entrante o es saliente, y lo que más nos importa aquí es la duración, si le interesa el cliente, pero si está sin contestar, ocupado o contestada. En este caso lo que más nos interesa es las perdidas, las que no se han contestado. Aquí, bueno, al final tienes un dashboard, en el dashboard del cliente, pues al final tienes un tipo de llamadas, que veas todas las llamadas que se han realizado, los WhatsApp que se han enviado, todo este tipo de información en un.
+
+[08:14] 2: Golpe de vista.
+
+[08:17] 0: Se transcriben todas las llamadas, se graban y se identifican si ha habido una tonalidad, una emocionalidad negativa o positiva. Por ejemplo, algunos clientes cuando te dicen oye, que yo ha pasado esto, no, no, yo no he dicho eso. Sí está grabado y tú has dado tu permiso para que se grabe. Vale, de acuerdo. Vale, entonces también esto te muestro las grabadas. Tenemos el historial hecho para que esto. ¿Cómo funciona esto? Nosotros también tenemos nuestra centralita y no sé si centralita tenéis actualmente.
+
+[08:49] 1: El cual Medellín.
+
+[08:52] 2: Vale.
+
+[08:53] 0: Nosotros trabajamos con una que es Willix, de la menos permite. ¿Qué nos permite esto? Pues, por ejemplo, pasamos a la parte de WhatsApp. En la parte de WhatsApp, esa solución que dijiste, oye, pues cada uno que tenga su WhatsApp, ¿Qué hacemos? Hacemos que haya un número de cabecera de centralita y con ese número tenemos que aquí están todos los gestores y cada gestor yo puedo elegir el de uno y ese tiene su canal. El suyo, solamente el suyo. Y dentro del suyo nosotros tenemos el estado de cada una de las conversaciones.
+
+[09:27] 2: Si yo por ejemplo, en GEMA quiero.
+
+[09:29] 0: Ver cuál tiene pendiente, yo veo que tiene muy pocos, porque la verdad que.
+
+[09:33] 2: Trabaja muy bien el curso quiere decir pendientes.
+
+[09:36] 0: Te han pedido algo en curso, estás haciendo y resueltos que lo has solucionado. Entonces podemos ver cómo ha entrado una persona. Hola, buenas, tal, hemos quedado a última hora, hemos hablado, he mandado un audio.
+
+[09:47] 2: Perfecto.
+
+[09:49] 0: Este es Jaime. ¿Ves esta automatización? Hola, Jaime, hemos recibido una llamada tuya. ¿En qué te podemos ayudar? Nueva póliza. Vale. La persona, tú estás ocupada, tu gestor está, pero la persona esta. Automatización que diseñaremos luego contigo. Luego si quieres te puedo enseñar un workflow que tenga por ahí. Vamos cualificando ese lead y en base a ese lead vamos sabiendo qué estado tiene o qué le sucede. Oye, que empieza por Gema, pero que de repente Vicente se la ha pasado al de siniestros. ¿Que son siniestros? Pum. Directamente se le pasa al otro cliente.
+
+[10:22] 1: Claro, eso al final nosotros tenemos que volver a algo así, al menos en la parte de WhatsApp, porque incluso tú puedes. El cliente final tiene su único WhatsApp. Con cobertincas.
+
+[10:34] 2: Eso es.
+
+[10:34] 1: Internamente se van pasando entre compañeros.
+
+[10:37] 0: Eso es. Yo esto se lo asigno a cualquiera de los compañeros.
+
+[10:46] 1: Digamos, esta parte vuestra es la que yo sabía que existía, pero no lo había visto. Y he dicho, monto un WhatsApp a cada uno y lo soluciono temporalmente.
+
+[10:56] 2: Eso es.
+
+[10:56] 1: Y tú aquí al final no puedes tener un futuro. Bueno, puedes tenerlo, pero es más caótico.
+
+[11:05] 0: ¿A qué te refieres? No, aquí al final, pues tienes todos todos, de todos.
+
+[11:09] 1: Esto sería la solución para.
+
+[11:12] 2: Eso es, eso es, eso es, correcto.
+
+[11:15] 0: Y luego lo más chulo también de aquí es que aparte que tienes el historial, esto se guarda, se guarda, se mete en un historial, se resume. Y aquí, claro, tú tendrías toda la conversación. ¿Que ha pasado con Jaime? ¿Qué es lo que mejor se ha solucionado? ¿Qué buenas prácticas son a la hora de hablar con un cliente? Y se habla desde la empresa, ¿No? Cada uno tiene su WhatsApp, tiene su número, Gema se me va de la empresa o se me va de vacaciones y nosotros pasamos todo el flujo a julio. Y todo esto te ayuda mucho a la agilidad, a la rapidez. Y esta es la parte de WhatsApp.
+
+[11:54] 2: Para que te hagas una idea.
+
+[11:56] 1: He puesto CRM, José Manuel, está todo, no es mi Yo quiero comprar por ahora, para empezar WhatsApp no es todo o nada.
+
+[12:07] 0: Exactamente, sí, a ver, sí que tenemos la parte solo de WhatsApp, que se podría hacer solo WhatsApp, haríamos el tema de la centralita, o sea, solamente el teléfono y ya está. Con solo WhatsApp se podría hacer también. Hay una parte de solo WhatsApp. ¿Qué sucede? ¿Pues bueno, lo podemos ver y luego cuando muchos clientes oye, pues yo quiero empezar solo con WhatsApp, vale? Y una vez que tienen solo WhatsApp, oye, pues le vamos a meterle el teléfono porque queremos hacer esto, o sea.
+
+[12:35] 1: Que se podría empezar esta parte de inicio nosotros. No es que lo necesite ahora mismo, pero es interesante. Ya de inicio de cos.
+
+[12:46] 0: Claro, claro, por eso. Y luego lo chulo es que te va entrando y que estas propias actividades, esta información que tú la tienes ya centralizada. Lo bueno es que luego, lo que te he comentado, luego ahora pasamos a la parte contacto y luego te enseñaré que estas tareas, o sea, estos trabajos también te generan las actividades para ver o oportunidades de negocio, porque te puede entrar un WhatsApp desde una landing o desde otra página, un grupo, y es una oportunidad de negocio y tú lo tienes aquí gestionado.
+
+[13:20] 1: En general, nosotros, nuestra cordura por el modelo de negocio sólo se usa para dos cosas. Una para tramitar todos los siniestros de este equipo que te cuento, para hablar con vecinos afectados. Y luego lo tenemos como WhatsApp de la empresa. A nivel info, como tenemos pocos links, pero los pocos links queremos trabajarlos desde ahí, hay como una parte comercial pequeñita y una parte muy grande de tramitación de fin.
+
+[13:51] 2: Se podría hacer aquí, se puede asignar y se puede poner un.
+
+[13:54] 0: Embedded, este pone soporte, pone siniestros y otra info, ¿Sabes? Se puede hacer tranquilamente. Luego tenemos otra parte que es ¿Qué sucede? Nosotros como lo que solemos hacer es quitamos y reducimos el coste de los teléfonos, porque al final los teléfonos, cogemos la centralita, trabajamos con la centralita que es digital, esta centralita tiene un número, pero luego tiene esas extensiones y cada uno en el teléfono, pues en vez de tener, como es gente, igual que hay colaboradores, tiene en su teléfono una aplicación que es la de Wildix, y llaman desde la aplicación o contestan el.
+
+[14:25] 2: WhatsApp desde la aplicación y no gastas ese teléfono.
+
+[14:28] 0: Entonces lo bueno que reduces ese coste de Orange, que hay clientes que gastan 700 800 300 euros al mes y al poner la centralita y unificar todo, ¿Qué sucede? Que les quitas también la parte de WhatsApp un poco suya de la empresa, entonces al final se contactan por aquí.
+
+[14:45] 2: Es como un Teams, tendrías un teams aquí. ¿Vale?
+
+[14:51] 0: ¿Qué sucede? Pues nada, que nosotros, es muy importante los contactos, al final los contactos, cada usuario tiene que tener su correo, su número de teléfono, que eso lo que hace es ayudarnos a tener toda la base de datos limpita para que al final sepamos qué es lo que tenemos.
+
+[15:05] 2: ¿Qué sucede?
+
+[15:06] 0: Pues que vamos aquí a un cliente y aquí tenemos el historial de comunicación que se ha tenido con ese cliente, sabemos que se ha mandado un email, que se ha enviado un documento y que hay que hacer llamados para los datos de la póliza. Aquí tenemos el teléfono, el email, la fecha de nacimiento, el NIF, el contacto, qué comercial lo está gestionando, si tengo una etiqueta que es urgente, puedes luego filtrar para hacer actividades de marketing o temas de venta o demás en urgente, si es un cliente, si no es un cliente, si hay una gestión o lo que estábamos hablando, lo que dices tú, si es la relación que tenemos, es el gerente, la propietaria, el director, el administrador, lo que queramos, lo podemos poner aquí para tenerlo bien organizado, toda la base de datos. Luego como te he comentado, lo conectamos con el ERP, entonces también sabemos productos, relaciones, fechas de cimiento de póliza, todo. Y finalmente lo que te comentaba, el tema de las ventas, o el tema de las ventas o el tema de lo que tú veas que pueden entrar.
+
+[16:15] 2: Diferentes leads o WhatsApp, por ejemplo, llamadas.
+
+[16:19] 0: Sin contestar, WhatsApp sin contestar y se van generando estas oportunidades. Aquí vamos a poner un ejemplo en este embudo de ventas, aquí tendríamos una persona que tenemos un time for o un cuestionario que lo lanzamos para captar más leads y sabríamos toda la información de lo que nos ha llegado y sobre todo aquí el historial de qué ha sucedido con ello, quién lo ha contactado. Tenemos ahí automáticamente que pone que el comercial es Vicente Morey y aquí vamos identificando el ticket de la oportunidad, el comercial, lo que tiene que gestionar, la etiqueta de qué tipo de producto se le está haciendo, si en este muñequito es rojo o es negro o es verde, es si es cliente, no es cliente o es un potencial cliente, la fecha de la actividad y todo el tipo de información que necesitamos. No sé si tienes alguna duda hasta aquí más o menos que quieras comentarme.
+
+[17:20] 1: No, bueno, lo veo muy potente para una tolería que tenga persona física porque maneja muchísimos leads. A mí me parece muy interesante. Esta parte la usamos con Bastrid y Fariña, sinceramente.
+
+[17:46] 0: Claro, por eso cuando me lo has dicho digo esto es de Bacri y Fariña, digo esto lo gestionan ellos así, nosotros.
+
+[17:55] 1: Por suerte lo llevamos con esa parte.
+
+[17:57] 0: Son muy cracks. Son muy cracks. Ladri y demás son muy cracks.
+
+[18:00] 2: Basti Falla es un muy buenos.
+
+[18:04] 0: Nuestro core es esto, la comunicación, pero la primera comunicación genera actividades, que es lo que te he dicho antes. Entonces nosotros sí, también que se puede hacer con Bastilla, Fariña, que esa información al final es mandar a WhatsApp o gestionar tú tus comunidades o a estos vecinos y tenerles todos guardados en un WhatsApp con automatizaciones, porque esto es lo que te comentaba antes. A ver, dame un segundo.
+
+[18:32] 2: Vale.
+
+[18:33] 0: Esto que yo te comentaba antes, nosotros por ejemplo, a nivel de automatizaciones, que esto es una cosa que es otra.
+
+[18:41] 2: Parte que igual te puede interesar, es.
+
+[18:43] 0: Como nosotros trabajamos las automatizaciones.
+
+[18:47] 2: ¿Qué es esto?
+
+[18:48] 0: Esto es pues tu día a día, cómo quieres que cuando entre una persona o por el canal que te interese o por el tipo de cliente que sea o por el potencial cliente que sea que sucedan cosas, nosotros con vosotros nos sentamos, diseñamos este flujo que más te interese. Oye, tengo un siniestro de qué es tu casa es tu casa, es culpa tuya. No, es del vecino. Es del vecino. Si, es del vecino. ¿Qué pasa? Todo esto se puede automatizar para el.
+
+[19:14] 1: Otro.
+
+[19:17] 0: En una conversación en WhatsApp. Pero es que ya lo que estamos haciendo ahora es que una vez que tengamos esto, lo hacemos en WhatsApp, luego le metemos un agente de IA, de Inteligencia artificial, que conversacionalmente ya no es pulsa uno o auto hogar, otros no, es que eso es y te hace Javier, hay que mandar a una persona a las 7. Aquí también podemos automatizar un mensaje, un email o una llamada que a esa persona que tenga que ir lo haga.
+
+[19:50] 1: Y esto lo veo muy potente para compañeros míos que tienen otro tipo de corredorías totalmente distintos a los míos.
+
+[19:58] 2: Sí, sí.
+
+[20:03] 1: Nuestros clientes no nos llaman pidiendo WhatsApp, no nos escriben nunca nadie porque están acostumbrados a trabajar como una gran cuenta. El cliente nos escribe por email, por nuestro CRM, etc. Porque no hay un envío masivo de cosas a gestionar para compañeros míos que tienen corredorías que tienen a dos mil clientes, hogar, auto.
+
+[20:32] 2: Correcto, totalmente.
+
+[20:33] 0: Por eso digo que yo sin conocerte, más o menos veía yo como dices tú, que vosotros sois muy BB de cuentas grandes, que igual no tenéis ese gran flujo de comunicación, sois cuatro, lo gestionáis bien, etc. Pero bueno, si tú crees que también lo puedes evaluar, comentar, darle una vuelta o si conoces a algún amigo, me.
+
+[20:55] 1: Molaría, José Manuel, dos temas si quieres. Uno, ver la posibilidad de tratar en otra reunión tuyo el tema de WhatsApp, esa parte, para que como clínicas pueda empezar a trabajar con vosotros en algo. Luego yo plantear una posible reunión con mi asociación, que somos 120 cuadrillas, la mayoría generalistas y con perfiles como este que tú demandas, y proponer algo para toda esa gente.
+
+[21:26] 2: Vale, lo veo bien también. Sí, sí, sí, correcto.
+
+[21:32] 0: Bien, lo veo bien, me gusta la idea. Y ya te digo que si quieres hacemos eso, yo te puedo mandar un presupuesto. Además, si tú nos introduces a la que hacemos también con varios clientes, que además Basti y Fariña también lo hacen. Lo sé, que es, oye, si vosotros a nosotros nos presentáis algo, vosotros tenéis un descuento, por ejemplo, en tema de onboarding y demás, que también funcionamos así. Así que nosotros más que agradecidos. La idea sería perfecta. Yo te mando un email con ese presupuesto y si quieres podemos ver una fecha próxima o paso una presentación, lo introduces a la asociación y vemos una fecha.
+
+[22:15] 1: Vale. ¿Vosotros tendréis alguna web o alguna demo o algo para yo poder hablar con el director de la asociación y empezar con algo?
+
+[22:25] 0: Sí, por supuesto. Yo te mando una presentación, te mando la página web.
+
+[22:29] 1: Eso es.
+
+[22:30] 0: Y haces una intro, habla con el presidente de asociación y encantados de poder hacer una demo o grabar un vídeo para que lo pueda ver.
+
+[22:42] 1: Hablo con el primero y hacemos dos reuniones al año. Ahora creo que viene noviembre, octubre, por el empezar por algo.
+
+[22:54] 0: Me parece perfecto y me alegro cuando ves a una persona que lo ve, lo valora y lo puede aportar. Porque al final nosotros sí que, como bien dices, por empezar por algo, porque sí que nos consideramos que somos unos buenos socios tecnológicos, como Bastilla y Fariña son con el tema de ventas, nosotros con el tema de comunicación.
+
+[23:16] 1: Luego me sugieran cosas, ideas, porque aquí es verdad que tenemos poco flujo con nuestros clientes porque son grandes, pero muchos flujos con los siniestros, con el cliente final.
+
+[23:27] 0: Totalmente.
+
+[23:31] 1: Y ver cosas. Mándame primero esto del WhatsApp, si quieres seguimos hablando estos días y coordinamos algo a ver cómo avanza.
+
+[23:40] 2: Genial. Perfecto. Perfecto, perfecto.
+
+[23:47] 0: Tengo tu correo y tu teléfono, Javier. Yo te mando la info, te mando el presupuesto y vemos siguientes pasos.
+
+[23:57] 2: Muy bien, muchísimas gracias. Buena tarde.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

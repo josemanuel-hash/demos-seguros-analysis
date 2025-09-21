@@ -1,0 +1,477 @@
+================================================================================
+DEMO/REUNIÓN: Entrevista a Alex ZOA
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 05/09/2025 a las 16:00
+⏱️ Duración: 30.75 segundos (0.5 minutos)
+👥 Participantes: josemanuel@zoasuite.com,alexma.floresv@gmail.com,alejandro@zoasuite.com, alexma.floresv@gmail.com, alejandro@zoasuite.com
+
+🔑 PALABRAS CLAVE:
+--------------------
+Entrevista técnica, Desarrollo software, Frontend React, Backend microservicios, Telecomunicaciones seguros, Modalidad híbrida
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. A
+5. l
+6. e
+7. x
+8.  
+9. M
+10. a
+11. n
+12. u
+13. e
+14. l
+15.  
+16. F
+17. l
+18. o
+19. r
+20. e
+21. s
+22.  
+23. V
+24. i
+25. g
+26. a
+27. r
+28. a
+29. *
+30. *
+31. 
+
+32. R
+33. e
+34. v
+35. i
+36. s
+37. a
+38. r
+39.  
+40. l
+41. a
+42.  
+43. p
+44. á
+45. g
+46. i
+47. n
+48. a
+49.  
+50. w
+51. e
+52. b
+53.  
+54. d
+55. e
+56.  
+57. Z
+58. O
+59. A
+60.  
+61. p
+62. a
+63. r
+64. a
+65.  
+66. c
+67. o
+68. n
+69. o
+70. c
+71. e
+72. r
+73.  
+74. m
+75. e
+76. j
+77. o
+78. r
+79.  
+80. l
+81. a
+82.  
+83. e
+84. m
+85. p
+86. r
+87. e
+88. s
+89. a
+90.  
+91. (
+92. 3
+93. 0
+94. :
+95. 0
+96. 2
+97. )
+98. 
+
+99. 
+
+100. *
+101. *
+102. J
+103. o
+104. s
+105. e
+106.  
+107. M
+108. a
+109. n
+110. u
+111. e
+112. l
+113.  
+114. A
+115. u
+116. s
+117. i
+118. n
+119. *
+120. *
+121. 
+
+122. P
+123. r
+124. o
+125. p
+126. o
+127. r
+128. c
+129. i
+130. o
+131. n
+132. a
+133. r
+134.  
+135. r
+136. e
+137. s
+138. p
+139. u
+140. e
+141. s
+142. t
+143. a
+144.  
+145. s
+146. o
+147. b
+148. r
+149. e
+150.  
+151. l
+152. a
+153.  
+154. c
+155. a
+156. n
+157. d
+158. i
+159. d
+160. a
+161. t
+162. u
+163. r
+164. a
+165.  
+166. d
+167. u
+168. r
+169. a
+170. n
+171. t
+172. e
+173.  
+174. l
+175. a
+176.  
+177. p
+178. r
+179. ó
+180. x
+181. i
+182. m
+183. a
+184.  
+185. s
+186. e
+187. m
+188. a
+189. n
+190. a
+191.  
+192. (
+193. 3
+194. 0
+195. :
+196. 0
+197. 2
+198. )
+199. 
+
+200. P
+201. r
+202. o
+203. g
+204. r
+205. a
+206. m
+207. a
+208. r
+209.  
+210. s
+211. e
+212. g
+213. u
+214. n
+215. d
+216. a
+217.  
+218. e
+219. n
+220. t
+221. r
+222. e
+223. v
+224. i
+225. s
+226. t
+227. a
+228.  
+229. t
+230. é
+231. c
+232. n
+233. i
+234. c
+235. a
+236.  
+237. e
+238. n
+239.  
+240. c
+241. a
+242. s
+243. o
+244.  
+245. d
+246. e
+247.  
+248. r
+249. e
+250. s
+251. p
+252. u
+253. e
+254. s
+255. t
+256. a
+257.  
+258. a
+259. f
+260. i
+261. r
+262. m
+263. a
+264. t
+265. i
+266. v
+267. a
+268.  
+269. (
+270. 3
+271. 0
+272. :
+273. 0
+274. 2
+275. )
+276. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[01:01] 0: Buenas.
+
+[01:15] 1: Un segundo Vicente, espera. Hola Alex, perdona, da un segundito vale.
+
+[01:18] 0: Malay. Hola Alex, perdona.
+
+[03:21] 1: Nada, tranquilo, estamos en una llamada importante y se nos solapan las cositas.
+
+[03:28] 0: Bueno, genial, gracias por presentarte.
+
+[03:33] 1: Y también con esta rapidez nos presentamos.
+
+[03:37] 0: Yo soy Jose, somos los socios y fundadores de ZOA. Yo llevo la parte más comercial y.
+
+[03:45] 1: De marketing, Alejandro es más la parte.
+
+[03:47] 0: Técnica como has podido ver, has visto un poquito de qué trata ZOA. He mira un poco, pero tengo, tengo, como estoy en búsqueda de activa de empleo, llevo un manejo ya de ofertas que a veces ya me lío, no sé dónde estoy buscando, hacemos perritos calientes de hamburguesas.
+
+[04:11] 1: Entonces somos una plataforma de telecomunicaciones, ¿Vale?
+
+[04:16] 0: Que unamos toda la comunicación de las corredurías de seguros y hacemos que todas las respuestas, todas las llamadas, WhatsApp, emails y actividades estén realizadas al 100% al.
+
+[04:26] 1: Final del día y cambiamos un poco.
+
+[04:27] 0: Su metodología y su forma de trabajar. En cuanto a esto, llevamos ya dos.
+
+[04:33] 1: Años, somos una empresa que está en puro crecimiento y necesitamos.
+
+[04:39] 0: Nuevos brazos y.
+
+[04:40] 1: Cerebros para remar y conquistar la cima. Entonces estamos haciendo esta selección de gente.
+
+[04:47] 0: Para un ingeniero de producto de software.
+
+[04:52] 1: Y bueno, que te comento un poquito más, alejando en profundidad lo que estamos buscando y si quieres también darnos unas pinceladas luego de tu perfil, pues también lo mejor es nos indicas un poco experiencias previas, que has hecho y sobre todo también qué es lo que más te gusta, te motiva y te apetecería, si pudieras elegir qué hacer, qué es lo que te encantaría y demás.
+
+[05:15] 0: Vale, pues a ver, si queréis os explico un poco más o menos las tecnologías que he desarrollado yo durante mi experiencia y después os digo de todas las que he dado, donde mejor me encuentro más como estoy. Yo he trabajado en dos proyectos en total. En cuanto a mi formación, pues hice en Valencia la carrera de Telecomunicaciones de cuatro años y el máster habilitante y yo solo he cursado prácticas en máster en carrera, no hice por decisión propia, hice cursos para completar créditos y ya está. Mi primer proyecto en el que entré fue de prácticas, en el cual entré sin tener ni idea de ningún lenguaje de programación, básicamente solo lo que te explican en ciertas asignaturas y se centraron en formarme en la parte de From con el framework de React, con TypeScript. Entonces el proyecto básicamente era.
+
+[06:24] 1: Trabajabas en Next JS.
+
+[06:29] 0: Yo sólo tocaba la parte de React normal. Next JS creo que está más orientado a la interacción con API, creo.
+
+[06:38] 1: Al final es igual que RIAD pero como con Asteroides, un poco más.
+
+[06:43] 0: Sí, he escuchado de él, pero no llegábamos a utilizarlo. De todas maneras a mí me formaron, bueno, me formaron, me formé yo mismo a través de un curso para aprender y al cabo de un mes, durante los nueve siguientes, entré a participar en tareas asignadas a través de tecnologías ágiles y Scrum. Como en todo proyecto aprendí a utilizar Git y poco a poco fui integrándome en tareas un poquito más complejas. El proyecto en sí era dar forma a un software que la propia empresa ya trabajaba con tecnologías antiguas a la cual le querían incorporar tecnologías más nuevas. La verdad que era un proyecto bastante grande, había mucha gente, pero al final era un proyecto que se basaba en mucha gente de prácticas y no sé cómo acabaría. Me gustó mucho porque fue como dar forma casi desde abajo, cómo se va creando una web desde cero. No como tal, o sea, no todos los ámbitos, pero sí fue como crear desde cero algo que más o menos funcionaba hasta que tomaron la decisión de cambiarme de empresa, pero porque el mismo dueño tenía dos empresas en las mismas oficinas. Es decir, compartías en la oficina gente que estaba en una empresa que se llamaba F Connecting y gente que estaba en Texible. Entonces, en el segundo proyecto yo entré a formar parte de un equipo de soporte para Carrefour, para un software de integración de máquinas POS. Básicamente es la máquina donde la cajera va pasando productos y donde se le aparece la cesta, por así decirlo. ¿Se me escucha bien.
+
+[08:52] 1: El point of sales?
+
+[08:55] 0: Sí. Básicamente al final se basaba en una aplicación en tres capas de diferentes lenguajes. Es decir, la primera capa se encargaba de manejar los datos de los periféricos, como podía ser escáner, impresión de ticket, todo ese tipo de elementos. Todo eso se procesaba a través de C. Esa información más o menos se traducía en esa parte que yo no entraba mucho, se traducía a Java y a través de Java, Spring Boot se interaccionaba con API. Y la parte de From la manejábamos con Angular. Esas eran las tecnologías que utilizábamos.
+
+[09:48] 1: Bueno, ¿Usabais Angular con React?
+
+[09:52] 0: En verdad era Angular, una versión bastante baja de Angular. No era muy alta porque al final si te fijas, una máquina POS no es un diseño web como tal, es como un poquito un front tonto de te muestro lo que tengo, la cesta, pero todas las operaciones se realizaban más en la parte intermedia con Java. Me explico, Era más o menos un front bastante intuitivo, en el que sólo tenías que procesar visualmente lo que te devolvía Java. Entonces no era muy allá lo bueno, lo que sí tuve que, o sea, para mí lo que más me aportó este proyecto en el que estuve un año y tres meses, es saber desenvolverme en tecnologías que nunca he usado, al final tener una curva de aprendizaje alta en lo que se me requería, y pues tocar muchos tipos de lenguajes, porque.
+
+[10:58] 1: Yo entiendo que sí, que estabas todo el rato desarrollando, haciendo código.
+
+[11:04] 0: Si, era mezclado. Al ser un equipo de incidencias, muchas incidencias eran arreglar cosas que ya existían, y otras tareas que nos asignaban al equipo eran crear nuevas funcionalidades para el post.
+
+[11:20] 1: Había una persona que se encargaba con el cliente, sacaba un poco los requerimientos del cliente y os pasaban un listado de requerimientos de mira, todo esto son los problemas y todo esto son las mejoras, buscaros la vida, encontrar dónde viene el problema y aplicar una solución, y estas son las mejoras necesarias, pensar a ver de qué manera se puede aplicar una solución rápida y que solucione este problema, que nos comunican de la mejor manera que sea posible, entendiendo las necesidades del cliente.
+
+[11:51] 0: Algo así, ¿No? Sí, más o menos. Lo único es que nosotros no éramos el único equipo, nosotros éramos un equipo de mi empresa, pero como nosotros, a lo mejor había varios equipos, entonces no sé cómo lo haría. Carrefour por su parte, dividía tareas, esas tareas las dividía a nuestro jefe de equipo, y entonces nuestro jefe de equipo lo repartía con nosotros.
+
+[12:16] 1: Y realmente, porque esta empresa de la que vienes también hacía temas de comunicación. No sé si a nivel de temas de comunicación has llegado a hacer algo o no. Tema de conexiones. Sip. Temas de call centers, ¿Te suena algo o no?
+
+[12:37] 0: El propio software que he dicho del primer proyecto era un call center, básicamente. Es decir, la empresa primera que digo, bueno, y F Connecting dan soportes a un software que ellos dan de un estilo de call center integrado, es decir, donde existían bots para los comercios, como cuando llamas a cualquier comercio y te salta la máquina y te dice que esperes y todo esto. Ese software que era un call center, pero yo solo toqué partes de From, la verdad.
+
+[13:23] 1: Pero solo tocaste la parte del Front, en la otra de ahí, de esa parte de call center que hiciste, solo el Front. Y cuando dices o no, en esa parte de call center qué hiciste, en.
+
+[13:32] 0: Esa parte solo toqué Front.
+
+[13:34] 1: Y cuando dices que tocaste Front, ¿A qué te refieres?
+
+[13:38] 0: Pues a lo mejor, por ejemplo en este software ellos querían integrar Telegram en una misma aplicación web, entonces utilizabas mucho interacciones con APIs que te daba el backend para descargar los mensajes en tiempo real que iban llegando. Tú lo tenías que ir mostrando esa información, básicamente todo estaba bastante bien estructurado en cuanto a descargar de la API.
+
+[14:06] 1: Lo que requerías y realmente un poco. Entonces, de todo lo que has hecho, ¿Qué es lo que más o no, de todo lo que has hecho o de cosas que no has hecho pero que te gustaría hacer, ¿Crees qué es lo que más te gustaría? ¿Qué es lo que más te motivaría?
+
+[14:25] 0: Vale, pues a ver, a nivel personal me gustaría seguir formándome en la parte de BAC porque me gusta y es más importante, pero no voy a mentir en que donde mejor me puedo llegar a defender sobre mis conocimientos que tengo ahora mismo es en From. Quiero decir, soy mejor ahora mismo en From, pero no estoy cerrado a hacer solo From. Me gustaría seguir aprendiendo en Back igualmente.
+
+[14:59] 1: Vale, y cuando dices en Back, temas de microservicios a Python, ¿Has hecho cosas en Python?
+
+[15:09] 0: No usado el lenguaje, La base las tengo porque a veces como proyecto personal que tengo que hacer para terminar el máster, que me falta el TFM, así que pues me gusta investigar y sí que estoy utilizando un poco de Django REST Framework para utilizar para hacer una propia web que estoy haciendo yo, quiero decir, no soy experto en Python, pero sí lo he utilizado, al final tiene una curva de aprendizaje bastante alta porque no es un lenguaje muy intuitivo.
+
+[15:46] 1: Y luego temas de agentes de IA para hacer alguna cosa. ¿Lo has visto, lo has tocado o has mirado algo?
+
+[15:56] 0: Lo he suscrito como todo el mundo, pero a nivel de desarrollo. A nivel de desarrollo no interacciona, así que algún curso de ingeniería de prompt y todo esto sí que estoy haciendo cuando puedo.
+
+[16:13] 1: Si te has pegado ya con temas de prompts y te has pegado ya con temas de RA, si te has quedado con temas de hacer alguna base vectorial, hacer algún MCP, hacer algún tipo de herramienta para que los agentes puedan trabajar cosas así, ¿No?
+
+[16:29] 0: Desde luego integran desarrollo, ¿No?
+
+[16:33] 1: Por ejemplo, llegas el primer día y te digo, oye, hay que hacer un agente, ¿Qué harías?
+
+[16:41] 0: ¿Pues.
+
+[16:44] 1: No puedo, no?
+
+[16:45] 0: ¿No puedo, no? Pues lo primero que haría es entender bien lo que me pides, estructurarme bien para informarme de cómo puedo hacerlo, encontrar al final con los recursos que yo tengo que ser a Internet e intentar estructurarme bien en mi cabeza que lo que me están pidiendo y cómo puedo llevar a cabo ese ESO y tirar como pueda. Como siempre aprendiendo.
+
+[17:14] 1: Porque al final nosotros somos una startup, ya llevamos dos años, la parte más difícil que es arrancar la startup y conseguir los primeros clientes y encarar un poco la misión y el fin que resolvemos, el problema que resolvemos. Digamos que ya lo hemos hecho, ha sido duro, pero ya más o menos lo tenemos encarado y estamos en una fase donde estamos empezando a adquirir más clientes y por tanto necesitamos crecer para poder dar servicio a más clientes. Lo malo de esto, pues que al final hay bastante presión en cuanto a que si vamos adquiriendo clientes tenemos que darle una respuesta rápida. El producto tampoco es un producto de 10 años, tiene el tiempo que tiene, aún hay muchas cosas por hacer, tenemos un equipo de programación que es el que principalmente lo ha hecho todo, pero muchas veces que sobre todo ahí donde estoy yo más y donde tú también estarías, es en la parte de que muchas veces el programa lleva un ritmo para poder hacer las cosas bien, lleva un ritmo, muchas necesidades que nos piden los clientes las tenemos que tener a la semana siguiente o dos como máximo. Entonces una de las soluciones, pues montar cosas fuera con microservicios por ejemplo, tipo cloud function, no sé si a nivel de arquitectura cloud trabajado con Google AWS o Azure.
+
+[18:45] 0: Yo trabajar no he trabajado. Al final yo ya te digo, la experiencia que te he dicho es la que tengo, pero yo como tal tocar cloud no he tocado, no quiere decir que no esté intentando formarme, pero tocarlo no lo he tocado.
+
+[19:03] 1: ¿Y por ejemplo n te suena o no? No, no, en n también es como para hacer automatizaciones así por cajas, pero bueno, dentro de las cajas luego hay que programar. Entonces muchas veces hacemos soluciones paralelas al producto para poder solucionar los problemas del cliente de una forma rápida. Y luego ya también sirven un poco también de ir abriendo camino, porque luego esas implementaciones que muchas veces hacen en un microservicio externo, pues acaban derivando, acaban llevando al producto, pero sí que se necesita mucha agilidad e ir haciendo ciertas cosas por fuera del producto para poder dar solución rápida a los clientes de onboarding, pues eso, que llega un cliente nuevo y hay que dar de alta su base de datos, su servidor, tenemos que hacer un proceso donde a lo mejor obtenemos todos sus contactos y hay que hacer una limpieza de esa base de datos. También hay cosas a lo mejor más chulas que son la parte de generar agentes y de ver cómo y empezar el código nuevo, porque también llevamos idea dentro de no mucho empezar a refactorizar todo y refactorizarlo con ayuda de inteligencia artificial y demás cosas más chulas en las que a lo mejor se usa más temas de IA. Pero luego también hay otras cosas, pues esto es lo típico de que hay el día que se barre y el día que se hacen cosas que están guays, entonces también luego hay otros días, entran clientes y hay que hacerle el onboarding, hay que montarle sus servidores y luego hay que hacer un seguimiento de cómo va lo suyo y pues un poco también hay que tener un poco, si estarías un poco también dispuesto en plan de bueno, soy consciente de que hay días de unas cosas, días de otro o no, mira, es que a mí me gusta esto y yo quiero esto porque también es lícito. La persona al final es una forma.
+
+[20:57] 0: A ver, yo tengo el currículum que tengo, estoy justo en el peor punto que es en el que estoy adquiriendo experiencia, pero yo no le tengo miedo a nada, que soy una persona currante de siempre y estoy dispuesto a cualquier cosa, hay que entender que pues si me va a tocar aprender tecnologías, pues voy a tener que aprenderlas.
+
+[21:23] 1: Pero bueno, a ver, sobre todo porque lo ideal es que nosotros al final estamos muy motivados, porque también nuestro hijo prácticamente llevamos ahí dos años creciendo y también necesitamos que la gente que esté a nuestro alrededor, que le guste el proyecto, que hagamos equipo, también te motive igual que nos motiva a nosotros. Y hay días que por ejemplo este señor ayer pues le estuvo buscando bases de datos para poder encontrar gente a la que llamar. Hay días que son trabajos que cuestan más, pero que también hay que hacer para poder luego llegar a otros en los que es mucho más gratificante y todo con mucha velocidad mucha presión y todo para ayer. También te tiene que motivar el hecho de bueno, yo hago mis horas, voy haciendo y tal o no, mira, me gusta, me gusta la caña, vamos.
+
+[22:25] 0: Sí, a ver, al final, por ejemplo, es más o menos la misma situación que pasaba en Carrefour. En Carrefour tener incidencias que o las resolvías o las resolvías porque los cajeros estaban utilizando tu propio software, había fines de semana que había que echar las extras, pero bueno, eso es normal en la mayoría de casos que se trabaja con clientes.
+
+[22:46] 1: Correcto. Un poco que se sienta la camiseta, que cuando hay que apretar se aprieta.
+
+[22:49] 0: Y cuando no se puede más tranquilo. Pero que sí, que como dice Alejandro.
+
+[22:53] 1: Estamos creciendo, necesitamos a gente motivada, que sea proactiva, que sea independiente, que pueda aprender o que no necesite siempre de una validación externa y gente con ganas de aprender y crecer.
+
+[23:04] 0: Tú eres de Valencia, ¿No, Alex? No, yo he estudiado todo en Valencia. Soy de Albacete.
+
+[23:11] 1: Bueno, joder, la feria es ahora, no, en breves. El domingo empieza del 7 al 17. ¿Y realmente estás viviendo en Albacete o vives en Valencia?
+
+[23:21] 0: No, no, ahora mismo estoy viviendo aquí porque claro, llevo desde. A ver, la empresa en la que trabajé es que está allí. Emanuel Candela desde. Estuve teletrabajando hasta que no lo he dicho, pero todo terminó en la empresa porque el cliente de Carrefour recortó en equipos, nosotros trabajábamos bajo proyecto y al terminar con ese proyecto nuestra empresa no pudo reubicarnos y nos despachó a todo el equipo.
+
+[23:52] 1: Esa es la pregunta que tenías.
+
+[23:54] 0: Vale, Alex, genial. Y una pregunta cómo ¿Tú te.
+
+[24:00] 1: Estás viviendo en Valencia o en Arba?
+
+[24:01] 0: No, no, no, en Abacete.
+
+[24:03] 1: ¿Y te moverías a Valencia? En el caso en el que.
+
+[24:09] 0: Es lo que iba a preguntar. A ver, está claro que cuando empiezas en una empresa lo que toca es lo que toca aprender, incorporarte, lo que no sé si en un caso futuro, una vez instalado y viendo todo, si hubiera opción de teletrabajo híbrido, no lo sé, Pregunto.
+
+[24:29] 1: Inicialmente nos interesa sobre todo presencialidad, porque por el hecho de conocernos, ver si encajamos, si no encajamos y sobre todo generar esa confianza en la que eso, pues yo al final, que un día te diga Alex, hay que hacer A y saber que la semana siguiente o al día siguiente, cuando en el momento se haya establecido el objetivo A, va a estar hecho y va a estar hecho mejor que si lo hiciera hasta yo. Entonces esa confianza hay que generarla. Y sí luego el tema de híbrido no. No habría mucho problema, pero sí que es verdad que se valora presencialidad. Por la parte también está un poco de lo que un poco hablábamos antes, de hacer equipo y de crecer y de estar todos motivados. Al final, quieras que no, nosotros también trabajamos con gente en remoto, pero sí que es verdad que al final lo que es el equipo es más fácil generarlo en presencial que generarlo a Isabel.
+
+[25:25] 0: No, no, yo solo lo preguntaba por. Pues existe la posibilidad. Está claro que al principio hasta mí. A ver, al final estáis en lanzadera, ¿No? Allí en el puerto, casi el cogollo de la tecnología. Sí, todos los días salía a correr por allí. A mí me encanta Valencia y yo solo estoy aquí porque no tenía trabajo. Sí es verdad que a un medio plazo, cuando estuviera instalado, me gustaría combinar un poco el modelo híbrido. No es por nada, sino porque yo tengo mucha vida aquí en mi pueblo, pero no estoy para nada cerrado. De hecho, a mí me gusta mucho la oficina.
+
+[26:08] 1: Un poco por hora que veas. Por ejemplo, este mes de agosto nosotros hemos trabajado, pero José estaba en Burgos y yo estaba en el pueblo de mi mujer, o sea que no estábamos ni aquí. Sí que es verdad que intentamos estar mucho más tiempo aquí, pero que luego hay semanas que ni aparecemos, por ejemplo. Es un poco lo que has dicho tú. Nosotros sí que tenemos una mentalidad híbrida.
+
+[26:27] 0: Pero es muy importante conocernos, confiar, como.
+
+[26:29] 1: Toda esta vida y estas relaciones de personas, ver cómo trabajamos, ver cómo funcionamos, cómo tenemos ante la adversidad y demás. Y una vez que haya confianza, por supuesto, se puede ir viendo y delegando, porque cuando uno se gana la confianza, al final en eso se basan las relaciones, en delegar y dar más libertad.
+
+[26:48] 0: Por eso lo preguntaba y por eso he dicho que si a medio plazo cambia la posibilidad, porque está claro que cuando tú entras, pues quieres conocer con quién trabajas, porque no puede estar todos los días en la pantalla y solo escuchar vuestra voz, pues conocerte, ver de qué va la cosa. Es solo que. Pues yo por ejemplo, por ejemplo, luego yo tengo juego aquí al fútbol en mi pueblo, entonces luego tú te instalas y ves que todo va bien. ¿Al final del teletrabajo, yo pienso que la mejor opción no es que todo tenga que ser igual, siempre hay semanas en las que se va a necesitar una prensibilidad por X A lo mejor hay reuniones muy importantes una semana en la que tienes que venir cinco días, pero luego da la casualidad de que en una semana no hay tanto y va, no? Quiero decir, yo lo he preguntado por saber cómo iba, cómo teníais todo gestionado.
+
+[27:43] 1: Vale. ¿No sé si tienes alguna duda tú.
+
+[27:49] 0: Como no he podido ver mucho más de cuánto más o menos, cuántos equipos tenéis o cuántas personas sois?
+
+[27:58] 1: Nosotros inicialmente, nosotros somos los fundadores, tenemos un equipo de programación de cinco personas, pero que digamos la tenemos más aislada porque es una subcontrata, pero que prácticamente trabaja para nosotros todos. Como Carrefour os tenía vosotros antes que todos realmente trabajes, pues nosotros tenemos lo mismo y la idea ya es. Y luego temas de ventas y eso, pues sí que tenemos más gente, pero la idea es empezar a crecer ya, a montar un equipo de programación todo aquí y ahí sí que el principal programador soy yo y entonces quiero empezar, pero quiero empezar también un equipo con las nuevas, aplicando todo lo nuevo, ya no programando como se programaba hasta ahora, sino ya utilizando agentes de IA muy apoyados por metodología más ágil, porque hoy en día con todo lo que ha salido, sobre todo con cloud y demás, es que la forma de programar ya no es como yo la aprendí en su momento, sino ha cambiado un montón. Entonces llevamos idea de cara a enero empezar a generar el producto 2.0 digamos, y entonces un poco estamos trabajando en empezar a generar un equipo de aquí a final de año donde vaya ya hacia esa nueva línea e ir quitándonos poco a poco el equipo actual que tenemos de programación, que es más externo, a lo mejor utilizarlo más para cosas más nuevas. Una pregunta Alex, ¿Tú estás en búsqueda activa de trabajo?
+
+[29:36] 0: Claro, a ver, en agosto es imposible, pero sí, pues voy intentando sacar entrevistas conforme puedo y pues.
+
+[29:47] 1: Era por saberlo un poco por el nivel.
+
+[29:49] 0: Si en el caso que fuese afirmativo.
+
+[29:51] 1: Y serías elegido, pues ver un poco los tiempos medios de venir, de avisarte.
+
+[29:59] 0: De todas formas nosotros próxima semana, principios.
+
+[30:02] 1: Mediados, te daríamos ya una respuesta, tú también estarías interesado. Vale, en caso de eso nos pondremos en contacto y luego haríamos como una segunda entrevista más técnica y ya está. ¿Vale, pues échate un vistazo a la página web y luego ya nos.
+
+[30:24] 0: Que.
+
+[30:24] 1: Lo pases bien fin de semana y estamos en contacto, vale?
+
+[30:27] 0: Muchas gracias por vuestro tiempo. Hello.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

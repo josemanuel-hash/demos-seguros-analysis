@@ -1,0 +1,729 @@
+================================================================================
+DEMO/REUNIÓN: DEMO ZOA <> UNIT SEGUROS
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 01/09/2025 a las 12:00
+⏱️ Duración: 51.29999923706055 segundos (0.9 minutos)
+👥 Participantes: josemanuel@zoasuite.com,alejandrogonzalez@unitseguros.com,juanvera@unitserguros.com,pedromanuelvera@unitseguros.com,alejandro@zoasuite.com,juanvera@unitseguros.com, alejandrogonzalez@unitseguros.com, juanvera@unitserguros.com, pedromanuelvera@unitseguros.com, alejandro@zoasuite.com, juanvera@unitseguros.com
+
+🔑 PALABRAS CLAVE:
+--------------------
+Centralización comunicaciones, Automatización WhatsApp, CRM correduría seguros, Sistema Asterisk, Gestión clientes, Proyecto piloto
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. J
+5. u
+6. a
+7. n
+8.  
+9. V
+10. e
+11. r
+12. a
+13.  
+14. S
+15. i
+16. c
+17. i
+18. l
+19. i
+20. a
+21. *
+22. *
+23. 
+
+24. E
+25. v
+26. a
+27. l
+28. u
+29. a
+30. r
+31.  
+32. y
+33.  
+34. d
+35. e
+36. c
+37. i
+38. d
+39. i
+40. r
+41.  
+42. s
+43. o
+44. b
+45. r
+46. e
+47.  
+48. l
+49. a
+50.  
+51. i
+52. m
+53. p
+54. l
+55. e
+56. m
+57. e
+58. n
+59. t
+60. a
+61. c
+62. i
+63. ó
+64. n
+65.  
+66. d
+67. e
+68.  
+69. u
+70. n
+71.  
+72. p
+73. r
+74. o
+75. y
+76. e
+77. c
+78. t
+79. o
+80.  
+81. p
+82. i
+83. l
+84. o
+85. t
+86. o
+87.  
+88. c
+89. o
+90. n
+91.  
+92. Z
+93. O
+94. A
+95.  
+96. e
+97. n
+98.  
+99. u
+100. n
+101. a
+102.  
+103. o
+104. f
+105. i
+106. c
+107. i
+108. n
+109. a
+110.  
+111. p
+112. e
+113. q
+114. u
+115. e
+116. ñ
+117. a
+118.  
+119. (
+120. 4
+121. 3
+122. :
+123. 3
+124. 5
+125. )
+126. 
+
+127. 
+
+128. *
+129. *
+130. J
+131. o
+132. s
+133. e
+134.  
+135. M
+136. a
+137. n
+138. u
+139. e
+140. l
+141.  
+142. A
+143. u
+144. s
+145. i
+146. n
+147. *
+148. *
+149. 
+
+150. E
+151. s
+152. p
+153. e
+154. r
+155. a
+156. r
+157.  
+158. r
+159. e
+160. s
+161. p
+162. u
+163. e
+164. s
+165. t
+166. a
+167.  
+168. d
+169. e
+170.  
+171. U
+172. N
+173. I
+174. T
+175.  
+176. S
+177. E
+178. G
+179. U
+180. R
+181. O
+182. S
+183.  
+184. s
+185. o
+186. b
+187. r
+188. e
+189.  
+190. d
+191. e
+192. c
+193. i
+194. s
+195. i
+196. ó
+197. n
+198.  
+199. d
+200. e
+201. l
+202.  
+203. p
+204. r
+205. o
+206. y
+207. e
+208. c
+209. t
+210. o
+211.  
+212. p
+213. i
+214. l
+215. o
+216. t
+217. o
+218.  
+219. (
+220. 5
+221. 0
+222. :
+223. 4
+224. 0
+225. )
+226. 
+
+227. 
+
+228. *
+229. *
+230. A
+231. l
+232. e
+233. j
+234. a
+235. n
+236. d
+237. r
+238. o
+239.  
+240. G
+241. o
+242. n
+243. z
+244. á
+245. l
+246. e
+247. z
+248. *
+249. *
+250. 
+
+251. I
+252. m
+253. p
+254. l
+255. e
+256. m
+257. e
+258. n
+259. t
+260. a
+261. r
+262.  
+263. e
+264. l
+265.  
+266. p
+267. r
+268. o
+269. c
+270. e
+271. d
+272. i
+273. m
+274. i
+275. e
+276. n
+277. t
+278. o
+279.  
+280. d
+281. e
+282.  
+283. g
+284. e
+285. s
+286. t
+287. i
+288. ó
+289. n
+290.  
+291. m
+292. e
+293. n
+294. c
+295. i
+296. o
+297. n
+298. a
+299. d
+300. o
+301.  
+302. e
+303. n
+304.  
+305. l
+306. a
+307.  
+308. f
+309. o
+310. r
+311. m
+312. a
+313. c
+314. i
+315. ó
+316. n
+317.  
+318. s
+319. i
+320. g
+321. u
+322. i
+323. e
+324. n
+325. t
+326. e
+327.  
+328. (
+329. 1
+330. 5
+331. :
+332. 2
+333. 3
+334. )
+335. 
+
+336. I
+337. n
+338. c
+339. o
+340. r
+341. p
+342. o
+343. r
+344. a
+345. r
+346. s
+347. e
+348.  
+349. h
+350. o
+351. y
+352.  
+353. a
+354. l
+355.  
+356. t
+357. r
+358. a
+359. b
+360. a
+361. j
+362. o
+363.  
+364. t
+365. r
+366. a
+367. s
+368.  
+369. s
+370. u
+371.  
+372. r
+373. e
+374. g
+375. r
+376. e
+377. s
+378. o
+379.  
+380. (
+381. 1
+382. 4
+383. :
+384. 3
+385. 4
+386. )
+387. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[00:00] 0: La gente quedó contenta.
+
+[00:03] 1: Qué bueno, lo tenemos programado para noviembre del año anterior, lo tenemos programado para una semana después de la Dana o dos semanas después de la Dana, un.
+
+[00:12] 0: Par de semanas después de la Dana.
+
+[00:14] 1: Y entonces ya pues claro, suspendimos y tal y vimos de ubicarlo en otro sitio, pero bueno, al final decidimos muy bien esperar e hicimos el evento allí.
+
+[00:30] 2: Buenos días.
+
+[00:31] 3: Buenas. Hola, ¿Qué tal Pedro? Buenos días. Genial, pues yo creo que ya estamos todos y podemos comenzar si queréis. Lo primero de todo, gracias también por comunicaros, como decíais, venís de parte de Javier y Vélez y lo que estuvimos hablando, que hablé con Pedro también brevemente por teléfono el viernes, contigo también Juan, y ver un poquito cómo podíamos ayudar y que conozcáis un poco cómo funciona ZOA y que veáis cómo funcionamos. Entonces, por lo que comenté con Pedro, si queréis y me vais diciendo a ver si es así. La idea es que estáis viendo ahora cómo no tenéis centralizado las comunicaciones, cada uno de una de las diferentes sucursales tiene una centralita, la gente está utilizando cada número de teléfono móvil por su parte y luego tenéis Outlook para tema de email, ¿Verdad?
+
+[01:36] 1: La centralita sí la tenemos unificada, Office 365 también, que Office 365 lo gestiona Alejandra. La centralita la tenemos unificada, pero no todas las oficinas la tiene. Si somos 30 oficinas, a lo mejor la tiene cuál es o algo así.
+
+[01:55] 4: ¿Qué es lo que tenéis ahora mismo de centralita?
+
+[01:58] 1: Hostia, pues no sé decirte porque ahí hicimos un híbrido propio nuestro.
+
+[02:05] 4: Algo así.
+
+[02:06] 1: Hicimos un.
+
+[02:07] 2: Puede ser que sea térico, ¿No?
+
+[02:09] 1: Exactamente.
+
+[02:13] 4: Si, es un desarrollo propio. El Asterisk es básicamente la base de toda la.
+
+[02:18] 1: Exactamente, hicimos Asterisk y luego hicimos un desarrollo propio porque va web service de broker para tenerse los datos de cliente, entonces tenemos algo ahí hecho a medida, algo a medida, pero no lo tenemos implementado en todas las oficinas.
+
+[02:37] 4: Y luego.
+
+[02:38] 1: De WhatsApp no tenemos nada, o sea, todo el mundo va por libre y realmente.
+
+[02:43] 4: Entonces tenéis, entiendo que tenéis ese desarrollo que hicisteis vosotros de Asterisk y conectado ese Asterisk con ebroker y contratado los minutos de llamadas contratados directamente con algún proveedor.
+
+[02:59] 1: Con un proveedor. Con el proveedor que tenemos. Con el mismo proveedor que tenemos la centralita.
+
+[03:08] 4: Cuando dices que con el mismo proveedor que vale. Porque un proveedor os hizo la centralita a medida. Exactamente.
+
+[03:16] 1: Un proveedor nos ha hecho la centralita, bueno, a medida tenemos una plataforma de gestión y luego pues hicimos la conectividad con Ebrokas.
+
+[03:31] 3: Genial. ¿Luego también me comentó Pedro que estabais principalmente os vienen los clientes, aparte de a nivel comercial, por relleno de formulario de las propias landings que tenéis posicionadas? Creo que también. Creo que era tema de Meta, me dijiste Pedro y en Google teníais algo.
+
+[03:55] 2: Sí, con Meta y con Google vamos alternando. Antes la hacíamos en Meta, en Facebook, Instagram y ahora se han hecho algunas en Google.
+
+[04:05] 3: Genial.
+
+[04:05] 4: Y ahí tenéis como para lo que ofrecéis en esos anuncios, en esos formularios, es todo tema de más producto genérico. ¿Os centráis en algunos productos en concreto? ¿Estáis especializados en algún producto en concreto o es más? Son varios productos, pero especializados, porque también un poco sabemos de cuando os especialicéis en algo, ahí entra como mucho volumen.
+
+[04:36] 3: Genial, sí.
+
+[04:36] 2: De todas formas las campañas tampoco son muy allá. Estamos ahora mismo probando más que otra cosa. No genera mucho.
+
+[04:45] 3: El objetivo principal es como ordenar las comunicaciones y centralizarlos todos en una plataforma.
+
+[04:50] 1: Exactamente. Nosotros de todas formas no tenemos de tema online. No tenemos, no tenemos. Hacemos cosas, pero la atención es toda oficina física. Nuestro 99,9% del negocio es oficinas físicas.
+
+[05:08] 4: ¿Y la comunicación con vuestros clientes por dónde dirías que es el mayor porcentaje? Sería llamadas, WhatsApp que van a vuestra oficina, veros, la principal comunicación ¿Por dónde sería?
+
+[05:22] 1: ¿Las oficinas van perdiendo flujo? Las oficinas van perdiendo flujo y desde pandemia se notó pérdida de flujo total. Y luego hay otra cosa también que ha hecho perder mucho el flujo y es el cobro en efectivo. Hace años se cobraba todavía había una parte clientela residual que se cobraba en efectivo. Todo eso se ha desaparecido. Entonces ese flujo de cobro de personas ha bajado mucho. Ha bajado mucho. Las comunicaciones son vía WhatsApp, correo electrónico, teléfono, pero presencial cada vez hay menos.
+
+[06:07] 3: Vale, pues si queréis os voy a compartir pantalla y así vamos viendo paso a paso cómo es la plataforma y la metodología que nosotros utilizamos para que sea lo más eficaz. ¿Nos veis bien? Genial. ¿Veis bien la plataforma, Digo la pantalla Inicialmente nosotros aquí tenemos la parte del calendario para que los gestores o ejecutivos depende cómo os llaméis, vean un poco cuál es la el orden o las actividades que pueden tener en su día a día? Nosotros como sabéis las comunicaciones hoy en día te generan actividades, te generan ejercicios y cosas que tienes que enviar un WhatsApp, enviar un email, acordarte de enviar. Esto nos ayuda sobre todo esta primera parte al que cada uno de estos gestores o ejecutivos sepan lo que tienen que hacer cada día a la hora de que no se le apunte en una agenda, se le olvide, se le pase otra cosa, tenerlo un poco organizado. Luego tenemos la parte más fuerte que es la parte de comunicaciones, como podéis.
+
+[07:16] 1: Ver la agenda, o sea te quiero hacer ir preguntando todo, ¿La agenda tiene algún tipo de sincronización con otro tipo de agendas o no? ¿Es una agenda independiente?
+
+[07:28] 4: ¿Actualmente es una agenda independiente, pero sí que tenemos a no muy corto plazo en el camino conectarnos sobre todo con las dos que ves ahí abajo de Google y Outlook, pero principalmente como todo todos usáis Outlook, es Outlook, pero actualmente aún no se conecta, sí que tenemos el conector pero no os lo decimos ni lo potenciamos mucho porque aún está un poco en pruebas, pero la idea es cuestión en octubre a lo máximo sí que ya estará bastante, pero es.
+
+[07:58] 1: Una agenda, esta agenda es actualmente totalmente independiente.
+
+[08:03] 4: Pero porque? Bueno un poco lo irás viendo, pero por el hecho al final esa agenda es muy necesaria por el hecho de que al tener las comunicaciones unificadas empezamos a generar un montón de actividades y de tareas que se le van generando, oye han llamado a tal persona, oye esta persona está interesada, se empiezan a generar el hecho de unificar las comunicaciones, empezamos a generar actividades de alguna manera tenemos que ir avisando a los gestores de cosas que hay pendientes, entonces un poco se va generando estas actividades, pero sí la idea también es que en no muy corto plazo esté conectado con vuestra agenda de Outlook y lo podáis tener ahí conectado.
+
+[08:43] 3: Luego la parte como hemos visto de comunicación, aquí es donde integramos toda la parte de los diferentes emails, por ejemplo aquí independientemente se ha vuestro soporte ZOA, pero aquí veremos en una correduría como la vuestra veríamos todo el historial de las llamadas entrantes y salientes por cada uno de los gestores y el estado qué sucede. Nuestro objetivo final es que haya cero llamadas, cero WhatsApp y cero actividades sin contestar, sin hacer. Entonces qué nos interesa aquí las llamadas perdidas, las llamadas que No hemos contestado. ¿Para qué? Para tener un control y un seguimiento de esas llamadas en las cuales oye, ¿Qué ha sucedido aquí? Que vosotros como gerentes tengáis el control total del por qué se han llamado, no se han llamado, no ha contestado, sí que ha contestado. Luego hacemos transcripción de audios, grabamos ese audio, lo transcribimos y vemos también el sentimiento de análisis, si es positivo, si es negativo, si ha habido una confusión, si no ha habido confusión, si ha habido un cabreo. Y todo esto luego lo veremos un poco al final, para también alimentar un poco la inteligencia artificial y entender las mejores prácticas de que hay una conversación tanto comercial o de gestión, para tener una supervisión y un control. En este caso, ahora mismo, no sé si en vuestra actual centralita tenéis algo de esta tecnología de grabación de audio.
+
+[10:04] 1: Grabación de audio, grabación de audio.
+
+[10:06] 3: Perfecto. Conocéis cómo funciona. Sobre todo es entender el estado, si es contestada o no contestada. Luego tenemos un cuadro de mandos en el cual tenemos todo aquí controlado, si vienen entradas o salientes y qué tipo de gestor o de persona.
+
+[10:21] 4: Todo lo asignado a cada gestor, todas las llamadas de cada gestor, todo lo.
+
+[10:24] 3: Que está aquí controlado. ¿Qué sucede? Que cuando las empresas unificáis todo el tema del WhatsApp, el WhatsApp aparte a veces es una pérdida de tiempo, la gente se distrae. Lo que hacemos es que claro, la gente se inscribe entre ellos o se escribís entre vosotros. Qué se necesita un canal único de conexión interna de toda la empresa, en el cual se crean canales de dudas, siniestros, marketing, ventas, nuevas pólizas. En cada uno de los canales hay unos miembros. Luego si la gente se quiere comunicar entre ellos, se comunica todo entre esta misma plataforma. ¿Para qué? Para como estamos hablando, unificar que todo el mundo tenga el teléfono, por ejemplo, aquí lo que hacemos es que tú puedas llamar desde la centralita, tú vas directamente, lo veremos a un ejemplo, pero que las personas, los gestores, tengan unos cascos, tengan un teclado y que no haga falta un teléfono, un email, un WhatsApp, sino que la gente directamente hable desde esta centralita.
+
+[11:25] 4: Un poco la necesidad de este chat interno viene de que en el momento, digamos, unificamos el WhatsApp, de que cada uno no tiene su terminal con su WhatsApp, porque aparte de hablar con los clientes también. Ahora los compañeros también hablan por WhatsApp entre ellos. El hecho de unificar todo a un solo WhatsApp era en plan de bueno, ¿Y ahora cómo hablo yo con mi compañero? Entonces es donde surgió la necesidad de tener un chat interno para que entre los compañeros puedan hablar por ahí las dudas que tengan o lo que se necesiten hablar.
+
+[11:53] 3: Y finalmente el canal de WhatsApp. ¿Qué sucede aquí en WhatsApp? Pues lo que estabais comentando, que la gente se va de vacaciones, que se pierde el móvil, que hay un teléfono que está así, otro está. Y se pierde mucha información. Al centralizar toda la comunicación y todos los WhatsApp en un teléfono cabecera, podemos tener aquí controlado toda la información de lo que está pasando. Pero aparte, ¿Qué es lo chulo? Pues bueno, sabemos también por cada uno de los gestores qué es lo que está pendiente. Aquí fijaros, tenemos un gestor, se llama Yolanda, y sabemos todas las conversaciones que tiene pendiente quiere decir que está pendiente de que ella envía algo en curso, que lo está gestionando o se está gestionando y resuelto, que ha sido resuelto. ¿Qué es lo bueno de aquí? Que aquí por ejemplo, fíjate que nosotros tenemos automatizaciones que podemos identificar cosas como por ejemplo, si ellos han llamado a la oficina y nadie ha contestado, podemos mandarle una automatización de hola.
+
+[13:08] 1: He perdido la comunicación.
+
+[13:11] 2: Sí, todo yo creo se nos ha ido a ponerle algo.
+
+[14:23] 1: ¿Incorpora hoy, Alejandro?
+
+[14:31] 3: Sí.
+
+[14:34] 0: Hoy ya me incorporo.
+
+[14:36] 1: Muy bien, mañana iré a veros a ver cómo veis por allí persona, a ver si venís ahí con gana. A ver cómo veis. ¿Cuándo vamos a montar? ¿Cuándo vAmos a montar GPT?
+
+[15:10] 0: Pues no sé, tengo que ponerme a ver si me consigo sacar punta a lo del gestor de colocación.
+
+[15:18] 1: Pero mete el otro meter de procedimiento, ¿No?
+
+[15:21] 0: Sí, ese sí, ese sí lo voy a meter ya.
+
+[15:23] 1: Mete el enlace y lo metemos para la siguiente formación. Ese funciona y que la gente vaya cogiendo un poco de. Poco de ritmo, ¿No?
+
+[15:36] 3: Perdona chicos, que aquí cuchillo palo. El Internet se había caído. Vale, Perdonad, comparto pantalla. Me he quedado hablando solo. Me dice Alejandro que se ha caído la conexión.
+
+[15:54] 4: ¿Por dónde os habéis quedado?
+
+[15:57] 1: No, por aquí habíamos empezado con el tema de WhatsApp, ¿Vale?
+
+[15:59] 3: Tema de WhatsApp, lo que hemos dicho.
+
+[16:01] 1: Diciendo que se le podía hacer una automatización, que si alguien no contestaba, que le mandara un WhatsApp.
+
+[16:05] 4: Correcto. Al final hay automatizaciones. El hecho de poderlas unir, las tres comunicaciones, es si nos llama un cliente y nadie le ha podido atender, tenemos la posibilidad de poder enviar de forma proactiva un WhatsApp al cliente diciéndole oye, no te hemos podido atender ahora, pero dinos qué necesitas. Y así asignamos al gestor más adecuado y en cuanto tenga hueco te llama.
+
+[16:28] 3: Lo chulo de esto es que ahora podemos jugar con todas las comunicaciones y en base uno tenemos toda la base de datos. Con esa base de datos sabemos si eres cliente y no eres cliente. Si eres cliente tenemos tu teléfono, tu información y tu nombre. Entonces te podemos hola, buenos días, Ferran, hemos recibido una llamada tuya y no te hemos podido contestar, pero esto se manda por WhatsApp. ¿Qué necesitas? ¿Una póliza, hacer seguimiento o ayuda? Entonces vamos recualificando ese mensaje, ese lead, para que luego al final el gestor comercial ya tenga hecho esa comunicación y no se pierda ninguna comunicación y ninguna interacción.
+
+[17:06] 1: ¿Cómo extraéis los datos? Tiene la base de datos de cliente, ¿Cómo te la traes?
+
+[17:11] 3: Ahora lo vemos, si queréis, en la parte de contactos, pero aquí, por ejemplo, ya hola, bienvenido Juan José, hemos recibido la tuya, ¿En qué te podemos ayudar? Quiero una nueva póliza. Perfecto. ¿La nueva póliza de qué es? De esto. Le vamos precualificando, le vamos calentando para que al final el cliente ya lo tengamos toda la información y todo lo que necesitamos.
+
+[17:33] 4: Incluso podamos generar una tarea para el gestor de oye, esta persona ha llamado y está preguntando por eso, llámale.
+
+[17:41] 3: Y sobre todo que eso, que veáis que uno, toda la comunicación esté centralizada, se hable desde la empresa. Dos, como comentabas ahora, Juan, a nivel de comunicación, lo que hacemos de contactos es exportamos toda la base de vuestro ERP y os ayudamos a limpiar toda la información. Se nota, habrá comentado con Javier que estuvimos ayudándoles a limpiar toda esa base de datos porque necesitamos por cada una de esas personas, empresas, personas físicas, empresas, necesitamos un número de contacto, un correo. Falta ya Juan el del kiosco o Pedro el de. No, no sabemos exactamente que es Juan el que tiene esta empresa es este contacto y con ese hablamos. Entonces, ayudamos a limpiar toda esa información. Y aquí lo que tenemos es el historial, cada uno de los contactos o empresas con una persona. Además tenemos la parte del tomador o la persona que de verdad ha contratado la empresa. ¿Alguna pregunta? Está aquí.
+
+[18:46] 1: ¿Cómo importáis vía Excel o cómo importáis la data?
+
+[18:50] 4: Actualmente hacemos esa importación inicial, que por experiencia nos encontramos mucho contacto, duplicado de números y de mails y demás, por eso un poco lo que decía de la limpieza y hacemos esa importación inicial y a partir de octubre más o menos estamos trabajando ya en temas de conectarnos, de integrarnos tanto, bueno, en vuestro caso veo lo que has comentado antes, que ese broker, pero bueno, también estamos integrándonos con los otros ERP, pero bueno, estamos trabajando, que vamos a empezar también a trabajar con Javi la conexión con el ERP, aunque si vosotros nos comentabais antes, ya lo tenéis hecha con vuestra centralita actual, a lo mejor podríamos agilizar por ahí, pero bueno, que ya estamos trabajando en la conexión con el ERP. Pero sí que es verdad que por experiencia, como en los ERP actuales, porque aquí si intentas guardar un contacto con dos contactos con el mismo número de teléfono no te deja. ¿Por qué? Porque al final cuando te llaman o cuando te mandan un WhatsApp, quién es el que te está llamando, o Pepe o Manolo, pero Pepe y Manolo no puede ser, que es lo mismo que si os lo guardáis en vuestro móvil, al final ese número, incluso los propios terminales te van diciendo oye, tienes tantos números duplicados, porque al final eso te habla uno o te habla otro. ¿Eso nos damos cuenta de que en los ERP actuales sí que, pues eso, como la póliza nos llama al hijo, pero la póliza se le hace al padre por el hecho de que mejoras, porque sale mejor precio, pues muchas veces nos damos cuenta de que el padre y el hijo tienen el mismo número de teléfono y luego es como, pero bueno, pero este número de teléfono de quién es, del padre o del hijo?
+
+[20:31] 3: Aquí por ejemplo está, digamos que es el historial de todos los contactos. ¿Qué sucede? Que aquí guardamos esa historia, esa información, que sabemos que Adolfo tenemos su teléfono, el correo, la fecha, luego tenemos parte de venta, qué productos se ha vendido, quiénes la ha vendido, el vencimiento, qué empresa ha sido, qué aseguradora, qué número asegurados, y luego podemos añadir por lo que estaba comentando Alejandro en esta parte, qué relación tiene con la persona que ha contratado, con el tomador y ver un poco toda esa información para qué Para que no se pierda nada y cuando hagamos campañas, mensajes y demás, pues sepamos quién es quién, sobre todo tengamos también ese historial y esta parte de.
+
+[21:14] 4: Datos guardados al final. Entonces guardamos al hijo, guardamos al padre y luego los relacionamos uno con el otro, así como el padre, la secretaria, cuando estáis hablando con empresas, el suegro, lo que sea.
+
+[21:31] 3: Y otra de las partes es la parte de ventas, que es lo que estábamos hablando. ¿En la parte de ventas, qué hacemos nosotros, que ayudamos con la parte de ZOA? Hacemos que haya una mayor velocidad, que la gente, al final los gestores y los comerciales puedan tener organizadas sus tareas, pero con las automatizaciones esta rapidez, la gente va contestando más rápido, va haciendo las tareas más rápido y al final lo que hace es dar una parte para el tema comercial. Y aquí por ejemplo, las ventas podemos ver cómo esto es un embudo de ventas que está conectado con todas esas salidas que tenéis, como imagínate, vamos a decir un cuestionario que me dijo Pedro, por ejemplo, aquí tenemos un cuestionario de una persona que lo ha contestado. Esto nada más escribir el cuestionario, se integra toda la información, este club, el teléfono, el ticket y se lo asignamos.
+
+[22:19] 4: Al gestor de forma automática.
+
+[22:20] 3: Exactamente. Y ese gestor directamente recibe esto al momento y si tiene tarea, mandarle un WhatsApp, una llamada o un email y se le envía.
+
+[22:29] 4: Correcto. Si te fijas a la derecha pone llamar a Club Hípico Royal. Cada vez que se genera una oportunidad o una tarea, siempre ya se asigna esto todo se define al inicio con vosotros se define un poco el cómo queréis trabajar, incluso si esto no lo quisierais inicialmente, pues también un poco se define cómo queréis implementar y los pasos en los que queréis seguir. Pero por ejemplo, en este caso, conforme se genera la oportunidad con toda la información del formulario, pues también se genera ya una actividad al gestor correspondiente de llamar, porque a lo mejor hemos recibido el formulario y entonces ya se define que al día siguiente o ese mismo día tiene que llamar. Entonces de esta manera, al ir introduciendo toda la información en un mismo canal y el poder ir generando actividades de forma automática, pues digamos que conseguimos que haya más velocidad en la ejecución de lo que tienen que ir haciendo los gestores.
+
+[23:22] 3: Y sobre todo tenerlo bien ordenado y usable. Vosotros de un golpe de vista sepáis cómo está cada una de las oportunidades, quién la está gestionando, cuánto tiempo ha tardado y qué tarea tiene que hacer. En un golpe de vista a muchos de los clientes le aprecia mucho, que igual en un ERP es un poco más ortopédico o estaba especializado en otro tipo de cursos como la gestión y aquí igual para el tema de oportunidades os puede ayudar mucho más.
+
+[23:46] 4: No sé si tenéis alguna pregunta.
+
+[23:51] 1: No sé, aquí imagino habrá perfiles, un perfil que verás todo el equipo y un perfil que ve solamente lo tuyo.
+
+[23:57] 4: Correcto. Más que perfiles, lo que trabajamos sobre todo nosotros son con los filtros. Si actualizamos. Pero esto es así, en esto y en toda la plataforma. Conforme yo he entrado aquí, ahora mismo No veo nada. ¿Por qué? Porque en mi usuario, que al final aquí es el usuario de soporte, no tengo ninguna oportunidad asociada a mí, por tanto no me sale nada. Entonces yo conforme voy entrando a los menús, a mí solo me sale lo que está asignado a mí. Para poder ver lo de los demás tenemos que quitar el filtro y entonces podemos ver el resto de cosas del equipo. Aquí muchas veces siempre nos preguntan, bueno, pero yo es que no quiero que vean nada del resto del equipo. Nosotros siempre empezamos por ser menos restrictivos y luego ya vemos viendo si es necesario ser más restrictivos. ¿Por qué? Porque el hecho de que si se va de vacaciones, está debajo lo que sea, al final o tienes que ayudar, tienes que solucionar algo de un compañero, vale la pena no ser tan restrictivo y es solo, y poder ir solo, quitar el filtro y poder ver lo de los demás, que sí o sí me tienes que cambiar el usuario para poder ver lo de lo otro. Es como hacemos que sea un poco más farragote. De esta manera ya te digo yo que se acaba generando tanta cantidad que la gente no va quitándose los filtros para ir. Tienen suficiente trabajo con lo suyo como para ir mirando lo de los demás.
+
+[25:19] 3: Luego la gente tiene un poco de miedo, es que se va a ver, pero es que al final hablas a través del nombre de la empresa. Entonces ¿Que tienes que esconder? Que no tengas que hablar de la gente. Luego al final ya te lo va agradeciendo, te va dando consejos, haciendo cosas.
+
+[25:31] 4: Pero si al principio esta pregunta que nos acabas de hacer nos la hacen todo el mundo en plan de no, pero es que no quiero que lo de Pepe, si Pepe ve lo de Manolo ya verás, voy a tener líos. Por experiencia no acaban viéndolo porque tiene suficiente trabajo como para estar mirando lo.
+
+[25:45] 3: Que hacen, incluso la gente va aprendiendo un poco de cada una de ellas, las plantillas, conversaciones, cómo mejorarla, que eso trabajamos mucho por ejemplo con Javier que lo conocéis, de cómo mejorar esas plantillas de comunicación para que haya una comunicación más fluida, te contesten antes. Esto sería la parte esta que unificaríamos todos esos canales que tengáis de ventas y sobre todo lo bueno aquí lo chulo es que cuando alguien llama no coge, se genera una oportunidad, un WhatsApp también y el hecho es que no se pierda ni una oportunidad y lo tengáis todo organizado y centralizado en la plataforma. Y luego última, una última parte que hay algunos clientes que le gustan utilizarlo más, es la parte de gestión. Aquí en la parte de gestiones, oye tengo mis tareas, yo me meto aquí que soporte ZOA y nadie lo tiene, si lo quito y me meto la general, pues lo puedes ir viendo y vas viendo alguien que ha mandado la gestión de una devolución, reemplazo, siniestros, tareas que la gente se va poniendo en base a esta parte de gestión. Pero estos ya son añadidos que tenemos que ayudan a algunos clientes que tienen algunas necesidades específicas y podemos ayudar, como el tema de soporte con inteligencia artificial, llamadas y demás. Pero el core, lo centralizado son la parte de comunicación, que lo tengáis todo metido en toda la empresa en una misma parte y que de aquí vosotros podáis controlar y podréis ver en un golpe de vista qué mejorar o qué se puede acelerar o cómo se puede hacer.
+
+[27:13] 1: Entendemos que correo integra un Office 365, se pueden ver desde aquí, no.
+
+[27:25] 4: Se conecta, se conecta con el Outlook y es como una copia, se va sincronizando cada estamos conectados con la API de Outlook y entonces si pasa algo en Outlook nos envía tanto lo que haya pasado aquí y si nosotros ejecutamos algo desde aquí avisamos, se hace por detrás con la API desde Outlook, es como si estuvieras trabajando en Outlook pero desde aquí está totalmente conectado, si marcas un no leído allí, si cambias aquí, al final da igual usar uno que otro. ¿Alguna duda más que podáis tener o cómo lo veis? ¿O si os puede ayudar, No?
+
+[28:16] 0: A nivel organizativo. Entiendo que para hacerlo por oficina sería un número de contacto que sería el principal por oficina y de ahí deriva todo lo demás.
+
+[28:31] 4: Correcto. Podemos hacer como varias cosas. Que el número de WhatsApp sea el mismo para todas las oficinas o no. Eso sería la primera cosa que hay que decidir. Y el número de teléfono, lo mismo. El número de teléfono sí que entiendo que al final queréis un número de teléfono por oficina, o sea, un fijo por oficina. Así es como funcionaréis ahora o cómo funcionáis. Exactamente. Tenéis uno fijo por oficina y luego en el oficina, luego las oficinas, lo que viene siendo los. Bueno, no sé si nos podéis explicar un poco mejor lo que viene siendo los clientes, los contactos, ¿Son comunes para todas las oficinas o cada oficina tiene sus? ¿Trabaja con sus contactos?
+
+[29:17] 1: Cada oficina tiene sus clientes, sus contactos que trabajáis.
+
+[29:25] 4: No sé si sería esto como modelo franquiciado en el que.
+
+[29:28] 1: Algo así. Algo así.
+
+[29:31] 4: No sé si hay alguna oficina central y luego el resto son franquiciadas.
+
+[29:37] 1: Hay unos servicios centrales y luego las oficinas comerciales que cada uno trabaja su clientela.
+
+[29:46] 4: Vale, pues entonces conforme trabaja es que se crean equipos y en cada oficina sería un equipo. Entonces ese equipo se le asigna un número de teléfono fijo, un número de WhatsApp y luego todo lo que viene siendo las oportunidades, las actividades y los contactos pues se van generando por equipo, se van guardando por equipo. Entonces cada equipo ve solo lo de su equipo y vosotros a nivel administradores veis lo de todos los equipos como si fuera una gran correduría. Enorme.
+
+[30:20] 0: Vale, vale, sí, eso me refería. Si era por capa.
+
+[30:23] 1: Y ese equipo tiene un jefe de equipo que ve lo de su equipo cómo. ¿Perdón? El equipo lo ve todo lo de todo el equipo.
+
+[30:31] 4: Todo lo de su equipo.
+
+[30:33] 1: Pero todos los miembros del equipo ven todo lo del equipo. Correcto.
+
+[30:37] 4: Conforme un poco te explicaba antes de que cada miembro del equipo tiene su filtro de solo ver lo suyo por defecto. Entonces conforme va entrando por la plataforma solo va todo lo del equipo y puede ver todo lo del equipo, pero solo lo de su equipo, no lo de todos los equipos.
+
+[30:53] 2: ¿Esto funciona como planes? Funciona igual. Sistema de lo que ve cada uno, se le asigna cada uno su tarjeta y se filtra. Lo único que nosotros tendríamos que limitar por oficinas puedan ver solo.
+
+[31:08] 4: Y hay mucha tendencia incluso ir más abajo de que dentro de los miembros del equipo no puedan ver cosas entre ellos. ¿Pero nosotros por experiencia decimos que mejor no? Porque eso, porque al final muchas veces apoyan entre ellos porque pues eso, porque se ha ido, se va de vacaciones, se va de baja o un día está mal o demás y al final los clientes de esa persona alguien los tiene que atender, no se pueden quedar. Entonces el hecho de ir metiendo un poco palos en la rueda pues acaba que eso acaba generando un poco de más conflicto que ayuda y por experiencia no hay conflicto en cuanto a que se miren los suyos y demás, es un equipo, tienen que al final son sus clientes y tienen que ir un poco remando todos a la misma.
+
+[31:50] 0: Vale, luego otra duda que tengo respecto a las fases del proceso en el que por ejemplo se gestiona un lead que entra de nuevo, de pendiente, de contestado, finalizado, perdido o ganado. ¿Ese proceso tiene algunas palabras para que se vaya cambiando de forma automática o tiene que hacerlo manualmente el usuario? Por ejemplo, si yo contesto, llamo a una persona, a un cliente, ¿Eso automáticamente se me convierte a que ya lo estoy gestionando o tengo que darle yo a un botón o lo que sea y decir que ya lo estoy gestionando?
+
+[32:34] 4: Eso realmente lo configuramos con vosotros. Al inicio, una de las cosas que tenemos es que estamos como dos semanas más o menos bastante, conocemos varias, sobre todo hacemos una reunión principal donde se define todo ese flujo de cómo queréis trabajar y entonces a partir de esa definición de cómo queréis trabajar, nosotros ya la implantamos. Es totalmente. Sé por dónde vas, sobre todo lo que comentas tú de que vayan solos, lo estamos haciendo más cuando ya hay alguna IA de por medio, porque sí que tenemos IA en donde la llamada en vez de poner las típicas locuciones que hay, ya es una IA donde te dice donde lo primero que hace es mirar en la base de datos si es cliente o no es cliente y entonces ya te lleva la conversación por un lado o por otro y ya te pregunta, bueno, ¿Qué necesitas? Entonces lo que intentamos es que esta IA por ejemplo, recoja la mayor información posible sin tener que estar una persona recogiendo esa información y entonces ya generamos esa oportunidad o esa tarea. ¿Entonces cuando ya haya de por medio, sobre todo ahí sí que la IA ya es más capaz de ir moviendo entre estados, pero si no se quiere temas de IA y se quiere que sea más ellos, también tenemos que cuando le dan a hecho a una actividad de llamada, podemos automatizar que se genere la siguiente de forma automática e incluso también esto de que se vayan cambiando, pero eso un poco lo definimos con vosotros, cómo queréis que se funcione ese flujo? Y se define con un escalidrado y luego se implementa. Pero sí pueden ir o solas o en automático, en función de lo que se defina al inicio.
+
+[34:09] 3: Los pasos es que nosotros con vosotros, como dice Alejandro, la introducción es nosotros vamos a vuestra casa, como hemos ido por ejemplo a Torre Cotillas, hemos ido a diferentes partes y. ¿Y ahí lo que hacemos es, con vosotros diseñamos, voy a pasar un ejemplo para que lo veáis, el paso a paso de cómo funcionáis, y automatizamos todas las partes con vosotros, segundo a segundo de oye, por WhatsApp tienes ejecutivo, no tienes ejecutivo? Por ejemplo, tiene la parte de. De uno seguro, por ejemplo, mandan por WhatsApp, Por WhatsApp te dicen hola, qué tal, Soy de tal, ¿Qué necesitas? ¿Nuevo, seguro, información, siniestros? Si es siniestros, también automatizamos esto para que tengan el mínimo tipo de necesidad. ¿Es de autos, es de hogares, de otros? ¿De qué es el siniestro? ¿Me puedes avisar? Envíame una foto, vale, hablo con mi compañero y te pone. Y todo esto lo automatizamos en una conversación de WhatsApp para que esto vaya mucho más rápido. Y cuando hay un momento en el que por ejemplo, ya hay que notificar algo nuevo, pues te pongo en contexto con mi compañero, te genera una tarea para el ejecutivo y eso aparecería como una tarea. Lo mismo con llamadas, es que vamos con vosotros y dibujamos esto paso a paso, sobre todo para entender cómo trabajáis. Y una vez que sepamos cómo trabajáis, pues lo automatizamos dentro del software y del programa.
+
+[35:49] 0: ¿Y una duda, a la hora de asignar los asesores, por ejemplo, en una oficina que tiene tres asesores, en la asignación se haría al que estuviese libre entre comillas, o si se le va a asignar a uno que está ocupado, saltaría al siguiente, o eso como, o se hace de forma aleatoria? ¿Eso se hace también manual o automática?
+
+[36:15] 4: Eso es igualmente como vosotros realmente lo defináis. Nosotros lo que suele haber es que se intenta asignar al ejecutivo. No sé si trabajáis un poco de que vuestros clientes están asociados a algún gestor vuestro o no, o todos los clientes son de todos.
+
+[36:37] 1: Trabajaríamos más con cuenta cliente, con gestor Correcto, un gestor.
+
+[36:43] 4: Nosotros en lo que es la ficha de contacto, lo principal que tenemos es.
+
+[36:48] 3: Vamos a cualquiera, eso trabajamos con vosotros cuando hagamos lo de contactos. ¿Quién es quién?
+
+[36:52] 4: Xavier García García pues su gestor es Gema. Por tanto, a quien va primero es a Gema. Si Gema no está, podemos hacer que los gestores pertenezcan a grupos. Es decir, si Gema no puede que luego vaya a su grupo. Y si finalmente su grupo tampoco, puede que se le mande un WhatsApp de forma automática diciéndole, oye, que no hemos podido atenderte, dinos qué necesitas. Y ese WhatsApp de forma automática ya se le ha asignado a Gema para que Gema, en cuanto esté disponible, tenga esa conversación pendiente para contestar. El nivel de asignaciones viene un poco a como vosotros necesitéis. Cada cliente nuestro lo tiene de una manera diferente.
+
+[37:34] 0: Vale, Y eso, vale, yo que iba más al contacto nuevo, pero eso ya se designa como nosotros.
+
+[37:42] 4: Hay gente que prefiere tener una persona tipo recepcionista, que va todo ahí, y otra gente que pues en función del ramo que vaya a este grupo o mira, no, en función que esto vaya de forma aleatoria a este, este y este, que ahí es un poco el. Vosotros sois los que entendéis vuestro equipo y cómo os tenéis estructurados, en función de cómo lo necesitéis, definimos cómo va a ir ese lead nuevo se va a ir asignando.
+
+[38:10] 0: Vale.
+
+[38:13] 3: Muy buena pregunta. Porque eso. Lo bonito de esto es que tenemos toda la base de datos y si por ejemplo, Gema se va de vacaciones, simplemente es pasárselo todos a Yolanda. Y Yolanda puede gestionar esos problemas en solamente un clic. Toma, te paso el teléfono, el WhatsApp y contesta tú.
+
+[38:29] 1: ¿De clientes o de tomadores? Nosotros hacemos una carga inicial. ¿Y cómo se cargan los nuevos?
+
+[38:37] 4: Los nuevos, por experiencia, como todas las comunicaciones pasan por nosotros, en principio es que tenemos nosotros, ese contacto acaba guardándose antes en nosotros que en vuestro ERP. Porque por algún lado, a no ser que hayan ido a la oficina, por algún sitio ha contactado con vosotros. Y nosotros, conforme ese contacto nuevo nos habla, ya sea por un formulario, ya sea por un nuevo WhatsApp, ya sea por una nueva llamada, creamos la necesidad de registrar esta persona. Si tenemos un nombre, porque en WhatsApp no lo ha dado, lo registramos ya con el nombre del WhatsApp pero si no te lo dejamos tarea de averigua quién es esta persona que nos acaba de llamar o que nos acaba de hablar y guárdala. Entonces es más al revés, cómo lo guardáis luego en el ERP. Pero bueno, que con las sincronizaciones la idea es facilitar eso lo máximo posible y no estamos. Estamos cerca ya de conectarnos.
+
+[39:41] 1: Duda, Pedro, Monoex, Alejandro.
+
+[39:48] 2: Luego surgirán. Pero ahora mismo.
+
+[39:52] 4: Aún así, insisto, hacemos bastante acompañamiento al inicio porque sabemos que es una nueva forma de un poco de trabajar casi. Entonces por eso hacemos los flujos en conjunto y luego vamos nosotros mismos somos los que os recomendamos el fasear las cosas. Primero vamos a empezar por el WhatsApp, luego añadimos también las llamadas, luego ya vamos añadiendo el mail, luego vamos generando actividades de forma automática, luego vamos un poco por fases, porque si no también de repente a meterle a la gente mil cambios se vuelve un poco locado.
+
+[40:28] 3: Y sobre todo hacemos también formación in situ, porque sabemos que hay a veces personas que no tienen un nivel tecnológico muy elevado y les enseñamos a cómo aplicar las tecnologías, cómo utilizar las plantillas, cómo hacer las llamadas, cómo hacer las transferencias, cómo contestar este mensaje para que vayan cogiendo lo más rápido. Por eso vamos como varias veces a las oficinas para enseñar y un poco ver cómo la gente se vaya adaptando. Entonces, dependiendo un poco como se va adaptando, vamos metiendo paso a paso nuevas tecnologías hasta que ya lleguen el primer segundo mes, que ya sean más autónomos, tenemos un centro de conocimiento donde la gente puede ver información y luego al final ya van solos e incluso son ellos los que te van sugiriendo, oye, podías poner, oye, gracias, me gusta esto, pero ahí ya vamos viendo un poco el feedback positivo.
+
+[41:15] 0: ¿Vale, una cosa que se me acaba de venir a la cabeza.
+
+[41:20] 3: Aquí el.
+
+[41:21] 0: Ejemplo que he dispuesto es que cada oficina tendría un WhatsApp que con el que utilizarían todos los gestores, no? Entiendo.
+
+[41:30] 4: Del equipo.
+
+[41:31] 3: Sí.
+
+[41:31] 0: Y ahora en el caso de que. Eso sería la mayoría, pero bueno, en el caso de que cada gestor tenga su número de teléfono y tenga su propio WhatsApp, ¿Eso también se podría gestionar desde aquí?
+
+[41:47] 4: En principio no, a la larga estamos pensándolo porque muchos ya nos comentáis cosas y demás. Entonces, bueno, lo tenemos ahí en el tintero, pero en principio es que al final hay un WhatsApp a nivel empresa a nivel de los clientes, solo se aprenden un número y pueden llamar o mandar WhatsApp a ese número y entonces la correduría les atiende a ese número y desde ese número de WhatsApp desde donde todos los gestores atienden a vuestros clientes. Si actualmente ellos tienen ya números, lo que se suele hacer es redirigir, es decir, durante un tiempo se ponen ahí, nuestro nuevo número de atención es este, otro incluso y el enlace para clicar y que se abra la conversación. Y entonces ya vas un poco educando a los clientes a que ya siempre hablen según qué gestor, a este, a este o a este otro, sino que todos ya al mismo. Un poco también de la parte de educar, porque es interesante el que esté eso, porque al final los clientes sólo tengan un número vuestro, tanto para llamar como para WhatsApp.
+
+[42:58] 0: Vale, ya habéis dicho que los números de WhatsApp se pueden poner por equipo, que serían la oficina, que eso no.
+
+[43:02] 4: Habría problema, igual que los números fijos de llamada, los clientes de un equipo tengan solo un número para tanto WhatsApp como llamada.
+
+[43:17] 3: ¿Vosotros de aplicar esta tecnología lo tenéis a corto plazo, mediano plazo?
+
+[43:25] 1: Pues no sé, lo valoraríamos y sería hacer una prueba, una oficina pequeña o algo, pero hacer alguna prueba piloto.
+
+[43:35] 4: También.
+
+[43:36] 3: Por ahí cuando de hacer algo piloto, que veáis cómo funciona y luego pues ir expandiendo las diferentes oficinas. Lo digo porque nosotros sí que solemos trabajar con entre tres, cuatro corredurías al mes, es muy personalizado, nos gusta que los primeros meses lo vayáis sacando el máximo provecho y formar un poco a la gente y nos bloqueamos fechas y en base a esas fechas pues se van poniendo cada mes un poco, pues eso, si tenéis un poco planificado, oye, pues nos gustaría, oye, pues nos gusta, queremos hacer una prueba con esta oficina que son de 20 o de 30 gestores, venga, pues comenzamos con esta, nos bloqueamos esas semanas y 100% con vosotros para ir desarrollando y aplicando WhatsApp, llamadas, email, ventas, metodología, actividades y demás.
+
+[44:26] 2: Entiendo que si la oficina tiene una centralita con más actividades, esto al final se podría ramificar y que este número fuera como una ramificación de esa centralita, me refiero para cuando entre la llamada. Tenemos oficinas que tienen diferentes seguros, asesoría fiscal, inmobiliaria. Entonces claro, a la hora de que entre la llamada habría que integrar esta centralita en la que ellos tengan.
+
+[44:56] 4: Lo que te refieres es que hay oficinas que tienen más de una, de una actividad y cada actividad la tienen con un número de teléfono distinto.
+
+[45:08] 2: No, la tienen todo con un número.
+
+[45:09] 4: Ah, vale. Tienen todo con el mismo número y.
+
+[45:11] 2: Ya la centralita van desviando.
+
+[45:14] 4: Correcto. Y entonces ahí un poco sería sistema de seguros iría por aquí y si este más de inmobiliaria iría por otro, lo llevaríamos hacia otro camino o algo así, ¿No? Un poco como lo planteas.
+
+[45:27] 2: Claro, yo entiendo que este sistema, bueno, por lo menos por ahora no es aplicable fuera de la corredoría seguramente.
+
+[45:36] 4: Es aplicable, pero estamos muy centrados en corredoría de seguros. Aplicable es en tanto lo que nosotros has dicho también de gestoría y de inmobiliaria, porque al final la dinámica de comunicación es el mismo problema. Aplicable es, pero sí que es verdad que para dar un mejor servicio nos hemos centrado mucho en tema de correduría.
+
+[45:56] 2: Vale, pues entonces lo que se me.
+
+[45:59] 4: Viene a media cabeza, por ejemplo, en.
+
+[46:01] 2: Mi caso, yo tengo asesoría fiscal, entonces inmobiliaria, entonces la asesoría fiscal debería mantener su propia centralita y entonces cuando el cliente pulse uno, por ejemplo, que se desviara a este teléfono y pasará aquí. Entiendo que eso no es muy complicado, eso no tiene gran cosa.
+
+[46:21] 4: Incluso en un futuro si quisierais, pues lo podríamos tener todo en la misma. Pero bueno, eso es mejor paso a paso e ir asentando que meternos de golpe con todo y que sea todo un cristo.
+
+[46:34] 2: El cote de la herramienta era por usuario, me suena.
+
+[46:37] 3: Sí.
+
+[46:40] 4: Sí, por número de usuarios tenemos un mínimo, pero sí, por número de.
+
+[46:43] 2: Usuarios tenemos mínimo usuario y coste de entrada, instalación y todo eso.
+
+[46:50] 4: Bueno, si quieres, sí.
+
+[46:52] 3: Nosotros inicialmente lo que hacemos es os quitamos todas las líneas de teléfonos que tenéis, entonces lo que queda es directamente con la centralita que nosotros trabajamos, que es 100%, se llama Wildix, es internacional, quitaríamos todas las líneas de teléfono. Imagínate que vamos a una oficina, tiene 30 e igual tienen 15 móviles, no sé qué, si estáis trabajando con Vodafone, con Movistar, lo que sea, se quitaría la mayoría de esas líneas que a veces reducimos casi entre 400 y 500 euros al mes en telefonía, en esa parte. Luego integraríamos el tema de WhatsApp, un mismo canal y utilizando el CRM y el tema de ventas serían de media son 39 euros por usuario, que son 3.000 minutos en llamadas mensuales por usuario, tema de WhatsApp, utilización del CRM, y con esto son 39 euros por usuario. Entonces, ¿Qué entra esto? Aparte de eso, de la formación y luego tenemos una parte que es el onboarding o la formación, esos son 900 euros de integración de todo el software y desplazamiento y formación de vosotros. ¿Qué nos interesa a nosotros? Pues que al final que vosotros crezcáis y que veáis y cada vez lo vayáis utilizando más y nosotros también. Entonces, cuando hay, nosotros, sobre todo la suscripción anual, hay un 10 % de descuento, que es lo que hacemos con la mayoría, porque al final esto es un poco, oye, sois nuestro partner de comunicación y telecomunicaciones, la gente está bastante contenta porque aparte de esto tenemos bastantes conocimientos en temas de inteligencia artificial, comunicación, automatizaciones, y la idea es hacer una relación que sea a larga distancia. Nosotros lo que buscamos son partners, gente potente, sobre todo corredurías de seguros, que seamos compañeros de futuro y de largo. Entonces, vamos a ver, cómo nosotros os conocemos, hacemos todo el onboarding, toda la integración y la idea es que, oye, pues cuando más vayáis creciendo el número de usuarios, más se va reduciendo luego a veces el precio, pero que os hagáis una idea es ahora mismo hasta 39 euros por usuario, 900 euros, y.
+
+[49:07] 4: El mínimo que te comentaba antes que es de 10 usuarios. Pero bueno, que vosotros.
+
+[49:10] 2: Vale, si, eso no hay problema.
+
+[49:13] 3: Nosotros muchas veces decimos que no a corredurías pequeñas, porque nosotros entendemos que son corredurías como la vuestra, Vélez, algunas más que son como más numerosas, donde os ayudamos a descongestionar toda esa comunicación y acelerar el tema de gestión y de ventas, porque igualan pequeñas no tiene tanto sentido, pero cuando empiezan a partir de diez, veinte, treinta, cuarenta, cincuenta, sesenta y ya más allá, pues cuando dices tiene sentido porque hay muchas comunicaciones, hay un caos, cada uno va a la suya, no tengo el control, no sé si han contestado, no han contestado las llamadas, cuántos WhatsApp están sin contestar cuando están en curso. Nosotros lo que hacemos es, vamos, limpiamos la casa, ayudamos a poner las métricas, los datos, y a partir de ahí es cuando empezamos a meter la metodología de actividades, de llamadas, de tareas, de WhatsApp. Pero bueno, lo que suele decir, porque la gente al final es confianza y conocernos un poco y es oye, empezar con una correduría piloto, veamos los números y luego siguientes pasos. Simplemente decía lo de las fechas por organizarnos y planificar, que es que luego pasa, oye, sí que me interesa, vale, pues nos pasamos a un mes, vale, pues de un mes al final pues te queda eso. Pero bueno, sin más, imagino tendréis que pensar que dar una vuelta.
+
+[50:34] 1: Vamos a pensarlo, vamos a dar una vuelta y os comentamos si iniciamos un piloto.
+
+[50:40] 3: Genial, encantado, la parte de Murcia nos encanta, estamos bastante. Y siguiente paso, conocernos en persona y comenzar y sobre todo ver cómo podemos mejorar el reto de la comunicación y cómo os podemos ayudar.
+
+[50:55] 1: ¿De acuerdo? Vale, venga, pues estamos en contacto.
+
+[50:59] 3: Vale, oye, pues nada, muchísimas gracias, buen día.
+
+[51:06] 4: So.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

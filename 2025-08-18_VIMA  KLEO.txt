@@ -1,0 +1,942 @@
+================================================================================
+DEMO/REUNIÓN: VIMA <> KLEO
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 18/08/2025 a las 12:00
+⏱️ Duración: 11.550000190734863 segundos (0.2 minutos)
+👥 Participantes: josemanuel@zoasuite.com,vmorell@vimasegur.com,ana.gomez@kleohub.com, vmorell@vimasegur.com, ana.gomez@kleohub.com
+
+🔑 PALABRAS CLAVE:
+--------------------
+certificado digital, subvención, presupuesto, Microsoft 365, AnyDesk, documentación
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. A
+5. n
+6. a
+7.  
+8. G
+9. ó
+10. m
+11. e
+12. z
+13. *
+14. *
+15. 
+
+16. E
+17. n
+18. v
+19. i
+20. a
+21. r
+22.  
+23. c
+24. o
+25. r
+26. r
+27. e
+28. o
+29.  
+30. c
+31. o
+32. n
+33.  
+34. l
+35. i
+36. n
+37. k
+38.  
+39. d
+40. e
+41.  
+42. A
+43. n
+44. y
+45. D
+46. e
+47. s
+48. k
+49.  
+50. y
+51.  
+52. e
+53. n
+54. l
+55. a
+56. c
+57. e
+58.  
+59. d
+60. e
+61.  
+62. r
+63. e
+64. u
+65. n
+66. i
+67. ó
+68. n
+69.  
+70. a
+71.  
+72. a
+73. d
+74. m
+75. i
+76. n
+77. i
+78. s
+79. t
+80. r
+81. a
+82. c
+83. i
+84. ó
+85. n
+86.  
+87. y
+88.  
+89. V
+90. i
+91. c
+92. e
+93. n
+94. t
+95. e
+96.  
+97. e
+98. n
+99.  
+100. c
+101. o
+102. p
+103. i
+104. a
+105.  
+106. (
+107. 0
+108. 1
+109. :
+110. 4
+111. 8
+112. )
+113. 
+
+114. E
+115. n
+116. v
+117. i
+118. a
+119. r
+120.  
+121. c
+122. o
+123. r
+124. r
+125. e
+126. o
+127.  
+128. c
+129. o
+130. n
+131.  
+132. c
+133. o
+134. n
+135. c
+136. e
+137. p
+138. t
+139. o
+140. s
+141.  
+142. s
+143. u
+144. b
+145. v
+146. e
+147. n
+148. c
+149. i
+150. o
+151. n
+152. a
+153. b
+154. l
+155. e
+156. s
+157.  
+158. y
+159.  
+160. s
+161. o
+162. l
+163. i
+164. c
+165. i
+166. t
+167. a
+168. r
+169.  
+170. f
+171. a
+172. c
+173. t
+174. u
+175. r
+176. a
+177. s
+178.  
+179. f
+180. a
+181. l
+182. t
+183. a
+184. n
+185. t
+186. e
+187. s
+188.  
+189. (
+190. 0
+191. 8
+192. :
+193. 1
+194. 9
+195. )
+196. 
+
+197. R
+198. e
+199. v
+200. i
+201. s
+202. a
+203. r
+204.  
+205. y
+206.  
+207. c
+208. o
+209. r
+210. r
+211. e
+212. g
+213. i
+214. r
+215.  
+216. d
+217. o
+218. c
+219. u
+220. m
+221. e
+222. n
+223. t
+224. a
+225. c
+226. i
+227. ó
+228. n
+229.  
+230. c
+231. o
+232. n
+233.  
+234. f
+235. a
+236. c
+237. t
+238. u
+239. r
+240. a
+241. s
+242.  
+243. a
+244. d
+245. i
+246. c
+247. i
+248. o
+249. n
+250. a
+251. l
+252. e
+253. s
+254.  
+255. d
+256. e
+257.  
+258. M
+259. i
+260. c
+261. r
+262. o
+263. s
+264. o
+265. f
+266. t
+267.  
+268. 3
+269. 6
+270. 5
+271.  
+272. (
+273. 0
+274. 8
+275. :
+276. 3
+277. 3
+278. )
+279. 
+
+280. I
+281. n
+282. c
+283. l
+284. u
+285. i
+286. r
+287.  
+288. f
+289. a
+290. c
+291. t
+292. u
+293. r
+294. a
+295.  
+296. d
+297. e
+298.  
+299. S
+300. E
+301. O
+302.  
+303. R
+304. a
+305. n
+306. k
+307. i
+308. n
+309. g
+310.  
+311. e
+312. n
+313.  
+314. d
+315. o
+316. c
+317. u
+318. m
+319. e
+320. n
+321. t
+322. a
+323. c
+324. i
+325. ó
+326. n
+327.  
+328. f
+329. i
+330. n
+331. a
+332. l
+333.  
+334. (
+335. 0
+336. 6
+337. :
+338. 1
+339. 5
+340. )
+341. 
+
+342. 
+
+343. *
+344. *
+345. V
+346. i
+347. c
+348. e
+349. n
+350. t
+351. e
+352.  
+353. B
+354. e
+355. r
+356. n
+357. a
+358. r
+359. d
+360. o
+361. *
+362. *
+363. 
+
+364. D
+365. e
+366. s
+367. c
+368. a
+369. r
+370. g
+371. a
+372. r
+373.  
+374. a
+375. p
+376. l
+377. i
+378. c
+379. a
+380. c
+381. i
+382. ó
+383. n
+384.  
+385. A
+386. n
+387. y
+388. D
+389. e
+390. s
+391. k
+392.  
+393. e
+394. n
+395.  
+396. o
+397. r
+398. d
+399. e
+400. n
+401. a
+402. d
+403. o
+404. r
+405.  
+406. d
+407. e
+408.  
+409. a
+410. d
+411. m
+412. i
+413. n
+414. i
+415. s
+416. t
+417. r
+418. a
+419. c
+420. i
+421. ó
+422. n
+423.  
+424. (
+425. 0
+426. 3
+427. :
+428. 3
+429. 3
+430. )
+431. 
+
+432. A
+433. s
+434. e
+435. g
+436. u
+437. r
+438. a
+439. r
+440.  
+441. c
+442. e
+443. r
+444. t
+445. i
+446. f
+447. i
+448. c
+449. a
+450. d
+451. o
+452.  
+453. d
+454. i
+455. g
+456. i
+457. t
+458. a
+459. l
+460.  
+461. e
+462. m
+463. p
+464. r
+465. e
+466. s
+467. a
+468. r
+469. i
+470. a
+471. l
+472.  
+473. e
+474. s
+475. t
+476. é
+477.  
+478. d
+479. i
+480. s
+481. p
+482. o
+483. n
+484. i
+485. b
+486. l
+487. e
+488.  
+489. p
+490. a
+491. r
+492. a
+493.  
+494. r
+495. e
+496. u
+497. n
+498. i
+499. ó
+500. n
+501.  
+502. d
+503. e
+504.  
+505. 1
+506. 4
+507. :
+508. 3
+509. 0
+510.  
+511. (
+512. 0
+513. 3
+514. :
+515. 5
+516. 0
+517. )
+518. 
+
+519. M
+520. a
+521. n
+522. t
+523. e
+524. n
+525. e
+526. r
+527.  
+528. o
+529. r
+530. d
+531. e
+532. n
+533. a
+534. d
+535. o
+536. r
+537.  
+538. e
+539. n
+540. c
+541. e
+542. n
+543. d
+544. i
+545. d
+546. o
+547.  
+548. d
+549. u
+550. r
+551. a
+552. n
+553. t
+554. e
+555.  
+556. s
+557. e
+558. s
+559. i
+560. ó
+561. n
+562.  
+563. d
+564. e
+565.  
+566. c
+567. o
+568. n
+569. t
+570. r
+571. o
+572. l
+573.  
+574. r
+575. e
+576. m
+577. o
+578. t
+579. o
+580.  
+581. (
+582. 0
+583. 3
+584. :
+585. 3
+586. 2
+587. )
+588. 
+
+589. E
+590. n
+591. v
+592. i
+593. a
+594. r
+595.  
+596. f
+597. a
+598. c
+599. t
+600. u
+601. r
+602. a
+603.  
+604. f
+605. a
+606. l
+607. t
+608. a
+609. n
+610. t
+611. e
+612.  
+613. d
+614. e
+615.  
+616. M
+617. i
+618. c
+619. r
+620. o
+621. s
+622. o
+623. f
+624. t
+625.  
+626. 3
+627. 6
+628. 5
+629.  
+630. (
+631. p
+632. e
+633. r
+634. í
+635. o
+636. d
+637. o
+638.  
+639. 2
+640. 8
+641.  
+642. j
+643. u
+644. l
+645. i
+646. o
+647. -
+648. 2
+649. 6
+650.  
+651. a
+652. g
+653. o
+654. s
+655. t
+656. o
+657. )
+658.  
+659. (
+660. 0
+661. 8
+662. :
+663. 1
+664. 9
+665. )
+666. 
+
+667. R
+668. e
+669. v
+670. i
+671. s
+672. a
+673. r
+674.  
+675. f
+676. a
+677. c
+678. t
+679. u
+680. r
+681. a
+682. s
+683.  
+684. a
+685. d
+686. i
+687. c
+688. i
+689. o
+690. n
+691. a
+692. l
+693. e
+694. s
+695.  
+696. q
+697. u
+698. e
+699.  
+700. p
+701. u
+702. e
+703. d
+704. a
+705. n
+706.  
+707. i
+708. n
+709. c
+710. l
+711. u
+712. i
+713. r
+714. s
+715. e
+716.  
+717. e
+718. n
+719.  
+720. c
+721. o
+722. n
+723. c
+724. e
+725. p
+726. t
+727. o
+728. s
+729.  
+730. s
+731. u
+732. b
+733. v
+734. e
+735. n
+736. c
+737. i
+738. o
+739. n
+740. a
+741. b
+742. l
+743. e
+744. s
+745.  
+746. (
+747. 0
+748. 9
+749. :
+750. 3
+751. 7
+752. )
+753. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[00:01] 0: Hola.
+
+[00:07] 1: Hola, Ana, ¿Qué tal? Muy bien, ¿Cómo estás?
+
+[00:11] 0: Pues muy bien, ya con todo listo para ver si podemos dejarlo ya hoy todo terminado, entonces nos lo quitemos mejor.
+
+[00:19] 1: Ojalá que yo esta mañana he dicho, digo, ya está todo terminado. Y me dice, no, no está terminado. Digo, ¿Cómo es posible eso?
+
+[00:26] 0: Ya, es que bueno, han pasado estas cosas, tienen sus ais. Vale. No sé si te ha dicho José Manuel que te descargase anydesk.
+
+[00:35] 1: No, no me ha dicho nada. Me ha dicho, habla con Ana y a ver si lo podéis solucionar, que es muy fácil. Digo, perfecto.
+
+[00:42] 0: Vale, dame un segundo. Vale, Te voy a pasar un link por aquí, por el chat, para que te descargues una aplicación para que haya control remoto de manera que yo pueda manejar la pantalla desde aquí y así lo hago en dos minutos y lo dejamos subido, que así vamos a tardar mucho menos que si estamos ahí.
+
+[01:03] 1: Que sí, que sí, que sí. ¿Pero qué es lo que hace falta?
+
+[01:09] 0: Como una especie de programa, pero es gratuito. Mira, te paso.
+
+[01:14] 1: ¿Necesita que tenga Vicente instalado digital la empresa?
+
+[01:19] 0: Sí.
+
+[01:20] 1: Entonces no lo tiene.
+
+[01:22] 0: No, pero tú tienes que tener el certificado digital. Ah, ¿No tienes el certificado digital de la empresa aquí?
+
+[01:30] 1: No, por eso digo, antes de meternos en la batalla. Vale, pero entonces tú lo que necesitas es el certificado para poder conectarte y subir la información. Vale, ¿Hasta que? ¿Hasta qué hora estás tú por la mañana?
+
+[01:47] 0: Hasta las 3.
+
+[01:48] 1: Vale, vamos a ver. Envía el link, por favor, al correo de administración.
+
+[02:00] 0: Vale.
+
+[02:01] 1: Es que en ese ordenador tenemos en local la firma, el certificado digital.
+
+[02:09] 0: Vale. Sobre todo lo necesito porque no es que lo vaya a subir con vuestro certificado, lo haré con el mío, o sea, con el nuestro de nuestra empresa. Pero hay un trámite, bueno, hay dos trámites que tengo que hacer que sí, que necesito que sea el vuestro. No, el mío.
+
+[02:24] 1: Tiene que ser simultáneo mientras tú vas subiendo. Perdona, soy Ernesto. Sí, perdón, Te digo porque si tú puedes subir la documentación y luego nos dices entra y autoriza, entramos y te damos. Tiene que ser simultáneo.
+
+[02:39] 0: No, es que tiene que ser primero, Primero vosotros me tenéis que autorizar porque si no yo no puedo subir nada. Entonces yo lo que había hablado con Jose al final era, os paso el link para que vosotros me autoricéis y lo hago. Pero al final me ha dicho que bueno, que igual se puede hacer todo a la vez y así no tenéis que esperar y no tenemos que. ¿Sabes?
+
+[02:59] 1: Vale, pues a las dos. A las dos lo hacemos.
+
+[03:02] 0: Vale, dame un segundo porque me ha puesto otras reuniones. A las dos tengo el de Dr. Seguros. ¿Puede ser un poco más tarde?
+
+[03:10] 1: Marca tu horario.
+
+[03:12] 0: Vale, sería a las dos y media, tres menos cuarto.
+
+[03:20] 1: Lo único que necesitas es bajarnos la aplicación, te damos acceso y tú un remoto te apañas.
+
+[03:25] 0: Claro, tenéis que. Eso es, tenéis que bajaros la. Y el ordenador vuestro tiene que estar encendido.
+
+[03:32] 1: En ese momento.
+
+[03:33] 0: Vale, Entonces os descargáis la aplicación, que os voy a pasar ahora a administración.
+
+[03:38] 1: Me habéis dicho, no, ponme mí en copia, que yo soy Vicente V. Morey y ya está.
+
+[03:44] 0: Vale. Y descargaros el certificado digital de la empresa.
+
+[03:50] 1: Sí, sí, en el ordenador de administración está un certificado.
+
+[03:55] 0: Vale, perfecto.
+
+[03:56] 1: Es el que utilizamos para bajarnos toda la información con Hacienda o Seguridad Social.
+
+[04:00] 0: Eso es.
+
+[04:02] 1: Y eso le pones también que se conecte a la reunión.
+
+[04:07] 0: Pongo también un link a la reunión.
+
+[04:09] 1: Correcto. Y a las 2 y media lo dejamos todo solucionado. Pregunta fácil. Está claro que podíamos llegar hasta 15.000. Más de 15.000 no, porque había que pedir dos o tres presupuestos, me comentaron.
+
+[04:24] 0: Eso es. Creo que al final se ha quedado el vuestro. Bueno, lo tenéis en la memoria, pero igual sí que superaba un poco 15.000. Porque teníais otra factura. No estoy segura, porque Como ahora llevo 45 expedientes, pues imagínate.
+
+[04:37] 1: Pues. ¿Quieres que la repasemos? ¿Si, quieres que la repasemos? Simplemente lo nuestro para ver que se presentó la factura de ellos. Se presentó la factura de ese ranking.
+
+[04:49] 0: A ver, te lo miro ahora mismo. Os voy a compartir pantalla y os lo enseño. Vale, Nosotros vamos a presentar esto, 13.213, porque el importe siempre tiene que ser sin IVA. Y hemos presentado la factura de Zoasuite y estas, que ahora mismo no sé de qué son exactamente, pero sí que.
+
+[05:34] 1: Tiene las facturas mensuales de logis 365.
+
+[05:39] 0: Vale, pues eso es.
+
+[05:41] 1: Pero espera, faltaría la de ese ranking.
+
+[05:45] 0: Esa. A ver, te lo miro. Ay, que me he equivocado. ¿Esta, no?
+
+[06:03] 1: Sí.
+
+[06:15] 0: Vale, pues sí. Pues la voy a poner, la voy a poner y como luego nos tenemos que conectar y la tenemos que firmar, pues ya estaría.
+
+[06:26] 1: Te lo digo porque. Esa también, porque demás cosas que pudiéramos meter. Sí, que no.
+
+[06:33] 0: Vale, ¿Esto qué es exactamente?
+
+[06:36] 1: Eso es un programa para un poco hacer un seguimiento a la página web y a las redes sociales de cómo van funcionando mes tras meses.
+
+[06:48] 0: ¿Vale? De aquí se va a hacer una prorrata, ¿Vale? Porque no os va a cubrir hasta el 1 de julio de 2026, os va a cubrir solo julio, agosto y septiembre.
+
+[06:58] 1: O desde enero no, porque aquí.
+
+[07:00] 0: Pone el 1 de julio de 2025. ¿Vale? Así que, o me presentáis otra proforma, porque esto es una proforma, ¿Verdad? Bueno, no es una factura. No, no es una factura. Nada. Entonces, nada, ya no se puede tocar.
+
+[07:24] 1: ¿Entonces los 15.000 son sin IVA, es base imponible?
+
+[07:29] 0: Eso es, sí, tienen que ser de base imponible siempre. El IVA nunca es subvencionable y teóricamente.
+
+[07:35] 1: Son facturas de enero hasta el 30 de septiembre.
+
+[07:38] 0: Eso es, siempre y cuando quepan en los conceptos que se subvencionan, que sí que es verdad que bueno, con eso no habría muchos problemas porque están subvencionadas la mayoría de cosas.
+
+[07:48] 1: Te comento porque yo creo que le mandamos ocho facturas de Microsoft 365 estas de enero hasta la última 27 de.
+
+[08:04] 0: Julio.
+
+[08:06] 1: Tenemos uno hasta el 27 de agosto. Faltaría uno.
+
+[08:10] 0: Vale, pues mira, entonces pasadme, yo os voy a enviar ahora os pongo en copia y os envío un mail con todo y me contestáis al mail con las facturas.
+
+[08:19] 1: Faltaríamos porque ya está pagada, que es del 28 de julio al 26 de agosto.
+
+[08:26] 0: Vale.
+
+[08:27] 1: Y esta la tendríais, teóricamente se la enviamos a José Manuel.
+
+[08:33] 0: Vale, pues ahora lo miro bien.
+
+[08:38] 2: Y.
+
+[08:39] 0: Lo ponemos correcto.
+
+[08:42] 1: Ya que vamos a bajar de esta última para si podemos.
+
+[08:49] 0: Sepáis que el presupuesto general, o sea, vamos a ver, a ver dónde. Vale, vale. El presupuesto que, o sea, quiero decir, aquí estáis viendo la pantalla, ¿Verdad? Sí, sí. Vale, es que no veo nada. Entonces, vale, esto sí puede pasar de los 15.000, lo que no puede pasar de los 15.000 es cada uno de los conceptos, porque en el momento en el que uno de los conceptos se pase de 15.000 nos piden tres presupuestos o tres facturas.
+
+[09:35] 1: Vale, perfecto.
+
+[09:37] 0: Entonces, ahora que hemos hecho un repaso mejor, si veis que tenéis cualquier otra factura, os vuelvo a poner en el correo los conceptos subvencionables. Si veis que tenéis cualquier otra factura, que se pueda incluir, me lo decís.
+
+[09:51] 1: Correcto. ¿Personal se podría meter algo?
+
+[09:56] 0: Sí, pero no, porque tienen que ser personal, que se haya incorporado a partir del 1 de enero y que tenga una función concreta con esto. Y vosotros lo habéis puesto como servicios externos. Vosotros sois una correduría de seguros y habéis contratado a un asesor legal al. No me vale, porque tiene que ser algo relacionado con la tecnología, en concreto con la tecnología que estáis implementando. Al final vuestro proyecto es el que os ha desarrollado José Manuel, que es este de aquí. Entonces, todo lo que gire en torno a esto sí se puede meter, pero no podemos meter, por ejemplo, si habéis contratado a un administrativo y luego, por ejemplo, estas facturas pequeñitas que hemos puesto, que son las de Windows, nosotros las hemos explicado como que son necesarias y que se compaginan con el proyecto de José Manuel, pero ya está. ¿Vale?
+
+[11:01] 1: Bueno, pues genial, pues os voy a.
+
+[11:03] 0: Dejar ahora el correo, voy a dejar de compartir esto, ¿Vale? Pues os envío el correo, me contestáis y si tenéis cualquier duda, pues me llamáis o me escribís o lo que sea, ¿De acuerdo?
+
+[11:18] 1: Muchas gracias, nos vemos.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

@@ -1,0 +1,849 @@
+================================================================================
+DEMO/REUNIÓN: Cambios de plantillas de Marketing a Utilidad
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 29/08/2025 a las 11:30
+⏱️ Duración: 18.190000534057617 segundos (0.3 minutos)
+👥 Participantes: josemanuel@zoasuite.com,vmorell@vimasegur.com,comercial@insurcab.com, vmorell@vimasegur.com, comercial@insurcab.com
+
+🔑 PALABRAS CLAVE:
+--------------------
+Plantillas WhatsApp, Marketing a utilidad, ChatGPT conversión, Métricas mensajes, Meta clasificación, Reducción costes
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. V
+5. i
+6. c
+7. e
+8. n
+9. t
+10. e
+11.  
+12. y
+13.  
+14. Y
+15. o
+16. l
+17. a
+18. n
+19. d
+20. a
+21. *
+22. *
+23. 
+
+24. P
+25. r
+26. o
+27. b
+28. a
+29. r
+30.  
+31. e
+32. l
+33.  
+34. c
+35. a
+36. m
+37. b
+38. i
+39. o
+40.  
+41. d
+42. e
+43.  
+44. p
+45. l
+46. a
+47. n
+48. t
+49. i
+50. l
+51. l
+52. a
+53. s
+54.  
+55. d
+56. e
+57.  
+58. m
+59. a
+60. r
+61. k
+62. e
+63. t
+64. i
+65. n
+66. g
+67.  
+68. a
+69.  
+70. u
+71. t
+72. i
+73. l
+74. i
+75. d
+76. a
+77. d
+78.  
+79. s
+80. i
+81. g
+82. u
+83. i
+84. e
+85. n
+86. d
+87. o
+88.  
+89. e
+90. l
+91.  
+92. p
+93. r
+94. o
+95. c
+96. e
+97. s
+98. o
+99.  
+100. e
+101. x
+102. p
+103. l
+104. i
+105. c
+106. a
+107. d
+108. o
+109.  
+110. (
+111. 1
+112. 3
+113. :
+114. 0
+115. 0
+116. )
+117. 
+
+118. E
+119. l
+120. i
+121. m
+122. i
+123. n
+124. a
+125. r
+126.  
+127. l
+128. a
+129. s
+130.  
+131. p
+132. l
+133. a
+134. n
+135. t
+136. i
+137. l
+138. l
+139. a
+140. s
+141.  
+142. o
+143. r
+144. i
+145. g
+146. i
+147. n
+148. a
+149. l
+150. e
+151. s
+152.  
+153. (
+154. r
+155. o
+156. j
+157. a
+158. s
+159. /
+160. m
+161. a
+162. r
+163. k
+164. e
+165. t
+166. i
+167. n
+168. g
+169. )
+170.  
+171. u
+172. n
+173. a
+174.  
+175. v
+176. e
+177. z
+178.  
+179. v
+180. e
+181. r
+182. i
+183. f
+184. i
+185. c
+186. a
+187. d
+188. a
+189. s
+190.  
+191. l
+192. a
+193. s
+194.  
+195. n
+196. u
+197. e
+198. v
+199. a
+200. s
+201.  
+202. v
+203. e
+204. r
+205. s
+206. i
+207. o
+208. n
+209. e
+210. s
+211.  
+212. (
+213. u
+214. t
+215. i
+216. l
+217. i
+218. d
+219. a
+220. d
+221. )
+222.  
+223. (
+224. 1
+225. 1
+226. :
+227. 5
+228. 9
+229. )
+230. 
+
+231. R
+232. e
+233. v
+234. i
+235. s
+236. a
+237. r
+238.  
+239. c
+240. o
+241. n
+242.  
+243. e
+244. l
+245.  
+246. e
+247. q
+248. u
+249. i
+250. p
+251. o
+252.  
+253. q
+254. u
+255. é
+256.  
+257. p
+258. l
+259. a
+260. n
+261. t
+262. i
+263. l
+264. l
+265. a
+266. s
+267.  
+268. s
+269. e
+270.  
+271. u
+272. t
+273. i
+274. l
+275. i
+276. z
+277. a
+278. n
+279.  
+280. m
+281. á
+282. s
+283.  
+284. f
+285. r
+286. e
+287. c
+288. u
+289. e
+290. n
+291. t
+292. e
+293. m
+294. e
+295. n
+296. t
+297. e
+298.  
+299. y
+300.  
+301. e
+302. l
+303. i
+304. m
+305. i
+306. n
+307. a
+308. r
+309.  
+310. l
+311. a
+312. s
+313.  
+314. n
+315. o
+316.  
+317. u
+318. t
+319. i
+320. l
+321. i
+322. z
+323. a
+324. d
+325. a
+326. s
+327.  
+328. (
+329. 1
+330. 5
+331. :
+332. 2
+333. 4
+334. )
+335. 
+
+336. H
+337. a
+338. c
+339. e
+340. r
+341.  
+342. l
+343. i
+344. m
+345. p
+346. i
+347. e
+348. z
+349. a
+350.  
+351. d
+352. e
+353.  
+354. p
+355. l
+356. a
+357. n
+358. t
+359. i
+360. l
+361. l
+362. a
+363. s
+364.  
+365. q
+366. u
+367. e
+368.  
+369. m
+370. u
+371. e
+372. s
+373. t
+374. r
+375. a
+376. n
+377.  
+378. '
+379. c
+380. e
+381. r
+382. o
+383.  
+384. e
+385. n
+386. v
+387. í
+388. o
+389. s
+390. '
+391.  
+392. e
+393. n
+394.  
+395. l
+396. a
+397. s
+398.  
+399. e
+400. s
+401. t
+402. a
+403. d
+404. í
+405. s
+406. t
+407. i
+408. c
+409. a
+410. s
+411.  
+412. (
+413. 1
+414. 5
+415. :
+416. 2
+417. 4
+418. )
+419. 
+
+420. 
+
+421. *
+422. *
+423. J
+424. o
+425. s
+426. é
+427.  
+428. M
+429. a
+430. n
+431. u
+432. e
+433. l
+434. *
+435. *
+436. 
+
+437. P
+438. r
+439. o
+440. p
+441. o
+442. r
+443. c
+444. i
+445. o
+446. n
+447. a
+448. r
+449.  
+450. s
+451. o
+452. p
+453. o
+454. r
+455. t
+456. e
+457.  
+458. p
+459. a
+460. r
+461. a
+462.  
+463. p
+464. l
+465. a
+466. n
+467. t
+468. i
+469. l
+470. l
+471. a
+472. s
+473.  
+474. q
+475. u
+476. e
+477.  
+478. n
+479. o
+480.  
+481. s
+482. e
+483.  
+484. p
+485. u
+486. e
+487. d
+488. a
+489. n
+490.  
+491. c
+492. o
+493. n
+494. v
+495. e
+496. r
+497. t
+498. i
+499. r
+500.  
+501. d
+502. e
+503.  
+504. m
+505. a
+506. r
+507. k
+508. e
+509. t
+510. i
+511. n
+512. g
+513.  
+514. a
+515.  
+516. u
+517. t
+518. i
+519. l
+520. i
+521. d
+522. a
+523. d
+524.  
+525. (
+526. 1
+527. 4
+528. :
+529. 2
+530. 1
+531. )
+532. 
+
+533. E
+534. s
+535. t
+536. a
+537. r
+538.  
+539. d
+540. i
+541. s
+542. p
+543. o
+544. n
+545. i
+546. b
+547. l
+548. e
+549.  
+550. p
+551. a
+552. r
+553. a
+554.  
+555. r
+556. e
+557. s
+558. o
+559. l
+560. v
+561. e
+562. r
+563.  
+564. d
+565. u
+566. d
+567. a
+568. s
+569.  
+570. d
+571. u
+572. r
+573. a
+574. n
+575. t
+576. e
+577.  
+578. e
+579. l
+580.  
+581. p
+582. r
+583. o
+584. c
+585. e
+586. s
+587. o
+588.  
+589. d
+590. e
+591.  
+592. i
+593. m
+594. p
+595. l
+596. e
+597. m
+598. e
+599. n
+600. t
+601. a
+602. c
+603. i
+604. ó
+605. n
+606.  
+607. (
+608. 1
+609. 7
+610. :
+611. 3
+612. 1
+613. )
+614. 
+
+615. 
+
+616. *
+617. *
+618. E
+619. q
+620. u
+621. i
+622. p
+623. o
+624.  
+625. g
+626. e
+627. n
+628. e
+629. r
+630. a
+631. l
+632. *
+633. *
+634. 
+
+635. R
+636. e
+637. u
+638. n
+639. i
+640. ó
+641. n
+642.  
+643. d
+644. e
+645.  
+646. s
+647. e
+648. g
+649. u
+650. i
+651. m
+652. i
+653. e
+654. n
+655. t
+656. o
+657.  
+658. p
+659. r
+660. o
+661. g
+662. r
+663. a
+664. m
+665. a
+666. d
+667. a
+668.  
+669. p
+670. a
+671. r
+672. a
+673.  
+674. e
+675. l
+676.  
+677. m
+678. i
+679. é
+680. r
+681. c
+682. o
+683. l
+684. e
+685. s
+686.  
+687. (
+688. 1
+689. 7
+690. :
+691. 4
+692. 9
+693. )
+694. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[00:01] 0: Yo creo, lo más seguro es por el tema de la cámara. Abajo donde pone la cámara, elige la que tengáis. Imagino que será del despacho, Vicente y de ahí ya os vería a los dos.
+
+[00:23] 1: ¿Ahora nos oyes?
+
+[00:24] 0: Yo sí que os oigo. Yo os oigo todo el rato. Sí.
+
+[00:27] 1: Y ahora es.
+
+[00:43] 0: Ahora os Veo muy bien. ¿Cómo estamos, Vicente, Yolanda? Perfecto, perfecto. Muy bien. El veranito bien, la verdad que bien. Ni tan mal porque como tío luna de miel y luego me da el pueblo a Burgos hemos estado trabajando y tal, activos, pero bien al 80 y pues para el 200. A Vicente ya le he visto por ahí hace 20 días.
+
+[01:21] 1: Sí, sí, a mí se te voy.
+
+[01:24] 0: La veo y lo escucho y le mareo el veranito. ¿Tú qué tal, Yolanda?
+
+[01:31] 1: Bien. Aquí ya otra vez.
+
+[01:36] 0: Hay ganas a veces de volver un poco la rutina, ¿No?
+
+[01:39] 1: Sí, yo soy muy partidaria de rutina.
+
+[01:50] 0: Mira, está genial que tengamos esta reunión. Además sobre todo un poco pistoletazo del verano porque. Pues eso, a nivel de revisar un poco las plantillas y ver un poco las buenas prácticas e intentar mejorar, sobre todo bajar costes y mejorar la contactabilidad de los clientes. Estuve revisando las vuestras y sobre todo para pasar las de marketing a utilidad, comparto pantalla para que así una imagen.
+
+[02:24] 1: El correo ese que enviaste que parece maravilloso, deberíamos de entenderlo.
+
+[02:34] 0: Es decir.
+
+[02:36] 1: Tú nos dices que nos has cambiado ya ocho plantillas.
+
+[02:40] 0: Sí, siete creo que son.
+
+[02:42] 1: Entonces ya hemos hecho por ahí. Después tenemos el link del documento que ahora lo veremos. Después tenemos un resumen de este mes de las métricas de las plantillas meta. Nosotros hemos enviado 1951 mensajes hechos durante el mes de agosto.
+
+[03:02] 0: Sí.
+
+[03:04] 1: Hecho durante el mes de agosto. De los cuales 1900 fueron entregados, tasa tal, y 1700 recibidos y 1778 recibimos. Es decir, mensajes enviados nosotros 1900 y recibidos 1700.
+
+[03:29] 0: Ahora os lo explicaré también dónde ver eso. Yo os lo he hecho a nivel de resumen, pero os voy a explicar dónde lo podéis ver para que lo tengáis también en cuenta. Por eso es lo que es importante.
+
+[03:38] 1: Saber cada mes cuántos enviamos, cuántos llegan.
+
+[03:42] 0: Y tenerlo ya para que cada día.
+
+[03:44] 1: Uno eso se actualice.
+
+[03:45] 0: Eso es.
+
+[03:48] 1: Entonces eso a mí sí que me gustaría verlo. Si estos datos son los correctos de agosto, ver los datos ya para cuando tenga que venir en septiembre, cuando tenga que venir octubre, para ver cómo va creciendo el mensaje.
+
+[04:06] 0: Esto luego estará ya metido directamente en ZOA, que como has visto que te enseñó ya el dashboard, o sea el cuadro de mandos, pero a nivel de, os lo voy a enseñar cómo lo pone Facebook y lo tengáis que ver, pero lo apunta aquí también para hacerlo mensual. Genial, al nivel como hemos comentado ahora, objetivo de la reunión es uno justo ahí. ¿Qué sucede? ¿Pues yo me meto aquí en vuestra parte de Facebook, administrador de plantillas y aquí qué sucede? Pues que yo me fijé que tenéis muchas de marketing, pues día uno cada día un menos.
+
+[04:57] 1: Que José, no es que tengamos luchas de marketing, es que nosotros cuando las creamos, las creamos de utilidad, pero nos la cambian, el mismo.
+
+[05:06] 0: Meta nos la cambia marketing ya, eso también puede ser.
+
+[05:10] 1: Sí, porque cuando las creo yo normalmente o alguna vez María también ha creado alguna siempre desde utilidad, pero el mismo sistema automáticamente.
+
+[05:25] 0: Vale, vale, vale. De todas formas lo que hago en algunas de ellas es sobre todo como bien comentas, se crean de marketing, pero como hay algunas de marketing que siempre es como la opción de hacer una venta comercial igual sin querer, pues se hace un enfoque hacia ese tipo de cosas. ¿Qué es lo que hago? Yo lo hago muy simple, cojo y digo a ver en este documento donde es una referencia que te hace Meta o los templates de Facebook, te dice la última actualización del 1 de julio del 25, te dice mira está marketing, utilidad y autentificación, marketing cuando intentas incluir o vender un nuevo producto, servicio, característica o hacer una promoción de alguna oferta, utilidad, que lo que te permite algo que no sea promocional, simplemente pues hacer un seguimiento, incluye un tema de una pedida de orden, una actualización, un pedido, bueno, simplemente lo que yo hago es, OK, tengo aquí el do, re, mi, fa, sol de lo que dice Meta y yo tengo este mensaje y tengo el mensaje de día 2 k y cojo, digo hola, te paso las coberturas de que sería la responsabilidad civil básica por si es lo que necesitas también es muy sencillo contratar, solo tienes que rellenar este cuestionario. ¿Yo lo que hago luego Yolanda, Vicente, para que lo tengáis en cuenta es cojo, me hago un prompt en chat GPT y le digo escucha yo tengo esta plantilla en marketing, quiero que me la pases a utilidad para meta, le paso y le pego todo lo que es lo que hemos estado viendo, esta hoja y le digo exactamente, no, lo que tienes que decirle es exacto, quiero que tú me lo enfoques a esta parte de utilidad, vale? Entonces, ¿Qué sucede? Dice, vale, este mensaje está raptado, lo va a clasificar como marketing, ¿Por qué? Porque es una recordatorio comercial y para que metan la prueba utilidad vamos a dar un enfoque de 20 seguimiento, 2, conversación, exacto, no vamos a pensar, vamos a hacer que una IA a la otra IA y entonces ello mismo lo enfoca desde una forma de seguimiento para que pase a utilidad. ¿Entonces yo fui haciendo algunas de ellas, cambiando algunas cosas que yo veía igual que no tal, pero que vosotros lo veáis y lo entendáis para cómo hacerlo, para que también seáis independientes y cuando queráis hacer una nueva plantilla en ChatGPT, le ponéis un poco la versión, le metéis la información y pim pam pim pam, la puedes ir actualizando, vale?
+
+[08:29] 1: El documento este de chat de WhatsApp.
+
+[08:36] 0: Os lo paso por aquí, si queréis.
+
+[08:38] 1: Pásamelo por aquí y ya yo me lo quedo.
+
+[08:42] 0: Eso es, eso es, yo lo tenéis ahí y yo os lo puedo pasar, o sea, lo tenéis ya. Entonces lo que también a nivel de buenas prácticas estaría bien, sobre todo lo digo porque yo he hecho una plantilla general, he copiado cada una de las que tenéis, he puesto el nombre, el nuevo nombre, este es el nuevo nombre que pongáis si queréis como para hacer cuando son seguimientos, cuando es venta, cuando es responsabilidad tener siempre un nombre, porque a uno de los clientes pues le pasa de que a veces lo tienes que cambiar y para cambiar Meta te da un poco de guerra, para cambiar los nombres tienes que hacer una nueva no sé qué, entonces para que si queréis hacerlo, pues yo he visto que es seguimiento de tipos de seguro de vida, que además me gusta cómo lo tenéis montado porque es primer día, tercer día, séptimo día, entonces todo esto si lo tenéis como un seguimiento de seguro, seguramente que luego el equipo a la hora de meter la plantilla pues le hace visualmente más rápido. ¿Por lo demás muy bien, lo tenéis genial, la verdad que bastante avanzado, conciso, además que habéis tenido el link, veis los botones? ¿No sé, yo lo veo, he revisado bastantes y las veo bastante bien, pero.
+
+[10:01] 1: A ver una cosita aquí tenemos 29 28 si tenemos 28 las que están en verde son las que tú has tocado?
+
+[10:12] 0: ¿Eso es, pero las que yo he cambiado marketing por ejemplo día K la he llamado responsabilidad civil día K como bien dice Vicente ahora hay más, hay imagínate 29 más 1 2 3 4 5 6 y 7 que lo que os he comentado que yo las he cambiado para que? Para que por ejemplo ya podemos borrar día 2 k yo no quería como tocar mucho porque si no os mareo y generaba más ruido, digo voy a cambiar unas pocas, funciona bien, va todo OK y yo me he ido fijando, vamos a hacer un ejemplo día 2.
+
+[10:54] 1: K Sí Vicente, sí, pero a ver espérate aquí lo que tenemos que ver es lo que yo te preguntaba las.
+
+[11:05] 0: Que están en verde son las que.
+
+[11:06] 1: Tú has cambiado a utilidad He creado.
+
+[11:09] 0: Unas nuevas, no he borrado nada, pero.
+
+[11:13] 1: Entonces por eso nos sobra ahora nos sobran porque están duplicadas algunas para hacer la prueba no lo ha borrado sino que ha creado una nueva con el mismo contenido cambiando lo que le dice chatgpt y pasando la utilidad Pero por ejemplo la primera bienvenida no cliente eso.
+
+[11:32] 0: Es conveniente pone Marit, correcto, pero yo la he pasado a utilidad, no he tocado esto, pero las verdes, las verdes son verdes porque las he pasado hay algunas que va a haber no forma de cambiarlas porque son venta pura y dura.
+
+[11:49] 1: ¿Entonces yo puedo poner utilidad?
+
+[11:52] 0: Sí, puedes poner utilidad pero acordaros de eliminar esta primera.
+
+[11:59] 1: Claro, para mí no se duplicaba. ¿Ah vale vale entonces, pero entonces no hay 19 hay 30 y pico correcto.
+
+[12:09] 0: Hay 36 entonces pero las eliminamos nosotros.
+
+[12:15] 1: O las eliminas tú?
+
+[12:16] 0: ¿Eso es, eliminas vosotros que bueno que es muy sencillo, yo no quería tocar nada porque no quería, quería primero explicaros, entonces tú vienes aquí y das a eliminar plantilla entonces imagínate día 2 k está esta es marketing pero si vamos a lo que yo he hecho que es lo siguiente día 2 k la llamado responsabilidad civil día 2 k entonces yo voy administrar plantillas y responsabilidad civil estos k llamado día 2 k responsabilidad civil aquí está no os he oído bien, os digo un poco entrecortado qué dices? Vale, lo tengo claro vale eso es entonces responsabilidad civil día 2 k utilidad y yo ya está creada, lo que tenéis que hacer es, uno, sobre todo prueba, probad vosotros a cambiar las de marketing a utilidad. Cualquier problema que damos la próxima semana, si tienes algún problema y lo hacemos. Y yo lo que haría es con esta base, con esta base de datos que ya tenemos creada, id cambiando, verificando que yo lo que he montado esté bien, que es más o menos lo que estaba ya escrito. Si está bien, elimináis la vieja, la anterior, y vais creando ya nuevas de las que quedan de marketing. Cuando tengáis algún problema me decís, oye Jose, me ponéis en rojo, oye, esta no me deja cambiarla, esa tampoco me deja cambiarla, dale tú una vuelta y mira cómo lo podemos hacer.
+
+[14:21] 1: Entonces siguiendo esto, aquí pone envíos y pone menos de mil envíos, menos de mil envíos', cero.
+
+[14:29] 0: Eso quiere decir, claro, aquí por ejemplo, y ahora iremos a estadísticas, que es lo que comenta Vicente, yo dejé de tocar algunas porque digo, igual estoy tocando algunas que nos están enviando, por lo que he estado viendo en las estadísticas. Entonces también haced un trabajo de oye, ¿Qué es lo que más envía? Menos de mil envíos quiere decir que se envían, eso está bien, y las fechas últimas más frecuentes. ¿Entonces hay algunas que nos envían cero, estas darle una vuelta, hablad con el equipo y decid, oye, esta no se está enviando, No, es que estamos utilizando otra que es en vez de hola es bienvenida o hola, qué tal? Y vais haciendo limpieza.
+
+[15:24] 1: Porque la que no se utiliza, lo que tenemos que hacer es borrarlas y no hace falta crearlas, eso es, tres meses, revisar.
+
+[15:35] 0: La que más utiliza, la que mejor funciona y la gente del equipo más le está utilizando. Mira, yo la verdad que la de siniestro la utilizo mucho, o la de buenas tardes, o la de responsibilidad civil, de seguimiento, todo este tipo de cosas. Y luego lo último, para entender las estadísticas, que a mí me ayudan, si os fijáis aquí en vuestra parte de administración, plantillas, aquí hay una que se llama estadísticas. Aquí en estadísticas os explica todo lo que hace este último mes, cuántas han habido de marketing, de utilidad, de servicio.
+
+[16:16] 1: El que, perdona, lo que tú nos has puesto en el correo correcto.
+
+[16:21] 0: Yo os he hecho un resumen un poco masticadito de todo esto, de lo que yo veo y demás. Entonces lo que vosotros tenéis que ir jugando con, oye, el trimestre, cuánto ha sido este mes que tengáis todo puesto y todo ordenado para hacer y sobre todo intentar reducir las de marketing y ver cómo los podemos hacer para que tampoco son 30 euros, en verdad son, sabes, 36, pero que si se puede bajar, pues bienvenido es.
+
+[16:56] 1: Está claro.
+
+[16:59] 0: Genial. Era un poquito para eso, para actualizaros, sobre todo ponernos con esta parte de plantillas, reducir los costes y aumentar la entregabilidad. ¿Y luego creo que ya con Alejandro a nivel del cuadro de mandos que se está haciendo y luego ya creo que has hablado con Alejandro que te ha contado actualizaciones y siguientes pasos y que también con Yolanda ver esto y no sé si Yolanda tú tienes alguna duda, alguna pregunta?
+
+[17:26] 1: No, sobre esto no, porque lo tengo que masticar un poco para que me salgan dudas.
+
+[17:31] 0: No te preocupes, normal, cualquier cosita, cualquier eso, estamos en contacto y me vas diciendo. Perfecto, genial. Pues nada, oye, está bien hacer estas actualizaciones y cualquier duda, pregunta, pues aquí estamos.
+
+[17:49] 1: El miércoles nos vemos.
+
+[17:51] 0: El miércoles nos vemos. Correcto. Muy bien. Buen día, Buen fin de. Adiós. Adiós.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

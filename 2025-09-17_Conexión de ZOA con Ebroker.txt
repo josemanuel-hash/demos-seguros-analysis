@@ -1,0 +1,975 @@
+================================================================================
+DEMO/REUNIÓN: Conexión de ZOA con Ebroker
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 17/09/2025 a las 11:00
+⏱️ Duración: 34.0099983215332 segundos (0.6 minutos)
+👥 Participantes: josemanuel@zoasuite.com,alejandro@zoasuite.com,aaronbouso@ebroker.es,alejandrogayo@ebroker.es, josemanuel@zoasuite.com, alejandro@zoasuite.com, alejandrogayo@ebroker.es
+
+🔑 PALABRAS CLAVE:
+--------------------
+integración, webservices, centralita, correduría, Ebroker, ZOA
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. E
+5. q
+6. u
+7. i
+8. p
+9. o
+10.  
+11. T
+12. é
+13. c
+14. n
+15. i
+16. c
+17. o
+18.  
+19. Z
+20. O
+21. A
+22. *
+23. *
+24. 
+
+25. R
+26. e
+27. v
+28. i
+29. s
+30. a
+31. r
+32.  
+33. d
+34. o
+35. c
+36. u
+37. m
+38. e
+39. n
+40. t
+41. a
+42. c
+43. i
+44. ó
+45. n
+46.  
+47. S
+48. w
+49. a
+50. g
+51. g
+52. e
+53. r
+54.  
+55. p
+56. r
+57. o
+58. p
+59. o
+60. r
+61. c
+62. i
+63. o
+64. n
+65. a
+66. d
+67. a
+68.  
+69. p
+70. o
+71. r
+72.  
+73. J
+74. a
+75. v
+76. i
+77. e
+78. r
+79.  
+80. y
+81.  
+82. r
+83. e
+84. a
+85. l
+86. i
+87. z
+88. a
+89. r
+90.  
+91. p
+92. r
+93. u
+94. e
+95. b
+96. a
+97. s
+98.  
+99. d
+100. e
+101.  
+102. e
+103. n
+104. d
+105. p
+106. o
+107. i
+108. n
+109. t
+110. s
+111.  
+112. (
+113. 0
+114. 9
+115. :
+116. 4
+117. 8
+118. )
+119. 
+
+120. A
+121. g
+122. r
+123. u
+124. p
+125. a
+126. r
+127.  
+128. t
+129. o
+130. d
+131. a
+132. s
+133.  
+134. l
+135. a
+136. s
+137.  
+138. d
+139. u
+140. d
+141. a
+142. s
+143.  
+144. t
+145. é
+146. c
+147. n
+148. i
+149. c
+150. a
+151. s
+152.  
+153. q
+154. u
+155. e
+156.  
+157. s
+158. u
+159. r
+160. j
+161. a
+162. n
+163.  
+164. d
+165. u
+166. r
+167. a
+168. n
+169. t
+170. e
+171.  
+172. d
+173. e
+174. s
+175. a
+176. r
+177. r
+178. o
+179. l
+180. l
+181. o
+182.  
+183. p
+184. a
+185. r
+186. a
+187.  
+188. c
+189. o
+190. n
+191. s
+192. u
+193. l
+194. t
+195. a
+196.  
+197. e
+198. f
+199. i
+200. c
+201. i
+202. e
+203. n
+204. t
+205. e
+206.  
+207. (
+208. 0
+209. 8
+210. :
+211. 1
+212. 0
+213. )
+214. 
+
+215. C
+216. o
+217. n
+218. t
+219. a
+220. c
+221. t
+222. a
+223. r
+224.  
+225. a
+226.  
+227. w
+228. s
+229. b
+230. r
+231. o
+232. k
+233. e
+234. r
+235. @
+236. e
+237. b
+238. r
+239. o
+240. k
+241. e
+242. r
+243. .
+244. e
+245. s
+246.  
+247. c
+248. o
+249. n
+250.  
+251. c
+252. o
+253. p
+254. i
+255. a
+256.  
+257. a
+258.  
+259. A
+260. a
+261. r
+262. ó
+263. n
+264.  
+265. p
+266. a
+267. r
+268. a
+269.  
+270. r
+271. e
+272. s
+273. o
+274. l
+275. u
+276. c
+277. i
+278. ó
+279. n
+280.  
+281. d
+282. e
+283.  
+284. d
+285. u
+286. d
+287. a
+288. s
+289.  
+290. t
+291. é
+292. c
+293. n
+294. i
+295. c
+296. a
+297. s
+298.  
+299. (
+300. 0
+301. 8
+302. :
+303. 1
+304. 0
+305. )
+306. 
+
+307. C
+308. o
+309. m
+310. p
+311. l
+312. e
+313. t
+314. a
+315. r
+316.  
+317. d
+318. e
+319. s
+320. a
+321. r
+322. r
+323. o
+324. l
+325. l
+326. o
+327.  
+328. d
+329. e
+330.  
+331. i
+332. n
+333. t
+334. e
+335. g
+336. r
+337. a
+338. c
+339. i
+340. ó
+341. n
+342.  
+343. e
+344. n
+345. t
+346. r
+347. e
+348.  
+349. e
+350. s
+351. t
+352. a
+353.  
+354. s
+355. e
+356. m
+357. a
+358. n
+359. a
+360.  
+361. y
+362.  
+363. l
+364. a
+365.  
+366. p
+367. r
+368. ó
+369. x
+370. i
+371. m
+372. a
+373.  
+374. (
+375. 0
+376. 9
+377. :
+378. 4
+379. 8
+380. )
+381. 
+
+382. P
+383. r
+384. e
+385. p
+386. a
+387. r
+388. a
+389. r
+390.  
+391. v
+392. a
+393. r
+394. i
+395. a
+396. b
+397. l
+398. e
+399. s
+400.  
+401. d
+402. e
+403.  
+404. e
+405. n
+406. t
+407. o
+408. r
+409. n
+410. o
+411.  
+412. p
+413. a
+414. r
+415. a
+416.  
+417. c
+418. a
+419. m
+420. b
+421. i
+422. o
+423.  
+424. f
+425. á
+426. c
+427. i
+428. l
+429.  
+430. d
+431. e
+432.  
+433. p
+434. r
+435. e
+436. E
+437. R
+438. P
+439.  
+440. a
+441.  
+442. n
+443. ú
+444. m
+445. e
+446. r
+447. o
+448.  
+449. d
+450. e
+451.  
+452. l
+453. i
+454. c
+455. e
+456. n
+457. c
+458. i
+459. a
+460.  
+461. (
+462. 0
+463. 9
+464. :
+465. 4
+466. 8
+467. )
+468. 
+
+469. 
+
+470. *
+471. *
+472. A
+473. a
+474. r
+475. ó
+476. n
+477.  
+478. B
+479. o
+480. u
+481. s
+482. o
+483. *
+484. *
+485. 
+
+486. V
+487. e
+488. r
+489. i
+490. f
+491. i
+492. c
+493. a
+494. r
+495.  
+496. q
+497. u
+498. e
+499.  
+500. V
+501. é
+502. l
+503. e
+504. z
+505.  
+506. O
+507. r
+508. t
+509. i
+510. z
+511.  
+512. t
+513. e
+514. n
+515. g
+516. a
+517.  
+518. a
+519. c
+520. t
+521. i
+522. v
+523. a
+524. d
+525. a
+526.  
+527. v
+528. a
+529. r
+530. i
+531. a
+532. b
+533. l
+534. e
+535.  
+536. d
+537. e
+538.  
+539. s
+540. i
+541. n
+542. g
+543. l
+544. e
+545.  
+546. s
+547. i
+548. g
+549. n
+550.  
+551. o
+552. n
+553.  
+554. a
+555. n
+556. t
+557. e
+558. s
+559.  
+560. d
+561. e
+562. l
+563.  
+564. d
+565. e
+566. s
+567. p
+568. l
+569. i
+570. e
+571. g
+572. u
+573. e
+574.  
+575. (
+576. 1
+577. 1
+578. :
+579. 2
+580. 7
+581. )
+582. 
+
+583. R
+584. e
+585. s
+586. p
+587. o
+588. n
+589. d
+590. e
+591. r
+592.  
+593. d
+594. u
+595. d
+596. a
+597. s
+598.  
+599. t
+600. é
+601. c
+602. n
+603. i
+604. c
+605. a
+606. s
+607.  
+608. q
+609. u
+610. e
+611.  
+612. e
+613. n
+614. v
+615. í
+616. e
+617.  
+618. e
+619. q
+620. u
+621. i
+622. p
+623. o
+624.  
+625. Z
+626. O
+627. A
+628.  
+629. a
+630.  
+631. w
+632. s
+633. b
+634. r
+635. o
+636. k
+637. e
+638. r
+639. @
+640. e
+641. b
+642. r
+643. o
+644. k
+645. e
+646. r
+647. .
+648. e
+649. s
+650.  
+651. (
+652. 0
+653. 8
+654. :
+655. 1
+656. 0
+657. )
+658. 
+
+659. C
+660. o
+661. o
+662. r
+663. d
+664. i
+665. n
+666. a
+667. r
+668.  
+669. d
+670. e
+671. m
+672. o
+673.  
+674. c
+675. o
+676. n
+677. j
+678. u
+679. n
+680. t
+681. a
+682.  
+683. t
+684. r
+685. a
+686. s
+687.  
+688. i
+689. n
+690. t
+691. e
+692. g
+693. r
+694. a
+695. c
+696. i
+697. ó
+698. n
+699.  
+700. e
+701. x
+702. i
+703. t
+704. o
+705. s
+706. a
+707.  
+708. c
+709. o
+710. n
+711.  
+712. V
+713. é
+714. l
+715. e
+716. z
+717.  
+718. O
+719. r
+720. t
+721. i
+722. z
+723.  
+724. (
+725. 3
+726. 2
+727. :
+728. 1
+729. 1
+730. )
+731. 
+
+732. 
+
+733. *
+734. *
+735. A
+736. m
+737. b
+738. o
+739. s
+740.  
+741. E
+742. q
+743. u
+744. i
+745. p
+746. o
+747. s
+748. *
+749. *
+750. 
+
+751. R
+752. e
+753. a
+754. l
+755. i
+756. z
+757. a
+758. r
+759.  
+760. d
+761. e
+762. m
+763. o
+764.  
+765. c
+766. o
+767. n
+768. j
+769. u
+770. n
+771. t
+772. a
+773.  
+774. p
+775. a
+776. r
+777. a
+778.  
+779. u
+780. s
+781. u
+782. a
+783. r
+784. i
+785. o
+786. s
+787.  
+788. d
+789. e
+790.  
+791. c
+792. o
+793. r
+794. r
+795. e
+796. d
+797. u
+798. r
+799. í
+800. a
+801.  
+802. u
+803. n
+804. a
+805.  
+806. v
+807. e
+808. z
+809.  
+810. c
+811. o
+812. m
+813. p
+814. l
+815. e
+816. t
+817. a
+818. d
+819. a
+820.  
+821. i
+822. n
+823. t
+824. e
+825. g
+826. r
+827. a
+828. c
+829. i
+830. ó
+831. n
+832.  
+833. c
+834. o
+835. n
+836.  
+837. V
+838. é
+839. l
+840. e
+841. z
+842.  
+843. O
+844. r
+845. t
+846. i
+847. z
+848.  
+849. (
+850. 3
+851. 2
+852. :
+853. 1
+854. 1
+855. )
+856. 
+
+857. M
+858. a
+859. n
+860. t
+861. e
+862. n
+863. e
+864. r
+865.  
+866. c
+867. o
+868. n
+869. t
+870. a
+871. c
+872. t
+873. o
+874.  
+875. c
+876. o
+877. n
+878. t
+879. i
+880. n
+881. u
+882. o
+883.  
+884. d
+885. u
+886. r
+887. a
+888. n
+889. t
+890. e
+891.  
+892. p
+893. r
+894. o
+895. c
+896. e
+897. s
+898. o
+899.  
+900. d
+901. e
+902.  
+903. d
+904. e
+905. s
+906. a
+907. r
+908. r
+909. o
+910. l
+911. l
+912. o
+913.  
+914. (
+915. 3
+916. 3
+917. :
+918. 4
+919. 5
+920. )
+921. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[02:37] 0: Alejandro, buenos días. Buenas. Estamos aquí intentando entrar la IA. ¿Entró ya la IA? Sí, que se llama puntual a las 11. Ahí estaba. Bueno, os veo borrosos, pero bueno, me imagino que igual tenéis un fondo puesto. Ya nos detectaba en principio la cámara nos debería detectar y enfocar, pero bueno, todo también al final todo, mucha IA, mucha tecnología. Eso, no os preocupéis, os veo y no os preocupéis. Eso es un problema. Vale. Bueno, nada. Bueno, si nos podías contar un poco el avance también un poco por saber en qué estado estáis vosotros. ¿En qué sentido? En la conexión con las centralitas. Claro, es que vosotros sois más que una centralita, tenéis muchas más funcionalidades. Entonces nosotros hay que decir que creo que fue lo que hablamos al principio, que Broker y su, digamos un pool de principales productos como puede ser el multitarificador y lo que es el ERP, que es el core, están expuestos por webservices ya desde hace mucho. Es algo que ofrecemos y hay gente que ya en el pasado hizo conexiones con centralita. Aprovechando eso qué hemos hecho, mejorado e incorporado algún nuevo servicio para que la integración pudiese ser más completa, más fácil, para poder loguearnos con la centralita en función de cada corredor, para identificar, para levantar ficha de cliente, para insertar las llamadas en un apartado que nosotros tenemos de interacciones, que se llaman eventos, y hay una tipología que es llamada, donde se puede anotar la hora de inicio, la hora de fin, la duración, la URL de la llamada, que queda todo ahí registrado, de tal forma que igual que tendréis vosotros, tú entras en la ficha del cliente, vas a interacciones y puedes ver quién cogió esa llamada, cuánto duró, puedes acudir si cabe a la URL de llamada, que eso lo habíamos hablado también en la primera reun, porque si vosotros ofrecéis un almacenamiento durante X tiempo de eso, no tiene sentido almacenar también nosotros un backup de todas esas llamadas. Sí es verdad que a mí de momento Rhinover, que era con quien hicimos la conexión primera, aunque estamos con vosotros con webex también, no lo están haciendo ahora. Sí es verdad que a mí me gustaría, no sé de qué forma, nosotros tenemos el servicio para ello, el que el proveedor, en este caso vosotros, no sé, de alguna forma poder preguntarle una vez se cuelga la llamada, preguntar vosotros o nosotros, o los dos a la vez, preguntar oye, ¿Quieres almacenar esta llamada? Y que sea el usuario el que decide sí o no. ¿Por qué? Porque cada vez más es común que se cierren operaciones, incluso la llamada sirva como justificante de contratación de una póliza de seguros. Nosotros ahí en ese caso lo que hacemos es, tenemos configurado por defecto que las llamadas internas entre ellos nos se graban y las llamadas siempre con el exterior se graban por defecto y siempre. Entonces al final también muchas veces, porque si por ejemplo te están llamando, pues ya sale la locución de oye, esta llamada a ser grabada. Entonces bueno, que tienes que sacar un poco, hacer ese aviso y luego el tema de cuando tú llamas, pues al final que quede un poco constancia de esa llamada, se acaba haciendo algo, se acaba hablando sobre algo, sobre algún tema, que se indican datos de matrículas y cosas así, pues siempre tienes esa prueba ahí para poderla utilizar en caso de ser necesario. Nosotros eso ahí ya es un poco lo que hagáis vosotros, lo que establezcáis con el cliente. Esto es lo que es el marco general. Luego cada uno, porque servicio para insertar documentación, cualquier tipo de documentación sobre cliente, póliza, recibos, o sea cualquier elemento de negocio nuestro, nosotros ya lo tenemos, es un servicio de inserción, no hay ningún tipo de problema. Y como ya tiene el cliente lo que me he estado analizando lo que es el Swagger, que ya me lo pasó Javier, y una pregunta que tengo es, en caso de tener nosotros dudas porque nos atasquemos en algo, sí que estuve viendo en el correo webservice es el correo por defecto, aunque ponerme a mí siempre en copia es digamos, la parte del equipo técnico que atiende los elementos de web service. Es más, con la contratación del servicio por nuestro cliente, en este caso Vélez Ortiz, lleva implícitas una serie de horas, vamos a llamarlo consultoría, por llamarlo de alguna forma, soporte consultoría, aclarar dudas, explicación de la base de datos, de los servicios que hay que invocar para obtener un determinado resultado, eso va incluido, hacéis una pregunta ahí y no va a haber ningún problema, ningún problema en contestar, es lo más común, porque vosotros no conocéis nuestros servicios, al igual que yo no conozco los vuestros, pero aquí el trabajo lo tenéis vosotros. Entonces nos soléis preguntar para loguearnos, para obtener el token, para obtener este, pues identificar el cliente, qué servicio tengo y qué atributo tengo que enviar. Eso no hay problema si escribís directamente con copia. Mi objetivo un poco era agolpar todas las dudas, intentar ser lo más eficiente posible de cara a que no perdáis mucho tiempo con esto vosotros. Y un poco era intentar agolpar todas las dudas posibles de vale, pues yo sé que voy a necesitar esto, esto, esto y esto. Yo ahora ya he probado unas cuantas, pero voy a intentar probar todas y todas las dudas que me salgan, poderlas agrupar y decirles, oye mira esto, esto y esto y esto, tengo dudas sobre esto y esto otro. Entonces en principio has dicho que es el correo de web, A ver, perdonabroker es Wsbroker es eso es. Y me pones a mí siempre en copia. Es que ahí garantizamos que no lo personalicemos en vivo, igual no estoy, no puedo atenderte y ahí contesta el equipo técnico, una serie de personas asignadas a esa gestión, entonces es más fácil que os conteste. Y si es necesario al momento de hacer una reunión también se puede convocar esa reunión, algo que sea más rápido, resolverlo en 15 minutos de Teams, lo comentáis y lo hacemos. No es única y exclusivamente el correo electrónico, lo único que como tú lo puedes hacer a las 10 de la noche, igual ahí cuando detectas que necesitas una ayuda nos escribes y te contestamos a la mayor brevedad posible. En principio nosotros entre esta semana y la que viene queríamos tenerlo solventado. La cuestión allí es, la otra pregunta que me genera es, una vez tengamos un poco lo que viene siendo los endpoints a los que tenemos que atacar y demás, lo que es el paso a producción, ¿Cómo lo gestionáis? Si no me equivoco, creo que los web services, Levelez Ortiz en este caso concreto aún no los activó porque quería esperar a avanzar con ello, pero bueno, es cambiar realmente cambias los. La URL a la que es poniéndole el número de licencia realmente por delante. Ahora mismo creo que te pasé pre ERP, correcto. Ahora tengo pre RP, ebroker es. Pues quitarías preRP y pondrías 20. 200. 145, me lo invento. Broker es vale, que donde pone prerp ahí iría un número y ese sería el número de licencia autenticado para eso y todo funcionaría. Correcto. Más que nada eso de cara a dejarlo un poco todo preparado, sabiéndolo un poco incluso eso, yo ya luego me dejo una variable entorno donde ya el prerp lo pongo ahora prerp y así luego solo tengo que cambiar el número de licencia, incluso de cara también a poder trabajar con más clientes vuestros, pues ya está todo el código hecho y solo tengo que cambiar ese. Yo te pasé tres servicios, tres puntos de servicio si no me equivoco. Tengo el de Admin Management, el de Business Management y el de Customer Relationship. Lo digo porque esos servicios tienen como single sign on en producción, que no os afecta a vosotros, simplemente que la versión de Vélez Ortiz tiene que estar asociada, tiene que tener activo esa variable. Pero bueno, creo que en el caso de Vélez Ortiz ya lo tiene. Primero ahora son pruebas, luego en el momento, hasta que no esté todo correcto para que te suene que si de repente producción da un error de autentificación o algo, es que puede ser eso. Pero bueno, antes de desplegar nos aseguraremos de que que BD tenga la versión o el atributo correspondiente a eso, porque ya lo sabemos, lo tenemos claro, que en el momento en que lo active tiene que tener ese elemento. Y nada, sobre todo las dudas que un poco irán es de que el Swagger es enorme y bueno, más o menos me lo he ido mirando por encima, pero que es muy largo. Cualquier duda nos dices.
+
+[12:35] 1: Si no, también quería Alejandro y Aarón aprovechar esta reunión para también conocernos un poquito más, que antes de verano todos teníamos ganas de descansar y desconectar. Y también que conocéis un poquito más toa y a nivel diferencial, que hablaba sobre otras centralitas, Nosotros sí que nos gusta explicarlo y decirlo que somos diferentes porque estamos especializados sobre todo en temas de correduría de seguros. Y vosotros, como para nosotros ERP Referencia de España de seguros, que sois vosotros, entended también un poco cómo funcionáis a nivel de partnerships, qué retos o qué ideas tenéis y cómo soléis trabajar también con, ya que hay una integración, conocernos un poquito más y entender cuál es el paso a paso que solís hacer o qué tipo de partners tecnológicos estáis buscando actualmente.
+
+[13:30] 0: Partners tecnológicos, vosotros estaríais dentro de lo que es nuestra opinión, porque al final nosotros somos un producto de core, Nuestro core es todo lo que tiene que ver con el sector asegurador y yo no quiero montarme una centralita, pero sí tengo la obligación de abrir las puertas a mis clientes y darle aquello que cubra sus necesidades. Hoy en día todo lo que sea hacer más eficiente el trabajo diario de un corredor de seguros, y ahí vosotros cubrís muchas cosas, porque tenéis también la parte WhatsApp, email y teléfono, que sabéis que es del día a día, lo que más tiempo le lleva al corredor y la gestión de todo eso, que quede almacenado, que no se pierda nada y demás. Entonces nuestra idea es esa, yo tengo que ofrecerle, intentar ofrecerle a mis clientes la posibilidad de solucionar todas sus necesidades, algunas las daré en home con mis propios recursos y otros que no son mi nicho, tendré que abrir mi aplicación o alcanzar acuerdos, como ya tenemos algunos, como puede ser renover en puramente centralita, como puede ser, no sé, volumen, temas de retalificación. He sido encontrando en aquello lo que yo no puedo llegar al mercado en tiempo, o no he sido capaz, o no tengo medios, o no es mi nicho, no quiero perder el foco de lo mío, alcanzarlo sobre todo nosotros vemos importante eso último que has dicho. Nosotros al final también lo veo igual, al final es foco. Si es que el problema es que si quieres solucionar todos los problemas, llega un momento en que vale, los puedes solucionar, pero no bien, y vendrá otro y te comerá, que es el final. Hemos dicho estas tres cosas, pero muy bien. Eso es. Entonces, así como en el pasado igual teníamos una visión un poco diferente, más proteccionista o más, vamos a decir hermética, por decir algo, que tampoco era así, pero sí que no teníamos tanta agilidad en explorar la apertura. Ahora estamos en esa decisión estratégica, aquello que nos haga llegar al mercado a tiempo y cubra necesidades que yo no voy a hacer para generarte lo que te ofrece mailchimp. Me alío con mailchimp, me conecto a él y aprovecho sus funcionalidades, porque yo no quiero crear un mailchimp, igual que mailchimp no va a crear un ERP ni conectividad con compañías. Entonces es un poco la estrategia, Está claro, un poco como ahora lo estoy personalmente yo lo estoy llevando a los acuerdos. Yo esto es como una relación, nos hemos conocido enamoramiento, ponemos un caso de uso que sea de éxito para conocernos más, para que tanto vosotros podáis evaluarnos a nosotros como proveedores en tiempo de cómo de fácil solucionamos problemas, como de fácil tener conversaciones con nosotros y vosotros, como de exitoso el producto combinado que ofrecemos a nuestros clientes, feedback. Y una vez tenemos ese caso de uso, si que avanzamos ya en una colaboración más estrecha, buscando los intereses. Aquí tiene que ser un BB, tiene que ser un win win, el ganar todos. Entonces buscar de manera cómo podemos exponer al mercado esa colaboración más estrecha y ahí podemos desde que sea simplemente un aspecto comunicativo de broker acoge o se integra con las soluciones de FOA para tal, hacer más eficiente o intentar una política de pricing pues que sea más ajustada. Oye, pues yo a mi resto de clientes, si me contratan los servicios web, que a día de hoy sería lo necesario, pensando en Vélez Ortiz, para poder conectarse con vosotros, necesita que le abramos la puerta de atrás, que son los web servers, entonces contrata ese servicio y se puede conectar con vosotros, pero si os fijáis, lo hacemos con el recorrido broker cliente, cliente ZOA y luego nos ponemos en común. A futuro podemos hacer ya una relación más estrecha donde podamos ajustar precios, podamos disponer igual un producto común, no os asustéis de decir cada uno tiene que tener lo suyo, pero ya ir un poco evolucionando, incluso que trabajemos de una manera más proactiva y no reactiva. Y a esto me refiero a que ahora mismo lo que pida Vélez Ortiz del grado de integración que quiere con Ebroker es lo que vosotros le vais a dar. Pero sin embargo, si nos ponemos el reto de intentar hacer la mejor integración posible, seguro encontraremos puntos de encuentro o puntos de servicio que podríamos añadir a ese caso de éxito que mejorarían la relación y el éxito de las operaciones de conexión. Pero es un poco el flujo, que suele ser poco tiempo, pero es el flujo que estamos siguiendo y nos está yendo muy bien, porque damos tiempo a conocernos mutuamente, a conocer también la tecnología, cuáles pueden ser los stoppers, cuándo pueden ser los beneficios, a tener feedback también de los clientes y ver el grado de interés que puede existir. Ya os adelanto que esto está más que testado en cuanto a el grado de interés en la centralita, eso ya en vuestro caso es por descontado, pero hay veces que hay que evaluar también lo que me estás ofreciendo, que parece interesante, como de interesantes para mi red y vamos enseguida, no sé si cuadra con lo que vosotros soléis hacer, si actualmente ya tenéis algún otro acuerdo también con compañías del sector o competidores del sector, contadme vosotros también.
+
+[19:21] 1: Sí, totalmente, lo que comentas a nivel de ritmos y flujo de conocimiento es totalmente loable, es así, poco a poco vamos a conocernos, ver cómo funcionamos como bien dices un poco bilateralmente y ver también cómo se comportan lo vuestro como bien es más reactivo, nosotros es más de clientes, les decimos y cuando tienen por ejemplo en este caso Ebroker, de momento hay buena acogida con vosotros, igual tenemos con varios ERP también, pero sí que también tenemos diferentes integraciones y la idea también es ver un poco, tener buena relación como dices tú a nivel de mercado, al final es una necesidad real que vemos, pero sí que para nosotros a nivel de clientela o de cercanía o de lo que nos comentan también hemos visto por ejemplo que tenéis una solución temas de WhatsApp, por ejemplo en Ebroker, que es la gente de incoventia que además conocemos que está muy bien, tiene soluciones, entonces para nosotros también un poco entender cuál sería el paso a paso, como bien dices tú, la red flags o las ring flags a la hora de decir, oye vamos para adelante, vamos para atrás y también haceros entender que nosotros como yo imagino que tenéis hoy en día más de prescripción a ring over por temas de tiempo, de cercanía, lo que sea, entender cómo nosotros pues igual a medio largo plazo o a corto plazo, ver cómo podemos como dices tú, realizar una solución que sea integrada y que sea igual a DOC o que tenga como dices tú un revenue share con vuestros clientes finales o ver cómo podemos hacer esa mejora.
+
+[21:06] 0: Empezando por el final, la prescripción a Ringover, es verdad que las pretensiones originales eran de otro tipo, ahora mismo con el modelo de negocio, nuestra prescripción es el acuerdo con Renover nos ha hecho evolucionar lo necesario para conectarme con centralitas, pero nosotros realmente tenemos una URL de Renover donde está la información de broker, lo que puedes hacer, lo que no puedes hacer a día de hoy y demás. Directamente lo que le damos a nuestros clientes, una de las posibilidades si nos preguntan por la centralita es esta, de momento ni siquiera habréis visto, ni siquiera hemos hecho una comunicación activa de que estamos integrados con Rhinover. Queremos, mi filosofía, la filosofía de la empresa es trabajar tipo conectores, tipo addons, como con Microsoft puedes conectarte a SAP, puedes conectarte a Salesforce, un montón de aplicaciones, pues esto sería un poquito igual. ¿Y mi prescripción? A ver, todo depende, hay modelos y modelos de negocio. Está claro que si yo esto es como un seguro, si con AXA me llevo el 30% de la comisión, o sea un 30% de lo que es la prima, y con occidente en un 20 %, pues está claro que intentarás tirar con AXA. Pero bueno, fuera de lo que es el modelo, el modelo habitual, la prescripción es simplemente este es mi pool de conexiones, elige tú el que quieras, elige tú en función. Y también es verdad, habláis de Conventia, que a día de hoy sí que es verdad que hemos estado reunidos con ellos, estamos trabajando con ellos, pero no hemos cerrado digamos, o no hemos llegado a implementar la solución. Y creo que puede ser complementario ahí donde la parte de WhatsApp, por desconocimiento en el pasado, por falsas creencias por nuestra parte de quién consistía, de cuánto costaba y demás, pues quedó ahí un poco abandonado. Luego pues Coventia presentó su solución que encaja, pero también somos conscientes de que deberíamos de intentar integrar una plataforma que unifique varios canales para no tener llamadas. Con Rhinover, WhatsApp, con Coventia, con Renover también tienen WhatsApp, pero poco desarrollado. Soy totalmente sincero que de momento no es un canal core para ellos, lo están evolucionando. Entonces con una centralizadora que podamos ofrecer un producto puede ser complementario. Yo explico por qué. Un producto que incluya un gestor de canales de comunicación más completo, pues para mí va a ser más atractivo, ¿Vale? Porque me lo van a pedir ir y no tiene por qué ir contradictorio. Yo en correo electrónico estoy integrado como Office 365, no quiere decir que no pueda estar integrado con vosotros, porque seguramente aprovechando la IA, vuestra tecnología, vuestras automatizaciones, vuestros flujos, hacéis un trabajo que independientemente que esté con Office o no, le dais valor a la relación con vosotros. WhatsApp. Una cosa es que nosotros tenemos un motor potente de automatizaciones, de alarmas, de alertas, de comunicados que salen de manera automática en base a criterios y hasta ahora teníamos el SMS, el correo electrónico, notificaciones, PUS y alguna otra vez todo, SMS, correo y demás, y queremos añadir un canal más que sea WhatsApp, donde entra en juego que eres tú el que inicias la conversación, que tienes que tener plantillas preaprobadas, tienes que tener un gestor de esas plantillas, etc. Pero también está el flujo contrario, que es que el cliente contacta conmigo por WhatsApp o si contacta por llamada y tengo también si estás disponible o no en WhatsApp, seguro que hacéis un flujo de distribución de las llamadas. Entonces, claro, son cosas diferentes. Yo tengo que preparar un espacio para ese grado de integración con WhatsApp, pues poder mostrarlo en mi herramienta, porque aún siendo consciente de que muchas cosas harán que el corredor salte fuera a una interfaz diferente a la mía, no me gustaría perder eso. Como vosotros, hay determinadas cosas que deberían de estar intrínsecas y que no fuese necesario para hacer determinadas cosas o para visualizar determinadas cosas, tener que andar saltando a mil pantallas. Ese es el grado de integración que tendríamos que ir profundizando y trabajando con vosotros conjuntamente para que sea un win win. Acercar la visión de ambos, que yo siempre mucho la visión es lo que es la parte de comunicación y la parte de lo que es el estar hablando con el cliente. Lo vas a hacer aquí. Cuando tengas que hacer una gestión sobre pólizas, tienes que ir a tu ERP. Yo no voy a tener jamás todas las pólizas que tiene ese cliente, las fechas en las que se van a dar su devolución, si se la ha devuelto, si no, en qué estado están. Al final el ERP está pensado para eso y es algo que funciona ya muy bien y tiene su gestor de actividades en función a todos los estados en los que puede estar una póliza. Porque al final, no nos equivoquemos, al final los corredores dedican a una parte es vender y la otra parte es tener muy bien gestionado cada cliente, saber exactamente qué póliza es, en qué estado la tienen y qué cubre y que no cubre. Y es que eso lo hace ellos. Les gustaría estar solo centrados en lo que le da dinero, que es vender todo lo demás. Eso sí se lo preguntas al gerente, pero en cambio si se lo preguntas a las que están en el día a día ellas gestionando, son más felices. Es una guerra con el gerente de no tenemos que hacer horas de venta y ella es en plan, ay, pero es que tengo mucho lío gestionando las corredurías en sí, lo que es el objetivo de la corredoría es vender y todo lo que puedan, quitarse papeleo, automatizar, lo tendrían. Entonces, a ver, yo ante las preguntas que me hacías, creo que expresando la filosofía de plugins, addons, conectores, como queramos llamar, creo que visualiza perfectamente, no exclusividad, salvo, tendrían que ser acuerdos concretos, el intentar, oye, a mí yo no tengo por qué interponer obligatoriamente a un cliente mío, lo tienes que hacer con este conector sí o sí, es dar opción que cada uno luego evalúe el valor que ofrecéis cada una de las marcas. Es verdad que yo no tengo la pretensión de contarme con zoa y con 200 más que hagan lo mismo como ZOA, o sea, me gustaría quedarme, no te voy a decir con una o dos tampoco, dependiendo de qué funcionalidad estamos hablando. Aquí partió hace mucho tiempo ya año y medio, Renover por aquel entonces, ahora vosotros por la petición reactiva de un corredor y averiguando un poco más de vosotros, me resulta interesante, pero yo no tengo pretensión de seguir buscando o de buscar más, yo soy más feliz teniendo controlados dos, es mi filosofía. Es verdad que ofrecéis, tenéis un producto totalmente diferente al de Renover, total, no guardáis una relación, una base, que es el tema de gestión de llamadas, pero no tenéis totalmente diferente, como decís, tenéis un nicho en corredores. Renover es generalista. Si, nosotros, nuestro objetivo también es un poco como vosotros, al final, centrarnos en el sector y ya está, entonces pues eso, aliarnos un poco con vosotros que sois realmente el core del mercado e ir de la mano. El tema de precios, sí que con Renover en los inicios y tal, también era un tema que había gente que le parecía caros y que sacaron otro tipo de licencia y demás, pero ni siquiera, nosotros ahí no entramos, intentamos que sea un precio de mercado, porque lo que no quiero es conectarme con alguien que te vaya a cobrar, porque al final el corredor lo que hace es identificarme a mí con esa pretensión de cobro y es lo que tengo que intentar, que no me relaciono, tengo que buscar acuerdos buenos y en función del valor ofrecido, el precio más ajustado y en la negociación, si yo bajo mis precios para que se conecten con ZOA, seguramente ZOA podrá ajustar y hacer una operación más a futuro para que haya más clientes míos que vayan con ZOA. Pero bueno, es un poco la filosofía, pero con poco intervencionismo hasta donde hoy en día estamos trabajando, es decir, no es marcamos un precio máximo, yo me llevo tanto dinero, no está yendo ahí, está más en una relación de colaboración conjunta, buscando que cada uno gane en la parte que le corresponde. Yo en tener clientes satisfechos y contratación de web services y vosotros pues tener clientes y contratar el mayor número de usuarios. No sé cómo es vuestro pricing, pero bueno, me imagino que en función de licencias de usuario pues tendréis una unos módulos o de funcionalidades de contrato. Entonces en esa idea estamos.
+
+[30:23] 1: La idea sobre todo eso, ver la transparencia, que haya un ROMA de producto, la visión de futuro que vemos un poco también el nivel de compromiso de cada uno y que además siendo de aquí de España y conociéndose de cerca y teniendo esta, pues eso, ir creando esa relación, conociéndonos poco a poco, yo lo veo bien, tampoco hace falta bajar nada al suelo, sino ir conociéndonos y ver y ver un poco qué piensa cada uno y cuál es la filosofía.
+
+[30:46] 0: Principalmente lo que os he dicho y a mí me gustaría empezar a conoceros para ver también las posibilidades, ser transparentes del hecho de que digamos que el producto centralita. Nosotros internamente nuestras pretensiones eran como tres fases, la primera era dar una funcionalidad lo más básica posible, que pueda llamar desde la aplicación, que cuando te llame se levante la ficha y el dejar registro de esas llamadas, pero de ahí nos gustaría nosotros también ir preparando, ir más allá. Al final de la información que se genera en las llamadas se puede obtener otros aspectos relevantes como puede ser un índice de coste de ese cliente por el número de llamadas que tiene versus la prima que me paga, puedes detectar, se pueden sacar datos y funcionalidades que son ya más atractivas a la parte de mi core, porque vosotros seguramente tendréis lo que es el 5, la detención de palabras malsonantes, lo del riesgo seguramente por lo poco que he visto y conozco, porque tampoco con Javier me ha explicado más allá, no ha sido necesario de momento, pero yo sí puedo ofrecer cruzar mis datos puros de negocio con algo más que me puede servir para hacer, en este caso, cálculos de prima o el interés que tengo de que ese cliente siga conmigo, por ejemplo. Entonces, son fases que queremos ir dando y que podemos compartir con vosotros a medida que vayamos cumpliendo los hitos anteriores. Correcto. Entonces, nada, pues ahí revisar el sábado y lo que veáis, os vamos respondiendo Y yo creo que el hito que nos debemos marcar es hacer esta integración de manera exitosa con Bélez y una vez la tengamos, incluso poder hacer una demo conjunta para ver como usuarios de la correduría, cómo es la experiencia y conoceros un poco más. Y ahí, acto seguido, vendrá el estrechamiento y el buscar una colaboración. Concretando. Me gusta ser transparente, me gusta que todos juguemos con la información encima de la mesa, las reglas de juego y así evitamos malos entendidos. Prefiero enfadarme en la discusión previa de que esto me parece excesivo, que luego yo pensaba, yo creía, yo decía, yo creo que tenemos la misma filosofía en ese sentido y yo creo que vamos a llegar a buen puerto. Vale, pues nada, estamos en contacto y os enviaré el correo seguro, porque. ¿Alguna duda? Es raro que no me salgan dudas, me preocuparía, algo se nos estaría escapando. Lo dicho, entre esta semana que viene es la idea de ponernos con ello y nada, nos estamos en contacto y a ver si lo podemos hacer lo antes posible. Perfecto, a vuestra disposición. De acuerdo.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

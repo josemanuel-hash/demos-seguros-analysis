@@ -1,0 +1,1250 @@
+================================================================================
+DEMO/REUNIÓN: Reunión Vima & Kleo
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 07/08/2025 a las 09:00
+⏱️ Duración: 19.200000762939453 segundos (0.3 minutos)
+👥 Participantes: josemanuel@zoasuite.com,vmorell@vimasegur.com,ana.gomez@kleohub.com, vmorell@vimasegur.com, ana.gomez@kleohub.com
+
+🔑 PALABRAS CLAVE:
+--------------------
+subvención, ZOA Suite, gastos tecnológicos, Comunidad Valenciana, implementación, CRM
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. A
+5. n
+6. a
+7.  
+8. G
+9. ó
+10. m
+11. e
+12. z
+13. *
+14. *
+15. 
+
+16. E
+17. n
+18. v
+19. i
+20. a
+21. r
+22.  
+23. c
+24. o
+25. r
+26. r
+27. e
+28. o
+29.  
+30. e
+31. l
+32. e
+33. c
+34. t
+35. r
+36. ó
+37. n
+38. i
+39. c
+40. o
+41.  
+42. a
+43.  
+44. V
+45. i
+46. c
+47. e
+48. n
+49. t
+50. e
+51.  
+52. c
+53. o
+54. n
+55.  
+56. e
+57. l
+58.  
+59. l
+60. i
+61. s
+62. t
+63. a
+64. d
+65. o
+66.  
+67. c
+68. o
+69. m
+70. p
+71. l
+72. e
+73. t
+74. o
+75.  
+76. d
+77. e
+78.  
+79. g
+80. a
+81. s
+82. t
+83. o
+84. s
+85.  
+86. s
+87. u
+88. b
+89. v
+90. e
+91. n
+92. c
+93. i
+94. o
+95. n
+96. a
+97. b
+98. l
+99. e
+100. s
+101.  
+102. (
+103. 0
+104. 9
+105. :
+106. 3
+107. 5
+108. )
+109. 
+
+110. P
+111. r
+112. o
+113. p
+114. o
+115. r
+116. c
+117. i
+118. o
+119. n
+120. a
+121. r
+122.  
+123. l
+124. i
+125. n
+126. k
+127.  
+128. d
+129. e
+130.  
+131. a
+132. c
+133. c
+134. e
+135. s
+136. o
+137.  
+138. a
+139.  
+140. V
+141. i
+142. c
+143. e
+144. n
+145. t
+146. e
+147.  
+148. p
+149. a
+150. r
+151. a
+152.  
+153. r
+154. e
+155. g
+156. i
+157. s
+158. t
+159. r
+160. o
+161.  
+162. e
+163. n
+164.  
+165. l
+166. a
+167.  
+168. p
+169. l
+170. a
+171. t
+172. a
+173. f
+174. o
+175. r
+176. m
+177. a
+178.  
+179. d
+180. e
+181.  
+182. d
+183. o
+184. c
+185. u
+186. m
+187. e
+188. n
+189. t
+190. o
+191. s
+192.  
+193. (
+194. 1
+195. 1
+196. :
+197. 4
+198. 0
+199. )
+200. 
+
+201. C
+202. r
+203. e
+204. a
+205. r
+206.  
+207. G
+208. o
+209. o
+210. g
+211. l
+212. e
+213.  
+214. D
+215. r
+216. i
+217. v
+218. e
+219.  
+220. c
+221. o
+222. m
+223. p
+224. a
+225. r
+226. t
+227. i
+228. d
+229. o
+230.  
+231. p
+232. a
+233. r
+234. a
+235.  
+236. c
+237. o
+238. l
+239. a
+240. b
+241. o
+242. r
+243. a
+244. c
+245. i
+246. ó
+247. n
+248.  
+249. e
+250. n
+251.  
+252. l
+253. a
+254.  
+255. r
+256. e
+257. d
+258. a
+259. c
+260. c
+261. i
+262. ó
+263. n
+264.  
+265. d
+266. e
+267.  
+268. l
+269. a
+270.  
+271. m
+272. e
+273. m
+274. o
+275. r
+276. i
+277. a
+278.  
+279. d
+280. e
+281. l
+282.  
+283. p
+284. r
+285. o
+286. y
+287. e
+288. c
+289. t
+290. o
+291.  
+292. (
+293. 1
+294. 6
+295. :
+296. 1
+297. 8
+298. )
+299. 
+
+300. C
+301. o
+302. m
+303. p
+304. l
+305. e
+306. t
+307. a
+308. r
+309.  
+310. s
+311. e
+312. c
+313. c
+314. i
+315. o
+316. n
+317. e
+318. s
+319.  
+320. d
+321. e
+322.  
+323. l
+324. a
+325.  
+326. m
+327. e
+328. m
+329. o
+330. r
+331. i
+332. a
+333.  
+334. r
+335. e
+336. l
+337. a
+338. c
+339. i
+340. o
+341. n
+342. a
+343. d
+344. a
+345. s
+346.  
+347. c
+348. o
+349. n
+350.  
+351. g
+352. a
+353. s
+354. t
+355. o
+356. s
+357.  
+358. n
+359. o
+360.  
+361. t
+362. e
+363. c
+364. n
+365. o
+366. l
+367. ó
+368. g
+369. i
+370. c
+371. o
+372. s
+373.  
+374. y
+375.  
+376. d
+377. a
+378. t
+379. o
+380. s
+381.  
+382. c
+383. o
+384. r
+385. p
+386. o
+387. r
+388. a
+389. t
+390. i
+391. v
+392. o
+393. s
+394.  
+395. (
+396. 1
+397. 6
+398. :
+399. 1
+400. 8
+401. )
+402. 
+
+403. 
+
+404. *
+405. *
+406. J
+407. o
+408. s
+409. é
+410.  
+411. M
+412. a
+413. n
+414. u
+415. e
+416. l
+417.  
+418. A
+419. u
+420. s
+421. i
+422. n
+423. *
+424. *
+425. 
+
+426. F
+427. a
+428. c
+429. i
+430. l
+431. i
+432. t
+433. a
+434. r
+435.  
+436. e
+437. l
+438.  
+439. c
+440. o
+441. r
+442. r
+443. e
+444. o
+445.  
+446. e
+447. l
+448. e
+449. c
+450. t
+451. r
+452. ó
+453. n
+454. i
+455. c
+456. o
+457.  
+458. d
+459. e
+460.  
+461. V
+462. i
+463. c
+464. e
+465. n
+466. t
+467. e
+468.  
+469. a
+470.  
+471. A
+472. n
+473. a
+474.  
+475. p
+476. a
+477. r
+478. a
+479.  
+480. e
+481. s
+482. t
+483. a
+484. b
+485. l
+486. e
+487. c
+488. e
+489. r
+490.  
+491. c
+492. o
+493. m
+494. u
+495. n
+496. i
+497. c
+498. a
+499. c
+500. i
+501. ó
+502. n
+503.  
+504. d
+505. i
+506. r
+507. e
+508. c
+509. t
+510. a
+511.  
+512. (
+513. 0
+514. 8
+515. :
+516. 3
+517. 9
+518. )
+519. 
+
+520. C
+521. o
+522. l
+523. a
+524. b
+525. o
+526. r
+527. a
+528. r
+529.  
+530. e
+531. n
+532.  
+533. l
+534. a
+535.  
+536. r
+537. e
+538. d
+539. a
+540. c
+541. c
+542. i
+543. ó
+544. n
+545.  
+546. d
+547. e
+548.  
+549. l
+550. a
+551.  
+552. m
+553. e
+554. m
+555. o
+556. r
+557. i
+558. a
+559.  
+560. t
+561. é
+562. c
+563. n
+564. i
+565. c
+566. a
+567.  
+568. d
+569. e
+570. l
+571.  
+572. p
+573. r
+574. o
+575. y
+576. e
+577. c
+578. t
+579. o
+580. ,
+581.  
+582. e
+583. s
+584. p
+585. e
+586. c
+587. i
+588. f
+589. i
+590. c
+591. a
+592. n
+593. d
+594. o
+595.  
+596. e
+597. l
+598.  
+599. u
+600. s
+601. o
+602.  
+603. d
+604. e
+605. l
+606.  
+607. s
+608. o
+609. f
+610. t
+611. w
+612. a
+613. r
+614. e
+615.  
+616. p
+617. o
+618. r
+619.  
+620. V
+621. i
+622. c
+623. e
+624. n
+625. t
+626. e
+627.  
+628. (
+629. 1
+630. 0
+631. :
+632. 1
+633. 5
+634. )
+635. 
+
+636. T
+637. r
+638. a
+639. b
+640. a
+641. j
+642. a
+643. r
+644.  
+645. e
+646. n
+647.  
+648. p
+649. a
+650. r
+651. a
+652. l
+653. e
+654. l
+655. o
+656.  
+657. c
+658. o
+659. n
+660.  
+661. A
+662. n
+663. a
+664.  
+665. p
+666. a
+667. r
+668. a
+669.  
+670. c
+671. o
+672. m
+673. p
+674. l
+675. e
+676. t
+677. a
+678. r
+679.  
+680. l
+681. a
+682.  
+683. i
+684. n
+685. f
+686. o
+687. r
+688. m
+689. a
+690. c
+691. i
+692. ó
+693. n
+694.  
+695. d
+696. e
+697. l
+698.  
+699. d
+700. r
+701. i
+702. v
+703. e
+704.  
+705. y
+706.  
+707. a
+708. s
+709. p
+710. e
+711. c
+712. t
+713. o
+714. s
+715.  
+716. t
+717. é
+718. c
+719. n
+720. i
+721. c
+722. o
+723. s
+724.  
+725. (
+726. 1
+727. 7
+728. :
+729. 5
+730. 5
+731. )
+732. 
+
+733. 
+
+734. *
+735. *
+736. V
+737. i
+738. c
+739. e
+740. n
+741. t
+742. e
+743.  
+744. B
+745. e
+746. r
+747. n
+748. a
+749. r
+750. d
+751. o
+752. *
+753. *
+754. 
+
+755. R
+756. e
+757. g
+758. i
+759. s
+760. t
+761. r
+762. a
+763. r
+764. s
+765. e
+766.  
+767. e
+768. n
+769.  
+770. l
+771. a
+772.  
+773. p
+774. l
+775. a
+776. t
+777. a
+778. f
+779. o
+780. r
+781. m
+782. a
+783.  
+784. d
+785. e
+786.  
+787. d
+788. o
+789. c
+790. u
+791. m
+792. e
+793. n
+794. t
+795. o
+796. s
+797.  
+798. u
+799. t
+800. i
+801. l
+802. i
+803. z
+804. a
+805. n
+806. d
+807. o
+808.  
+809. e
+810. l
+811.  
+812. l
+813. i
+814. n
+815. k
+816.  
+817. q
+818. u
+819. e
+820.  
+821. p
+822. r
+823. o
+824. p
+825. o
+826. r
+827. c
+828. i
+829. o
+830. n
+831. a
+832. r
+833. á
+834.  
+835. A
+836. n
+837. a
+838.  
+839. (
+840. 1
+841. 1
+842. :
+843. 4
+844. 0
+845. )
+846. 
+
+847. R
+848. e
+849. v
+850. i
+851. s
+852. a
+853. r
+854.  
+855. l
+856. a
+857.  
+858. d
+859. o
+860. c
+861. u
+862. m
+863. e
+864. n
+865. t
+866. a
+867. c
+868. i
+869. ó
+870. n
+871.  
+872. d
+873. e
+874.  
+875. l
+876. a
+877.  
+878. s
+879. u
+880. b
+881. v
+882. e
+883. n
+884. c
+885. i
+886. ó
+887. n
+888.  
+889. p
+890. a
+891. r
+892. a
+893.  
+894. i
+895. d
+896. e
+897. n
+898. t
+899. i
+900. f
+901. i
+902. c
+903. a
+904. r
+905.  
+906. g
+907. a
+908. s
+909. t
+910. o
+911. s
+912.  
+913. a
+914. d
+915. i
+916. c
+917. i
+918. o
+919. n
+920. a
+921. l
+922. e
+923. s
+924.  
+925. e
+926. l
+927. e
+928. g
+929. i
+930. b
+931. l
+932. e
+933. s
+934.  
+935. (
+936. 1
+937. 8
+938. :
+939. 1
+940. 8
+941. )
+942. 
+
+943. R
+944. e
+945. c
+946. o
+947. p
+948. i
+949. l
+950. a
+951. r
+952.  
+953. i
+954. n
+955. f
+956. o
+957. r
+958. m
+959. a
+960. c
+961. i
+962. ó
+963. n
+964.  
+965. s
+966. o
+967. b
+968. r
+969. e
+970.  
+971. g
+972. a
+973. s
+974. t
+975. o
+976. s
+977.  
+978. d
+979. e
+980.  
+981. Z
+982. O
+983. A
+984.  
+985. S
+986. u
+987. i
+988. t
+989. e
+990.  
+991. y
+992.  
+993. o
+994. t
+995. r
+996. o
+997. s
+998.  
+999. s
+1000. o
+1001. f
+1002. t
+1003. w
+1004. a
+1005. r
+1006. e
+1007.  
+1008. p
+1009. a
+1010. r
+1011. a
+1012.  
+1013. i
+1014. n
+1015. c
+1016. l
+1017. u
+1018. s
+1019. i
+1020. ó
+1021. n
+1022.  
+1023. e
+1024. n
+1025.  
+1026. l
+1027. a
+1028.  
+1029. s
+1030. o
+1031. l
+1032. i
+1033. c
+1034. i
+1035. t
+1036. u
+1037. d
+1038.  
+1039. (
+1040. 1
+1041. 7
+1042. :
+1043. 5
+1044. 5
+1045. )
+1046. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[00:08] 0: Buenos días, Vicente. No te veo. ¿Qué tal eso?
+
+[00:27] 1: Sí, ahí estamos. Ahí estamos hablando con Alejandro.
+
+[00:34] 0: Estaba muy bien. Ahí está. También le he dicho que teníamos la reunión ahora que lo íbamos a ver.
+
+[00:42] 1: Muy bien.
+
+[00:44] 0: O sea que estás en el Caribe.
+
+[00:46] 1: Estoy en el Caribe mil. Caribe mil.
+
+[00:51] 0: Caribe mil noventa y ocho. Qué buenos temas, qué buenos temas. El Caribe mil noventa y ocho.
+
+[01:00] 1: Cuando uno sea mayor hará estas cosas.
+
+[01:04] 2: Hola, buenos días.
+
+[01:05] 0: Hola Ana, ¿Qué tal? Buenos días. Buenos días, Ana, ¿Cómo estás? Mira, pues nada, te presento Vicente, también un buen cliente nuestro.
+
+[01:15] 2: Encantada.
+
+[01:16] 0: Compañero, gente de confianza. Y nada, Ana, la primera vez que la veo hoy, pero hemos hablado últimamente un poco intenso porque junto con ellos pues hemos pedido también alguna otra ayuda. Entonces se lo comenté ayer a Vicente, lo que tú y yo hablamos sobre esta ayuda, que creo es una oportunidad para, sobre todo ahora en verano, que parece que estas ayudas también las hacen como en esta fecha, para que la pida el primo y sepa cuándo sale y lo tenga todo preparado, porque tal.
+
+[01:45] 2: Cual, no tengo ninguna duda.
+
+[01:49] 1: ¿Y ana qué hace? ¿En vez de estar de vacaciones estás trabajando?
+
+[01:54] 2: Pues bueno, cosas que pasan.
+
+[01:57] 1: Cosas que pasan.
+
+[01:58] 2: No nos podíamos ir todos a la vez y yo ya me había ido hace unos meses, así que muy bien, no pasa nada. Y además ahora con el teletrabajo tampoco se lleva tan mal trabajando en verano.
+
+[02:10] 1: Yo estoy en la isla y aquí estoy trabajando.
+
+[02:14] 0: Así que aquí estoy. Pero bueno, bien, bien. A mí me gusta ahora en agosto que se trabaja bien y la gente está más tranquila y relajada así. Genial. Pues nada, Ana, si quieres comentar un poco brevemente a Vicente de qué trata la ayuda, que ya se la comenté yo por encima. Y nada, Vicente, ¿Alguna duda? Cosita. Pues aquí tenemos a Ana, que es la que nos puede solventar.
+
+[02:46] 2: Básicamente la ayuda lo que os cubre es cualquier implementación o cualquier innovación tecnológica que hagáis en la empresa o que hayáis realizado desde el 1 de enero al 15 de noviembre, tiene que estar todo pagado en esta fecha. Entonces nosotros lo que vamos a hacer va a ser plantear una memoria con el proyecto que vayáis a desarrollar o hayáis desarrollado o incluso estéis desarrollando. Se cubre hasta el 100 %, pero eso no lo sabremos hasta que haya una resolución. Esta resolución puede ser o bien dos meses más tarde o bien hasta cuatro meses más tarde. ¿Qué pasa? Que los gastos que se justifiquen van a estar pagados sí o sí. Entonces.
+
+[03:38] 1: Los gastos que se justifiquen van a estar pagados sí o sí. Si no se da el OK, es decir, si no te la aprueban, no se va a pagar nada.
+
+[03:54] 2: Sí, porque tú no vas a saber si está concedida hasta que termina el periodo de justificación de pago, es decir, ellos no quieren tú esperes a la resolución para pagar o no pagar, o sea, vas a tener que pagar sí o sí. El gasto va a tener que estar.
+
+[04:17] 1: Los gastos tienen que estar pagados sí o sí. Vale, vale, vale, vale. Está claro, está claro. Perdona, está claro.
+
+[04:25] 2: Continuamos un segundo porque creo. ¿Me estáis escuchando bien?
+
+[04:29] 0: Sí, yo sí.
+
+[04:31] 2: Vale, es que me sale que tengo problemas de conexión con la red. En cualquier caso, si se corta o lo que sea, me decís y me conecto a otra red, no te preocupes, todo correcto. Entonces, ¿Qué tipos de gastos entran? Pues aquí entra un poco más, un poco de todo. Nosotros intentaremos que lleguéis siempre al máximo, que cada solicitud llegue al máximo, pero dejad un segundo que voy a abrir el documento para deciros exactamente cuáles son. Pero bueno, sí que es verdad que lo que estuve hablando con José Manuel, que al final todos los gastos que habéis hecho con ZOA Suite seguramente entren o los que vayáis a hacer, no habría ningún problema, Pero aparte de eso, también podemos añadir temas de gastos de formación, pues en caso de que hayáis tenido formación, no sé si es una empresa grande, si sois dos, tres, nosotros.
+
+[05:29] 0: Somos dos, bueno, tenemos un equipo externo de desarrolladores que son como seis, pero.
+
+[05:39] 2: No, me refería al beneficiario, nosotros somos once personas, ¿Vale? ¿Vosotros seis, once personas.
+
+[05:51] 1: Vale?
+
+[05:51] 2: No habría ningún problema, Pero bueno, en caso de que hayáis tenido pues algún tema de formación de. A ver, dame un segundo, que es que estoy mirando otra cosa.
+
+[06:06] 1: Por ejemplo, un programa que hemos comprado también, que es el s ranking. ¿Eso lo podríamos meter?
+
+[06:16] 2: Sí. ¿De qué es el programa, qué es.
+
+[06:18] 1: Lo que realiza para medir métricas de página web y un poco todo, controlar un poco cómo estamos a nivel informático?
+
+[06:33] 2: ¿Cuándo empezasteis a solicitar?
+
+[06:37] 1: Ahora, hace dos meses.
+
+[06:39] 2: Vale, pues sí, sí, sí. A ver, la importancia final de esta ayuda es que todos los gastos que nosotros justifiquemos se engloben dentro de unos subapartados de enero. No, no, no, o sea, el periodo sí, evidentemente tiene que ser de enero a como máximo el 15 de noviembre. Pero luego además el proyecto que nosotros vamos a presentar va a estar englobado dentro de un subapartado de los que ellos nos dicen. Entonces uno por ejemplo puede ser ciberseguridad, otro gestión de clientes, otro creo que era temas de prompts y software, bueno, hay un montón. Entonces nosotros lo que vamos a intentar es que todos los gastos se engloben dentro, por ejemplo, los tengo ya aquí delante, gastos de personal, servicios externos, adquisición de inmovilizado intangible, pues temas de patentes, licencias, adquisición de inmovilizado material, ahí sí que entrarían temas de bienes de equipo. Y luego en el quinto apartado nos pone gastos no encuadrados en las anteriores categorías para los que se acredite su directa y exclusiva relación con el proyecto subvencionado. Aquí no solemos meter muchas cosas porque esto es un. Un cajón desastre donde la gente puede meter un montón de cosas y que te pueden decir que sí o que no. Entonces para no arriesgarnos mucho nosotros en estas categorías no solemos meter casi nada, pero bueno, dentro del resto te entran un montón de cosas, gastos de personal, cuotas de la seguridad social. Un poco eso, o sea, pasar un listado que creo que tú José Manuel ya lo tienes porque te lo pasé por correo y la verdad es que.
+
+[08:29] 1: Bastante amplio, le pasas mi correo a Ana y que me lo. Y que me pase yo creo.
+
+[08:39] 0: De todas formas en la convocatoria está todos los correos, pero bueno, yo se, puedo pasar a Nike y cruzamos emails, no hay problema.
+
+[08:49] 2: Vale, entonces, cosas importantes sobre esta convocatoria, súper prioritario presentarla cuanto antes. Esta ayuda no es de concurrencia competitiva, por lo tanto lo que prima es el orden de llegada y el cumplimiento de los requisitos y que evidentemente tenga sentido de coherencia lo que nosotros presentamos, que bueno, de eso ya nos encargaremos nosotros. Evidentemente si hay algún gasto o hay algo que yo lo vea y diga esto no es viable o esto no hay forma de justificarlo, no lo vamos a poner.
+
+[09:26] 1: ¿Vale, entonces, cuándo me envías o cuando me envías José, lo que tengo que preparar ahora?
+
+[09:35] 0: Yo creo que sí nos explicará un poco los siguientes pasos.
+
+[09:39] 2: Sí, ahora yo me encargaré de enviarte el correo con el listado de cosas que podemos meter también. No sé si. Bueno, esto creo que igual lo puedo hablar con José sin problema, pero para ver un poco el tipo de proyecto que vamos a presentar, sobre todo para ver qué están haciendo ellos. El principal va a ser lo que me diga José. En cuanto a lo que estábamos hablando ayer, José, de temas de implementación o a lo que vosotros os dedicáis prácticamente, y luego alrededor de eso, todo lo.
+
+[10:15] 0: Que además podemos añadir, escribir la memoria para que tenga sentido de cómo Vicente utiliza el software o las necesidades que él tiene, para qué le podemos ayudar y que la gente vea que ese gasto es tecnológico, es un CRM y le ayuda a ser más. Eso es, eso es lo que comenta también Vicente. ¿Qué tengo que hacer ahora? Es igual que imagino, tú le tienes que enviar tu plataforma para que se dé de alta, te vuelque la información, en paralelo, tú y yo redactamos la memoria, también la compartimos con Vicente para que también él la pueda ver y pueda añadir o quitar cosas. Y como bien dices, esto prima, así que cuanto más ágiles seamos, pues mejor.
+
+[11:03] 2: Eso es. Bueno, Vicente, no sé si te lo ha comentado José Manuel, pero al final nosotros lo que hacemos es. Nosotros somos una plataforma donde tenemos habilitados ciertos espacios para intercambiar documentos y que así nuestra comunicación sea más directa, menos a través de correos y todo eso. Entonces yo te pasaré un link para que te des de alta en la plataforma y entonces se habilitarán ciertos espacios que lo ponen, pues por ejemplo, Modelo Ponte y es como una especie de nube. Entonces ahí nos va subiendo la documentación y yo la cojo directamente de ahí.
+
+[11:40] 1: Perfecto. Vale, perfecto. ¿El coste del proyecto que tiene?
+
+[11:48] 2: Pues mira, nosotros el pricing creo que lo puso ayer Carol, que es mi compañera, y creo que está en 149. Nosotros cobramos una comisión fija de entrada por la tramitación y luego una comisión a éxito solo si se recibe la ayuda, que en este caso sería de un 12%. En caso de que la ayuda se conceda un 12%.
+
+[12:15] 1: ¿Va metida también en factura dentro del proyecto, No?
+
+[12:23] 2: Porque no vas a pagarnos esa factura antes de que. Antes de que se subvencione. Yo no puedo ponerme a mí misma como un gasto porque yo no te voy a facturar antes de saber si sí o si no, porque si no nos dan la ayuda yo no te voy a facturar nada, evidentemente.
+
+[12:41] 1: Vale, pero habría opción de. ¿Es decir, si vosotros hicierais la factura sí podría entrar o esa factura no entraría ningún concepto de los subvencionables?
+
+[12:55] 2: A ver, no creo, porque al final nosotros, por mucho que sí que esté relacionado evidentemente con el proyecto, porque es lo que vamos a hacer nosotros, no podemos, no nos puedes pagar antes de tiempo y sí que nos van a pedir comprobantes de pago, porque ya nos lo han hecho varias veces.
+
+[13:17] 1: Sí, no, Sí, eso está claro, eso está claro. Pero un comprobante de pago es una transferencia. Se puede hacer una transferencia aunque después se devuelva y aunque después se pague, dependiendo si se puede enfocar el concepto de la factura, si realmente es deducible o no.
+
+[13:35] 0: ¿Son 149 o 179?
+
+[13:37] 2: 149.
+
+[13:39] 0: 149.
+
+[13:42] 1: Esa no preocupa.
+
+[13:44] 0: La otra, Vicente, se puede ver, no te preocupes.
+
+[13:47] 2: Sí, se puede ver, se puede ver.
+
+[13:50] 1: Vosotros estáis en Valencia, ¿No, Ana?
+
+[13:53] 2: No, nosotros ahora mismo estamos en Madrid. Lo que pasa es que sí que tenemos el domicilio fiscal en Valencia, ¿Vale?
+
+[14:00] 1: Por eso, porque ayer por la tarde cuando me lo comentó él, lo vi y digo.
+
+[14:06] 2: Tenemos domicilio, tenemos el domicilio fiscal ahí, pero no estamos en Madrid todos y cuando vamos presencial estamos en Madrid.
+
+[14:18] 0: Maravilloso.
+
+[14:21] 2: No sé si tenéis alguna duda más. De todas formas, yo ahora mismo la.
+
+[14:25] 0: Empresa para que se considere de la Comunidad Valenciana con la residencia fiscal, ¿Vale?
+
+[14:30] 2: Con la residencia fiscal o el centro de trabajo sería suficiente.
+
+[14:36] 1: ¿Pero esto es una ayuda para la Comunidad Valenciana solo o a nivel de España?
+
+[14:44] 2: Hay varias. Entonces lo están lanzando en varias comunidades, pero nosotros de momento solo la estamos llevando en la Comunidad Valenciana. Para empresas de la Comunidad Valenciana.
+
+[14:56] 0: Pues si queréis, como ha comentado Ana ahora Ana, si quieres envía un correo a Vicente para que se dé de alta en la plataforma. Tú y yo. ¿Cómo lo hacemos para redactar la memoria?
+
+[15:10] 2: Pues como para esta ayuda no hay un modelo normalizado, es decir, no nos han dejado como una especie de plantilla para nosotros ir rellenandola, nosotros lo que hemos hecho es combinar varias memorias y varias plantillas que ya tenemos de otras ayudas y hacer una especie de formato que tenga los logos, porque vamos a necesitar logos porque queda mucho mejor. Entonces lo que puedo hacer si quieres es. A ver, yo creo que lo mejor es que hagamos un drive. Entonces en ese drive metemos el documento. Bueno, el documento lo subimos a drive y lo compartimos y así lo podemos ir mirando y tocando los dos a la vez sin problema. Entonces tú te encargarías de meter la parte que concierne a tu empresa, a todo el desarrollo y yo pues ultimar detalles, meter el resto de gastos que no son tecnológicos por así decirlo, pero que también se pueden ligar a la convocatoria y de rellenar el resto de datos.
+
+[16:18] 1: Licencias, licencias de Excel y de lo que es el Outlook, eso pueden meterse.
+
+[16:30] 2: Sí, siempre y cuando lo relacionemos con el proyecto, o sea, si tú me dices que lo que te está desarrollando, ponte porque realmente no lo sé, pero a lo mejor sí estás desarrollando un programa de gestión de clientes y ponemos que necesitas también como subapoyo o como apoyo el tema del paquete 365 de Office, pues sí, sí, sí, cualquier, o sea, cualquier, o sea, si te refieres al gasto como tal, sí que entra, sí, entonces no habría ningún problema por.
+
+[17:10] 1: Eso, eso simplemente sí que es un gasto mensual que dices, pues entra 10 meses, pues 10 meses, no sé, José.
+
+[17:19] 0: Sí, sí, claro, a la hora de embeber la información de todos los Excel se puede hacer, no hay ningún problema, entraría el Microsoft, tiene sentido.
+
+[17:29] 1: La empresa parece que no, pero mes a mes.
+
+[17:35] 0: Por eso sin problema.
+
+[17:37] 2: Vale, perfecto. Pues nada, eso sería, no sé si alguna cosilla más.
+
+[17:44] 0: No, seguro que nos van surgiendo dudas, pero bueno, Vicente, lo vamos hablando con.
+
+[17:50] 2: Lo que sea, José Manuel, ya tienes mi número, me puedes escribir por WhatsApp cuando quieras, así que sin problema.
+
+[17:55] 0: Sí, yo lo que sí que es Vicente, ahora cuando te envíe la información, ella te dé de alta Ana y tú lo vayas viendo, vemos igual todos los gastos que sean relacionados con la parte de ZOA y que se pueda ver cómo lo podemos hacer y yo en paralelo con Ana vamos rellenando el drive a nivel de info y todas las cosas.
+
+[18:15] 2: Perfecto.
+
+[18:18] 1: Pues preparamos, miramos, me envías lo que es el producto este de esta subvención para también que lo lea un poquito para ver si se me ocurre alguna cosa más. Sí, claro, sí, sí, y seguimos avanzando en el tema.
+
+[18:37] 2: Genial, pues nada, muchísimas gracias, buen día, chao.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

@@ -1,0 +1,927 @@
+================================================================================
+DEMO/REUNIÓN: DR SEGUROS
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 08/09/2025 a las 09:25
+⏱️ Duración: 47.790000915527344 segundos (0.8 minutos)
+👥 Participantes: josemanuel@zoasuite.com
+
+🔑 PALABRAS CLAVE:
+--------------------
+Broker de seguros, Integración ZOA, WhatsApp empresarial, Gestión siniestros, Administradores fincas, Correduría seguros
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. J
+5. o
+6. s
+7. é
+8.  
+9. M
+10. a
+11. n
+12. u
+13. e
+14. l
+15. *
+16. *
+17. 
+
+18. C
+19. o
+20. n
+21. t
+22. a
+23. c
+24. t
+25. a
+26. r
+27.  
+28. c
+29. o
+30. n
+31.  
+32. P
+33. e
+34. d
+35. r
+36. o
+37.  
+38. R
+39. a
+40. m
+41. o
+42. s
+43.  
+44. p
+45. a
+46. r
+47. a
+48.  
+49. o
+50. b
+51. t
+52. e
+53. n
+54. e
+55. r
+56.  
+57. i
+58. n
+59. f
+60. o
+61. r
+62. m
+63. a
+64. c
+65. i
+66. ó
+67. n
+68.  
+69. s
+70. o
+71. b
+72. r
+73. e
+74.  
+75. c
+76. o
+77. s
+78. t
+79. o
+80. s
+81.  
+82. e
+83. s
+84. p
+85. e
+86. c
+87. í
+88. f
+89. i
+90. c
+91. o
+92. s
+93.  
+94. d
+95. e
+96.  
+97. c
+98. o
+99. n
+100. e
+101. x
+102. i
+103. ó
+104. n
+105.  
+106. a
+107. l
+108.  
+109. b
+110. r
+111. o
+112. k
+113. e
+114. r
+115.  
+116. (
+117. 1
+118. 9
+119. :
+120. 0
+121. 2
+122. )
+123. 
+
+124. I
+125. m
+126. p
+127. l
+128. e
+129. m
+130. e
+131. n
+132. t
+133. a
+134. r
+135.  
+136. f
+137. u
+138. n
+139. c
+140. i
+141. o
+142. n
+143. a
+144. l
+145. i
+146. d
+147. a
+148. d
+149.  
+150. d
+151. e
+152.  
+153. b
+154. ú
+155. s
+156. q
+157. u
+158. e
+159. d
+160. a
+161.  
+162. e
+163. n
+164.  
+165. c
+166. o
+167. n
+168. v
+169. e
+170. r
+171. s
+172. a
+173. c
+174. i
+175. o
+176. n
+177. e
+178. s
+179.  
+180. e
+181. n
+182.  
+183. l
+184. a
+185. s
+186.  
+187. p
+188. r
+189. ó
+190. x
+191. i
+192. m
+193. a
+194. s
+195.  
+196. d
+197. o
+198. s
+199.  
+200. s
+201. e
+202. m
+203. a
+204. n
+205. a
+206. s
+207.  
+208. (
+209. 3
+210. 4
+211. :
+212. 4
+213. 1
+214. )
+215. 
+
+216. C
+217. o
+218. n
+219. f
+220. i
+221. g
+222. u
+223. r
+224. a
+225. r
+226.  
+227. e
+228. l
+229.  
+230. s
+231. i
+232. s
+233. t
+234. e
+235. m
+236. a
+237.  
+238. d
+239. e
+240.  
+241. g
+242. e
+243. s
+244. t
+245. i
+246. ó
+247. n
+248.  
+249. d
+250. e
+251.  
+252. s
+253. i
+254. n
+255. i
+256. e
+257. s
+258. t
+259. r
+260. o
+261. s
+262.  
+263. c
+264. o
+265. n
+266.  
+267. p
+268. a
+269. n
+270. e
+271. l
+272. e
+273. s
+274.  
+275. s
+276. e
+277. p
+278. a
+279. r
+280. a
+281. d
+282. o
+283. s
+284.  
+285. y
+286.  
+287. e
+288. t
+289. i
+290. q
+291. u
+292. e
+293. t
+294. a
+295. s
+296.  
+297. d
+298. e
+299.  
+300. e
+301. s
+302. t
+303. a
+304. d
+305. o
+306.  
+307. (
+308. 4
+309. 1
+310. :
+311. 0
+312. 0
+313. )
+314. 
+
+315. R
+316. e
+317. a
+318. l
+319. i
+320. z
+321. a
+322. r
+323.  
+324. o
+325. n
+326. b
+327. o
+328. a
+329. r
+330. d
+331. i
+332. n
+333. g
+334.  
+335. i
+336. n
+337. c
+338. l
+339. u
+340. y
+341. e
+342. n
+343. d
+344. o
+345.  
+346. c
+347. o
+348. n
+349. e
+350. x
+351. i
+352. o
+353. n
+354. e
+355. s
+356.  
+357. d
+358. e
+359.  
+360. c
+361. e
+362. n
+363. t
+364. r
+365. a
+366. l
+367. i
+368. t
+369. a
+370.  
+371. y
+372.  
+373. W
+374. h
+375. a
+376. t
+377. s
+378. A
+379. p
+380. p
+381.  
+382. (
+383. 4
+384. 3
+385. :
+386. 1
+387. 4
+388. )
+389. 
+
+390. 
+
+391. *
+392. *
+393. U
+394. n
+395. a
+396. s
+397. s
+398. i
+399. g
+400. n
+401. e
+402. d
+403. *
+404. *
+405. 
+
+406. L
+407. i
+408. m
+409. p
+410. i
+411. a
+412. r
+413.  
+414. b
+415. a
+416. s
+417. e
+418.  
+419. d
+420. e
+421.  
+422. d
+423. a
+424. t
+425. o
+426. s
+427.  
+428. d
+429. e
+430. l
+431.  
+432. b
+433. r
+434. o
+435. k
+436. e
+437. r
+438.  
+439. p
+440. a
+441. r
+442. a
+443.  
+444. e
+445. l
+446. i
+447. m
+448. i
+449. n
+450. a
+451. r
+452.  
+453. d
+454. u
+455. p
+456. l
+457. i
+458. c
+459. a
+460. c
+461. i
+462. o
+463. n
+464. e
+465. s
+466.  
+467. d
+468. e
+469.  
+470. c
+471. o
+472. n
+473. t
+474. a
+475. c
+476. t
+477. o
+478. s
+479.  
+480. (
+481. 2
+482. 7
+483. :
+484. 3
+485. 2
+486. )
+487. 
+
+488. D
+489. e
+490. f
+491. i
+492. n
+493. i
+494. r
+495.  
+496. f
+497. l
+498. u
+499. j
+500. o
+501. s
+502.  
+503. d
+504. e
+505.  
+506. t
+507. r
+508. a
+509. b
+510. a
+511. j
+512. o
+513.  
+514. p
+515. a
+516. r
+517. a
+518.  
+519. g
+520. e
+521. s
+522. t
+523. i
+524. ó
+525. n
+526.  
+527. d
+528. e
+529.  
+530. s
+531. i
+532. n
+533. i
+534. e
+535. s
+536. t
+537. r
+538. o
+539. s
+540.  
+541. m
+542. a
+543. n
+544. t
+545. e
+546. n
+547. i
+548. e
+549. n
+550. d
+551. o
+552.  
+553. l
+554. a
+555. s
+556.  
+557. r
+558. e
+559. v
+560. i
+561. s
+562. i
+563. o
+564. n
+565. e
+566. s
+567.  
+568. p
+569. r
+570. o
+571. g
+572. r
+573. a
+574. m
+575. a
+576. d
+577. a
+578. s
+579.  
+580. (
+581. 3
+582. 9
+583. :
+584. 4
+585. 2
+586. )
+587. 
+
+588. C
+589. o
+590. n
+591. f
+592. i
+593. g
+594. u
+595. r
+596. a
+597. r
+598.  
+599. r
+600. e
+601. l
+602. a
+603. c
+604. i
+605. o
+606. n
+607. e
+608. s
+609.  
+610. e
+611. n
+612. t
+613. r
+614. e
+615.  
+616. c
+617. o
+618. n
+619. t
+620. a
+621. c
+622. t
+623. o
+624. s
+625.  
+626. p
+627. a
+628. r
+629. a
+630.  
+631. a
+632. d
+633. m
+634. i
+635. n
+636. i
+637. s
+638. t
+639. r
+640. a
+641. d
+642. o
+643. r
+644. e
+645. s
+646.  
+647. d
+648. e
+649.  
+650. f
+651. i
+652. n
+653. c
+654. a
+655. s
+656.  
+657. y
+658.  
+659. s
+660. u
+661. s
+662.  
+663. c
+664. o
+665. m
+666. u
+667. n
+668. i
+669. d
+670. a
+671. d
+672. e
+673. s
+674.  
+675. (
+676. 2
+677. 9
+678. :
+679. 0
+680. 1
+681. )
+682. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[00:01] 0: Están unidas en el mismo canal haciendo análisis y ya en el momento tengáis la parte de comunicaciones más rodada ya entraríamos en definir estos y si incorporamos.
+
+[16:29] 1: A alguien nuevo al equipo sería fácil.
+
+[16:31] 0: Sí, es añadir usuario nuevo, Sí, sí, en el propio ZOA, no sé si habéis visto ZOA, yo no he visto.
+
+[16:39] 1: ZOA, pero vamos, yo estoy viendo que esto tiene que estar en el broker.
+
+[16:42] 0: Sí o sí, con eso estamos en lo que estuvimos hablando la última vez, ya me comentaste el Coventé, ¿No? Sí, sí, sí, sí. Me llamó Rafa y me dijo es que vamos a hacer con ZOA, de momento no creo que hagamos nada con Coventia, vale, Digo, bueno, Coventia yo no.
+
+[17:22] 1: Lo he visto, pero vamos.
+
+[17:22] 0: Y los de Coventia, tío, que me han escrito a mí me han escrito David, encima es para hacer una demo. Yo lo que os comenté que si queréis grabar reuniones a paso, os conocemos durante años ha estado la mesa de anterior, lo que pasa que eso yo también lo digo, que siempre es bueno que veáis opciones y que con B David Fernández, pero ya veréis que eso por ejemplo solo tiene una parte de WhatsApp. No, tiene todo. Tenemos el 17 de este mes para hacer la aplicación, tenemos ya la API, varios clientes se han pedido ya tenemos con un cliente y nos estamos conectando de con uno. La cuestión, bueno eso seguro que lo sabéis, pero es ebroker, vosotros pagáis como una cuantía porque alguien se conecte a vuestro ebroker, que no sé. Bueno, exactamente, bueno, si conocéis a socios, nosotros tenemos todo. Lo digo, no me quiero mojar porque esto lo que os he contado también tengo mucha vida y antes con Pedro Ramos y con él y con los dos siempre hemos hecho el conejillo de India, oye que necesito esto, tú me puedes tal, tú me puedes ayudar con esto. Por eso te digo que podéis contactar con él, hablar con él que ha vuelto de vacaciones, porque habrá vuelto de vacaciones, le llamaré, digo, está coloques, te escribí por aquello, a ver qué me cuesta, me lo va a contar con claridad.
+
+[19:46] 1: Esto tiene que estar implementado en el.
+
+[19:48] 0: Broker, o sea que vosotros tenéis ya uno con ellos. Claro, ya lleva claro exactamente que han pedido. Claro, es que nos ha pedido los clientes lo mismo y la corredoría y tenemos ya la. Todo esto es la documentación para conectarnos, todo esto es lo que ya tenemos la documentación y tenemos ya un usuario y demás en un entorno de pruebas y ya necesitamos todo lo que tenemos que aprender de memoria para poder me conectar, qué es lo que te dije por teléfono este verano, si quieres que.
+
+[20:23] 1: Te enseñe alguna cosa en el broker te la enseño, o sea salir de esa reunión que os digan que sí, no os digo más, es una orden.
+
+[20:33] 0: Ya con cliente, ya nos han dicho que fenomenal, lo que no me quería mojar es de que el broker con cada correduría pacta un precio diferente, entonces yo sé lo que han pactado con ellos, ya les diré yo el precio, ya te lo diré, porque la otra correduría es enorme y tú eres más pequeñito, te la está metiendo, correcto, pero por lo menos te diré apriétale, dale un par de vueltas, o sea tendremos que pagarles a ellos, digamos la parte del desarrollo es como que como ellos hacen un mantenimiento de esa conexión pues la cobran y básica correduría cobran un dinero que tampoco, yo diría que tampoco es una barbaridad, pero si nosotros ya.
+
+[21:24] 1: Tuviéramos contratado con vosotros fuera de broker antes de que vosotros acabéis con el.
+
+[21:29] 0: Broker, no es por el hecho de conectarnos, no es por el hecho de conectarnos, es por el hecho de que al final nosotros nos conectamos a vuestra base de datos y digamos que ellos por mantener esa conexión os cobran un dinero.
+
+[21:41] 1: Ah vale, vale, bueno yo que sé, a mí me da igual, mira que pues cobre lo que quiera, yo lo que quiero es tener esto.
+
+[21:48] 0: Es anual y no es mucho.
+
+[21:54] 1: Pero miros no.
+
+[21:55] 0: Hombre, entre mil y dos mil te.
+
+[21:57] 1: Voy a poner un poco de coña.
+
+[21:58] 0: Que no es nuevo porque esa corriente seguro que es el triple grande que.
+
+[22:03] 1: Nos Un beso, seguro, eso tiene que ser por números.
+
+[22:06] 0: Clientes A lo que voy, al final es, bueno aquí se ven más menús que vosotros veríais. Administrador correcto, al final esto por ejemplo, fijaros a nivel de conversaciones, comunicaciones, todo el tema de WhatsApp, entonces aquí llegan todos los WhatsApp y lo bueno que tiene en la parte de WhatsApp que tenemos es que conforme llegan se asignan.
+
+[25:55] 1: Con datos a clientes, no, lo que.
+
+[25:58] 0: Has dicho antes, candidatos y clientes.
+
+[26:00] 1: Ah vale, OK, candidatos también vale, vale.
+
+[26:02] 0: Separado por personas o empresas. Correcto, separado por personas o empresas y luego pues aquí volquearemos esa base de datos para tenerla sincronizada con la parte de luego en la ficha de cada cliente pues te pongo la información general, los teléfonos, el correo electrónico.
+
+[26:20] 1: Correcto.
+
+[26:20] 0: Esta es la parte que estamos conectando.
+
+[26:22] 1: Ahora con Europeo y Volcáis también los clientes que han sido clientes y ya no están. Como que.
+
+[26:30] 0: Si luego te llaman ya sabes que era Pepe.
+
+[26:33] 1: Vale, vale, perfecto. Es que por eso lo digo, o.
+
+[26:35] 0: Quieres reconectar o relanzar la parte que tengo ahora dudas y en esta conexión que vamos a hacer ahora veré un poco cómo solventarlo. Es que por experiencia las bases de datos nbroker están sucias porque hay una problemática que es en el broker, si tú puedes guardar en dos contactos distintos, puedes guardar el mismo número de teléfono. Nada te impide no guardar que los.
+
+[26:58] 1: Nada te lo impide. Y el mismo correo, de hecho nosotros lo tenemos por las comunidades.
+
+[27:02] 0: Entonces conforme me empiecen a llegar aquí, esto empieza a reventar, porque al final aquí lo que se necesita es como en tu teléfono móvil. En tu teléfono móvil cuando te llama alguien no aparecen cinco nombres, aparece uno porque tú tienes un nombre y un número de teléfono.
+
+[27:17] 1: Pero por ejemplo con los administradores de fincas, si un administrador de fincas tiene aquí 10 comunidades, está el mismo mail.
+
+[27:24] 0: Pero eso hay que resolverlo de otra manera. Tú realmente cuando ese administrador de fincas te llama, te llama, él se llamará Javier o como se llame. Entonces ahí tú tienes la ficha de cliente de Javier con su número de teléfono y si tú quieres asociar otros clientes a ese Javier, porque son las diferentes comunidades, aquí la parte de añadir, entonces añadimos esa comunidad y decimos qué relación tiene, si es hijo, hermana, si es una comunidad, podríamos poner ahora comunidad y se crea una nueva relación. De esta manera, De esta manera.
+
+[28:09] 1: Yo te entiendo lo que estás diciendo. No sigas porque yo ya te entendí. Yo el problema que yo veo es que tengo que dar de alta a un cliente que es el administrador de fincas o no puede ser ya un ente comercial que es un colaborador y yo a ese colaborador le asigno todas las comunidades.
+
+[28:24] 0: Sí, la cuestión al final es que el número y el mail lo tiene que tener un contacto, el que tú quieras, lente comercial o lo que. Igual que creamos personas, creamos empresas. Pero porque es realmente al final cuando a ti te está llamando ese número de teléfono, no te está llamando la comunidad.
+
+[28:44] 1: No, no, no.
+
+[28:46] 0: Entonces ese número tiene que estar asociado al administrador para qué para que cuando te sale la llamada te va a salir aquí y ahí no tiene que salir Comunidad Pepe, porque de Comunidad Pepe no te están llamando, te está llamando Javier, administrador de fincas. ¿Sabes un poco a lo que vamos?
+
+[29:03] 1: Sí, sí, perfectamente.
+
+[29:04] 0: Y esto no sé cómo lo vamos a hacer, por limpiando la base de datos, que ya tenemos experiencia y es como muy arduo, pero también os viene muy bien a vosotros porque finalmente tenéis.
+
+[29:15] 1: Un pues a mí dime ya lo que tengo que hacer, que lo voy a empezar a hacer.
+
+[29:17] 0: Vale, pues vamos a empezar y me.
+
+[29:19] 1: Vas a pagar por hacerlo, porque eso.
+
+[29:22] 0: Es un curro realmente lo tendréis que hacer vosotros para limpiar vosotros la base de datos.
+
+[29:27] 1: No, yo la tengo muy limpia, no me estáis complicando la vida vosotros, yo la tengo muy bien.
+
+[29:31] 0: Hombre, pues si está muy limpia no hay que hacer nada.
+
+[29:34] 1: A ver, está bien pensado porque tiene todo el sentido que de ahí a esa persona asignemos todos los clientes que tiene, que para él son clientes. Pero claro, a ver cómo lo hacemos, porque cuando entra una llamada de ese Javier administrador de finca Admirasa, por ejemplo, cuando entra una llamada de Admirasa, Admirasa tiene 15 compañías.
+
+[29:55] 0: ¿Comunidad de San Me dirá de qué.
+
+[29:57] 1: Comunidad es en esa conversación no?
+
+[30:00] 0: Vale, pero ahora mismo qué es lo que ocurre, o sea, él te habla.
+
+[30:04] 1: Lo mismo o me manda un mail y me dice Ah, esto también te lo quería preguntar, que no se me olvide lo del mail, él me manda un mail y me dice en la comunidad Pepito loco ha habido un siniestro y se ha caído una bajante, yo que sé, me da igual lo que sea. Entonces claro, nosotros ya entramos en el broker y buscamos esa comunidad.
+
+[30:19] 0: Sí, básicamente esto es más lógico que estar duplicando datos.
+
+[30:24] 1: Sí, sí, está claro, tiene más lógica.
+
+[30:27] 0: La cuestión es que por facilidad, porque cuando buscas la comunidad quieres que te aparezca ahí el mail y entonces se ha ido duplicando, pero luego allí, porque como no tiene sistemas de. ¿Si te llega un mail dices vale, y si ese mail lo tengo en 40 sitios, es en plan de quién me ha llegado el mail?
+
+[30:43] 1: ¿De cuál de estos 40 contactos siempre pone el nombre de la comunidad porque.
+
+[30:47] 0: Te está llamando Pedro, Pedro es Pedro y Pedro me manda un mail, luego me escribe ya sobre lo que le apetezca?
+
+[30:54] 1: Otra pregunta que tenía que la del mail. Sí, o sea, a nosotros nos pueden entrar WhatsApp o llamadas, pero los mails también. Es que no me había quedado claro.
+
+[31:04] 0: Sí, sí, la email también tenéis Outlook. Sí, sí, sí, claro, se conecta con cada usuario, conecta su Outlook y es sincronización directa. Lo que hagáis aquí se ve en vuestro Outlook, o sea, podríais tener una pestaña de Outlook abierta y si se mandan mails desde aquí se ven en vuestro Outlook y si mandáis mails en vuestro Outlook se ven aquí. Si cambiáis de estado a no leído, leído en vuestro Outlook se replica aquí y al revés. Unificar todas las comunicaciones en esta plataforma, llamadas, emails. Nosotros solemos empezar primero por la parte de llamadas y de WhatsApp, porque es un cambio un poco más. Bueno, la parte de llamadas sí que estamos acostumbrados porque antes centraliza, entonces no es un cambio tan gordo, por eso enseguida también. Pero el tema de WhatsApp sí que es un cambio más fuerte de cómo lo trabajáis ahora a cómo se trabaja aquí. Entonces, con lo que primero empezamos y luego el mail, como no deja de ser una copia, pues es lo último que metemos. Bueno, pues eso que tenemos luego a nivel de los contactos, qué ha sucedido, qué archivos ha enviado. Eso es una de las cosas que tienes que. Lo que nos vamos a interconectar con Ebrok es la ficha de contacto, lo que viene siendo que podamos a nivel de detalle, más o menos. Claro, es eso, sí esto es lo que vamos a. Y luego a nivel de documentos estáis jodidos todavía. Lo otro, poder todos los mensajes ponerlos ahí, pero en principio lo que vamos a interconectarnos es esto a nivel de WhatsApp y eso, lo que son las conversaciones en principio no, porque eso puede ser una barbaridad de información, pero eso ya un poco lo que vosotros queráis. Eso no lo tenéis todavía con ellos. Puede ser que sea lo que Coventia va a hacer. No, no, si solo da igual. Si realmente Coventia al final entiendo yo que va a hacer lo mismo. Ellos también tienen su propia. Ellos tienen esto.
+
+[33:04] 1: O sea, sois mejores vosotros en Coventia.
+
+[33:06] 0: Claro, ellos solo tienen WhatsApp, ellos lo tienen en esta pantalla, échales un vistazo si quieres hacer la reunión.
+
+[33:10] 1: No, no, yo paso, me da igual.
+
+[33:16] 0: A esto y solo esto no tiene. No, se van a quedar guardadas en la ficha del cliente. Eso es lo que Vd. Me dirá.
+
+[33:26] 1: Estaría muy bien.
+
+[33:30] 0: Para que yo le meta un Es un poco lo que vosotros queráis y al final, como yo lo concibo a nivel tecnología y sabiendo un poco cómo funciona todo, es que en el broker al final es vuestro ERP y ahí es donde tenéis toda la gestión de las pólizas, que al final es lo importante. Quién son mis clientes, qué pólizas tengo con ellos.
+
+[34:03] 1: Los recibos.
+
+[34:06] 0: Cualquier cosa. Pues la tienes aquí guardada.
+
+[34:08] 1: Claro, es que está aquí guardada.
+
+[34:09] 0: Ya no lo trabajo con vosotros el año que viene. ¿Pues te lo traslado a donde?
+
+[34:13] 1: Esto es lo que quieren, ser indispensables como el broker. Si, yo lo entiendo. Es lo único que tenéis en común.
+
+[34:19] 0: Es que tienes una empresa indispensable para ser persíntivo.
+
+[34:28] 1: No me jubile mañana.
+
+[34:32] 0: Nos portaríamos donde tú quisieras en su momento. Como si luego al final acaba cambiando a Coventia y te quiere llevar todas las conversaciones a Coventia, pues venimos como traspasárselas. Pero sí que es verdad que no veo muy práctico porque se te va a llenar de broker, luego te va a ser muy difícil de gestionarme. La voy a tener ahí, voy a consultar ahí. Más que nada porque aquí tienes las fechas, quién lo ha mandado y lo voy a tener siempre ahí.
+
+[34:57] 1: Y no se puede eliminar nada. No se puede eliminar.
+
+[35:01] 0: Por eso hace cuatro meses hablando por WhatsApp te metes historial y está la.
+
+[35:06] 1: Historia de ahí mira que fulanito, hace cuatro meses me escribiste porque querías un seguro de vida.
+
+[35:12] 0: Y hay una cosa que nos falta, que en dos semanas ya lo tendremos, por cierto. Eso sí, con 20 sí que lo tiene. Es un buscador de conversación en plan que yo quiero buscar por una palabra.
+
+[35:23] 1: Ah, importantísimo.
+
+[35:24] 0: Claro, eso en dos semanas.
+
+[35:26] 1: Eso está muy bien.
+
+[35:27] 0: Sí, pero aquí sabes cuándo han establecido, cuándo han establecido o se han cambiado el estado, cuándo han cambiado la situación.
+
+[35:36] 1: Sí, es un histórico, como el broker tiene un histórico, tú cada vez que haces algo en el broker se queda en el histórico marcado quién lo ha hecho, cuando lo ha hecho, fecha, todo.
+
+[35:43] 0: Qué cambio ha habido. Claro, para saber qué ha pasado, todas estas actividades es donde nosotros, en el gestor de actividades te van a salir, oye, tienes todo esto en reposo y con un clic de más mandas un WhatsApp, mandas un email, otro. En cambio, tienes que irte fuera, salirte, mandar un mensaje, activas el número y le das a llamar, me preocupa una.
+
+[39:48] 1: Cosa, los siniestros en el broker tienen una fecha de revisión. No se genera una tarea, se genera una fecha de revisión. Cuando das de alta un siniestro por primera vez al cliente, nosotros tenemos un mail automático que le salta con el número de siniestro y ya le decimos si va a ir reparador o perito. Imagínate que es una cosa urgente. Nosotros al día siguiente lo revisamos y lo tenemos programado para que cuando son cosas de comunidades no salten a los tres días, si es de auto, no salten, no sé, al día siguiente. Y María José, sí, eso es otra cosa, pero María José lo que hace es que diariamente entra en esos substats, en esas revisiones. Entonces, a mí eso me preocupa que con esto lo perdamos.
+
+[40:34] 0: No, lo que haríamos es este flujo que hemos hecho antes, pero así como el que os he explicado antes es el de iniciar un proyecto y emitir una póliza, definiríamos cómo queréis vuestro lugar de siniestros. Y nosotros luego tenemos el otro panel, tenemos dos paneles, tenemos las comunicaciones y el histórico de contacto, de todo lo que pasa sobre el contacto. Y luego tenemos aquí, aparte de las actividades, y esas actividades siempre se dividen o en temas de venta o en temas de gestión. En temas de venta en el dólar, en temas de gestión es este panel. Y en un país igual. Al final lo que hemos hecho es todo lo que entra nuevo, si el llamado y lo contesta, gestión de las revoluciones, gestión de los realizados.
+
+[41:13] 1: Que a ella le saldría en gestión de siniestros al día.
+
+[41:17] 0: Y podríamos ir estableciendo esas etiquetas en plan primera revisión, segunda revisión, Van cambiando.
+
+[41:23] 1: No sé cómo trabaja la comunidad con la que estáis mirando, pero es la forma más fácil de trabajar en el broker. Entonces, no sé si lo harán igual.
+
+[41:30] 0: Pero eso sí que es importante, que.
+
+[41:32] 1: No hemos creado unos subestados que viene a decir.
+
+[42:08] 0: Pero le pagan, pero el.
+
+[42:10] 1: Amortador recibe ella cuando revisa siniestro, enviado reparadores, o está en gestión de pericación, lo que sea. Entonces el administrador o cliente está todo el rato en contacto con la compañía sabiendo en qué momento está su siniestro.
+
+[42:29] 0: Pero aquí incluso lo podréis hacer ya por WhatsApp.
+
+[42:34] 1: Claro, pero como hablamos de muchos ministros de comunidad, el administrador si recibe un WhatsApp, no sé, yo no tengo mucho, no lo tengo claro. Se comunica mejor por mail que por WhatsApp.
+
+[42:57] 0: Es diferente, no le llega tanto la gente. Tenemos amigos de administradores que gestionan todo por WhatsApp. Yo por ejemplo, a mi administrador de mi finca, ayer que vi el ascensor, no sé qué le manden WhatsApp.
+
+[43:14] 1: Sí, nosotros también.
+
+[43:15] 0: Entonces al final es más fácil para yo reenviar.
+
+[43:18] 1: Hay algunos que son un poco más.
+
+[43:19] 0: ¿Qué prefieres? ¿Qué ves más?
+
+[43:24] 1: A ver, poco a poco todos van teniendo un mil de siniestros y un móvil para.
+
+[43:31] 0: WhatsApp a cliente final y persona WhatsApp email cada vez menos, es.
+
+[43:45] 1: Que va, que buena. Y Dani y yo que ya tenemos, es como, coño, todas las fotos por WhatsApp, o por lo menos no que nos haga el tapete de fondo.
+
+[47:09] 0: Implementamos y empezamos ya el onboarding. Principalmente es hacer las conexiones de la centralita, la conexión del WhatsApp y demás y luego ya configurar esta una cosa que era, creo que lo preguntamos, cada uno tiene su móvil, ¿Qué hacemos con eso? ¿Eso inicialmente lo que se hace es.
+
+[47:37] 1: Que le van a seguir llamando ahí, no?
+
+[47:41] 0: Esto es lo mismo que os he dicho a vosotros antes, vosotros no lo quitaréis, pero en el futuro se le puede quedar, que es.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

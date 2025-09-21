@@ -1,0 +1,1236 @@
+================================================================================
+DEMO/REUNIÓN: GESTECO <> ZOA 2.0
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 05/09/2025 a las 12:30
+⏱️ Duración: 30.350000381469727 segundos (0.5 minutos)
+👥 Participantes: venancio.gesteco@ruizre.es, alejandro@zoasuite.com
+
+🔑 PALABRAS CLAVE:
+--------------------
+WhatsApp, automatizaciones, base-datos, formularios, influencer-marketing, integración-API
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. J
+5. o
+6. s
+7. e
+8.  
+9. M
+10. a
+11. n
+12. u
+13. e
+14. l
+15.  
+16. A
+17. u
+18. s
+19. i
+20. n
+21. *
+22. *
+23. 
+
+24. P
+25. r
+26. o
+27. g
+28. r
+29. a
+30. m
+31. a
+32. r
+33.  
+34. r
+35. e
+36. u
+37. n
+38. i
+39. ó
+40. n
+41.  
+42. c
+43. o
+44. n
+45.  
+46. e
+47. l
+48.  
+49. e
+50. q
+51. u
+52. i
+53. p
+54. o
+55.  
+56. c
+57. o
+58. m
+59. e
+60. r
+61. c
+62. i
+63. a
+64. l
+65.  
+66. e
+67. l
+68.  
+69. m
+70. a
+71. r
+72. t
+73. e
+74. s
+75.  
+76. p
+77. a
+78. r
+79. a
+80.  
+81. e
+82. v
+83. a
+84. l
+85. u
+86. a
+87. r
+88.  
+89. p
+90. r
+91. o
+92. b
+93. l
+94. e
+95. m
+96. a
+97. s
+98.  
+99. e
+100. s
+101. p
+102. e
+103. c
+104. í
+105. f
+106. i
+107. c
+108. o
+109. s
+110.  
+111. c
+112. o
+113. n
+114.  
+115. W
+116. h
+117. a
+118. t
+119. s
+120. A
+121. p
+122. p
+123.  
+124. (
+125. 1
+126. 0
+127. :
+128. 2
+129. 3
+130. )
+131. 
+
+132. R
+133. e
+134. v
+135. i
+136. s
+137. a
+138. r
+139.  
+140. c
+141. o
+142. n
+143. v
+144. e
+145. r
+146. s
+147. a
+148. c
+149. i
+150. o
+151. n
+152. e
+153. s
+154.  
+155. e
+156. x
+157. i
+158. s
+159. t
+160. e
+161. n
+162. t
+163. e
+164. s
+165.  
+166. d
+167. e
+168.  
+169. W
+170. h
+171. a
+172. t
+173. s
+174. A
+175. p
+176. p
+177.  
+178. p
+179. a
+180. r
+181. a
+182.  
+183. i
+184. d
+185. e
+186. n
+187. t
+188. i
+189. f
+190. i
+191. c
+192. a
+193. r
+194.  
+195. p
+196. u
+197. n
+198. t
+199. o
+200. s
+201.  
+202. d
+203. e
+204.  
+205. m
+206. e
+207. j
+208. o
+209. r
+210. a
+211.  
+212. e
+213. n
+214.  
+215. e
+216. l
+217.  
+218. f
+219. l
+220. u
+221. j
+222. o
+223.  
+224. (
+225. 0
+226. 9
+227. :
+228. 2
+229. 7
+230. )
+231. 
+
+232. C
+233. o
+234. m
+235. p
+236. a
+237. r
+238. t
+239. i
+240. r
+241.  
+242. a
+243. c
+244. c
+245. e
+246. s
+247. o
+248.  
+249. a
+250. l
+251.  
+252. s
+253. i
+254. s
+255. t
+256. e
+257. m
+258. a
+259.  
+260. d
+261. e
+262.  
+263. a
+264. u
+265. t
+266. o
+267. m
+268. a
+269. t
+270. i
+271. z
+272. a
+273. c
+274. i
+275. o
+276. n
+277. e
+278. s
+279.  
+280. p
+281. a
+282. r
+283. a
+284.  
+285. p
+286. e
+287. r
+288. s
+289. o
+290. n
+291. a
+292. l
+293. i
+294. z
+295. a
+296. c
+297. i
+298. ó
+299. n
+300.  
+301. (
+302. 1
+303. 2
+304. :
+305. 4
+306. 0
+307. )
+308. 
+
+309. E
+310. n
+311. v
+312. i
+313. a
+314. r
+315.  
+316. c
+317. o
+318. r
+319. r
+320. e
+321. o
+322.  
+323. c
+324. o
+325. n
+326.  
+327. r
+328. e
+329. s
+330. u
+331. m
+332. e
+333. n
+334.  
+335. d
+336. e
+337.  
+338. t
+339. o
+340. d
+341. o
+342. s
+343.  
+344. l
+345. o
+346. s
+347.  
+348. p
+349. u
+350. n
+351. t
+352. o
+353. s
+354.  
+355. d
+356. i
+357. s
+358. c
+359. u
+360. t
+361. i
+362. d
+363. o
+364. s
+365.  
+366. (
+367. 1
+368. 7
+369. :
+370. 2
+371. 7
+372. )
+373. 
+
+374. C
+375. o
+376. o
+377. r
+378. d
+379. i
+380. n
+381. a
+382. r
+383.  
+384. c
+385. o
+386. n
+387.  
+388. e
+389. s
+390. p
+391. e
+392. c
+393. i
+394. a
+395. l
+396. i
+397. s
+398. t
+399. a
+400.  
+401. S
+402. E
+403. O
+404.  
+405. p
+406. a
+407. r
+408. a
+409.  
+410. i
+411. m
+412. p
+413. l
+414. e
+415. m
+416. e
+417. n
+418. t
+419. a
+420. r
+421.  
+422. f
+423. o
+424. r
+425. m
+426. u
+427. l
+428. a
+429. r
+430. i
+431. o
+432. s
+433.  
+434. Z
+435. O
+436. A
+437.  
+438. e
+439. n
+440.  
+441. l
+442. a
+443.  
+444. w
+445. e
+446. b
+447.  
+448. (
+449. 1
+450. 8
+451. :
+452. 4
+453. 7
+454. )
+455. 
+
+456. C
+457. o
+458. n
+459. t
+460. a
+461. c
+462. t
+463. a
+464. r
+465.  
+466. c
+467. o
+468. n
+469.  
+470. i
+471. n
+472. f
+473. o
+474. r
+475. m
+476. á
+477. t
+478. i
+479. c
+480. o
+481.  
+482. d
+483. e
+484.  
+485. R
+486. e
+487. a
+488. d
+489. r
+490. e
+491.  
+492. p
+493. a
+494. r
+495. a
+496.  
+497. i
+498. n
+499. t
+500. e
+501. g
+502. r
+503. a
+504. c
+505. i
+506. ó
+507. n
+508.  
+509. A
+510. P
+511. I
+512.  
+513. (
+514. 1
+515. 7
+516. :
+517. 1
+518. 0
+519. )
+520. 
+
+521. C
+522. r
+523. e
+524. a
+525. r
+526.  
+527. f
+528. o
+529. r
+530. m
+531. u
+532. l
+533. a
+534. r
+535. i
+536. o
+537. s
+538.  
+539. d
+540. e
+541.  
+542. M
+543. e
+544. t
+545. a
+546.  
+547. p
+548. a
+549. r
+550. a
+551.  
+552. a
+553. c
+554. t
+555. u
+556. a
+557. l
+558. i
+559. z
+560. a
+561. c
+562. i
+563. ó
+564. n
+565.  
+566. d
+567. e
+568.  
+569. d
+570. a
+571. t
+572. o
+573. s
+574.  
+575. d
+576. e
+577.  
+578. c
+579. l
+580. i
+581. e
+582. n
+583. t
+584. e
+585. s
+586.  
+587. (
+588. 1
+589. 6
+590. :
+591. 0
+592. 5
+593. )
+594. 
+
+595. 
+
+596. *
+597. *
+598. J
+599. o
+600. s
+601. é
+602.  
+603. V
+604. e
+605. n
+606. a
+607. n
+608. c
+609. i
+610. o
+611.  
+612. M
+613. a
+614. r
+615. t
+616. í
+617. n
+618. e
+619. z
+620.  
+621. I
+622. n
+623. i
+624. e
+625. s
+626. t
+627. a
+628. *
+629. *
+630. 
+
+631. P
+632. r
+633. o
+634. p
+635. o
+636. r
+637. c
+638. i
+639. o
+640. n
+641. a
+642. r
+643.  
+644. d
+645. a
+646. t
+647. o
+648. s
+649.  
+650. d
+651. e
+652.  
+653. c
+654. o
+655. n
+656. t
+657. a
+658. c
+659. t
+660. o
+661.  
+662. d
+663. e
+664. l
+665.  
+666. i
+667. n
+668. f
+669. o
+670. r
+671. m
+672. á
+673. t
+674. i
+675. c
+676. o
+677.  
+678. d
+679. e
+680.  
+681. R
+682. e
+683. a
+684. d
+685. r
+686. e
+687.  
+688. p
+689. a
+690. r
+691. a
+692.  
+693. i
+694. n
+695. t
+696. e
+697. g
+698. r
+699. a
+700. c
+701. i
+702. ó
+703. n
+704.  
+705. A
+706. P
+707. I
+708.  
+709. (
+710. 1
+711. 7
+712. :
+713. 1
+714. 0
+715. )
+716. 
+
+717. D
+718. e
+719. f
+720. i
+721. n
+722. i
+723. r
+724.  
+725. i
+726. n
+727. f
+728. o
+729. r
+730. m
+731. a
+732. c
+733. i
+734. ó
+735. n
+736.  
+737. e
+738. x
+739. a
+740. c
+741. t
+742. a
+743.  
+744. n
+745. e
+746. c
+747. e
+748. s
+749. a
+750. r
+751. i
+752. a
+753.  
+754. p
+755. a
+756. r
+757. a
+758.  
+759. f
+760. o
+761. r
+762. m
+763. u
+764. l
+765. a
+766. r
+767. i
+768. o
+769. s
+770.  
+771. d
+772. e
+773.  
+774. a
+775. c
+776. t
+777. u
+778. a
+779. l
+780. i
+781. z
+782. a
+783. c
+784. i
+785. ó
+786. n
+787.  
+788. d
+789. e
+790.  
+791. d
+792. a
+793. t
+794. o
+795. s
+796.  
+797. d
+798. e
+799.  
+800. c
+801. l
+802. i
+803. e
+804. n
+805. t
+806. e
+807. s
+808.  
+809. (
+810. 1
+811. 5
+812. :
+813. 0
+814. 0
+815. )
+816. 
+
+817. T
+818. o
+819. m
+820. a
+821. r
+822.  
+823. d
+824. e
+825. c
+826. i
+827. s
+828. i
+829. ó
+830. n
+831.  
+832. f
+833. i
+834. n
+835. a
+836. l
+837.  
+838. s
+839. o
+840. b
+841. r
+842. e
+843.  
+844. u
+845. s
+846. o
+847.  
+848. d
+849. e
+850.  
+851. W
+852. h
+853. a
+854. t
+855. s
+856. A
+857. p
+858. p
+859.  
+860. t
+861. r
+862. a
+863. s
+864.  
+865. r
+866. e
+867. u
+868. n
+869. i
+870. ó
+871. n
+872.  
+873. c
+874. o
+875. n
+876.  
+877. e
+878. q
+879. u
+880. i
+881. p
+882. o
+883.  
+884. e
+885. l
+886.  
+887. l
+888. u
+889. n
+890. e
+891. s
+892.  
+893. (
+894. 0
+895. 7
+896. :
+897. 3
+898. 3
+899. )
+900. 
+
+901. C
+902. o
+903. o
+904. r
+905. d
+906. i
+907. n
+908. a
+909. r
+910.  
+911. c
+912. o
+913. n
+914.  
+915. e
+916. s
+917. p
+918. e
+919. c
+920. i
+921. a
+922. l
+923. i
+924. s
+925. t
+926. a
+927.  
+928. S
+929. E
+930. O
+931.  
+932. p
+933. a
+934. r
+935. a
+936.  
+937. c
+938. a
+939. m
+940. b
+941. i
+942. o
+943.  
+944. d
+945. e
+946.  
+947. f
+948. o
+949. r
+950. m
+951. u
+952. l
+953. a
+954. r
+955. i
+956. o
+957. s
+958.  
+959. w
+960. e
+961. b
+962.  
+963. (
+964. 1
+965. 9
+966. :
+967. 3
+968. 1
+969. )
+970. 
+
+971. E
+972. v
+973. a
+974. l
+975. u
+976. a
+977. r
+978.  
+979. e
+980. s
+981. t
+982. r
+983. a
+984. t
+985. e
+986. g
+987. i
+988. a
+989.  
+990. d
+991. e
+992.  
+993. i
+994. n
+995. f
+996. l
+997. u
+998. e
+999. n
+1000. c
+1001. e
+1002. r
+1003.  
+1004. m
+1005. a
+1006. r
+1007. k
+1008. e
+1009. t
+1010. i
+1011. n
+1012. g
+1013.  
+1014. c
+1015. o
+1016. m
+1017. o
+1018.  
+1019. a
+1020. l
+1021. t
+1022. e
+1023. r
+1024. n
+1025. a
+1026. t
+1027. i
+1028. v
+1029. a
+1030.  
+1031. a
+1032.  
+1033. c
+1034. a
+1035. m
+1036. p
+1037. a
+1038. ñ
+1039. a
+1040. s
+1041.  
+1042. M
+1043. e
+1044. t
+1045. a
+1046.  
+1047. (
+1048. 2
+1049. 6
+1050. :
+1051. 0
+1052. 1
+1053. )
+1054. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[02:34] 0: No conectaba. Vale, perfecto. No te preocupes, no te preocupes porque es que esta mañana le lleva a ello toda la mañana. No te preocupes. Te lo decía más que nada porque justo a Laura tenía. Tenía otra y era para tener un poco de. La han cambiado y nada, estoy intentando que entrenando. A ver, yo ya me meto en una vorágine y no acabo hasta las 6, pero si luego quieres a las 6, seis y pico podemos quedar. Te quería enseñar el tema de automatizaciones para que lo diésemos juntos y que hablásemos también de lo otro que estuvimos comentando.
+
+[03:41] 1: Están los ruletas de estación.
+
+[03:45] 0: Sí, porque con el móvil te tiene.
+
+[03:46] 1: Que dejar.
+
+[03:49] 0: Al niño y accidente, pero es incómodo. Con el móvil no, me refiero, si tú compartes tu red con el ordenador para que tenga la wifi desde tu móvil. Perfecto. ¿Estás en la de Murcia? No, no estás en la de Torre. No te preocupes, conéctate. Yo estoy ya en la reunión. Ahí está, perfecto. José, ¿Qué tal anuncio ¿Me oye? Ahora sí te digo y te veo bien.
+
+[04:57] 1: Vale, perfecto.
+
+[05:00] 0: Lo del móvil nunca falla.
+
+[05:01] 1: Ya te digo yo es que me da rabia porque al final la comodidad la tengo con el portátil de poder hacer las cosas bien.
+
+[05:09] 0: Sí.
+
+[05:19] 1: Es sorprendente que una wifi 5g vaya mejor que ¿Por qué salgo aquí partido? Porque sale si estoy delante de ordenador estoy raro porque tú me ves bien ahora.
+
+[05:35] 0: Ya está.
+
+[05:36] 1: Vale, vale, ya estoy. No tenía esto, no estaba expandido. Vale, estoy.
+
+[05:42] 0: Tranquilo, no me preocupes que estas cosas pasan. La idea sobre todo es hacer un poco de lo que seguimiento y siguientes pasos que vamos a hacer en la parte de ZOA, que también estés tú informado y sobre todo lo que me vayas diciendo. Por ejemplo, en la próxima semana vamos a localizar toda la parte de WhatsApp, que hay algunos problemillas y tal, así de unos bugs y ya va a estar más.
+
+[06:11] 1: Te comento un poco las chicas con respecto a WhatsApp que me acabas de dar, justo la primera cosa, las chicas me trataban que lo de WhatsApp no les parece ágil con los clientes y es la única parte, el resto fetén todo, están contentísimas. Bueno, es verdad que las llamadas la hacen por Wildy porque le es más cómodo al parecer el tema de marcación o no sé qué historia, pero bueno, también dice que esos problemas lo podrían hacer por Zoa, solo que se han acostumbrado un poco a Wildy y dice que ahí le es un poco más cómodo, pero bueno, la única cosa, pero dice que WhatsApp ven no les es ágil porque tienen que entrar, ver la conversación de la otra forma, el móvil de suena lo tienen aquí, digamos que como lo ven muchísimo más rápido y más ágil. Mira, lo único que te diría José es que bueno, han quedado en hablar ella el lunes que ya se incorporan todas y tomaron una decisión porque yo quiero que estéis cómodas, pero lo que no quiero es que tengamos esto, no estéis cómodas, no me lo digáis o no tomemos acción. Es que yo lo estoy comentando aquí, es que es verdad que el móvil lo tiene tan a mano, pone WhatsApp web, lo está viendo en el momento todo, hay una pantalla tal, dice, es como súper fácil y la otra fórmula no llegamos, no es lo ágil que quisiéramos, Dice que ya sabíamos que no era ágil, dice, pero al final la tendencia es buscar la comodidad y es que la comodidad nos viene como lo teníamos antes. Vale, ella me ha dicho que dice si me obliga a hacerlo, pues vale, pues lo haré, pero es que estamos retrasándonos para algo que digo, hombre ya lo que pasa es que perdemos justo el tema de tener las conversaciones por un solo canal, tener aguardada tal. Me dice, bueno pues eso supésalo tú, si quieres que lo hagamos lo vamos a hacer, pero no lo vemos.
+
+[07:56] 0: También es una cosa que lo que bien dices, uno tienes que hacer una mezcla entre que sea usable y les haga bien y aparte tener control y automatizar, si lo pasas a WhatsApp web te quitas lo de la automatización que vamos a ver ahora y aparte entender de verdad qué es lo que hayas limitado, porque ya te digo que otras corredurías lo que hacen todo lo contrario viene muy bien. Entonces quería juntarme también con ellas igual el lunes o el martes, igual más el martes, para ver ese feedback, que nos digan dónde es, qué sucede, porque hay plantillas de buenas tardes, buenos días, que tú puedes y no es la gente al final se acostumbra, hola, buenos días, qué tal estás, hola, buenas tardes, y tú sigues escribiendo a continuación como te seguía diciendo, hay plantillas tipo que tenemos que hacen que las conversaciones sean igual de fluidas. ¿Qué sucede? Podemos ver, no sé si a lo.
+
+[08:53] 1: Mejor aquí, como se trata de inician la conversación con un cliente y hasta que no les contesta, a lo mejor no pueden seguir enviándole cosas, a lo mejor eso les frena, no lo sé, me lo invento. Si a lo mejor quieren pasar, yo le digo, pasen la oferta a este cliente e inician, oye, buenas tardes, te mando la oferta. Hasta que no se lo manda. Claro, ya la tarea se queda pendiente porque no puede decir tomando esto y toma el PDF lo otro, papá, papá, papá, papá, toma. No lo sé si esto lo puede.
+
+[09:23] 0: Claro, claro.
+
+[09:23] 1: Ah, se puede. No sé si el problema puede venir por ahí o.
+
+[09:27] 0: Por eso yo si quieres voy a mirar varias conversaciones, voy a ver cómo la gestionan y voy a ver qué cosas podemos modificar y cambiar para que se haga más fluido. Intentar hacer un seguimiento con todo el equipo para que lo utilicen y veamos de verdad si es porque no les contestan o porque igual lo que dices tú, la tendencia es todo el día con el móvil, pues me tiro con el móvil. Pero al final pierdes esa parte de tener todo en un lado, ir mejorando con las mejoras que estamos poniendo de previsualización, cargar archivos, automatizaciones. Me lo apunto, voy a revisar eso. Y al final incluso te digo, es encontrar que ellos estén cómodos, porque hay otra opción que es poner el WhatsApp web también dentro de ZOA, pero te quitaría, tendrías ya como dos números, pero al final lo chulo es tener uno y centralizado ya.
+
+[10:23] 1: Vale, venga, pues eso, que parece tratarlo tú un poco con ellas, que a lo mejor te dirán el por qué o qué es lo que notan. Vale, perfecto.
+
+[10:34] 0: Porque justo la última vez que estuvimos hablando me dijiste, oye, vamos a arrancar otra vez el tema de automatización de WhatsApp, que ahora ya va bastante más fluido y más fino y nosotros estamos creando por cada uno de los clientes. Te voy a compartir pantalla y te lo voy a compartir a ti para que tú también puedas ver si me sale, que esto es lo que vimos al principio, ¿Te acuerdas? El tema de automatizaciones.
+
+[11:02] 1: Correcto.
+
+[11:03] 0: Vale. Tú me comentas el otro día, oye José, vamos a ver el tema de automatizaciones, porque esto es una cosa que hay varios clientes que lo están utilizando, se ha afinado mucho más el lenguaje, entonces aquí también es otra forma de potenciarlo para unas cosas que vimos que igual para los nuevos les abruma, pero para tema de siniestros igual puede interesar, yo te voy a compartir y aquí tú puedes modificar y editar todo lo que tú necesites, todo lo que tú quieras cambiar, cualquier cosa que a ti te interese, lo ves bien, dices, José, pues yo empezaría solamente con, oye, que la gente que venga de una campaña que hablamos de tema de marketing o que venga del cuestionario, vamos a meterle esta automatización y de aquí del nuevo, cuando la gente quiera un nuevo seguro, le ponemos este tipo de automatización y vemos cómo funciona. Te lo voy a compartir, cuando justo acabamos esta reunión, yo te comparto esto, tú le echas un vistazo y si quieres mediados, finales de la siguiente semana vemos cómo implementarlo. Perfecto. Luego hay otra cosa que me habías comentado, que es, lo tengo aquí apuntado sobre todo el tema de necesitas realimentar esas pólizas antiguas y volver a actualizarlas.
+
+[12:40] 1: Me gustaría saber, claro, yo tengo ahora mismo, digamos, cosas que mejoraría, para mí es muy importante la base de datos, tenerla al pelo, porque eso me va a hacer poder vender de forma proactiva, bien, por ejemplo, saber yo mi base de datos ahora mismo no sé quién es, no sé quién es autónomo, eso sería bueno saber, oye, lanzar una erta de hola, soy tal, te escribo desde Gesteco seguro, el bote no sé cómo se dedica, para que sea coloquial y refrescar esa información de ese cliente nos vendría genial, o mira, tenemos esta información tuya, es correcta, podrías confirmarnosla, tu fecha de nacimiento es esta, tu carne conducida es este, la matrícula de tu coche es este, o sea, para mí sería la hostia, podría enviarnos los documentos del coche para que tengamos la documentación bien archivada y comprobamos que tus datos son correctos y nunca puedas tener ningún problema, al final se trata de eso, si podemos automatizarlo, para mí sería la hostia, porque la cantidad de tiempo que pierden, hola, oye, mira, la protección de datos, ¿Me puede firmar la protección de datos, me puede mirar esto? Al final es que se tiran diez, quince minutos con cada cliente. Al final digo ¿Qué habéis hecho? Repasar datos. ¿Aquí qué se hace? Aquí no se vende nada, nada más que estamos repasando. Repasando. Genial. ¿Que yo quiero que se repase? No, pero veo que eso si pudiésemos.
+
+[14:05] 0: Automatizarlo, se hacen con formularios de meta, lo mismo necesitaría ¿Qué información necesitas de cada cosa? Y yo te lo monto, nosotros y tú envías ese formulario. Hola, ¿Qué tal Pedro? Mira, estamos actualizando para mejorar los servicios en Gesteco. ¿Podrías por favor rellenar este breve cuestionario? Y es una encuesta rollo como las de Meta, que aparece la imagen de Gesteco y todo, y la gente nombre, Pedro, Carné, no sé qué, autónomo. Eso sí que necesito que tú me digas a mí información exacta necesitas de cada uno, porque tenemos un cliente que lo hace para tema de coches, para hacer propuestas, para tema de salud. Entonces depende un poco de la información de cada. Un tipo de seguro necesitaría eso y yo te lo monto.
+
+[14:54] 1: Es muy fácil, pero bueno. ¿Y es mejor hacer individual o hacer uno para controlar todo?
+
+[15:00] 0: Me refiero. Depende un poco tus necesidades si quieres.
+
+[15:03] 1: Al final, para mí, sobre todo el cliente particular, y el cliente particular es sus datos personales y luego que comprueben. Para mí que es vital el tema de matrícula. Es que nos podemos haber equivocado o ellos al dárnosla o nosotros al grabarla. Entonces para mí es súper importante que todavía me siga pasando, que me pasó ayer, que un cliente su matrícula es MRP y tenemos puesto MNP. ¿Y de quién es el error? Pues cliente siempre va a decir que es mía, pero el error yo creo que me lo daría mal, pero bueno, pero es que no puedo demostrarlo tampoco, porque a lo mejor me la dijo por teléfono.
+
+[15:36] 0: Pues en el correo te pediré qué información necesita del cliente particular. Si es matrícula, es matrícula.
+
+[15:43] 1: Entonces al final sería datos, información personal, un poco tal, para poder recabar información, para poder vender otras cosas si queremos, pero sobre todo también para comprobar que lo que tenemos está bien hecho. La dirección de su casa, la matrícula de su coche, y si nos puede poner marca, modelo, motor o mandarnos documentación para cotejar que tenemos bien hecha su póliza.
+
+[16:05] 0: Pues Eso sería un 10, porque eso voy a mirarlo en la base de datos actuales de comunicación. Vale, esa es otra. Nosotros podemos hacer desde ZOA, lanzar esas comunicaciones, esas plantillas para los usuarios que tú creas que es necesario para cotejar esa información. Esa información la tenéis en el ERP, ¿No? Sí, ese es el siguiente. Tenía apuntado eso, actualizar las pólizas antiguas, matrículas, cotejar información esta. Eso sería interesante que si nos pudieses poner en contacto con el informático de Readre para conectarnos a la API y que nosotros podamos jugar con la información que estamos recolectando y machearla y hacer y ver, cotejarla con la información que tienes en el RP.
+
+[17:05] 1: Vale, a ti te lo paso, paso los datos del si quiere o lo que tú me pida.
+
+[17:10] 0: Sí, es sobre todo eso para ponernos en común con él ver la API y conectarnos y cuando nos conectamos ahí, una vez que sacamos información, pues poder ordenarla y ver también un poco cómo cómo podemos enriquecer toda la base de datos para que quede como dices tú, al pelo y que quede fina.
+
+[17:26] 1: Vale, perfecto.
+
+[17:27] 0: Vale, eso también lo piden, ¿No? Yo te lo pido, te voy a mandar un correo con todo el resumen y luego me comentáis también. Bueno, el tema de las ventas, bueno, ventas nuevas y cruzadas que hablamos el meta y formularios que es lo que te he comentado y tengo dividirlo producto por producto especialista. Esto lo que me comentaste es que estaría bien que cada uno de los productos, esto igual es el tema de automatización, creo que me comentaste.
+
+[17:59] 1: Qué es lo que fue lo que te dije.
+
+[18:01] 0: La última vez que hablamos, me dijiste como que había, te pregunté para ver qué actividades o qué campañas tenías pensado y que estabas con temas personales, vida, salud y decesos y me comentaste que.
+
+[18:17] 1: Eso fue dividirlo por ejecutivo, Carmen o a Mafi.
+
+[18:23] 0: Eso es. Y que esas campañas que estabas haciendo actualmente quería verlo contigo porque me comentaste que era una por entran por formularios, que está un poco por cuenta gota de momento, pero estaría bien integrarlo ya en ZOO para que esos datos en base a ese tipo de landing vaya a un especialista por producto y no sé si estabas haciendo temas de meta o de Google.
+
+[18:47] 1: Sí, ahora mismo estoy haciendo SEO que ha empezado un chico nuevo que el que me lo está gestionando, que en la página web en teoría va a quitar los formularios, va a poner los formularios nuevos o ponerlo vosotros, me da igual. Lo que quiero es que los formularios, porque están puestos con el CRM anterior y caduca, entonces necesito cambiar los formularios de la web, si os podéis coordinar con él, genial, un chaval súper majo y para que los formularios pues de alguna forma llegue al correo, oye si piden, bueno da igual, o que llega un correo, nosotros dividimos, no pasa nada si entra poco, lo que entrasen 10 todos los días, creo que entran por una a la semana, entonces si podemos.
+
+[19:31] 0: Que esté controlado y que veamos toda la trazabilidad, desde cuando entran, que no han llamado, cómo la ha llamado, la.
+
+[19:36] 1: Manda un WhatsApp, vale, perfecto, pues eso sería tal Y luego estoy haciendo el tema de las campañas de meta, pero queremos estar referida a vida, pero me llegan clientes que no me están gustando nada y ya he metido ahí 2000 euros por decir así y hemos hecho nada.
+
+[19:55] 0: ¿Quién te lleva las campañas se llama captabilidades, vale, o sea que tienes un tráfico que te gestiona todo eso y te hace las campañas, vale, y no estás contento?
+
+[20:05] 1: ¿No, porque el que me entra no me sirve, o sea, hice también un vídeo como me pidieron ellos, también se está publicando el vídeo aparte también tienen fotos con tal, los contactos que entran son contactos de mierda para mí, para mi gusto son contactos de mierda y me hace una póliza de una que tiene, paga 25 euros, es que hacer una póliza y me gasta ya 600 euros, la pólvora me deja 50 euros.
+
+[20:35] 0: Me lo guardo los 500, no lo digo por conectar si quieres, a ver, nosotros ahí no podemos mejorar nada porque eso es un poco el ángulo de venta, necesidades, tipo de perfil y demás, pero sí que conectarlo en ZOA para que nada más que llegue, avisar a uno de los comerciales o en este caso no sé quién sería, quien se encarga de contactar con el cliente, el.
+
+[20:58] 1: Potencial cliente en principio lo pusimos todo canalizado en el correo de Benny, Benny lo hace, Benny lo mandamos ahí porque.
+
+[21:05] 0: Bueno y ella lo llama directamente, vale, sí, vale.
+
+[21:15] 1: El problema es que ya digo, es que quiero darle una vuelta a eso porque no estoy contento y ese dinero es que casi lo lanzo mejor a un influencer de estos que tal y es que me va a reportar más, estoy casi convencido, sé que solamente con que interactúo entre esta gente que les ven que tengo un amiguete, que sí, que el tío no mi rama, pero es que salió en un vídeo diciendo una tontería de no sé qué, me han escrito más de 20 personas, te has hecho que conoces a este, que no sé qué, yo digo y asociaba con las gafas puestas en un chiringuito tomando una cerveza con él, o sea, esto tiene una repercusión brutal y es un tío de gimnasio y a mí me han visto, me han conocido por las gafas puestas porque estoy viral, hace muchos vídeos virales, tal, tal, y esto lo da más resultado que yo, está pagando campañas de mierda que me llegan viejos de 70 años, gente que está ya calabrada, me dice una te puedo enseñar cómo tengo la mano? Digo que no tiene ni mano y que un suraciente, o sea, es que de verdad entran tío, para matarme tío, lo que entra.
+
+[22:13] 0: Sí, sí, el tema de los influencers está funcionando muy muy bien en general, eso sí, tienes que saber dar en la persona, en el nicho y que le funcione y que lo derive. Yo lo decía por conectar y tener la parte de meta y cuando hagas un tema de influencer, al final influencer dice y rellena este formulario, pues al final llegaría ZOA y sería lo mismo por tenerlo conectado y ahí sí que podemos experimentar y tener controlado que pasando en cada uno, que llega, cuándo se le contesta, en qué velocidad, en qué momento, porque rápidamente podemos mandarle un WhatsApp, meter una automatización y la persona igual aceleramos y aceleramos alguna venta, ¿Sabes?
+
+[22:58] 1: Vale, vale, vale, OK. Yo sabiendo eso, en cuanto me ponga en marcha que tengo, es que voy a hacerlo con este chico y mira que voy a ver qué tal, porque es que he exagerado, o sea, salir, ya tengo un vídeo que hizo de puntería, no coma esto, come esto, no sé qué tal y lindamos con una cerveza, o sea, es que fue y empezó a escribir un barrio de gente y yo digo, te he visto, te he visto, y yo digo, sí, que solamente, bueno, ya está, a lo mejor un perfil que a lo mejor no va a hacer nada, pero es que ya la repercusión de la imagen de hostia, está hablando de este seguro, o sea, es como ahora mismo él está protociendo una cosa, se llama Lonchemoor, pues yo no conocía Lonchemur en mi vida, pues ahora no sé, ya tengo Lonchemur aquí metido, ¿Que hacen jamones, que envasas? Yo ya me metí al perfil del tío, al final también soy curioso y ves que de Murcia al final ya le sigo o ya al final ve sus vídeos ya va empatizando. Yo tengo claro que si ese tío continúa con esa trayectoria yo le iba a encargar sobres de jamón seguro, pero porque y ha sido gracias a eso.
+
+[23:55] 0: Que a lo mejor él no sabe.
+
+[23:56] 1: Un cliente, no llega un cliente porque al final yo creo que ahí generando confianza en el tiempo sí puede el.
+
+[24:04] 0: Futuro va por ahí Alejandro y lo tenemos claro a nivel de comunicación, mi pareja tiene una startup que es temas de influencers, les lleva a la facturación y demás y al final como bien dices tú, tú empatizas con gente y la gente al final te vende, es una forma de yo tengo, confío en esa persona, le sigo incluso ya creo que tengo una relación con él y lo que él me sugiere yo le hago caso, le veo tantas veces que al final él me dice hay por cierto si probáis esto tal y la gente que lo sigue y con que 100 hagan tal ya tienes.
+
+[24:37] 1: ¿No sé si lo conté pero durante un tiempo me metí a vender a Amazon y con un pulverizador de aceite, el típico pulverizador este que salió justo la historia esta bueno y me puse con pulverizadores, metí no sé, compré 3.000 o 5.000 o algo así y justo una chica que hacía recetas de cocina con la ifraye y con el microondas dice oye le mandé uno a su casa, digo toma anda algo de publicidad pues de esto que sería que me levanté, lo hice, ya no me lo he hecho pero lo hice no? Y le gustó y dice pásame el enlace de la compra de tal de Amazon. Yo estaba en Ibiza con los colegas y de repente veo y sigo por la tarde y el día siguiente estando en Ibiza tocándome los huevos, doscientos y pico aceiteras de esas y fue porque hizo un comentario simplemente en sus redes, o sea que verá que funciona brutal, brutal.
+
+[25:34] 0: Eso por mí también te invito a que lo pruebes o experimentes o que te comuniques con él para ver un poco cómo funciona, porque yo creo y además lo hemos pensado que en el tema de los seguros al final al final la gente compra por confianza y cuando ves a alguien que sugiere algo en el futuro, yo creo que va a ser eso, gente que tenga mucho canal, que te venda. Cierto. Seguro que esté contento con su servicio y que vaya por ahí el tema de la venta. Sí, sí, total.
+
+[26:01] 1: Daré una vuelta a eso y te diré un poco en base a lo que finalmente donde canalice eso porque veo que lo otro no me está.
+
+[26:07] 0: Y lo otro es lo mismo, lo que decías, por ejemplo, yo siempre digo que la búsqueda activa es en Google, cuando tú pones en la parte de SEM que es de Google, sin embargo.
+
+[26:16] 1: A mí me dicen que no lo haga porque lo mío está súper trillado.
+
+[26:21] 0: Es costosísimo, tiene que ser muy de nicho o de nicho.
+
+[26:26] 1: Me dice que me costaría, bueno me sacaron costes, me dice antes que esto una locura, es que el precio por coste por DS no te va a posicionar nunca porque nada más que hasta compañías que no hacen seguro para empresas como Línea Directa ahora le ha dado por tirarle a ese cemento y está pagando un dineral. Es que nunca va a estar ahí.
+
+[26:46] 0: Por eso dices claro, Facebook o meta en Instagram yo estoy viendo cosas, pero estoy viendo y de repente me salen cosas, pero yo no estaba buscando eso sí que doy que me interesa y me salen más cosas parecidas, pero inicialmente no. En Google dices seguros de vida, seguro para mi empresa, seguro para. Entonces ahí ya estás más cualificado y vale más ese lead. Entonces ahí está la diferencia. Pero sí, vale, de todas formas vamos poco a poco a conectar todo, hacer el tema automatizaciones y luego cuando dices tú, cuando quitamos la carga de gestión le metemos al de venta que yo creo que hay podemos ayudar bastante, además vamos a lanzar una cosa de actividades para que también esté gestionada estas actividades y tú vayas viendo qué se hace en cada momento y que las personas al final la idea de ZOA es que se metan, diga mandar un email, contestar un WhatsApp, hacer una llamada y que esté todo next, next, next, next y vale y no tengo nada más. No sé si queda algo pendiente. ¿Que tenías tú en la cabeza qué te gustaría mirar, hacer o proponer?
+
+[27:55] 1: Pues en principio yo quiero que el equipo esté trabajando bien lo de WhatsApp o ver cómo lo solucionamos eso y si no sería verlo a WhatsApp web, yo que sé, y ya esté ya automatizar todo lo que podamos vía WhatsApp para dar y luego los formularios dentro de la web. Con eso yo estaría súper contento y ya cuando yo te diga, oye, cómo estoy trayendo gente de forma automática que lo canalicemos con lo tuyo.
+
+[28:23] 0: Vale. Y el tema de la aplicación de Ruiz Red para volcar la información y actualizar el tema de matrículas y cotejar la información.
+
+[28:31] 1: Sí, eso señala Austin, yo con eso que los clientes empiecen y si no lo ha hecho el cliente que no lo ha hecho y mañana hay un error, mira socio, yo te mandé esto, te pedí que lo revisara, a mí no me buscan las cosquillas de cara a mi seguro decir, mira, es que yo hago todo lo posible porque el cliente repase sus datos, pero ni se lo pasa por el forro los huevos. Si estoy preguntando su matrícula esta y no me contesta.
+
+[28:56] 0: Exactamente, eso ya del propio cliente y que intentaremos sobre todo que la idea es que lo rellenen, que lo haga.
+
+[29:02] 1: Lo más fácil, sobre todo hacerle ver que es por su bien, o sea, el único motivo por el cual yo pongo medios y pongo todo es para que tu matrícula esté perfecta y nunca tengas problemas. La matrícula, la marca, el modelo y todo porque es verdad que influye en muchas cosas. Mucha gente me dice no, es un Mercedes GLC, ya, pero GLC básico que vale 60 y el que vale 100 en función del modelo y si no me lo pones bien, en caso de un siniestro el que le Van a faltar 40.000 euros es a ti. Totalmente. Explicar tío, la gente.
+
+[29:31] 0: Si la gente vamos en automático te van lanzando y sí, sí, sí, sí, sí, hay que ponerlo más fácil, masticadito y también decirles, oye y todo esto también queda un poco en tu responsabilidad si tú no rellena esta información.
+
+[29:50] 1: Ya estábamos comentando, sí te escribo ahora.
+
+[29:52] 0: El correo con todo lo que necesito, intentaré hacer una reunión próximo martes con el equipo, que además están ya todas, ver qué le sucede y toda la información mientras tú la gestionamos en panadero, ¿Vale?
+
+[30:04] 1: Vale, genial, genial. Muchas gracias por ver. Gracias, estamos en contacto. Ya me dice. Chao. Chao.
+
+[30:09] 0: Touch up on the app.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

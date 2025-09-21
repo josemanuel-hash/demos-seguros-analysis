@@ -1,0 +1,1699 @@
+================================================================================
+DEMO/REUNIÓN: Flujos de DR Seguros
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 18/09/2025 a las 16:30
+⏱️ Duración: 47.36000061035156 segundos (0.8 minutos)
+👥 Participantes: alejandro@zoasuite.com,danielromero@drseguros.es,josemanuel@zoasuite.com,sarapinna@drseguros.es, alejandro@zoasuite.com, danielromero@drseguros.es, sarapinna@drseguros.es
+
+🔑 PALABRAS CLAVE:
+--------------------
+centralita, automatización, flujos, siniestros, WhatsApp, portabilidad
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. S
+5. a
+6. r
+7. a
+8.  
+9. M
+10. a
+11. r
+12. t
+13. í
+14. n
+15. e
+16. z
+17. -
+18. P
+19. i
+20. n
+21. n
+22. a
+23.  
+24. Q
+25. u
+26. i
+27. l
+28. e
+29. s
+30. *
+31. *
+32. 
+
+33. E
+34. n
+35. v
+36. i
+37. a
+38. r
+39.  
+40. f
+41. a
+42. c
+43. t
+44. u
+45. r
+46. a
+47.  
+48. d
+49. e
+50.  
+51. t
+52. e
+53. l
+54. e
+55. f
+56. o
+57. n
+58. í
+59. a
+60.  
+61. f
+62. i
+63. j
+64. a
+65.  
+66. p
+67. a
+68. r
+69. a
+70.  
+71. p
+72. o
+73. r
+74. t
+75. a
+76. b
+77. i
+78. l
+79. i
+80. d
+81. a
+82. d
+83.  
+84. c
+85. o
+86. n
+87.  
+88. W
+89. i
+90. l
+91. l
+92. i
+93. s
+94.  
+95. (
+96. 0
+97. 2
+98. :
+99. 3
+100. 0
+101. )
+102. 
+
+103. P
+104. r
+105. o
+106. p
+107. o
+108. r
+109. c
+110. i
+111. o
+112. n
+113. a
+114. r
+115.  
+116. h
+117. o
+118. r
+119. a
+120. r
+121. i
+122. o
+123. s
+124.  
+125. d
+126. e
+127. f
+128. i
+129. n
+130. i
+131. t
+132. i
+133. v
+134. o
+135. s
+136.  
+137. d
+138. e
+139.  
+140. v
+141. e
+142. r
+143. a
+144. n
+145. o
+146.  
+147. e
+148.  
+149. i
+150. n
+151. v
+152. i
+153. e
+154. r
+155. n
+156. o
+157.  
+158. u
+159. n
+160. a
+161.  
+162. v
+163. e
+164. z
+165.  
+166. c
+167. l
+168. a
+169. r
+170. i
+171. f
+172. i
+173. c
+174. a
+175. d
+176. o
+177. s
+178.  
+179. i
+180. n
+181. t
+182. e
+183. r
+184. n
+185. a
+186. m
+187. e
+188. n
+189. t
+190. e
+191.  
+192. (
+193. 0
+194. 7
+195. :
+196. 2
+197. 0
+198. )
+199. 
+
+200. E
+201. x
+202. p
+203. o
+204. r
+205. t
+206. a
+207. r
+208.  
+209. y
+210.  
+211. e
+212. n
+213. v
+214. i
+215. a
+216. r
+217.  
+218. b
+219. a
+220. s
+221. e
+222.  
+223. d
+224. e
+225.  
+226. d
+227. a
+228. t
+229. o
+230. s
+231.  
+232. d
+233. e
+234.  
+235. c
+236. l
+237. i
+238. e
+239. n
+240. t
+241. e
+242. s
+243.  
+244. c
+245. o
+246. n
+247.  
+248. m
+249. ó
+250. v
+251. i
+252. l
+253. e
+254. s
+255.  
+256. y
+257.  
+258. e
+259. m
+260. a
+261. i
+262. l
+263. s
+264. ,
+265.  
+266. d
+267. i
+268. f
+269. e
+270. r
+271. e
+272. n
+273. c
+274. i
+275. a
+276. n
+277. d
+278. o
+279.  
+280. e
+281. m
+282. p
+283. r
+284. e
+285. s
+286. a
+287. /
+288. p
+289. a
+290. r
+291. t
+292. i
+293. c
+294. u
+295. l
+296. a
+297. r
+298.  
+299. (
+300. 1
+301. 5
+302. :
+303. 0
+304. 9
+305. )
+306. 
+
+307. 
+
+308. *
+309. *
+310. J
+311. o
+312. s
+313. é
+314.  
+315. M
+316. a
+317. n
+318. u
+319. e
+320. l
+321.  
+322. A
+323. u
+324. s
+325. i
+326. n
+327. *
+328. *
+329. 
+
+330. C
+331. r
+332. e
+333. a
+334. r
+335.  
+336. l
+337. o
+338. c
+339. u
+340. c
+341. i
+342. o
+343. n
+344. e
+345. s
+346.  
+347. p
+348. e
+349. r
+350. s
+351. o
+352. n
+353. a
+354. l
+355. i
+356. z
+357. a
+358. d
+359. a
+360. s
+361.  
+362. c
+363. o
+364. n
+365.  
+366. i
+367. n
+368. t
+369. e
+370. l
+371. i
+372. g
+373. e
+374. n
+375. c
+376. i
+377. a
+378.  
+379. a
+380. r
+381. t
+382. i
+383. f
+384. i
+385. c
+386. i
+387. a
+388. l
+389.  
+390. p
+391. a
+392. r
+393. a
+394.  
+395. c
+396. e
+397. n
+398. t
+399. r
+400. a
+401. l
+402. i
+403. t
+404. a
+405.  
+406. (
+407. 0
+408. 3
+409. :
+410. 1
+411. 4
+412. )
+413. 
+
+414. C
+415. o
+416. n
+417. t
+418. a
+419. c
+420. t
+421. a
+422. r
+423.  
+424. c
+425. o
+426. n
+427.  
+428. C
+429. e
+430. l
+431. e
+432. s
+433. t
+434. e
+435.  
+436. p
+437. a
+438. r
+439. a
+440.  
+441. g
+442. e
+443. s
+444. t
+445. i
+446. ó
+447. n
+448.  
+449. p
+450. e
+451. n
+452. d
+453. i
+454. e
+455. n
+456. t
+457. e
+458.  
+459. (
+460. 0
+461. 1
+462. :
+463. 1
+464. 2
+465. )
+466. 
+
+467. M
+468. o
+469. n
+470. t
+471. a
+472. r
+473.  
+474. f
+475. l
+476. u
+477. j
+478. o
+479. s
+480.  
+481. c
+482. o
+483. m
+484. p
+485. l
+486. e
+487. t
+488. o
+489. s
+490.  
+491. d
+492. e
+493.  
+494. s
+495. i
+496. n
+497. i
+498. e
+499. s
+500. t
+501. r
+502. o
+503. s
+504. ,
+505.  
+506. a
+507. d
+508. m
+509. i
+510. n
+511. i
+512. s
+513. t
+514. r
+515. a
+516. c
+517. i
+518. ó
+519. n
+520.  
+521. y
+522.  
+523. c
+524. o
+525. m
+526. e
+527. r
+528. c
+529. i
+530. a
+531. l
+532.  
+533. (
+534. 2
+535. 4
+536. :
+537. 4
+538. 3
+539. )
+540. 
+
+541. C
+542. o
+543. n
+544. f
+545. i
+546. g
+547. u
+548. r
+549. a
+550. r
+551.  
+552. a
+553. u
+554. t
+555. o
+556. m
+557. a
+558. t
+559. i
+560. z
+561. a
+562. c
+563. i
+564. o
+565. n
+566. e
+567. s
+568.  
+569. d
+570. e
+571.  
+572. W
+573. h
+574. a
+575. t
+576. s
+577. A
+578. p
+579. p
+580.  
+581. c
+582. o
+583. n
+584.  
+585. p
+586. r
+587. e
+588. g
+589. u
+590. n
+591. t
+592. a
+593. s
+594.  
+595. e
+596. s
+597. p
+598. e
+599. c
+600. í
+601. f
+602. i
+603. c
+604. a
+605. s
+606.  
+607. p
+608. a
+609. r
+610. a
+611.  
+612. c
+613. a
+614. d
+615. a
+616.  
+617. d
+618. e
+619. p
+620. a
+621. r
+622. t
+623. a
+624. m
+625. e
+626. n
+627. t
+628. o
+629.  
+630. (
+631. 3
+632. 4
+633. :
+634. 5
+635. 5
+636. )
+637. 
+
+638. P
+639. r
+640. e
+641. s
+642. e
+643. n
+644. t
+645. a
+646. r
+647.  
+648. f
+649. l
+650. u
+651. j
+652. o
+653. s
+654.  
+655. f
+656. i
+657. n
+658. a
+659. l
+660. i
+661. z
+662. a
+663. d
+664. o
+665. s
+666.  
+667. p
+668. a
+669. r
+670. a
+671.  
+672. r
+673. e
+674. v
+675. i
+676. s
+677. i
+678. ó
+679. n
+680.  
+681. y
+682.  
+683. a
+684. j
+685. u
+686. s
+687. t
+688. e
+689. s
+690.  
+691. (
+692. 2
+693. 9
+694. :
+695. 5
+696. 7
+697. )
+698. 
+
+699. 
+
+700. *
+701. *
+702. D
+703. a
+704. n
+705. i
+706. e
+707. l
+708.  
+709. R
+710. o
+711. m
+712. e
+713. r
+714. o
+715. *
+716. *
+717. 
+
+718. F
+719. i
+720. r
+721. m
+722. a
+723. r
+724.  
+725. c
+726. o
+727. n
+728. t
+729. r
+730. a
+731. t
+732. o
+733.  
+734. e
+735. n
+736. v
+737. i
+738. a
+739. d
+740. o
+741.  
+742. p
+743. a
+744. r
+745. a
+746.  
+747. p
+748. r
+749. o
+750. c
+751. e
+752. d
+753. e
+754. r
+755.  
+756. c
+757. o
+758. n
+759.  
+760. i
+761. m
+762. p
+763. l
+764. e
+765. m
+766. e
+767. n
+768. t
+769. a
+770. c
+771. i
+772. ó
+773. n
+774.  
+775. (
+776. 4
+777. 3
+778. :
+779. 4
+780. 0
+781. )
+782. 
+
+783. R
+784. e
+785. a
+786. l
+787. i
+788. z
+789. a
+790. r
+791.  
+792. p
+793. a
+794. g
+795. o
+796.  
+797. p
+798. a
+799. r
+800. a
+801.  
+802. a
+803. c
+804. t
+805. i
+806. v
+807. a
+808. r
+809.  
+810. s
+811. e
+812. r
+813. v
+814. i
+815. c
+816. i
+817. o
+818. s
+819.  
+820. y
+821.  
+822. t
+823. r
+824. a
+825. m
+826. i
+827. t
+828. a
+829. r
+830.  
+831. d
+832. e
+833. v
+834. o
+835. l
+836. u
+837. c
+838. i
+839. ó
+840. n
+841.  
+842. d
+843. e
+844.  
+845. s
+846. u
+847. b
+848. v
+849. e
+850. n
+851. c
+852. i
+853. ó
+854. n
+855.  
+856. a
+857. n
+858. t
+859. e
+860. s
+861.  
+862. d
+863. e
+864. l
+865.  
+866. 3
+867. 0
+868.  
+869. d
+870. e
+871.  
+872. s
+873. e
+874. p
+875. t
+876. i
+877. e
+878. m
+879. b
+880. r
+881. e
+882.  
+883. (
+884. 4
+885. 4
+886. :
+887. 2
+888. 2
+889. )
+890. 
+
+891. 
+
+892. *
+893. *
+894. U
+895. n
+896. a
+897. s
+898. s
+899. i
+900. g
+901. n
+902. e
+903. d
+904. *
+905. *
+906. 
+
+907. A
+908. c
+909. t
+910. i
+911. v
+912. a
+913. r
+914.  
+915. w
+916. e
+917. b
+918.  
+919. s
+920. e
+921. r
+922. v
+923. i
+924. c
+925. e
+926.  
+927. e
+928. n
+929.  
+930. E
+931. b
+932. r
+933. o
+934. k
+935. e
+936. r
+937.  
+938. p
+939. a
+940. r
+941. a
+942.  
+943. c
+944. o
+945. n
+946. e
+947. c
+948. t
+949. i
+950. v
+951. i
+952. d
+953. a
+954. d
+955.  
+956. A
+957. P
+958. I
+959.  
+960. a
+961.  
+962. f
+963. i
+964. n
+965. a
+966. l
+967. e
+968. s
+969.  
+970. d
+971. e
+972.  
+973. m
+974. e
+975. s
+976.  
+977. (
+978. 3
+979. 1
+980. :
+981. 0
+982. 5
+983. )
+984. 
+
+985. C
+986. o
+987. n
+988. f
+989. i
+990. g
+991. u
+992. r
+993. a
+994. r
+995.  
+996. e
+997. x
+998. t
+999. e
+1000. n
+1001. s
+1002. i
+1003. o
+1004. n
+1005. e
+1006. s
+1007.  
+1008. t
+1009. e
+1010. l
+1011. e
+1012. f
+1013. ó
+1014. n
+1015. i
+1016. c
+1017. a
+1018. s
+1019.  
+1020. p
+1021. a
+1022. r
+1023. a
+1024.  
+1025. c
+1026. a
+1027. d
+1028. a
+1029.  
+1030. d
+1031. e
+1032. p
+1033. a
+1034. r
+1035. t
+1036. a
+1037. m
+1038. e
+1039. n
+1040. t
+1041. o
+1042.  
+1043. u
+1044. n
+1045. a
+1046.  
+1047. v
+1048. e
+1049. z
+1050.  
+1051. d
+1052. e
+1053. f
+1054. i
+1055. n
+1056. i
+1057. d
+1058. o
+1059. s
+1060.  
+1061. l
+1062. o
+1063. s
+1064.  
+1065. f
+1066. l
+1067. u
+1068. j
+1069. o
+1070. s
+1071.  
+1072. (
+1073. 1
+1074. 9
+1075. :
+1076. 3
+1077. 2
+1078. )
+1079. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[00:00] 0: Hola, ¿Qué tal? ¿Cómo estamos?
+
+[00:02] 1: Buenas tardes, ¿Qué tal?
+
+[00:04] 0: Buenas tardes, ¿Qué tal, ¿Cómo estás? Muy bien.
+
+[00:10] 1: ¿Pero no me ves en la pantalla?
+
+[00:12] 0: Eso te iba a decir yo, digo, te escucho pero no Te veo. Perfecto. ¿Cómo estáis?
+
+[00:18] 1: Muy bien.
+
+[00:18] 2: Bien, ¿Y tú?
+
+[00:19] 0: Pues por la tarde activos.
+
+[00:23] 2: El jueves ya empieza el bajón, hemos ido un.
+
+[00:25] 1: Poco a casa, hemos vuelto de pilates y vuelta para acá, pero vamos, hoy ya llegamos a duras penas, a muy duras penas.
+
+[00:34] 0: Qué bien, qué bien, qué bien. Pilates y todo. Muy bien.
+
+[00:40] 1: Estás aquí, ¿No? En la Zadera, ¿No?
+
+[00:43] 0: Sí, sí, sí, sí. Te lo digo porque me dicen vivía porque me hizaron un tirón el lunes en el cuello y me he vuelto a ir al gimnasio, a la clase que voy yo también y me da rabia, no podría, pero bueno, me gusta, me gusta.
+
+[01:03] 1: Vale, ¿Hablaste con esta mañana o que? ¿La llamaste o qué? Hablé con Celeste, ¿La llamaste?
+
+[01:12] 0: No, la verdad que no, lo tengo ahí en lista porque te digo la verdad, ayer nos fuimos a las 9 y media de la noche, hoy estamos de las 7 y media y ha sido un poco non stop, pero bueno, la tengo ahí y te agradezco mil, hablaré con ella. Lo tengo, lo tengo en la lista de actividades, pero bueno. Vale, vamos a hacer una cosa que necesito de vosotros, que quería antes de comenzar es, porfa, me tienes que pasar la factura de la telefonía para yo enviarla a la de Willis y poder generar la portabilidad.
+
+[01:49] 2: ¿Factura de qué mes?
+
+[01:52] 0: Del que sea, ellos lo tienen porque. Del último de lo que tengáis. ¿Del fijo?
+
+[01:58] 1: No, el fijo, solo el fijo.
+
+[02:00] 0: Solo el fijo. Pero lo necesito. ¿Por qué? Porque los demás datos, como os puse en el email, no los necesito porque ya los tengo de la ayuda, entonces no hay problema. Genial. Eso, porfa, que es que eso hasta que yo no se lo envíe a ellos, ellos no se pueden poner y luego la portabilidad pues tiene un tiempo y tiene. ¿Sabes? Es más que pura burocracia, pero me gusta tener ágil para que luego vosotros lo tengáis todo en consecuencia.
+
+[02:30] 2: ¿Vale? Vale, te la envío cuando.
+
+[02:34] 0: Genial. Vale, siguiente paso. Vamos a definir los flujos. ¿Para qué? Para que, como visteis en vuestra ofi, pues que vayamos viendo uno, que nosotros vayamos generando las locuciones con el tema de inteligencia artificial que tenemos y que vayamos poniendo en orden el paso a paso. Os voy a compartir pantalla y lo vamos a ir viendo. ¿Qué sucede? Que esto es normal, en la cabeza lo tenéis, pero bajado al suelo. Por eso utilizamos esta parte para poder hacerlo juntos. Y que también hay detalles y cosas que nos tenéis que ir diciendo.
+
+[03:14] 2: ¿Vale?
+
+[03:15] 0: Vamos a empezar por el tema centralita, que es lo que. El número cabecera, este ya le tengo yo. Que es más o menos. ¿Veis la pantalla bien, ¿No?
+
+[03:23] 1: Sí, así mejor.
+
+[03:25] 0: Así mejor. Correcto. Necesito horario laboral. Decidme el horario laboral. El público. El público en el que vosotros podáis atender. La gente, tengas la oficina abierta para que puedas recibir llamadas. Verano, invierno.
+
+[03:49] 2: A ver, no me he enterado. El horario de público, imagínate, es de 9 a 2, ¿Vale? Y de 5 a 6 y media los lunes y los jueves. Ese es el horario de público. Pero aquí hay gente por la tarde. El martes por la tarde, miércoles por la tarde, hay gente hasta las tres.
+
+[04:04] 0: Y media y esa gente recibe llamadas. Pues podemos poner. Pues ya está. Es el que yo necesito que me digáis exactamente. De lunes de X a X, de martes a X a X, ¿Vale?
+
+[04:23] 1: Decimos de lunes a lunes.
+
+[04:28] 0: A viernes.
+
+[04:30] 1: De 9 a 2.
+
+[04:34] 2: Javi entra a las 8 y media, se va a las 3 y media, pero a las 8 y media es.
+
+[04:41] 1: Que solo hay una persona. Bueno, la persona, nosotros, que también estamos. Hay una persona que está siempre de 9 a 3 y media.
+
+[04:54] 0: Esto es directamente de 8 y media, ¿Vale? Yo creo que en el conjunto de toda la gente, si suma esto, es de 8 y media a 3 y media. Y por la tarde.
+
+[05:07] 1: Y los lunes y viernes.
+
+[05:09] 2: No, lunes y jueves.
+
+[05:11] 1: ¿Lunes y jueves, Vale?
+
+[05:14] 2: No es que vuelva lo mismo. Lunes y jueves está abierto al público, se abre de 5 a 6 y media. Pero hay gente. Lunes, martes, miércoles y jueves por la tarde. Pero ahora en horarios cerrados a público.
+
+[05:27] 0: Pero como hablamos de llamada, estamos hablando de centralita. Eso es. Entonces, llamadas de ocho y media a tres y media hay gente. Pueden llamar y pueden recepcionar estas llamadas. ¿Y por la tarde?
+
+[05:40] 2: Por la tarde sí, pero depende qué tipo de llamada. Pues igual no me interesa que las coja María José porque es de siniestros y no.
+
+[05:51] 0: Y no sé, no pasa nada. Pues que no las coja ella. Luego haremos la automatización, rediremos a WhatsApp pero vamos a ir con las llamadas al público, a los públicos siniestros. No será el público, será más de la oficina.
+
+[06:04] 2: Bueno, no, también llaman público para siniestros, pero no sé eso.
+
+[06:10] 0: No te preocupes porque eso luego lo vamos a redirigir. Cuando la gente va a pulsar es público, simplemente clase público, lo típico que será por la tarde de tres y media a seis.
+
+[06:21] 1: Espérate.
+
+[06:26] 0: No pasa nada, Esto es así. Lunes a viernes de ocho y media, tres y media y por la tarde. Y luego, por ejemplo, en verano. ¿Sara, es lo mismo que en invierno?
+
+[06:38] 1: En verano sí que es todo seguido.
+
+[06:40] 2: En verano Abrimos a las 8 y no me lo sé. Es que si me hubiera dicho Dani lo de los horarios me lo hubiera preparado.
+
+[06:45] 0: No te preocupes, no te preocupes, que no va para examen.
+
+[06:50] 1: Yo creo. Trabajo en ZOA, José me a mí ahora Exactamente.
+
+[06:58] 0: Mira, a ver Dani, que te echa a ti la culpa.
+
+[07:00] 2: A ver, el horario de verano es de público de 8.30 a 2.30, julio y agosto. Pero la gente entra. Hay uno que entra a las 8 y se va a las 4.
+
+[07:13] 1: Pero es que no puedes hacer un horario.
+
+[07:14] 2: Claro, por eso te digo que no entiendo qué es lo que necesitamos. Cuando yo lo entiende te daré el horario, ¿Vale?
+
+[07:20] 0: Lo que necesitamos es el horario en el cual cuando alguien llama a vuestro número de centralita haya alguien que lo pueda recepcionar. Cuando te decir alguien, es alguien que yo por ejemplo, vamos a hacer luego una locución en el cual la gente si es un siniestro, pulse uno. No, perdona, aquí está. No, está es en la parte por ejemplo, que ya lo veremos.
+
+[08:09] 2: Unos siniestros, dos comerciales.
+
+[08:15] 0: Si quieres dar la subpoliza actual, pulsa el 1, si quieres guardado, si es muy urgente en gerencia, hable dos. Exacto, si quieres hablar sobre su póliza actual o una póliza, pulse el 1, si quiere hablar con siniestros, pulse el 2 o si quiere hablar sobre el pago de un recibo, una evolución, pulse el 3. Esa será un poco la locución que vamos a tener. Quiere decir que cuando la gente llame y pueda hacer esto, nosotros, si por ejemplo es siniestro, irá por un, por un, por esa. No me acuerdo el nombre, perdona, ¿Cómo se llama la persona que?
+
+[08:58] 1: María José.
+
+[08:59] 0: María José. María José. Se lo lanzaremos a María José, independientemente del tiempo, si María José no esté, se le mandará un WhatsApp, no hay problema.
+
+[09:07] 1: El horario de verano, lo tengo claro, vale.
+
+[09:09] 0: Y lo que quiero es que simplemente, independientemente de las variables que haya, que haya una persona que recepcione ese teléfono, por en el caso que a vosotros os interese más primar, que haya alguien que sea de póliza actual o de gestionarla o una persona que lo haga.
+
+[09:23] 2: Es como María José y pueda derivarlo o dar una solución.
+
+[09:31] 0: Solución, eso es. Vale, genial. Verano.
+
+[09:33] 2: Vale, entonces verano va a ser de lunes A viernes de 8 y media a 2 y media, porque es central antes, pero por si acaso, hasta 2 y media cerrado.
+
+[09:42] 0: Muy bien, perfecto.
+
+[09:43] 2: Invierno, hay gente a las 8 y se van a las 4, pero me da igual.
+
+[09:46] 0: 8 y media, 2 y media y no pasa nada. Si lo veis luego después lo podemos cambiar.
+
+[09:53] 2: Ahora, invierno. Entonces, en invierno ahora mismo estamos abriendo de lunes a viernes de nueve a dos y de cinco a seis y media. Solo dos tardes.
+
+[10:04] 0: Vale, vale. De a dos y por la tarde me has dicho. Perdona.
+
+[10:11] 2: Lunes y jueves de 5 a 18 30, o sea, de 17 a 18 30. Perdón.
+
+[10:19] 0: De 17.
+
+[10:22] 2: De 17 a 18 30. Entonces yo pondría el horario de apertura de llamadas de 9, porque hay gente que empieza a las 8 y media, pero a las 9 ya siempre hay aquí por lo menos dos personas mínimo.
+
+[10:38] 0: Si, yo te he puesto verano de 8 y media a 2 y media. OK. Invierno o el resto.
+
+[10:48] 2: De. Porque cerramos a las 2.
+
+[10:50] 0: Vale, no pasa nada.
+
+[10:51] 2: Y de lunes, pero de 9 a.
+
+[10:54] 0: 2 y por la tarde de lunes a jueves.
+
+[10:59] 2: Lunes y jueves.
+
+[11:03] 1: Lunes y jueves.
+
+[11:04] 2: Ya veremos si esto cambia.
+
+[11:07] 0: A ver, la idea es eso, que esto esté un poco más automatizado y que vosotros. Hemos estado con un cliente que es que no coge el teléfono, redirecciona, redirecciona, redirecciona y al final se olvida y es lo que dice, no quiero coger ahí.
+
+[11:21] 2: Martes, miércoles y viernes está cerrado.
+
+[11:23] 0: Maravilloso. Vale, pues ya está. Martes y viernes está cerrado.
+
+[11:28] 2: Cerrado.
+
+[11:32] 0: Por la tarde. Por la tarde lo entiendo, Vale. ¿Esto luego la locución os lo pasaré para que también lo veáis y lo escuchéis, vale? Que aquí es donde aparece lo que os comento. Por ejemplo, aquí tenemos una parte que le informamos que nuestro horario en este caso es de lunes a tal, tal. Si su llamada es urgen, pulse uno, si no, mantengas a la espera y mandaremos un WhatsApp para que nos diga que la atenderemos lo antes posible. Esto si está fuera del horario. ¿Qué sucede aquí? Aquí también necesito. Bueno, ya la encontré en vuestra página web.
+
+[12:05] 2: Fuera de horario. Siempre contesta alguien y si es.
+
+[12:11] 0: Exactamente. Y luego decimos pulsa uno. Si necesitas la contrasegura para solucionar un siniestro, pulse uno. Si es muy urgente y necesitas hablar con gerencia, marque el 2. Si no, mantengas gerencia.
+
+[12:23] 2: ¿Que? Daniel No, vosotros. No, no, Daniel no.
+
+[12:27] 0: Vale. Si es fuera de.
+
+[12:28] 2: Por eso no pueden llamar a Daniel. Para eso estamos nosotros.
+
+[12:32] 0: ¿De acuerdo? Vale, vosotros. ¿Quien dice gerencia dice lo que vosotros?
+
+[12:38] 2: La oficina pon lo que tú consideres. Yo no sé cómo lo ponéis, pero.
+
+[12:45] 0: Si no mantengas a la espera. Le mandaremos un WhatsApp con lo que nos diga cuál es el siniestro y atendemos lo antes posible.
+
+[12:51] 2: Si, dame un segundo. Es que no entiendo. Si necesitas hablar con tu aseguradora. ¿A qué te refieres con alianza, con.
+
+[12:57] 0: Real y con casística? ¿Que pasa aquí, Sara? La gente os llama porque está tirado en la carretera y lo que quiere es una grúa. ¿Y qué hace? Os llama a vosotros. ¿Cuántas veces os ha llamado a vosotros?
+
+[13:10] 2: Millones.
+
+[13:11] 0: Exacto. Y al final lo que quieren es el número de teléfono del Allianz porque no se acuerdan de qué aseguradora es. ¿Qué hacemos nosotros? Le mandamos un WhatsApp con los números de asistencia de las compañías de seguros.
+
+[13:22] 2: Y si el cliente no sabe cuál es su compañía de seguros porque no se acuerda y no la lleva encima.
+
+[13:26] 0: La póliza, pues entonces te va a redirigir a vosotros. Administración marquel 2. Os vamos a quitar ya un 50% de la carga de siniestros. Porque hay gente sí que es verdad que no se acuerda, pero hay gente que sí que se acuerda. Le enviaremos un WhatsApp con los números de asistencia que yo ya he visto que tenéis en DR Seguros, que es los números que aparecen de emergencia y.
+
+[13:52] 1: Los que tenéis en cualquier corredoría también. Sí, sí, por eso te digo al de Pedro serán los mismos.
+
+[13:59] 0: Exactamente. De todas formas, antes con Vélez es lo mismo, todo lo que tienen y ya está. Y si no, le redirigimos a vosotros. Vale, genial.
+
+[14:11] 2: No marca, que es.
+
+[14:14] 0: Cuando la gente no pulsa el 1. Pues no pasa eso. Genial. Número de cabecera es el vuestro. Dentro de horario laboral. Dentro del horario laboral. Otra cosa que yo os iré pidiendo cuando me pactéis lo de la telefonía, los siguientes Con la telefonía os damos de alta la parte de ZOA y la centralita. Y después necesitamos la base de datos. Si quieres apuntártelo, Daniel o Sara, extraer base de datos y enviárnosla para que nosotros vayamos viendo el número de duplicados que haya e ir limpiándola en paralelo. Porque diremos, oye, pues aquí hay dos Javieres con este número de teléfono, ¿Quién es el bueno?
+
+[14:58] 2: ¿De mails o de móviles?
+
+[14:59] 0: De móviles, no, de móviles, de móviles. Y con el email, eso hacéis, Exportar base de datos, lo enviáis.
+
+[15:09] 2: Si, lo he hecho esta mañana para mandar, pero no tiene nada que ver.
+
+[15:12] 1: Web service, todavía.
+
+[15:15] 0: No hemos llegado todavía. ¿Y que se ha diferenciado entre empresa y particular? Exactamente. Persona jurídica, para que nosotros lo tengamos bien dividido. Muy bien. Como nosotros tenemos a base de datos, sabremos el número de teléfono que nos llama. Hola, ¿Cómo queréis que pongamos aquí vuestro doctor? Seguros, imagino. Seguros DR. Seguro Seguros Broker.
+
+[15:47] 2: Ese es nuestro nombre comercial. DR. Segur.
+
+[15:51] 0: Maravilloso. Le transferimos a su contacto habitual. Gracias. Luego definiremos a quién queremos. ¿Vale? A María José y el otro chico era.
+
+[16:01] 2: ¿Cómo se llamaba?
+
+[16:02] 0: Javier. Exactamente. Javi. Si su gestor está ocupado, que pasan 15 segundos, se le manda el grupo que pertenece al gestor.
+
+[16:13] 2: Perdona, segundos No es mucho.
+
+[16:16] 0: ¿Quince segundos es mucho? No, o sea, me refiero, son como creo cinco, seis tonos. Si ves que se alarga, de normal, es lo normal. Se demanda el grupo. Si el grupo está ocupado y también pasan 15 segundos, que en vuestro caso no creo que sea el problema, más o menos, pero bueno, si es así, si es un número de móvil, le mandamos un WhatsApp. Hola, José Manuel, hemos recibido, tenemos una pérdida tuya, ¿En qué te podemos ayudar? Y ahora veremos la automatización de WhatsApp. Si es un número fijo, se deja una nota en el software, en ZOA, de que nos han llamado y se crea una tarea. Alguno de vosotros, porque, oye, esta pasa una llamado a este fijo, hay que llamar porque nos ha llamado y nos.
+
+[17:08] 2: Saldrá el teléfono que nos ha llamado y el número de datos.
+
+[17:16] 0: Y luego veréis todo lo que. Como vimos el otro día en la demo, veréis todo el historial de las llamadas entrantes, llamadas perdidas, llamadas no contestadas. Simplemente que a nivel conceptual lo veáis y digáis, oye, pues me gusta, pero también le daría esta vuelta o lo dejaría seguir aprobando y tal y cual. Es como. Vale, si no está en la base de datos y no tiene la base de datos. ¿Hola, has llamado? Ya lo tengo, Doctor Seguros brokers, si quieres hablar con Asisa, es un ejemplo, marque uno con seguros del hogar o auto otros, pulse 2. Aquí por ejemplo, en esta parte lo mismo un poco de arriba, ¿Que podemos decir? Si en este caso quieres hablar con administración, pulsa un siniestro.
+
+[18:06] 2: No tienes comercial, el departamento comercial, porque si no está en la base de datos no es cliente.
+
+[18:13] 0: Exactamente, si esta parte de la sisa todavía no lo vamos a hacer, vamos a empezar con lo que hablamos de la de la parte de arriba, de la parte vuestra abajo y en base a eso, pues luego iremos haciendo. Luego yo lo repasaré y os lo iré haciendo en las locuciones que lo vamos haciendo, ¿De acuerdo? Uno, si en este caso va a ir por la parte de la póliza actual, vamos a poner que no sea esto. Grupo 1, póliza. Lo mismo iría a, por ejemplo, ¿A quién iría? Ahora lo veremos. Imagínate que quiere hacer una nueva póliza actual o una póliza nueva.
+
+[18:58] 2: Pulse 1 Administración para que cojamos datos y podamos.
+
+[19:03] 0: Vale, correcto. Administración, ¿Quién seríais?
+
+[19:06] 2: Yo, tú.
+
+[19:08] 0: Vale, perfecto.
+
+[19:08] 1: Sana, comercial y comercial, Javi.
+
+[19:14] 0: Perfecto. Esto me lo voy a apuntar de aquí. ¿Yo pongo el Sara y luego ya cuando hagamos las extensiones, yo os pondré las extensiones de quien, Vale? Administraciones serías tú, no Sara. ¿Alguien más?
+
+[19:32] 2: Soy yo, Administración, esto y no somos nadie.
+
+[19:37] 0: Bueno, bueno, porque igual dices, imagínate que tú no estás o que tú vas muy liada con una faena o quieres que por si acaso lo haga otra persona. Para esto son los grupos. Vale, genial. Comercial.
+
+[19:53] 2: Comercial es Javier.
+
+[19:55] 0: Javier, perfecto.
+
+[19:58] 2: Javi, como quieras.
+
+[19:59] 0: Con Javi, como vosotros le llamáis, Javi, maravilloso.
+
+[20:03] 2: Vale, Siniestros y estos es María José.
+
+[20:08] 1: Y a mí me pone Rubén.
+
+[20:12] 0: Rubén de Bosch. Ahí le tenemos, Comercial, Siniestros.
+
+[20:18] 1: María José.
+
+[20:20] 0: Daniel no me lo perdona. Mira que a mí me llega tu.
+
+[20:24] 2: Mail y yo veo José Manuel y coño, José Manuel.
+
+[20:27] 0: ¿Y quién es José Manuel?
+
+[20:29] 2: ¿No sé lo tengo claro, pero José Manuel y digo yo, José Manuel y Rubén, Digo, este se ha equivocado quién es? Y me pongo a leer y digo coño, digo si este José que es Rubén, yo claro, veo Rubén y algún mail de estos de mierda, es un flipado que quiere algo y yo me pongo a leer, digo este José, Pobre.
+
+[20:50] 0: Daniel, Pobre Daniel, sí, sí, sí, tuve un fallo bárbaro, pero mira que a mí me llaman Juan, me llaman José María o José Antonio. Sí, sí, yo estoy acostumbrado, alguna vez me gusta cambiar de nombre. Exacto, así me hago ahí cositas. Vale, Administración comercial, siniestros, ¿Queréis que me pongamos algo más? ¿Echáis algo de menos a Daniel? ¿Dónde le ponemos? A ver, Daniel es gerencia vividor, ahí está.
+
+[21:22] 2: Si alguien quiere hablar con dirección. Lo malo es que cuando tú pones hablar con dirección.
+
+[21:27] 0: Claro, sí, sí, lo entiendo totalmente.
+
+[21:29] 2: Yo quiero que pasen por aquí y si es algo que tiene que gestionar Dani ya se lo pasaremos nosotros.
+
+[21:34] 0: Sí, sí, sí. Vale, o incluso podremos hacer de alguna forma que Dani cuando quiera no quiera coger el teléfono, que se lo redirijamos a ti, Sara o a Xavi o a Sin. Bueno, ya veremos, de momento lo dejamos así, ¿No?
+
+[21:49] 2: Lo veis Bien, aquí todos estamos organizados y cuando preguntan por Daniel está reunido, a no ser que sea alguien que sepamos que quiere hablar con él de verdad, si no está reunido porque si no un chorreo de llamadas absurdas.
+
+[22:01] 0: Correcto, pero ese chorro, si vosotros ahora lo queréis canalizar, Dani dice mira, yo tengo esto que yo quiero cerrar este cliente automáticamente que se envíe al grupo de WhatsApp y que lo puedas gestionar tú, Sara o Javi o María José.
+
+[22:16] 2: No creo, Si, normalmente somos o Javi o yo, porque María José está más centrada en siniestros, que ya tiene bastante.
+
+[22:21] 1: No es, pero puede ser que alguna serie de clientes me vengan a mí.
+
+[22:28] 0: Sí, sí, totalmente, claro, claro, Mira, pues.
+
+[22:31] 1: Estos 10 clientes son 10 clientes de empresa, quiero yo.
+
+[22:36] 0: Totalmente, sí, sí, sí, sí, eso lo puedo hacer totalmente, lo podemos. Exactamente, Claro, eso es lo chulo, que como vais a tener vosotros en la base de datos, en la base de datos vais a poner quién es quién y como, quién le va a salir, pues eso que dice Daniel, oye, yo quiero tener esta y esta empresa y directamente cuando llamen nosotros vamos a ir, va a ir directamente a ti.
+
+[22:58] 1: Sí, porque en el broker si hay algún determinado cliente que yo no he metido los datos en el broker, los ha metido Javi. Yo puedo coger en el broker, cambiar y ser yo el usuario para el gestor, para que en SOA aparezca.
+
+[23:14] 0: Eso es, eso es, eso es, totalmente. Vale, genial. Vale, pues lo mismo. Imaginaros ahora si quieres, por ejemplo, lo que hemos dicho, podéis actual 1. Si, ahora, por ejemplo, en la parte 2, que hemos dicho que es la parte de siniestros, por ejemplo, la parte 2 es siniestros. Aquí esto estaba diseñado directamente aquí lo que teníamos que hacer, Esto lo habíamos puesto por si queríamos luego las oficinas, pero luego lo haremos ya de otra forma. Si esto es para hacerlo por grupos o lo que haga falta. Si es dos siniestros, directamente va a ir aquí a María José. Vale, esto lo voy a eliminar luego yo.
+
+[24:03] 2: Sí, porque no hay tantos grupos aquí.
+
+[24:05] 0: Tantos grupos de eso unos tres.
+
+[24:08] 1: Y lo que hablamos, José, empezar con la oficina de aquí solo.
+
+[24:15] 2: Aquí somos tres. Dani, no lo vamos a contar más, que para cosas concretas.
+
+[24:20] 0: No hay problemas. Yo montaré luego, con lo cual habrá dos comerciales. Montaré luego yo aquí el flujo de siniestros, no os preocupéis que yo lo montaré. Que vaya a María José. Si María José no lo coge, le mandamos un WhatsApp y en el WhatsApp pondremos esta parte.
+
+[24:43] 2: Sí María José no podría volver a saltar a la oficina, porque a lo mejor en ese momento, hablando por teléfono.
+
+[24:52] 0: Eso es una cosa que hemos hablado aquí en grupos. Si no lo coge María José, ¿Quién sería la oficina? ¿Tú no, Sara? Vale, pues te pongo a ti, porque.
+
+[25:03] 2: Igual hay un siniestro y hay que cogerlo o llamo un perito y hay que contestar y a mí no me gusta contestar esa llamada. Y luego María José ya que hable con quien quiera.
+
+[25:12] 0: Por eso, por eso, pues aquí por eso están los grupos. Cuando, por ejemplo, yo montaré esto, que es cuando vas a llamar a José, no coja los tonos, 15 segundos. Si no te llaman a ti, si tú no coges, se mandará un WhatsApp. Vale, ¿Cuál será ese WhatsApp? Y ahora vamos a la parte de aquí, porque luego. Espera, y ahora os explico para que tenga todo sentido. ¿Cuál será el WhatsApp? El WhatsApp será este de qué es el siniestro.
+
+[25:41] 2: Vale. Auto.
+
+[25:44] 0: Hola, Javier, ¿Qué tal? Bienvenido, que te vamos a ayudar. Siniestro, perfecto. Y aquí ya cuando tú por ejemplo acabes de llamar o surja otra cosa, directamente verás que ya se ha cualificado y ha dicho, vale, es auto, es culpa mía y te ha enviado la foto. Oye, ¿Qué tal que acabo de recibir todo esto, me pongo con ello, lo gestionamos igual?
+
+[26:04] 1: Te lo iba a decir Sara, nosotros de lo que mucho tenemos siniestros es de comunidades. Entonces ahí en vez de poner otros o Si, puedes poner comunidades y otros, por supuesto, Claro, es que es uno de nuestros productos que más siniestros tenemos comunidades.
+
+[26:23] 0: Sí, sí, sí, sí, claro, pero eso está hecho, que esté hecho aquí a vuestras necesidades. Por eso es lo chulo de que podemos personalizarlo de esta forma. Vamos a acabar con esta última parte, que La parte número 3, que la tengo que apuntar, el tema de recibo, devolución, creo será administración, que.
+
+[26:46] 2: Todo el tema de recibos, cambios de cuenta, todas estas vainas, esto lo llevo yo, lo.
+
+[26:52] 0: Voy a hacer lo mismo, número 3.
+
+[26:54] 2: Cambio de cuenta bancaria, no sé, un reemplazo de un coche, reemplazo, alguna vaina de estas. Yo luego ya lo distribuyo a comercial, a donde sea, pero vale, mía también.
+
+[27:08] 0: Un pago, un recibo, una devolución. Yo lo voy poniendo aquí, un cambio.
+
+[27:13] 2: De vehículo, aunque luego se me comercial.
+
+[27:15] 0: Pero sí, vale, perfecto. Y de aquí sería, te lo enviaría a Sara y luego de Sara, si no coge, si no cogerías tú, por ejemplo, ¿Qué haríamos? ¿Quieres que alguien más pase a la oficina o WhatsApp y luego lo llamas tú?
+
+[27:30] 2: Yo creo que WhatsApp ya no. A ver, ha pasado por María José y María José no lo puede coger y no lo puedo coger yo. Es porque está aquí habiendo la Tercera Guerra Mundial.
+
+[27:44] 0: ¿Pero me refiero, imagínate, 12 siniestros, vale? Si ella no coge, coges tú, pero tres es administración, que eres tú. Si no coges tú, hablamos de una llamada de administración. Sí, de lo que dices tú, de devolución, recibo, lo que sea.
+
+[28:00] 2: Puedes pasar a comercial si quieres. Y no estoy yo en ese por lo menos. Mira, Sara viene en 10 minutos, ahora te llama, no sé, algo así, pero para que no se pierda la llamada.
+
+[28:10] 0: Vale, correcto. Entonces de Sara pongo debajo a Javi, Si no lo coges tú, ¿Lo cogerías? ¿Javi?
+
+[28:15] 2: Prefiero que pongas a Javi.
+
+[28:17] 0: Sí, perfecto. Vale, entendido.
+
+[28:20] 2: Los hablamos mucho entonces. Sabemos de qué hablamos.
+
+[28:23] 0: Vale, vale. ¿Sabéis de qué está toda la vaina.
+
+[28:27] 2: Todo el problema de lo que sea, pero el, si yo no estoy, coge la llamada o al revés? Vale.
+
+[28:34] 0: Luego otra pregunta. A nivel comercial, cuando por ejemplo hemos puesto aquí, podríamos poner también la parte de una nueva póliza, ¿Se lo mandamos o suelen llamar para la gente preguntar, informarse?
+
+[28:47] 2: ¿Queréis que se pase a Javi a ver cómo quiere? En principio tiene que ir a comercial.
+
+[28:54] 0: Claro, por eso te digo, en ese.
+
+[28:56] 2: Momento está hablando por teléfono, me lo puedes pasar a mí y yo cojo datos, ¿Sabes? Y se lo paso luego a él.
+
+[29:01] 0: Vale, perfecto. Si preguntan por nueva póliza, directamente, ¿Qué pasa? ¿Javi?
+
+[29:07] 2: Si, a comercial. Claro. En este caso mostrar solo Javi. Pues Javi, luego si Javi en ese momento de contestar, que me pase a mí, ¿Sabes?
+
+[29:17] 0: Sí lo apunto, luego lo ordeno y lo reestructuro. Y después si no va comercial, si.
+
+[29:25] 2: No está Javi, que pase a mí igual de administración. Sara, Javi o sin. Eso es María José, Sara, Perfecto.
+
+[29:34] 0: Exacto. Yo ya lo tengo en la cabeza y lo pongo para que. Eso es. Perfecto, genial. Vale, pues Eso lo tenemos. ¿Alguna otra cosa que creas que podéis?
+
+[29:48] 2: Es que como es muy nuevo para mí, no sé si me falta algo.
+
+[29:51] 0: Pero si no, cuando yo lo tenga al final también os lo presento. Y si os ocurre algo terminado, que.
+
+[29:57] 2: Ya estén todos los flujos finalizados.
+
+[30:00] 0: Eso es.
+
+[30:01] 2: Y si veo que falta algo, pues te digo.
+
+[30:03] 0: Vale, Te digo que es totalmente voluble y lo vayamos modificando en base también a vuestras necesidades. Genial. Entonces sucede lo mismo. Hemos llamado y de repente mandamos un WhatsApp porque no hemos podido coger esto. Ya veremos que también podemos hacerlo a nivel de si queremos luego en el futuro meter el tema de los formularios, un widget en la página o redes sociales, se les enviaría este WhatsApp. Si tenéis ejecutivo o gestor, ¿Como llamáis? Tenemos el nombre.
+
+[30:37] 2: Le llega el WhatsApp al gestor, ¿No?
+
+[30:39] 0: Correcto. Le llega al gestor y se personaliza el mensaje porque sabemos el nombre del cliente.
+
+[30:48] 1: El web service, ¿No?
+
+[30:49] 0: Exactamente. Bueno, exactamente. Esta es la parte web de WhatsApp. Aparte también que tendréis ahí metido en ZO, ahí veréis las conversaciones.
+
+[30:59] 1: Lo de web service, ¿Cuando quieres que lo activemos en Ebroker.
+
+[31:05] 0: ¿Te refieres del web service de broker para hacer lo de la API para conectarnos con él? Vale, pues según lo que estuvimos hablando la semana pasada, la idea es, estamos en paralelo los dos, tenerlo a finales de este mes. Entonces no os preocupéis porque eso es yo te aviso, Web service. Primero vamos a dejar esto hecho, que es la parte más conceptual, luego nos metemos con la técnica y luego con el funcionamiento. Genial, es lo siguiente. Pues tiene ejecutivo, perfecto. Hola, tal, quiero contratar un nuevo seguro. Perfecto. Te pregunta ¿Eres autónomo o eres empresa? Si eres autónomo es empresa o particular, ¿Qué seguro necesitas contratar? Aquí se le pasaría Javi, ¿Qué seguro necesitas contratar? Se le pasea esta tarea directamente a Javi. Oye, ha entrado esta persona a este WhatsApp, tienes que hacer esto.
+
+[32:03] 2: Entonces la persona tengo una duda, es el primer WhatsApp que llega, la primera parte, aquí justo a la izquierda, donde pone Hola, soy María de Tal, bienvenido, ¿En qué te puedo ayudar? Quién contesta.
+
+[32:18] 0: No, esto somos nosotros, sois vosotros, que dice Hola, soy María de Dr. Seguros Broker, ¿En qué te podemos ayudar? Bueno, en esta parte entonces directamente dice pues mira, quiero un nuevo seguro o consultar tu seguro o un siniestro. Entonces somos nosotros que escribimos esto cuando la gente nos manda un WhatsApp.
+
+[32:41] 2: Ah, vale, vale, vale. Salta un mensaje automático que el siniestro va canalizando hasta dónde hacemos un triaje.
+
+[32:49] 0: Hacemos como una recepcionista virtual que te va diciendo hey, ¿Qué pasa? Hola. Y nadie contesta. Entonces rápidamente se manda un mensaje, se pone esto y ya vamos segmentando. ¿Qué quiere decir esto? Cuando nos vengamos, nuevo mensaje, ha mandado este WhatsApp. Hola, soy Juan y quiero un nuevo seguro. Es un nuevo particular, es autónomo, Se asignará directamente a Javi y Javi tendrá ya una tarea y un mensaje pendiente que tiene que responder.
+
+[33:19] 2: ¿Vale, y si fuera por ejemplo, pinchar siniestro, le pregunta y se va derivando cuál es la fecha del siniestro? Le va haciendo esas preguntas y al final al gestor, que en este caso sería María José, le llegan todos los datos.
+
+[33:36] 0: Eso es, eso es. OK, hacemos esto entonces. Hola, pues lo mismo no ha sido culpa tuya, si no puedes enviarme una foto, en este caso es de auto. Y vosotros, por ejemplo, que sois especialistas en temas de comunidades, ¿Qué tipo de preguntas os suelen gestionar a la hora de? Suelen preguntar, Porque aquí podemos hacer lo que oye.
+
+[34:07] 2: Esto ha sido, ¿Cuándo ha ocurrido, ¿Qué daños hay?
+
+[34:11] 0: Exactamente.
+
+[34:13] 2: Ahí hace falta más ficha, pero bueno.
+
+[34:16] 0: ¿Cuándo ha ocurrido, por ejemplo, se puede.
+
+[34:19] 2: Hacer la gente ¿En qué fecha ha ocurrido?
+
+[34:24] 0: La idea simplemente es que os adelanten trabas.
+
+[34:27] 2: ¿Vale? Por eso, que nos vaya cribando, ¿No?
+
+[34:30] 0: Eso es. Y que estas preguntas, que son siempre iguales, las tengáis automatizadas. Por ejemplo, como bien dices, hola, un siniestro en esta comunidad, Vale, ¿Qué comunidad es? ¿Es esta? ¿Qué ha pasado? Problema no sé dónde. Todas esas preguntas que tenéis que hacer vosotros de una forma manual, es hacerla automática.
+
+[34:55] 1: Perdona, José, no te preocup.
+
+[35:09] 2: Entonces, ahí yo preguntaría también por hacerlo rápido, ¿En qué fecha ha ocurrido el siniestro? ¿Qué fecha ha ocurrido el siniestro? Y sobre todo es importante saber de qué es el siniestro, si es de agua, un atasco. No sé cómo lo podemos poner eso para. Se pueden poner varias cosas.
+
+[35:33] 0: Sí, claro. Sí, claro. ¿Cuáles fueron los daños en la comunidad o del hogar?
+
+[35:39] 2: Realmente saber de qué es el siniestro, si ha sido, por ejemplo, un cristal roto, si ha sido un siniestro de aguas, un atasco.
+
+[35:51] 0: Yo te puedo crear unas cositas ahí.
+
+[35:54] 2: Para que ellos elijan, ¿No?
+
+[35:56] 0: Exactamente. Tú me vas diciendo. Aquí, por ejemplo, de agua puede ser, ¿No? Y agua, agua puede ser atasco, atasco.
+
+[36:09] 2: Pondría filtraciones, agua o algo así. Filtraciones, agua, vale. Atasco, hemos hecho cristales y no sé, tengo ahora mismo 300 siniestros aquí y no se me ocurre ninguno.
+
+[36:30] 0: Yo me estoy intentando pensar cuál he hecho yo.
+
+[36:32] 2: Luego se me ocurren varios. Pon XXX y yo te diré alguno más.
+
+[36:37] 0: Vale, o te pongo otros. Exacto, te pongo otros. Y aquí ya tenemos vandálico.
+
+[36:44] 2: Se me ocurren unas cuantas, pero realmente, ¿De qué tipo de siniestro? ¿De qué es el siniestro? Vale, filtraciones, atasco, tal, lo que sea.
+
+[36:58] 0: Exactamente. Entonces eso se genera una tarea ya al gestor, en este caso María José, que directamente se le pondrá lo que ella tiene que hacer, como esa tarea, que ha llegado este mensaje, este WhatsApp, y ya tiene que solucionarlo. Maravilloso. Luego, por ejemplo, si en este caso lo mismo, si en vez de esos siniestros. OK, contratación, si no tiene ejecutivo o ayuda, esto lo que se hace es directamente.
+
+[37:28] 2: Va directamente a. Vale, hay pregunta. ¿Eres autónomo de empresa o particular?
+
+[37:33] 0: Exactamente.
+
+[37:34] 2: Esto irá Javi pinchando y nos va diciendo qué seguro necesitas y ya se, ahí podemos poner también, por ejemplo, auto, hogar, comercio, no sé, algo así.
+
+[37:47] 0: Sí, claro, claro, claro. Aquí lo que podríamos poner, como bien.
+
+[37:51] 2: Comentas, para que la persona que lo recibe, el gestor en este caso, o Javi o yo, quien sea, sepamos de qué es y ya vamos a sabiendas de qué es un auto, ya le tienes que pedir determinada documentación, lo que sea.
+
+[38:03] 0: Eso es. Luego tenemos. Correcto, eso es. Luego nosotros tenemos vehículo, autohogar, otro, ¿Cuál más? ¿Salud puede ser?
+
+[38:13] 2: Sí, salud, comercio. Sí, porque comunidades normalmente no entra por ahí.
+
+[38:18] 0: Sí, claro, eso más por ahí, pero comercio igual.
+
+[38:21] 2: Sí, o accidentes o un seguro de viaje, ¿Sabes? No sé.
+
+[38:25] 0: Vale, vale. Eso lo podemos probar y cuanto más preguntitas, pues se puede hacer mejor. Es un botón al final. A ver, sí que es verdad, está bien, claro, son botones, pero sí que es verdad que hay clientes que tú a veces le pones esto y dice, y te escribe abajo viaje en vez de darlo. Pero nuestra idea, como te comenté al final esto es automatizaciones, luego agentizar un poco con agente, que esto te lo vaya contestando y que vaya automático. Pero lo bueno es que tengamos la estructura y que lo tengamos claro.
+
+[39:00] 2: Vale, genial. A mí me, vamos, no sé si me ayudas con más información o menos. Yo me lo estoy inventando porque en mi cabeza pienso que si la persona es particular y le pincha y luego le pregunta a alguien qué seguro necesitas, si le pones salud, hogar, comercio, tal, otros, pues si no es ninguno de estos cinco, pondrá otros. Y si es uno de estos y cuando le llegue a Javi la tarea o a mí, ya sabemos que es un seguro de salud, con lo cual ya vamos predispuestos a determinada información.
+
+[39:27] 0: Incluso el siguiente paso, Sara, es, nosotros te enseñaremos después unas plantillas o cuestionarios que son de autosalud, que ya, pum, lo envías, lo rellenas y ya tienes todo.
+
+[39:37] 2: Vale, genial. Pues muy bien. Sí, bueno, yo tengo las mías, pero si las tuyas son mejores me apaño.
+
+[39:42] 0: No, no, pero con las tuyas lo mismo, pero lo metemos dentro del WhatsApp. Entonces la gente cuando lo rellene, tú ya directamente en ZOA lo vas a tener guardadito.
+
+[39:50] 2: Vale. Es como una toma de datos que el cliente ya va ahí y te llega eso por el mensaje este.
+
+[39:59] 0: Por el mensaje, correcto. Pues esto de todas formas te digo que cuando lo deje ya acabado y lo repasemos juntos otra vez. Veréis, si queréis modificar alguna cosa, pues.
+
+[40:09] 2: Bien, haciendo pruebas al principio, imagino que si hay alguna cosa te la puedo.
+
+[40:14] 0: Eso es totalmente.
+
+[40:15] 2: Añadir o quitar o corregir, lo que sea.
+
+[40:19] 0: ¿Vale? Y eso es cuando escriben un WhatsApp. Pero si os hacen una llamada y una llamada y no cogéis y nadie coge, que es al final lo que sucede, pues lo mismo, se hace esa reestructuración, Esto es el WhatsApp para contestar, pero la llamada es lo mismo. Os llaman un sábado por la mañana, nadie coge, se manda un WhatsApp automáticamente y se le va cualificando, se va.
+
+[40:41] 2: Redireccionando, el cliente nos va diciendo lo que necesita y el lunes por la mañana nos llegará un mensaje y nos dirá ha llamado fulano de tal, quiere un seguro de salud y lo que sea, ¿No?
+
+[40:51] 0: Vosotros por ejemplo, contratáis. Por ejemplo, tenemos varios clientes que tienen un servicio que es como un asiento en el broker, que lo que hace es que si una persona os llama el fin de semana, se le contesta a alguien, se mete y le ayuda un poco como una gente. 24 horas 7. 24 horas 7 días.
+
+[41:17] 1: Pero le contesta de alguna forma la correduría.
+
+[41:22] 0: Correcto. Le contesta de una forma de le soltar. Le solventa todo un domingo por la tarde. ¿Le solventa desde broker? No desde broker, sino que es una empresa que no sé cuánto pagan, son 150. 200 euros al mes y les contestan ellos al cliente fuera de horario. No sé qué empresa es, te lo busco y te lo digo.
+
+[41:54] 2: Pero entonces hace un poco el mismo trabajo que vamos a hacer con esto.
+
+[41:57] 0: No, no, eso lo que te hace. Solo hago fines de semana y te consume un asiento dentro de brokers como otra persona.
+
+[42:10] 2: Quiere decir que es como un gestor más en el broker.
+
+[42:13] 0: Es como de urgencias puro y duro de urgencias. Cuando un siniestro. Un siniestro, un problema, es una persona que te dice ese teléfono. Pero bueno, déjame informaros y os lo digo porque al final, como bien dice Sara, es esto lo que nosotros hacemos.
+
+[42:30] 2: ¿Para qué necesito yo a Zoa si eso me lo hace otra empresa que no sé quién es?
+
+[42:33] 0: Correcto. Bueno, eso lo que te hace es un tío que te dice es este teléfono, alias número 7 y aquí pues hacemos todo esto, ¿No?
+
+[42:40] 2: Pero aquí el fin de semana si, por ejemplo, llamar a alguien al 965-0461-3, que es nuestro teléfono de centralita.
+
+[42:48] 0: Exactamente, exactamente.
+
+[42:50] 2: Solucionado y el único.
+
+[42:54] 0: Exacto, porque hay empresas que al final se han quitado de eso porque tienen ZOA, por eso lo decía, que no sabía si tenía.
+
+[43:00] 2: No me lo cuentes, da igual.
+
+[43:05] 0: Perfecto. Vale, pues metería vuestra política de privacidad por si la gente también quiere contratar o tiene una ayuda para el tema de. La tengo claro ya los usuarios, los departamentos.
+
+[43:21] 2: Sí, aquí somos cuatro.
+
+[43:24] 0: Maravilloso, yo lo veo genial. Y nada más, pero ya te lo iré diciendo, Vale, lo siguiente, acabo con esto. El contrato me lo pasaste, Daniel, ayer.
+
+[43:40] 1: Ayer, porque pasó un segundo porque el abogado había dicho otra cosa.
+
+[43:45] 0: Vi lo de desarrollador, yo también me fijé en eso, pero te lo voy a decir más tarde, pero me alegro.
+
+[43:50] 2: ¿Peloteros y que ponga esto, se van.
+
+[43:54] 0: A jugar al golf y no puede ser, sabes?
+
+[43:58] 2: Tal, entonces no sé, pero bueno, da.
+
+[43:59] 0: Igual, que no pasa nada. Eso ya lo tengo. Lo firmamos si quieres haced mañana el pago, luego os lo devolvemos mañana que es viernes o el lunes, no pasa nada, o el lunes. Y digo para devolverlo justo la semana.
+
+[44:19] 1: El qué perdona, la concesión de la subvención esa.
+
+[44:22] 0: El final acaba el 30 de septiembre. A nosotros nos gusta hacerlo nosotros, el día está hecho, lo hemos presentado y tal, se cierra el 30 de septiembre y se debe haber gestionado ya el pago antes del 15 de noviembre. Lo que queremos es dejarlo ya hecho todo, porque así nos quitamos de rollos.
+
+[44:46] 1: Antes del 15 de noviembre nos pagarán a nosotros.
+
+[44:49] 0: No, no, eso es, el pago tiene que estar antes del 15 de noviembre. Pero sale la ayuda, se define la ayuda el 30 de noviembre y bastante pronto, no te creas que Tampoco es.
+
+[45:06] 1: El 30 de noviembre.
+
+[45:07] 0: 30 de noviembre, que chale, que al final que pintos y flautas el 10 de diciembre, ¿Sabes? ¿Pero bueno, el hecho que nosotros dejamos el trabajo hecho, os paso eso, os paso también la factura de los cuatro meses de ZO y qué más? Y nada, nos ponemos con la. Pasadme por favor la factura, os paso la centralita, hacemos el traspaso, os monto el flujo, os doy de alta cuando tenga eso, la centralita, el ZOA, el WhatsApp y nos ponemos a funcionar. Nada, genial. Esto al principio es un poquito esto de un poco sobre información, pero iré viendo que poco a poco hacerlo tan personalizado al final tiene que ser así. Y nada, nada más por mi parte.
+
+[45:57] 2: Pues ya está. Entonces hemos avanzado. Pone ahí arriba Doctor Seguros Brokers, que pone Doctor Seguro y queda fatal.
+
+[46:02] 0: Sí, no, no. Tranquila, que ahora lo voy a mover yo todo. Me gusta, me gusta. Eso está bien. Tranquila, que la idea ya me quedaba más. Tengo mi secretario virtual que lo tengo aquí grabando, que luego me lo escucho para cualquier rato. Exactamente, exactamente. Al final es casi Estoy atento a vosotros y no estoy apuntando. Me ayuda bastante. Mola, genial.
+
+[46:28] 2: Hablamos en otro momento. Yo ahora te mando la factura esa de Mándamela, porfa.
+
+[46:32] 0: Mándamela y vamos hablando la próxima semana.
+
+[46:35] 1: Celeste.
+
+[46:40] 2: Es un cielo de niña, ya lo verás.
+
+[46:44] 1: Porque tu llamada.
+
+[46:46] 0: Y tienes toda la razón, Tienes toda razón. ¿La puedo llamar ahora?
+
+[46:51] 2: Seguro que lo hace también cuatro chicas.
+
+[46:58] 0: Y además nunca está en Gata de Gorgos, así que. Genial.
+
+[47:01] 2: Debería. Sí.
+
+[47:03] 0: Muy bien, me la apunto. Muchas gracias, Sara. Adiós, Daniel.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================

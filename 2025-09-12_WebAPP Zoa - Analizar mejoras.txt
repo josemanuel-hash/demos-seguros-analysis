@@ -1,0 +1,1682 @@
+================================================================================
+DEMO/REUNIÓN: WebAPP Zoa - Analizar mejoras
+================================================================================
+
+📋 INFORMACIÓN GENERAL:
+------------------------------
+📅 Fecha: 12/09/2025 a las 12:30
+⏱️ Duración: 66.20999908447266 segundos (1.1 minutos)
+👥 Participantes: alejandro@zoasuite.com,josemanuel@zoasuite.com, josemanuel@zoasuite.com
+
+🔑 PALABRAS CLAVE:
+--------------------
+WhatsApp, móvil, llamadas, contactos, refactorización, Vélez
+
+✅ ACCIONES/TAREAS IDENTIFICADAS:
+-----------------------------------
+1. 
+
+2. *
+3. *
+4. A
+5. l
+6. e
+7. j
+8. a
+9. n
+10. d
+11. r
+12. o
+13.  
+14. M
+15. a
+16. r
+17. t
+18. i
+19. n
+20. e
+21. z
+22. *
+23. *
+24. 
+
+25. A
+26. r
+27. r
+28. e
+29. g
+30. l
+31. a
+32. r
+33.  
+34. c
+35. a
+36. b
+37. e
+38. c
+39. e
+40. r
+41. a
+42. s
+43.  
+44. d
+45. e
+46.  
+47. c
+48. o
+49. n
+50. t
+51. a
+52. c
+53. t
+54. o
+55. s
+56.  
+57. e
+58. n
+59.  
+60. v
+61. e
+62. r
+63. s
+64. i
+65. ó
+66. n
+67.  
+68. m
+69. ó
+70. v
+71. i
+72. l
+73.  
+74. (
+75. 4
+76. 8
+77. :
+78. 5
+79. 8
+80. )
+81. 
+
+82. I
+83. m
+84. p
+85. l
+86. e
+87. m
+88. e
+89. n
+90. t
+91. a
+92. r
+93.  
+94. s
+95. í
+96. m
+97. b
+98. o
+99. l
+100. o
+101.  
+102. d
+103. e
+104.  
+105. e
+106. m
+107. a
+108. i
+109. l
+110.  
+111. f
+112. i
+113. j
+114. o
+115.  
+116. y
+117.  
+118. e
+119. l
+120. i
+121. m
+122. i
+123. n
+124. a
+125. r
+126.  
+127. p
+128. o
+129. p
+130. -
+131. u
+132. p
+133.  
+134. d
+135. e
+136.  
+137. l
+138. l
+139. a
+140. m
+141. a
+142. d
+143. a
+144.  
+145. d
+146. i
+147. r
+148. e
+149. c
+150. t
+151. a
+152.  
+153. (
+154. 4
+155. 7
+156. :
+157. 1
+158. 6
+159. )
+160. 
+
+161. C
+162. o
+163. n
+164. f
+165. i
+166. g
+167. u
+168. r
+169. a
+170. r
+171.  
+172. s
+173. i
+174. s
+175. t
+176. e
+177. m
+178. a
+179.  
+180. d
+181. e
+182.  
+183. d
+184. e
+185. r
+186. i
+187. v
+188. a
+189. c
+190. i
+191. ó
+192. n
+193.  
+194. d
+195. e
+196.  
+197. l
+198. l
+199. a
+200. m
+201. a
+202. d
+203. a
+204. s
+205.  
+206. e
+207. n
+208. t
+209. r
+210. e
+211.  
+212. c
+213. o
+214. m
+215. e
+216. r
+217. c
+218. i
+219. a
+220. l
+221. e
+222. s
+223.  
+224. (
+225. 3
+226. 2
+227. :
+228. 3
+229. 0
+230. )
+231. 
+
+232. M
+233. e
+234. j
+235. o
+236. r
+237. a
+238. r
+239.  
+240. t
+241. a
+242. b
+243. l
+244. a
+245.  
+246. d
+247. e
+248.  
+249. l
+250. l
+251. a
+252. m
+253. a
+254. d
+255. a
+256. s
+257.  
+258. c
+259. o
+260. n
+261.  
+262. n
+263. u
+264. e
+265. v
+266. o
+267.  
+268. b
+269. o
+270. t
+271. ó
+272. n
+273.  
+274. d
+275. e
+276.  
+277. r
+278. e
+279. c
+280. a
+281. r
+282. g
+283. a
+284.  
+285. (
+286. 0
+287. 8
+288. :
+289. 3
+290. 4
+291. )
+292. 
+
+293. A
+294. d
+295. a
+296. p
+297. t
+298. a
+299. r
+300.  
+301. W
+302. h
+303. a
+304. t
+305. s
+306. A
+307. p
+308. p
+309.  
+310. m
+311. ó
+312. v
+313. i
+314. l
+315.  
+316. p
+317. a
+318. r
+319. a
+320.  
+321. f
+322. u
+323. n
+324. c
+325. i
+326. o
+327. n
+328. a
+329. r
+330.  
+331. c
+332. o
+333. m
+334. o
+335.  
+336. a
+337. p
+338. l
+339. i
+340. c
+341. a
+342. c
+343. i
+344. ó
+345. n
+346.  
+347. n
+348. a
+349. t
+350. i
+351. v
+352. a
+353.  
+354. (
+355. 4
+356. 3
+357. :
+358. 4
+359. 1
+360. )
+361. 
+
+362. C
+363. o
+364. n
+365. t
+366. a
+367. c
+368. t
+369. a
+370. r
+371.  
+372. a
+373.  
+374. L
+375. u
+376. i
+377. s
+378.  
+379. s
+380. o
+381. b
+382. r
+383. e
+384.  
+385. t
+386. e
+387. m
+388. a
+389. s
+390.  
+391. f
+392. i
+393. n
+394. a
+395. n
+396. c
+397. i
+398. e
+399. r
+400. o
+401. s
+402.  
+403. p
+404. e
+405. n
+406. d
+407. i
+408. e
+409. n
+410. t
+411. e
+412. s
+413.  
+414. (
+415. 5
+416. 9
+417. :
+418. 2
+419. 8
+420. )
+421. 
+
+422. P
+423. a
+424. s
+425. a
+426. r
+427.  
+428. e
+429. s
+430. p
+431. e
+432. c
+433. i
+434. f
+435. i
+436. c
+437. a
+438. c
+439. i
+440. o
+441. n
+442. e
+443. s
+444.  
+445. t
+446. é
+447. c
+448. n
+449. i
+450. c
+451. a
+452. s
+453.  
+454. a
+455. l
+456.  
+457. e
+458. q
+459. u
+460. i
+461. p
+462. o
+463.  
+464. d
+465. e
+466.  
+467. d
+468. e
+469. s
+470. a
+471. r
+472. r
+473. o
+474. l
+475. l
+476. o
+477.  
+478. (
+479. 5
+480. 7
+481. :
+482. 5
+483. 4
+484. )
+485. 
+
+486. 
+
+487. *
+488. *
+489. J
+490. o
+491. s
+492. e
+493.  
+494. M
+495. a
+496. n
+497. u
+498. e
+499. l
+500.  
+501. A
+502. u
+503. s
+504. i
+505. n
+506. *
+507. *
+508. 
+
+509. H
+510. a
+511. c
+512. e
+513. r
+514.  
+515. s
+516. e
+517. g
+518. u
+519. i
+520. m
+521. i
+522. e
+523. n
+524. t
+525. o
+526.  
+527. c
+528. o
+529. n
+530.  
+531. J
+532. a
+533. v
+534. i
+535.  
+536. s
+537. o
+538. b
+539. r
+540. e
+541.  
+542. r
+543. e
+544. u
+545. n
+546. i
+547. ó
+548. n
+549.  
+550. d
+551. e
+552.  
+553. e
+554. q
+555. u
+556. i
+557. p
+558. o
+559.  
+560. p
+561. a
+562. r
+563. a
+564.  
+565. m
+566. e
+567. j
+568. o
+569. r
+570. a
+571. s
+572.  
+573. d
+574. e
+575.  
+576. W
+577. h
+578. a
+579. t
+580. s
+581. A
+582. p
+583. p
+584.  
+585. (
+586. 0
+587. 1
+588. :
+589. 0
+590. 1
+591. :
+592. 4
+593. 8
+594. )
+595. 
+
+596. C
+597. o
+598. o
+599. r
+600. d
+601. i
+602. n
+603. a
+604. r
+605.  
+606. r
+607. e
+608. u
+609. n
+610. i
+611. o
+612. n
+613. e
+614. s
+615.  
+616. d
+617. e
+618.  
+619. f
+620. o
+621. r
+622. m
+623. a
+624. c
+625. i
+626. ó
+627. n
+628.  
+629. c
+630. o
+631. n
+632.  
+633. t
+634. o
+635. d
+636. o
+637. s
+638.  
+639. l
+640. o
+641. s
+642.  
+643. c
+644. l
+645. i
+646. e
+647. n
+648. t
+649. e
+650. s
+651.  
+652. d
+653. e
+654.  
+655. f
+656. o
+657. r
+658. m
+659. a
+660.  
+661. e
+662. s
+663. t
+664. r
+665. u
+666. c
+667. t
+668. u
+669. r
+670. a
+671. d
+672. a
+673.  
+674. (
+675. 0
+676. 1
+677. :
+678. 0
+679. 2
+680. :
+681. 5
+682. 0
+683. )
+684. 
+
+685. A
+686. g
+687. e
+688. n
+689. d
+690. a
+691. r
+692.  
+693. r
+694. e
+695. u
+696. n
+697. i
+698. ó
+699. n
+700.  
+701. d
+702. e
+703.  
+704. o
+705. b
+706. j
+707. e
+708. t
+709. i
+710. v
+711. o
+712. s
+713.  
+714. s
+715. e
+716. m
+717. a
+718. n
+719. a
+720. l
+721. e
+722. s
+723.  
+724. p
+725. a
+726. r
+727. a
+728.  
+729. e
+730. l
+731.  
+732. l
+733. u
+734. n
+735. e
+736. s
+737.  
+738. a
+739.  
+740. l
+741. a
+742. s
+743.  
+744. 7
+745.  
+746. d
+747. e
+748.  
+749. l
+750. a
+751.  
+752. t
+753. a
+754. r
+755. d
+756. e
+757.  
+758. (
+759. 0
+760. 1
+761. :
+762. 0
+763. 0
+764. :
+765. 1
+766. 7
+767. )
+768. 
+
+769. C
+770. a
+771. m
+772. b
+773. i
+774. a
+775. r
+776.  
+777. p
+778. l
+779. a
+780. t
+781. a
+782. f
+783. o
+784. r
+785. m
+786. a
+787.  
+788. d
+789. e
+790.  
+791. r
+792. e
+793. u
+794. n
+795. i
+796. o
+797. n
+798. e
+799. s
+800.  
+801. a
+802.  
+803. T
+804. e
+805. a
+806. m
+807. s
+808.  
+809. p
+810. a
+811. r
+812. a
+813.  
+814. a
+815. d
+816. a
+817. p
+818. t
+819. a
+820. r
+821. s
+822. e
+823.  
+824. a
+825.  
+826. p
+827. r
+828. e
+829. f
+830. e
+831. r
+832. e
+833. n
+834. c
+835. i
+836. a
+837. s
+838.  
+839. d
+840. e
+841.  
+842. c
+843. l
+844. i
+845. e
+846. n
+847. t
+848. e
+849. s
+850.  
+851. (
+852. 0
+853. 1
+854. :
+855. 0
+856. 5
+857. :
+858. 3
+859. 1
+860. )
+861. 
+
+862. R
+863. e
+864. a
+865. l
+866. i
+867. z
+868. a
+869. r
+870.  
+871. s
+872. e
+873. g
+874. u
+875. i
+876. m
+877. i
+878. e
+879. n
+880. t
+881. o
+882.  
+883. d
+884. e
+885.  
+886. a
+887. d
+888. o
+889. p
+890. c
+891. i
+892. ó
+893. n
+894.  
+895. d
+896. e
+897.  
+898. h
+899. e
+900. r
+901. r
+902. a
+903. m
+904. i
+905. e
+906. n
+907. t
+908. a
+909. s
+910.  
+911. c
+912. o
+913. n
+914.  
+915. t
+916. o
+917. d
+918. o
+919. s
+920.  
+921. l
+922. o
+923. s
+924.  
+925. c
+926. l
+927. i
+928. e
+929. n
+930. t
+931. e
+932. s
+933.  
+934. (
+935. 0
+936. 1
+937. :
+938. 0
+939. 2
+940. :
+941. 2
+942. 2
+943. )
+944. 
+
+
+💬 TRANSCRIPCIÓN COMPLETA:
+==================================================
+
+[06:35] 0: Pues que voy acabando cosas. Nada.
+
+[06:48] 1: Oye, llego cinco minutos más tarde. Oye, no me puedo conectar.
+
+[06:51] 2: Oye, estaba esperando a que tú chillaras.
+
+[06:55] 1: Pues no esperes a que yo chille porque yo chillo. Chillo pochilla, usa el chillo.
+
+[07:05] 0: Estoy aquí con la mierda de las contraseñas de vivienda a la vez acá mandándome vídeos. Estoy muy lúcido como para pensar.
+
+[07:20] 2: ¿Ha reventado, no?
+
+[07:23] 0: Demasiadas mierdas. Nos va a explotar todo en la cara, ya verás.
+
+[07:30] 1: Tiene toda la pinta porque el freestyle lo que tiene.
+
+[07:43] 0: Ya no es el freestyle. Pero no es el freestyle, es vender algo que no se tiene. Ya está. Pero que es que es la única forma.
+
+[07:53] 2: Correcto.
+
+[07:56] 1: Aparte mucha gente que está hablando pues mira, justamente lo queremos incorporar, Pues estamos hablando con. Mira esto, pues para un poco, mira esto.
+
+[08:08] 0: Tenemos el software que se cae.
+
+[08:14] 1: ¿Y por qué ha pasado lo de Vélez?
+
+[08:17] 0: ¿Por qué lo de que se corta? Ya pasó este verano también, pero supuestamente como solución mágica que pensé este verano dije le pongo un botón y si no recarga, que le den al botón.
+
+[08:31] 1: Un botón ficticio que diga recarga.
+
+[08:34] 0: No, no es ficticio la función. Yo lo único que he hecho es ir al botón pero por detrás porque ellos no tienen acceso a ese botón. Y en la versión que sale la semana que viene hay una versión que hizo Mónica donde mejora la tabla de llamadas, donde hay un botón que si le dan al botón es como si refrescar hacen ellos de programate. Es como si fuera el programa en ellos. Bueno, que le da a refrescar.
+
+[09:03] 1: No me parece mala idea.
+
+[09:05] 2: No, no está.
+
+[09:06] 0: Este verano ya pasó. Y dije bueno, esto no tiene que pasar. Pero si pasa, pon un puto botón y a tomar por culo. Lo malo es que cada cinco minutos ellos se tendrían que estar poniendo ahí.
+
+[09:19] 1: Ya como un ratón.
+
+[09:22] 0: Cuando necesiten que le den.
+
+[09:25] 1: Bueno, vamos a poner este interfaces.
+
+[09:32] 0: Intento entrar, putista grande y no puedo, tú sabes. A ver, estoy quitándole los permisos a.
+
+[09:47] 1: Hostia, claro que tiene lo del Francia.
+
+[09:53] 0: Es Lerder que se ve que tenía el cliente a la salud hospital y está asociado la cuenta de la salud porque aquí ponía, antes no ponía vivienda, ponía por negocios de Frank.
+
+[10:14] 1: Murray.
+
+[10:17] 2: Y.
+
+[10:18] 0: No sé entrar, no puedo entrar. Le doy aquí, me lleva aquí y aquí digo ver en Instagram, ves que mi perfil es el mío y le digo Vale, le digo cambiar.
+
+[10:41] 1: Cambiar de.
+
+[10:42] 0: Cuenta Sí que no sé cómo lo he hecho antes, pero sí.
+
+[10:46] 1: Vuelve a dar a perfil, a perfil abajo a la izquierda, déjalo encima dónde está más un segundo. ¿Es que lo tienes ahora ahí sí, cambiar de cuenta ahí cambia de cuenta y no tienes los códigos?
+
+[11:07] 0: Tengo permisos de aquí porque no me deja entrar aquí y he puesto el correo aquí de meta info arroba.
+
+[11:21] 1: Digo sales flows, yo sí que es viejo.
+
+[11:25] 0: Aquí he puesto la contraseña. Chan chan chan.
+
+[11:44] 1: Vuelve donde antes.
+
+[11:48] 0: La contraseña de Facebook no sirve para.
+
+[11:51] 2: Instagram Ya, es que diferente y dentro.
+
+[11:56] 0: De las nuestras yo creo que no tenemos. Por cierto, habrá que recuperar la nuestra de Instagram, yo no sé dónde está.
+
+[12:01] 2: Estará en el Trello, la tiene Luis.
+
+[12:05] 0: No está en el teléfono.
+
+[12:10] 1: Dios mío. Vale, yo me metería en meta y.
+
+[12:19] 2: Ahí os pregunta Chagbt Brown para que.
+
+[12:37] 0: Vea este me va a enseñar la puta contraseña.
+
+[12:48] 2: Y así que me levanto.
+
+[13:35] 0: Y desde aquí yo creo que no se podrá cambiar la contraseña, ¿O sí?
+
+[13:40] 1: Estoy aquí agendando reuniones cerrado ya unas cuantas puto amo.
+
+[13:48] 0: Por apoyar.
+
+[13:52] 1: Igual es por ahora, gente, seguro.
+
+[13:56] 0: Hola, para el año que viene.
+
+[13:58] 1: Hola, para quedar mal es por aquí para agosto del año que viene exactamente. ¿Qué tal lo tienes para enero 2027? He hablado con Badeos de Cataluña, tío, tochísima. Había una que tenía 300 guapísimo y otra que ya la había comprado. Hola, ¿Qué tal? No, no, ya me han comprado, Hasta luego. Hola, ¿Qué tal? No, y es que me acaban de comprar. Eso es un peligro además, le digo, Dice, no, no, además tengo una cosa, un tío, se llama Gerardo, dice la empresa que era, que teníamos esto de comunicación, no la han dejado entrar. Tú tranquilo, tú dame el contacto, ya me ocupo ya.
+
+[14:38] 0: ¿Y quién te ha dicho que las ha comprado.
+
+[14:41] 1: Gerardo de? No, me lo ha dicho el que la compra dice que me pasará el correo, que le envíe un correo y que me lo pasará. Tengo apuntado como para volver a hablar, pero me ha dicho que la que era, dice no, no, es que son muchos. Pues hay igual tampoco tanto. ¿Me voy a mechar.
+
+[15:13] 0: A ver, para que veas, conforme entras al móvil sale esto, que esto es lo de las llamadas.
+
+[15:28] 1: Haciendo pruebas.
+
+[15:31] 0: Vale? Entonces le tienen que dar aquí a cerrar ya sale aquí el monstruito haciendo pruebas. Estos botones que estén así lo veo, me entra.
+
+[15:50] 2: El ojo.
+
+[15:52] 0: Vale.
+
+[15:58] 1: 100% y lo pondría. Que no aparezca diaria, parezca directamente fiesta semanal.
+
+[16:07] 0: Una cosa, lo que tú quieras. Lo que se podría también te digo yo.
+
+[16:11] 1: Te digo lo que yo quiero y luego ya me dices lo que se.
+
+[16:13] 2: Puede.
+
+[16:15] 1: Me refiero yo eso. Entonces yo lo pondría. Ponlo. Se puede poner que sea mensual directamente a la vista de móvil.
+
+[16:27] 2: Me quite.
+
+[16:31] 0: Joder, me he casado. ¿Será posible?
+
+[16:46] 1: Pasadita. Hackeado.
+
+[16:54] 0: ¿Qué pasa aquí?
+
+[17:03] 1: Unas versiones en cloud.
+
+[17:06] 0: ¿Pero estamos locos o que? Lo quiero tirar para allá.
+
+[17:14] 1: Vamos para allá.
+
+[17:15] 0: Si esto lo quito se me va. ¿Qué hago.
+
+[17:47] 2: Bro?
+
+[17:49] 0: No, es que necesito quitarlo, si no, no puedo poner en un sitio, en otro lado algo para escribir. Si no lo que hablemos. Pues nos tengo que guardar. Quiero abrirme producto, especificaciones y esto. Esto ponérmelo a la derecha.
+
+[18:16] 2: Y el.
+
+[18:17] 0: Otro ponérmelo ahí y este ponérmelo ahí. Pero si hago esto ya no veo eso. Me puedo empezar a escribir cosas. Sería calendario, comunicaciones. ¿Y esto que hace? Semejante a mí. Yo le hackeo a él exactamente como el móvil, pero casi. Entonces decimos que lo de arriba no nos gusta nada, debería ser. Bueno, de primeras esto ya no va a ser así, sino que realmente por defecto será así y sería así con el nuevo formato.
+
+[19:35] 2: Esto era que le ha pasado esto.
+
+[19:43] 0: Qué roto tenemos el software. Ya no es ni normal ya lo.
+
+[19:48] 2: Roto que está esto y que el.
+
+[19:50] 1: Fin de se recupera o no.
+
+[19:54] 0: La única forma es volverlo a hacer.
+
+[19:58] 1: Refactorizar. ¿Sabes lo que le he dicho?
+
+[20:02] 0: Esa gran palabra que todo desarrollador siempre quiere ir ahí a refactorizar porque es como el camino fácil y que todo financiero odia porque significa dinero a morir.
+
+[20:21] 1: Flipa el tío. Estando como un año y pico, dos.
+
+[20:25] 0: Hice el cálculo ya ayer con el búho. El búho, él programaba cosas él solo y él está ya programado todo con cursor. Una aplicación que le tardaría tres meses en hacerlo. Lo ha hecho en una semana. Por tanto ha hecho el cálculo. No, no, real que lo ha hecho, lo ha hecho. Entonces he hecho el cálculo, que eso es. No una semana no, perdón, tres semanas en vez de tres meses. Tres semanas por tanto es un tercio. Calculé tres meses, son doce semanas. Tres. Tres por cuatro. Ah, no es tres por cuatro, es un cuarto. Por tanto sí. Sí hiciera sin refactorizar nuestra aplicación como método tradicional serían dos años. Por tanto 24 meses, un cuarto de 24 meses son 6 meses, por tanto, en 6 meses deberíamos de ser capaces de hacerlo. Pon 8 si quieres, entre 6 y.
+
+[21:52] 1: 8, pero antes necesitamos volumen, bidgets y cositas. Entonces hay que hacer que estos palitos con cosas funcionen, ¿Vale?
+
+[22:03] 0: Como me cambiaba antes. Bueno, darle a. Ya se, le puedo despedir y me dejan en paz a mí.
+
+[22:16] 1: Yo me pongo con todo eso. Yo quiero acabar todo el fin de semana una base de datos que ya me acaba toda la que tenía y me tuve que preparar la otra que.
+
+[22:27] 0: Me habló anoche Sergio Grande, este no ha publicado nada desde junio, me lo quiero quitar, Mira, a ver, por favor.
+
+[22:57] 1: Porcentaje las dos, tanto el empleo un Ginet como el de marketing en Edema. Hay gente que también hace automatizaciones MBA, puedo haber interesantes. Les cayó la plataforma y me estuve quedando su madre porque la hizo hacer tres veces.
+
+[23:25] 2: Ya estoy toma por culo.
+
+[23:27] 1: ¿Has oído lo que te he dicho?
+
+[23:29] 0: Sí, que la has podido publicar y que se cayó la plataforma, no sé qué plataforma, pero que se cayó y.
+
+[23:33] 1: Que te jodió la suya. ¿Vale? Lo digo más que nada porque tú como el representante legal, he puesto tu información, denuncian por guarro, deja ti, ¿Sabes?
+
+[23:55] 0: Ya lo teníamos ahí. Entonces hemos dicho que esto sale cuando sale así esto, o sea el calendario barra actividades sale así, Aladdín y la otra que sale y el calendario y esto es la tabla nueva que saldrían aquí los botones, tal, tal, tal, una barra con el dedo a la derecha y a la izquierda, que esto es lo que te mata tú de todo en el mismo.
+
+[24:38] 1: Me mata, me mata, me mata muchísimo, hermano.
+
+[24:43] 0: Una solución que se hizo aquí.
+
+[24:47] 1: No se puede. ¿Por qué en vez de un email no puede haber un logo de un email en vez de la palabra email y que haya un icono que sea.
+
+[24:54] 0: Un email, Pero que esto no es así, no te fijes de esto, cojones?
+
+[24:59] 1: Ya, pero es un.
+
+[25:01] 0: No intentes acotar que la información que hay es la que hay, o sea, tienes que al final mirar cosas de diseño. Lo que estoy pensando que es una solución que mira, si haces esto, esto en el mail sí que está así, está bien, pero el problema es que aquí, como al ser una tabla no se podría hacer eso.
+
+[25:30] 2: Inspeccionar.
+
+[25:37] 0: Lo está dando dentro, juro la versión. ¿Será posible? Acabo de entrar, ¿Por qué me sacas toma de código? ¿Ves? En los mails hay como mucha información, pero como que la ponen por debajo, la ponen aquí tal. Y eso sí que lo hicimos en. En el mail está hecho así. Vale, Me mata no poder mover esto. ¿Qué coño le pasa a esto?
+
+[26:49] 1: En nuestro mail no funciona.
+
+[26:50] 0: Puta madre, ese mail, el día que funcione funciona así. La cuestión es que la única forma de esto llevarlo a móvil, pues es como esto, que es en plan, pues en vez de la información todo hacia la derecha, que esté por debajo. Pero claro, es que esto es una tabla que esto no es. No es toda una línea continua.
+
+[27:16] 1: No se puede, porque no se puede quitar información, porque lo que hay en una y en otra no hay otra.
+
+[27:24] 0: Porque aún así esta información que estás viendo no es la que toca, porque la que toca es la que se ha diseñado ya, que es esta de aquí, que es más parecida a esto, más parecido a esto, donde sale el estado, la oportunidad, esto está todo junto, ya es más tipo. Mira, aquí hay uno que es más cercano al último, ¿Ves? Sale el estado, sale la oportunidad, sale la actividad de que tipo es, ¿No? Y esto ya está juntado, eso ya lo hemos juntado, tipo esto sale así, sale el símbolo y el nombre.
+
+[28:06] 2: El.
+
+[28:06] 0: Organizador y la fecha, que sale con otro formato más chulo y luego los tres botones se ha cortado. Pero por ejemplo, si el nombre esto es largo, pues es largo y es que eso ya te ocupa toda la pantalla, ya te toca tirar a la derecha para luego ver la actividad, para luego ver el organizador, para ver la fecha y para los botones.
+
+[28:23] 1: ¿Vale? Vale, Cabel, de todas formas esta gente está acostumbrado a interfaces horribles.
+
+[28:28] 2: Correcto, eso siempre viene bien.
+
+[28:32] 0: Entonces que tienen que tirar para la derecha, no hay más, tu tía. Vale, lo que sí que se pueden ir mejorando son las mierdas estas que están en todas como regirás es lo de nuevo, el filtro este y estos son la paginación y aquí la búsqueda. ¿Entonces.
+
+[29:00] 1: No veo mal, pero sí quedaría en vez del lol sí que queda igual que en botoncitos vaya poniendo arriba sabes hacer un desplegable ahí? Pues eso, pero a la derecha, en vez de así, en la parte vertical, en horizontal. Y si puede ser con la palabra y el loguito.
+
+[29:27] 0: Vale, y esto lo No, palabras no hay, solo es loguito, pero ni en el general tampoco hay esto. ¿Prefieres que esté desplegado o sin desplegar?
+
+[29:39] 1: No, eso no creo que sí, que yo lo que haría unificaría el buscador Si, el de arriba, que sé que no es.
+
+[29:48] 0: Hasta que no esté el nuevo no se puede. Dime, Javi.
+
+[30:25] 2: Que habéis coordinado con ellos y que están interesados y que van a poner todas las posibilidades.
+
+[30:36] 0: ¿Esto ya en el tuyo? Esto ya. Estoy ya en el tuyo.
+
+[30:42] 2: Mira, en la zona de comerciales hay un grupo que. Ahí está. Vale, te veo. Mi idea es que si me llaman a mí y yo no lo puedo coger, que le salte en cami o a Eva. Al estar en este grupo se llaman en carni o a Eva y me salte a mí. Eso no querría.
+
+[31:07] 0: Sí, a ver, poderse se puede hacer todo lo que quieras. Lo único que lo tengo que tener en cuenta. Pero entonces te quitaría de aquí, ¿Verdad? Te quito de aquí.
+
+[31:15] 2: María José Hernández. Sí. Que la duda que yo he tenido es si Eva está ocupada, le vas a estar. María José Hernández no tendría.
+
+[31:24] 0: No, en principio sí, pero vamos a hacer como dos. Vamos a hacer estos diferentes para que no sea así. Entonces Javi hacia.
+
+[31:40] 2: Que sí que pasa en Can y a Emma, pero no al revés. Vale. Y eso mismo replicarlo para los comerciales de al lado. Pablo, Pepe, Carlos y Pedro.
+
+[31:55] 0: Vale.
+
+[31:58] 2: El de al lado lo puedes quitar para hacerlo grande.
+
+[32:02] 0: Vale, entonces tenemos que Javi lleve a Encarnilleva y estoy hablando contigo por teléfono, me está llamando otro y en videollamada con José.
+
+[32:24] 1: Máxima comunicación.
+
+[32:30] 0: Vale, entonces que María José vaya a Eva y que Javi vaya en carne y Eva. Correcto.
+
+[32:35] 2: Y todos los demás igual. Todos los comerciales igual. Todo Pablo, Pepe y carne igual que yo.
+
+[32:41] 0: Vale, pues lo que voy a hacer es que.
+
+[32:44] 2: Esto, cualquiera de ellas que pas y este fuera, que a cualquiera de los que nos lleven de aquí vaya a ellos. Perfecto. Y a María José que vaya Eva. Perfecto. Ahora no me deja a mí.
+
+[33:05] 0: No me está pasando a mí con el Mac.
+
+[33:10] 2: Venga, muchas gracias. Eso ya cuando quiera los banes, porque yo me soltaba una llamada que no me correspondía.
+
+[33:14] 0: Vale, Eso sí esto tarde, en un ratillo lo hago. Aquí también falla lo del Es algo del Mac. No consigo que se quede. No puedo. Vale, entonces yo que para mí esto no me gusta y me gustaría que lo quitaran. Lo que pasa es que sí que sé que en su momento esto da por culo y no se podía quitar la mierda esa de mitin. Lo que pasa es que si lo dejamos así, se quedará como muy ya mucho.
+
+[34:08] 1: Muy espaciado.
+
+[34:09] 2: Sí.
+
+[34:10] 1: ¿Y eso no se puede quitar? ¿No se puede cambiar?
+
+[34:12] 0: Quitar se puede quitar, pero se queda ahí.
+
+[34:16] 1: Con qué lo rellenamos y no se puede meter nada. Joder, pues yo metería ahí.
+
+[34:25] 0: Miguel, te estás muriendo. Estoy en una reunión. Pero tienes dos minutos. No, estoy en una reunión, por eso la puedo decir que una y media. Dos.
+
+[34:47] 2: Dos.
+
+[34:56] 0: Por eso te estaba diciendo que si a lo mejor nos interesaba dejar el buscador abierto para que fuera más sencillo.
+
+[35:04] 1: Un contador no se puede meter, ¿No?
+
+[35:07] 0: ¿Un contador de qué?
+
+[35:08] 1: ¿De actividades totales.
+
+[35:12] 0: Y eso un poco para qué? Si es que luego enseguida. Mira, el contador de dinero, Vima ya en oportunidades lo quiere modificar, que no quiere que aparezca todo.
+
+[35:23] 1: No sé que pone ahí. 214 actividades totales. Es información, es clave y al principio está ahí. Luego tú abajo ya puedes ir prefiltrando, poniendo por diferentes formas. Es un ejemplo para que no quede.
+
+[35:43] 0: ¿No? Lo que yo creo que sería interesante es que este puto botón estuviera ahí. Pero claro, el problema es que si abres esto por un casual se lo come, entonces el botón desaparecería. Entonces tiene que ser algo que tampoco sirva para nada. Vale la pena, incluso abierto.
+
+[36:01] 1: Que no valga para nada. ¿Que vas a poner?
+
+[36:03] 0: Es que vale la pena tener el buscador abierto. Vale pena. A ver, mira, yo lo haría.
+
+[36:15] 1: Ni uno. Pues eso, el nuevo y el más igual pones el símbolo del más encima de nuevo y ahí cubre más. Un emoji encima de new para que el botón quede espaciado y quede bien.
+
+[36:31] 0: Que yo lo veo así. Mira cómo está en el original, el nuevo ahí en la actividad es arriba. Que la actividad no debería estar abajo.
+
+[36:40] 2: Correcto.
+
+[36:41] 0: Que pone actividad. Es que está todo mal aquí en el puto móvil los cojones nunca se dedican tiempo a arreglar esto.
+
+[36:50] 1: Aquí la única Mónica era un poco la más sensible, ¿No?
+
+[36:55] 0: Y si se lo dices y si no, no hacen nada. Porque es en plan de tío, si modificas algo de diseño en el puto. En web, modifícalo también en móvil. Pero que eso también se lo digo también a Pablo y demás, es ya defecto de programador.
+
+[37:10] 2: Es en plan de si puedo hacer menos, hago menos.
+
+[37:20] 1: Es ahí queda rollo. ¿Y tú los colores, ¿No? Puedes jugar un poco con los colores también y no sea todo tan negro y tan gris.
+
+[37:30] 0: Yo jugaría mucho con poner sobre ellos.
+
+[37:34] 1: Cambian de color, sí eso, pero que ya estén un poco así con un degradadito de azul cuando hay que hacerlo.
+
+[37:43] 0: De nuevo, hay que hacerlo justo para que sobreviva esto. No me voy a poner a dedicar tiempo. Cada hora de hacer esas mierdas es dinero. Si lo pagas tú, para adelante.
+
+[37:58] 1: Piénsalo así, no me puedes pedir. Hay que hacerlo bien y luego regular.
+
+[38:04] 0: Hay que hacerlo para que pase. Para que pase el expediente. Pero cada hora que le metemos es dinero. Y si hay que volver a rehacer todo, contra menos dinero gastemos en esto mejor ¿No?
+
+[38:20] 1: A mí que ya me pides hacerlo, pues yo lo hago bien. Si vale dinero. Pues como todo imagino. No sé, cambiar botón derecho, color verde.
+
+[38:30] 0: Si no modificamos la aplicación morimos. Si esto no lo arreglamos vamos a morir.
+
+[38:43] 1: ¿No?
+
+[38:44] 0: Pues ala, ya no gasto dinero. Toma por culo.
+
+[38:46] 2: Todo es así.
+
+[38:52] 0: Básicamente lo único que queríamos era para el tema de las llamadas Y tú me dijiste también que el WhatsApp para que los comerciales. Realmente tu respuesta ha sido errónea. Sí que morimos porque los comerciales necesitan utilizar el WhatsApp y las llamadas y nos van a estar diciendo oye, necesito utilizar el ZOA en el móvil porque necesito utilizar el WhatsApp y las llamadas. Por tanto sí que mueres si no tienes esto bien. Por tanto hay que arreglar el WhatsApp y las llamadas y a tomar por culo.
+
+[39:18] 1: Yo te decía lo de los colores, eso, pero bueno, vale. Bueno, pues vete al tiro.
+
+[39:23] 0: Es dinero, cada cosa que se cambia es dinero. Es dinero que hay que gastar en cosas inteligentes, que es en no morir de aquí a que se haga nuevo. Pero dedicar dinero a algo que me gustaría que fuera así, pero no me va a hacer morirme, pues bueno, A mí también me gusta quemar dinero en un brasero.
+
+[39:43] 1: No, no, pero bueno, que no sé cuánto dinero, si son 3 euros, 5. Cambiar el color a 5 emoticonos, todo.
+
+[39:49] 0: Suma, cada piedra se pare. El dinero que has quitado de mejorar las llamadas es dinero que has quitado de mejorar el mail, Es dinero que has quitado de.
+
+[40:03] 1: Puede dejarlo así. Bueno, pues para adelante a actividades. Esto es lo que hay. ¿Qué más?
+
+[40:08] 0: Bueno, pues entonces mejoramos. Pero es que el WhatsApp la verdad que va bastante bien. Esto sí lo hicieron guay. Lo único es cuando entras en una conversación que yo esto sí que cambiaría. Ahora no está pillando ni la. Ves, Esto ya lo cambia que no tenga scroll Y lo que cambiaría sería que aquí arriba hay un montón de. Bueno, esto no está funcionando, ves el nuevo diseño ya no está adaptado al.
+
+[40:44] 2: Teléfono.
+
+[40:48] 0: Y lo que haría es quitar cosas de aquí arriba porque ahí se nos han juntado un montón de mierda que no sirven para nada y metería algo más por aquí abajo y me quitaría la delincuencia.
+
+[40:59] 1: Eso te voy a decir yo lo abajo, Instagram en un principio No, Facebook tampoco, LinkedIn tampoco.
+
+[41:07] 0: Sí que lo deberíamos. Y al final tantas entradas de conversación que quieren tener. Esto sí que en algún futuro lo tendremos que activar.
+
+[41:15] 1: Pero ahora.
+
+[41:19] 0: Está el título pero no funciona. Igual que el SMS está el título pero no funciona porque ahí tú la gente que entendería más que estuviera todo en la misma como esto es una idea de Go High Level lo tiene igual Y realmente Odoo en el suyo lo ha hecho igual que ha utilizado este de Discussions para meter aquí también WhatsApp, igual que pone aquí chat, pues aquí en chat salen también enlaza y los WhatsApp y lo tiene todo en el mismo módulo. Nosotros hemos hecho como un módulo por cada cosa. Yo creo que nuestra forma de verlo es más intuitiva. ¿Pero entonces qué quiere decir? Que tendríamos que hacer SMS y otro para Messenger, otro para Instagram y otro para Facebook.
+
+[42:10] 1: Por ejemplo Webster o los demás lo tienen todo en un mismo inbox.
+
+[42:15] 0: Eso lo que te estoy diciendo que es un poco SMS, WhatsApp, Messenger y Facebook todo en el mismo inbox.
+
+[42:24] 1: Me parece bien, pero por ejemplo, mira, aparte a mí como lo tiene lo del chat interno me gusta cómo tiene. ¿Ves esto? La inicial, el nombre y abajo la conversación. Ahí un poco claro, inicia la conversación y las iniciales tampoco lo tenemos nosotros.
+
+[42:46] 0: Pero porque también más información aquí que ellos no tienen que es los estados.
+
+[42:51] 1: El día, los estados, el tiempo. Ahí sí que lo tiene arriba ellos el tiempo. Sí lo que no está es ni.
+
+[43:00] 0: Los estados, ni la persona asignada, ni la notificación.
+
+[43:05] 1: Que esto es más WhatsApp, WhatsApp. Pero bueno, te lo digo como diferenciadores.
+
+[43:12] 0: Lo que no nos cabe aquí dónde lo metes y lo ponemos allí.
+
+[43:19] 1: Bueno, el teléfono bajo de administrador.
+
+[43:22] 0: El WhatsApp original no tiene ni estado ni tiene asignación que es lo que El valor que nosotros aportamos.
+
+[43:31] 1: Bueno, yo esto lo veo bastante bien.
+
+[43:33] 2: Sí.
+
+[43:34] 0: Vale, pues que esto lo adapten a móvil Y luego el tema de la llamada, que se pueden hacer llamadas.
+
+[43:41] 1: Pero sí que es verdad que dentro de la conversación de ese WhatsApp, ahí sí que eso alinearía a la izquierda. Eso mete dentro.
+
+[43:48] 0: Pero que no, que esto está todo mal. Esto antes estaba bien, más o menos se ha quedado Bueno, creo que está mal. Esto antes estaba mejor, pero este lo bajaría abajo.
+
+[44:05] 1: Métete en plantilla, a ver cómo quedaría la plantilla. Perfecto, tío. Cliente. Vale.
+
+[44:21] 0: Y luego el otro, la ficha de contacto, el otro me preocupa. Esto habría que hacerse.
+
+[44:26] 1: Esto sí que hay que. Ese chorro en uno habría que hacerlo.
+
+[44:31] 0: Como el ol.
+
+[44:34] 1: Como del 1 al. ¿Con las dos pestañitas del 1 al.
+
+[44:39] 0: Z, como habría que hacerlo? Como el all que había antes.
+
+[44:48] 1: Y luego también. Sí, y luego hay contactos. Estaba mirando antes y yo pondría primero como igual, a ver. Exacto, Nuevo contacto, secuencia. No me suma nada.
+
+[45:06] 0: No te suma porque no los damos.
+
+[45:10] 1: Pero tú en un contacto vas por eso. No sé, no me aporta eso.
+
+[45:18] 0: Está hecho para eso. Está hecho para esto. Tú eliges toda la gente a la que quieres mandarle una plantilla de WhatsApp. Aquí en secuencia elegirías. Dirías WhatsApp safe enviar.
+
+[45:32] 2: Sí, eso, pero no está.
+
+[45:38] 0: Sirve para eso.
+
+[45:42] 1: Sí. Persona empresa se lo deo bastante. Y abajo igual de la alz. Si das un clic o un desplegable o bueno, así.
+
+[46:03] 0: El móvil es así.
+
+[46:04] 1: Mira cómo se ve, ¿No? Sí, es una piña.
+
+[46:09] 0: Debería salir aquí al lado, como esto. Un desplegable aquí al lado de persona compañías y un desplegable ahí con las letras.
+
+[46:22] 1: ¿Vale, métete en una persona cómo quedaría?
+
+[46:38] 0: Tampoco raro, pero bueno.
+
+[46:41] 1: Pero dices tú que tampoco se puede.
+
+[46:42] 0: Hacer aquí, pero suficiente para darle aquí y llamar es quitar este pop up, que llame directamente.
+
+[46:53] 1: Y no pondrías como aparte de llamar, email y chat.
+
+[47:00] 0: Es que el mail sí que está en verdad.
+
+[47:03] 1: Se ve, lo que pasa.
+
+[47:06] 0: Es que lo que podemos hacer es.
+
+[47:07] 2: Que se quede fijo y WhatsApp.
+
+[47:10] 0: Y el WhatsApp falta añadirlo. Es una de las mejores.
+
+[47:13] 1: Yo pondría esos tres, que es clave.
+
+[47:16] 0: Está ya en el Roma. Aquí irá el teléfono y al lado tiene que ir el del WhatsApp y el del mail si quiere. Ya está, pero está por defecto de Está por defecto la funcionalidad de Odoo y está como que desaparece, pero a mí me gusta. Prefiero que esté fijo.
+
+[47:37] 1: Y etiqueta estaría abajo, ¿No?
+
+[47:40] 0: Símbolo email fijo.
+
+[47:50] 2: Quitar hoja, pop up, pop up que llame directo.
+
+[48:03] 0: Sí aquí.
+
+[48:04] 2: Bajo.
+
+[48:08] 0: Se ve todo fatal, pero bueno aquí si eliges personas mira cómo te salen las personas dentro de lo que.
+
+[48:21] 2: Cabe, lo que hay tío.
+
+[48:24] 1: Ya sí va a tirar y lo dices tú, 5.
+
+[48:33] 0: Aquí para añadir personas y luego todo lo de abajo y lo que esto está fatal, lo que peor está son todas las cabeceras, las cabeceras al hacer las pequeñas se quedan fatal todas.
+
+[48:58] 1: Apiña mucho.
+
+[49:01] 0: Se apiñan, se desajustan, queda.
+
+[49:05] 2: Raro.
+
+[49:07] 1: Pero bueno es entendible porque ahí tienes toda la información, hacer scroll y ya está.
+
+[49:13] 0: Entonces arreglamos tanto ambas cabeceras de contactos, hay que arreglar ambas cabeceras, correcto, dentro del contacto hay que arreglar el símbolo de mail que se quede fijo y quitar el pop up de llamada que llame directo y en principio todo lo demás lo tenemos para adelante. Luego las oportunidades no se ven mal, esto es lo que ve Vicente y por lo que dice, ah pues no está tan mal, está bien porque realmente esto pues tampoco está tan mal y cuando entran dentro de la oportunidad, bueno me dicen de ninguna oportunidad, pero si entran pues es lo mismo que contactos igual también y luego abajo oportunidad lo mismo. ¿Esto lo que uso yo estoy que lo uso bastante en el móvil como.
+
+[50:16] 2: Que no hay task porque tengo el punto filtro.
+
+[50:25] 0: Ves así y entras y tal cual y entonces nada y de aquí sería arreglar esto sí que tenía una visualización de móvil bastante buena, ahora cuando lo recuperen esto no estaba mal, el mail no estaba mal, la llamada a hacer lo que se nos quede aquí estos filtros qué harías.
+
+[50:55] 1: O estilo si se vean bien o reorganizarlos primero poner igual la parte de missing antes el estatus para que tenga más sentido, porque al final la gente lo que quiere es saber qué es lo que más va a buscar.
+
+[51:26] 0: Primero su filtro, por eso lo que haría es este 2 lo subiría aquí arriba.
+
+[51:36] 2: Sí de.
+
+[51:38] 0: Ya nos hemos ganado hay un trozo y los otros poner un icono y a tomar por culo sabes?
+
+[51:50] 1: Sí, sobre todo que se vea, que.
+
+[51:53] 0: Se vean cuatro iconos y ya está, en vez de las letras y así.
+
+[51:56] 1: Se queda muy pillado ahí external missing, sí, un emoji.
+
+[52:13] 0: Entonces el calendario por ahora nada, en comunicaciones arreglar WhatsApp, cambiar tabla de llamadas y cambiar tabla de llamadas, lo único.
+
+[52:35] 1: No pondré un contador de todas las llamadas que se ha hecho hoy, bueno está el dashboard.
+
+[52:43] 0: Así que eso no. ¿Qué es eso?
+
+[52:48] 1: 214 llamadas totales hoy, un emoji al lado.
+
+[52:53] 0: Volvemos a que nos permite sobrevivir. Eso son florituras. Estarían bien en el producto final, pero en este sigue siendo un MVP y morirá siendo un MVP para el MVP barato, todo lo barato y rápido.
+
+[53:13] 1: Rápido y que funcione.
+
+[53:18] 2: Esto.
+
+[53:18] 0: Lo que dicen, si un MVP te gusta, es que está más dinero de lo que toca.
+
+[53:22] 1: Correcto.
+
+[53:24] 0: Tiene que ser lo mínimo imprescindible para no perder clientes.
+
+[53:27] 1: Si no te da vergüenza, no es que no lo has hecho también es.
+
+[53:30] 0: Que te has pasado de dinero. Lo único que necesitamos es que no perdamos clientes. Ya está. Esto sería los botones de lista y gráfico al lado de la paginación.
+
+[53:54] 2: Y.
+
+[53:55] 0: Luego los filtros con.
+
+[54:06] 2: El texto así.
+
+[54:11] 0: Entonces con eso nos mejoramos la parte comunicaciones. El mail está correcto. El mail está Correcto. Y el WhatsApp.
+
+[54:28] 1: WhatsApp.
+
+[54:31] 2: Acortar para que sea como WhatsApp App.
+
+[54:38] 0: Eso en cuanto a comunicaciones. Y en cuanto a contactos.
+
+[54:43] 2: Esto cómo se habla, contactos.
+
+[54:54] 0: Y luego a nivel de. De esto no está mal, pero sí que es verdad que cuando tiras a llamar, por ejemplo, va a intentar llamarme.
+
+[55:04] 2: A mí, estoy yo.
+
+[55:09] 1: Alejandro.
+
+[55:15] 0: Cuando intento.
+
+[55:16] 1: Llamar.
+
+[55:21] 0: Bueno, pues esto puede que ya se está bien, ya me ha llegado. Entonces aquí podría añadir tal, no sé qué, volver a ver. Lo voy a hacer desde visión. Desde visión de aquí, bien, voy a llamar.
+
+[55:44] 1: Es lo más curro que está.
+
+[55:49] 0: Porque no se puede tocar prácticamente tampoco. Incluso aquí, si le dieran aquí la.
+
+[55:54] 1: Ficha, esa es la ficha de la persona.
+
+[55:58] 2: Sí, o debería.
+
+[56:05] 0: Le pulso y no abre nada, pero bueno, esto sí que tiene aquí el pulsador 2. Lo que podríamos es quitar esos mensajes ahora que ya más o menos está controlado y ahí desvío o hago la MTF y hago las transferencias. ¿La transferencia no se ve, vale? En mobile, lo único que faltaría sería transferencia, pero el que vaya a contestar en mobile no va a gestionar transferencias.
+
+[56:44] 1: ¿Pero bueno, comercial, que va a gestionar? Contestar llamadas y whatsapps.
+
+[56:50] 0: ¿Y en cuanto gestión? Mejorar gestión, transferencia.
+
+[56:57] 2: Mejorar gestiónh, transferencia.
+
+[57:02] 0: Vale, pues entonces a nivel de comunicaciones, esta gente va a usar tres cosas que yo creo, por lo menos por ahora, el resto lo usará en su ordenador, porque igual que no hacen pólizas en. Porque yo creo las actividades. Lo de las actividades si lo tienen que ver, que lo ven en un.
+
+[57:23] 1: Ordenador no tiene tanto sentido. ¿Esto es lo que dices tú, llamar.
+
+[57:27] 0: Recibir y entonces.
+
+[57:31] 2: Que?
+
+[57:31] 0: Lo que viene siendo el tablero de llamadas, que lo puedan ver fácil, por lo más fácil que puedan, que funcione lo más parecido a la aplicación de WhatsApp. Y el teléfono en principio funciona igual que el teléfono. Lo único que tenemos es que mejorar la gestión de la transferencia, pero que en principio esto no es muy importante porque ellos no van a transferir. Correcto. Y luego para poder buscar el histórico de algún contacto, saber alguna información sobre un contacto, pues mejoramos lo que es la vista de los contactos. Correcto. Y en principio ya no van a usar nada más. Contactos y comunicaciones. Contactos para saber información sobre alguien y tal. Y las comunicaciones. Aquí no hemos puesto el mail porque no está conectado, pero el mail también se ve bastante bien.
+
+[58:22] 2: Perfecto.
+
+[58:28] 0: Ahora luego lo pasaré a especificaciones. Ahora te perdí yo aquí, como te metí aquí abajo, ahora no te puedo sacar.
+
+[58:54] 1: Vale, pues todo aunque sea dices tú para que funcione y para que tire. ¿Qué fecha más o menos le echas tú que esté cuando se pongan esto?
+
+[59:02] 0: No hay una haciendo eso, que no sé qué está haciendo y me estoy poniendo nervioso porque no sé qué está.
+
+[59:08] 2: Haciendo.
+
+[59:10] 0: Porque luego querrán cobrar. Es más, hoy quieren cobrar y no hay dinero. Tengo que llamar a Luis. Por cierto, tenía reunión con Luis, me.
+
+[59:19] 2: Ha dicho un cliente.
+
+[59:23] 0: Trabajador robando la información confidencial y no me voy a poder reunir.
+
+[59:28] 1: Dile nota que es interesante. Luis, paga.
+
+[59:34] 0: Vale, No hemos podido quedar, pero el dinero necesito.
+
+[59:38] 1: Eso es. Lo nuestro está hecho. Y que Cleo lo está trabajando. Está todo en la. Está todo en la. Esta en la carpeta.
+
+[59:51] 0: Vale, pues ahora se lo pasaré al Gómez de Ita, que no se ha quejado, pero le diré desde el miércoles que lo tiene Cleo. Habla con él.
+
+[60:05] 2: Eso es.
+
+[60:06] 1: ¿Qué más te iba a decir? Vale, lo de esta tarde, al final la reunión la vamos a hacer, ¿No? Vamos a hacer la de objetivos y semanal o la pasamos al lunes, aunque el lunes lo tenemos fino.
+
+[60:17] 0: El lunes a las 7 de la tarde.
+
+[60:19] 1: Vale, Vale. Hay un par de cositas interesantes la primera semana, pero.
+
+[60:31] 2: Vale, volve.
+
+[60:36] 1: Pues venga.
+
+[60:38] 0: Lo de las formaciones me preocupa bastante eso.
+
+[60:41] 1: Correcto. A ver, más o menos lo controlas tú. Yo ya me cogí a los dos. ¿Quieres que lo coja yo y lo lleve yo también? El tema de formación de Vélez a.
+
+[60:53] 0: Ver, yo Vélez llevo y como igual que Vima a nivel de.
+
+[61:00] 1: La comunicación llevas tú, como así llevo yo los otros.
+
+[61:04] 0: A ver, realmente tampoco me comunican a mí. Vélez es cuando sabe que bueno. Y lo bueno que me llama a mí con mierdas, pero mierdas de configuración y cosas así. Pero el problema es que no hay trato con las chicas directamente. Y eso es un problema. Es un poco lo que intentamos el otro día desbloquear en plan de que necesitamos llegar a ellas, no que pase todo por la puta Bea.
+
+[61:29] 1: Vale, hablé con Javi, intento hackear y yo cojo.
+
+[61:33] 0: No, pero si ya lo hackeamos el otro día ya nos dijo hay que hacer una reunión la semana que viene donde así a todo el equipo le digamos las mejoras del WhatsApp, reuniones con el equipo cabeza.
+
+[61:48] 1: Pero hoy tenían la reunión. Entonces hoy en base a eso nos iba a decir para la próxima semana quedar y ver cómo lo podemos hacer.
+
+[61:55] 0: Eso es lo que tienes que hacer seguimiento tú. Yo hago seguimiento a nivel técnico de que yo a ellos les meto el tema de las llamadas y. Y entonces les voy haciendo seguimiento a ver qué tal van las llamadas a nivel de si va todo bien o hay que hacer alguna modificación a nivel técnica. Pero si están usándolo o no están usándolo, no estoy haciendo seguimiento, no me da la vida. Y si los están atascando, si no se están atascando, todo eso no sé.
+
+[62:22] 1: ¿Y Vima habría que hacer lo mismo o no hace falta?
+
+[62:25] 0: En Vima como todas las semanas, vamos, realmente. Ahí sí que lo haz, porque.
+
+[62:34] 2: No.
+
+[62:34] 0: Te vayas sin hablar con Olat. Es eso mismo.
+
+[62:38] 1: Y al resto vemos que está utilizando, que no está utilizando, por qué no está utilizando, qué problemas tiene, si no. Lo digo para que luego no pase eso, me parece.
+
+[62:47] 0: Si lo hacemos con todos, hay que hacerlo con todos.
+
+[62:50] 1: Hay que protocolizar, si no al final los procesos no funcionan bien.
+
+[62:54] 0: A lo que voy es de que con Vima más o menos de forma.
+
+[62:59] 1: Yo lo sé, pero tiene que ser.
+
+[63:01] 0: Pero sí, si hay que hacerlo, hay que hacerlo con todos igual, porque es.
+
+[63:05] 1: Que si no al final luego pasa esto y es que. ¿Es que yo tenía, pensaba problemas, vale? Porque con los demás, yo más o menos elite, gesteco y los nuevos que vayan entrando por lo mismo, vale, pues.
+
+[63:21] 0: Algo llegar a estabilizar, porque sí que llegará un momento en que ya no tengan tantas dudas, pero hasta que no estabiliz se estabilice la herramienta.
+
+[63:30] 1: Sí, que no haya tantas novedades, sino que sea todo dul tirón. Tú explicas, la gente ya lo va.
+
+[63:34] 0: Utilizando y además son novedades que no son core.
+
+[63:39] 1: Sí no son tan estratégicas, que no.
+
+[63:43] 0: Funcionan llamadas es core, que no funcione WhatsApp es core, que no funcione el mail aún no es core, pero será core.
+
+[63:49] 2: Sí, totalmente.
+
+[63:51] 1: Vale.
+
+[63:54] 0: Básicamente también es hemos tenido la reunión, bueno, correcto, han tenido la reunión esa y han dicho todo el mundo que mal. Pues habré que ver el que, por qué mal.
+
+[64:03] 1: Vale. De todas formas también la gente tiene unos putos horarios de ministrona que te toque con cada una de ellas y son todos a primera hora están tomando el café o están haciendo mierda o no pueden o no trabaja un martes o un miércoles. Madre tío, esto me preocupa. ¿Luego qué hará lo demás? Yo ya tengo la semana pasada de que viene PETA y PETA PETA y por la. Y por las tardes intento quedar con.
+
+[64:27] 2: Ellos, trabajan un problema y las ventas.
+
+[64:32] 0: Por la tarde no se puede.
+
+[64:33] 1: No, la gente no coge, no coge pero radical y no sé qué está pasando ahora que cuesta un huevo, pero bueno, lo intentaré. ¿Pero por ejemplo para hacer las reuniones por las tardes no quieren sabes? Es a primera hora.
+
+[64:53] 0: Pues habrá que ver ahí a ver.
+
+[64:57] 1: Habrá que preguntar, no sé. Y luego también lo que tú dijiste la otra vez es la verdad que con gestico me di cuenta que no saben utilizar Google, solo Teams. Entonces creo que habrá que probar a cambiar con eso, porque son un poco.
+
+[65:12] 0: Y el que mandan son ellos, no tú. Por eso que yo también me digo, si es que si ellos usan Google, usan Teams, nosotros.
+
+[65:19] 1: Por eso, por eso, por eso es lo que les dije, digo, es que no saben ni compartir.
+
+[65:25] 2: Pues eso, que no se nos ha.
+
+[65:28] 0: Nosotros a ellos y no ellos a.
+
+[65:29] 1: Nosotros, no nosotros a ellos.
+
+[65:31] 0: Tú tienes cuenta de Teams, haz las reuniones por el calendario de Teams y ya está.
+
+[65:35] 1: Ya, pero si se lo dice.
+
+[65:42] 0: Bueno, al final son los clientes de los que pagan la nómina.
+
+[65:45] 1: Que sí, que sí, que sí, lo.
+
+[65:46] 2: Sé.
+
+[65:48] 1: Por eso te lo estoy diciendo. ¿Sabes que es lo que yo saqué el otro día de mejora continua?
+
+[65:56] 0: Vale, voy a seguir.
+
+[65:58] 1: Venga, te subimos.
+
+================================================================================
+ARCHIVO GENERADO PARA ANÁLISIS CON COPILOT
+Fecha de conversión: 21/09/2025 14:28:56
+================================================================================
