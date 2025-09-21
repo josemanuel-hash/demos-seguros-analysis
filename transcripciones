@@ -1,0 +1,30 @@
+# Crear repositorio en GitHub
+# 1. Ve a github.com y crea un nuevo repositorio público
+# 2. Llámalo "demos-seguros-analysis"
+
+# En tu Mac, subir los archivos:
+cd ~/fireflies_downloader
+
+# Crear un index.html simple para GitHub Pages
+cat > index.html << 'EOF'
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Demos Seguros - Análisis</title>
+</head>
+<body>
+    <h1>Análisis de Demos - Corredurías de Seguros</h1>
+    <ul>
+        <li><a href="TODAS_LAS_DEMOS_CONSOLIDADO.txt">Archivo Consolidado</a></li>
+        <li><a href="transcripts_txt/">Archivos Individuales</a></li>
+    </ul>
+</body>
+</html>
+EOF
+
+# Inicializar git y subir
+git init
+git add .
+git commit -m "Demos analysis files"
+git remote add origin https://github.com/TU_USUARIO/demos-seguros-analysis.git
+git push -u origin main
